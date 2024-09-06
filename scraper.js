@@ -1,46 +1,82 @@
 import puppeteer from "puppeteer";
 import fs from 'fs/promises';
 
-// Hope & Ruin
-const getHopeRuin = async () => {
+const scrapeSites = async () => {
+  const browser = await puppeteer.launch({
+    headless: false,
+    defaultViewport: null,
+  });
 
-	const browser = await puppeteer.launch({
-	  headless: false,
-	  defaultViewport: null,
-	});
-  
-	const page = await browser.newPage();
-  
-	await page.goto("https://www.hope.pub/events/", {
-	  waitUntil: "domcontentloaded",
-	});
-  
-	const events = await page.evaluate(() => {
+  const allEvents = [];
 
-	  const eventList = document.querySelectorAll(".events-list-alternate__card");
-  
-	  return Array.from(eventList).map((event) => {
-		const title = event.querySelector(".heading-link").innerText;
-		const date  = event.querySelector(".meta--date").innerText;
-		const venue = 'Hope & Ruin';
-		const link  = event.querySelector(".card__button").href;
-  
-		return { title, date, venue, link };
-	  });
-	});
-  
-	// Display the quotes
-	console.log('Hope & Ruin', events );
-  
-	// Close the browser
-	await browser.close();
+  // Hope & Ruin
+  const hopeRuinEvents = await scrapeHopeRuin(browser);
+  allEvents.push(...hopeRuinEvents);
 
-	 // Write the events to a JSON file
-	 await fs.writeFile('events.json', JSON.stringify(events, null, 2));
+  // Green Door Store
+  const greenDoorEvents = await scrapeGreenDoor(browser);
+  allEvents.push(...greenDoorEvents);
 
-	 console.log('Data has been written to events.json');
-  };
+  // Add more scraping functions for other sites here
+
+  await browser.close();
+
+  // Sort all events by date
+  allEvents.sort((a, b) => new Date(a.date) - new Date(b.date));
+
+  // Write all events to a JSON file
+  await fs.writeFile('events.json', JSON.stringify(allEvents, null, 2));
+
+  console.log('Data has been written to events.json');
+};
+
+const scrapeHopeRuin = async (browser) => {
+  const page = await browser.newPage();
+
+  await page.goto("https://www.hope.pub/events/", {
+    waitUntil: "domcontentloaded",
+  });
+
+  const events = await page.evaluate(() => {
+    const eventList = document.querySelectorAll(".events-list-alternate__card");
+
+    return Array.from(eventList).map((event) => {
+      const title = event.querySelector(".heading-link").innerText;
+      const date  = event.querySelector(".meta--date").innerText;
+      const venue = 'Hope & Ruin';
+      const link  = event.querySelector(".card__button").href;
+
+      return { title, date, venue, link };
+    });
+  });
+
+  await page.close();
+  return events;
+};
+
+const scrapeGreenDoor = async (browser) => {
+  const page = await browser.newPage();
+
+  await page.goto("https://thegreendoorstore.co.uk/events/", {
+    waitUntil: "domcontentloaded",
+  });
+
+  const events = await page.evaluate(() => {
+    const eventList = document.querySelectorAll(".event-card");
+
+    return Array.from(eventList).map((event) => {
+      const title = event.querySelector(".event-card__title").innerText;
+      const date  = event.querySelector(".event-card__date").innerText;
+      const venue = 'Green Door Store';
+      const link  = event.querySelector(".event-card__link").href;
+
+      return { title, date, venue, link };
+    });
+  });
+
+  await page.close();
+  return events;
+};
 
 // Start the scraping
-
-getHopeRuin();
+scrapeSites();
