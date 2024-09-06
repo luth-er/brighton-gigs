@@ -30,6 +30,7 @@ const scrapeSites = async () => {
   console.log('Data has been written to events.json');
 };
 
+// Hope & Ruin Scraper
 const scrapeHopeRuin = async (browser) => {
   const page = await browser.newPage();
 
@@ -54,6 +55,7 @@ const scrapeHopeRuin = async (browser) => {
   return events;
 };
 
+// Green Door Store Scraper
 const scrapeGreenDoor = async (browser) => {
   const page = await browser.newPage();
 
