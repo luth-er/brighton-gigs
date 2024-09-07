@@ -1,11 +1,5 @@
 [
   {
-    "title": "H&R Presents: Nil By Habit + Watching Alice + Burnt Lung",
-    "date": "6TH SEPTEMBER 2024 - 8:00 PM",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hr-presents-nil-by-habit-watching-alice-burnt-lung/"
-  },
-  {
     "title": "Martha *SOLD OUT*",
     "date": "7TH SEPTEMBER 2024 - 7:30 PM",
     "venue": "Hope & Ruin",
@@ -228,16 +222,16 @@
     "link": "https://www.hope.pub/event/jon-byrd-amelia-white-greetings-from-nashville/"
   },
   {
-    "title": "Sport + H_ngm_n + Brutalligators + Had Sandy",
-    "date": "28TH OCTOBER 2024 - 7:30 PM",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/sport-guests/"
-  },
-  {
     "title": "Sport + h_ngm_n + Brutalligators + Had Sandy",
     "date": "28TH OCTOBER 2024 - 7:30 PM",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/sport-guests-2/"
+  },
+  {
+    "title": "Sport + H_ngm_n + Brutalligators + Had Sandy",
+    "date": "28TH OCTOBER 2024 - 7:30 PM",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/sport-guests/"
   },
   {
     "title": "Freak Heat Waves",
@@ -396,12 +390,6 @@
     "link": "https://www.hope.pub/event/the-hooten-hallers-support/"
   },
   {
-    "title": "Magda",
-    "date": "Fri, 6 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/magda/"
-  },
-  {
     "title": "90s vs 00s",
     "date": "Fri, 6 Sep 2024",
     "venue": "Green Door Store",
@@ -466,5 +454,11 @@
     "date": "Tue, 17 Sep 2024",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/bimm-freshers-slag-fire-escape-more/"
+  },
+  {
+    "title": "Molly Thorne",
+    "date": "Wed, 18 Sep 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/molly-thorne/"
   }
 ]
