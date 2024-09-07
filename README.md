@@ -4,6 +4,8 @@
 
 This project is a web scraper and static website generator that aggregates and displays upcoming music events in Brighton, UK. It automatically scrapes event data from various venue websites, compiles the information into a JSON file, and generates a static HTML page to display the events. The project uses GitHub Actions for automated daily updates and GitHub Pages for hosting.
 
+[https://luth-er.github.io/brighton-gigs/](https://luth-er.github.io/brighton-gigs/)
+
 ## Features
 
 - Scrapes event data from multiple Brighton music venues
