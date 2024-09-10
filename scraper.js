@@ -1,25 +1,17 @@
-import puppeteer from "puppeteer";
+import axios from 'axios';
+import cheerio from 'cheerio';
 import fs from 'fs/promises';
 
 const scrapeSites = async () => {
-  const browser = await puppeteer.launch({
-    headless: false,
-    defaultViewport: null,
-  });
-
   const allEvents = [];
 
   // Hope & Ruin
-  const hopeRuinEvents = await scrapeHopeRuin(browser);
+  const hopeRuinEvents = await scrapeHopeRuin();
   allEvents.push(...hopeRuinEvents);
 
   // Green Door Store
-  const greenDoorEvents = await scrapeGreenDoor(browser);
+  const greenDoorEvents = await scrapeGreenDoor();
   allEvents.push(...greenDoorEvents);
-
-  // Add more scraping functions for other sites here
-
-  await browser.close();
 
   // Sort all events by date
   allEvents.sort((a, b) => new Date(a.date) - new Date(b.date));
@@ -30,54 +22,34 @@ const scrapeSites = async () => {
   console.log('Data has been written to events.json');
 };
 
-// Hope & Ruin Scraper
-const scrapeHopeRuin = async (browser) => {
-  const page = await browser.newPage();
+const scrapeHopeRuin = async () => {
+  const url = "https://www.hope.pub/events/";
+  const { data } = await axios.get(url);
+  const $ = cheerio.load(data);
 
-  await page.goto("https://www.hope.pub/events/", {
-    waitUntil: "domcontentloaded",
-  });
+  return $('.events-list-alternate__card').map((_, element) => {
+    const title = $(element).find(".heading-link").text().trim();
+    const date = $(element).find(".meta--date").text().trim();
+    const venue = 'Hope & Ruin';
+    const link = $(element).find(".card__button").attr('href');
 
-  const events = await page.evaluate(() => {
-    const eventList = document.querySelectorAll(".events-list-alternate__card");
-
-    return Array.from(eventList).map((event) => {
-      const title = event.querySelector(".heading-link").innerText;
-      const date  = event.querySelector(".meta--date").innerText;
-      const venue = 'Hope & Ruin';
-      const link  = event.querySelector(".card__button").href;
-
-      return { title, date, venue, link };
-    });
-  });
-
-  await page.close();
-  return events;
+    return { title, date, venue, link };
+  }).get();
 };
 
-// Green Door Store Scraper
-const scrapeGreenDoor = async (browser) => {
-  const page = await browser.newPage();
+const scrapeGreenDoor = async () => {
+  const url = "https://thegreendoorstore.co.uk/events/";
+  const { data } = await axios.get(url);
+  const $ = cheerio.load(data);
 
-  await page.goto("https://thegreendoorstore.co.uk/events/", {
-    waitUntil: "domcontentloaded",
-  });
+  return $('.event-card').map((_, element) => {
+    const title = $(element).find(".event-card__title").text().trim();
+    const date = $(element).find(".event-card__date").text().trim();
+    const venue = 'Green Door Store';
+    const link = $(element).find(".event-card__link").attr('href');
 
-  const events = await page.evaluate(() => {
-    const eventList = document.querySelectorAll(".event-card");
-
-    return Array.from(eventList).map((event) => {
-      const title = event.querySelector(".event-card__title").innerText;
-      const date  = event.querySelector(".event-card__date").innerText;
-      const venue = 'Green Door Store';
-      const link  = event.querySelector(".event-card__link").href;
-
-      return { title, date, venue, link };
-    });
-  });
-
-  await page.close();
-  return events;
+    return { title, date, venue, link };
+  }).get();
 };
 
 // Start the scraping

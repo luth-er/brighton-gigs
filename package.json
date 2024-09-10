@@ -1,19 +1,14 @@
 {
-  "name": "first-puppeteer-scraper-example",
+  "name": "brighton-gigs-scraper",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Web scraper for Brighton gig listings",
+  "main": "scraper.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node scraper.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "node-fetch": "^3.3.2",
-    "puppeteer": "^23.1.1"
-  },
-  "type": "module",
-  "types": "module"
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0-rc.12"
+  }
 }
