@@ -3,18 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Upcoming Brighton Gigs</title>
+    <title>Brighton Music Events</title>
     <style>
         body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
-        h1 { color: #333; }
+        h1, h2 { color: #333; }
         ul { list-style-type: none; padding: 0; }
-        li { margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 20px; border-bottom: 3px solid #000; }
+        li { margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
         a { color: #0066cc; text-decoration: none; }
         a:hover { text-decoration: underline; }
+        .formatted-date { color: #666; font-size: 0.9em; }
     </style>
 </head>
 <body>
-    <h1>Upcoming Brighton Gigs</h1>
+    <h1>Brighton Music Events</h1>
     <div id="events-list"></div>
 
     <script>
@@ -22,17 +23,43 @@
             .then(response => response.json())
             .then(events => {
                 const eventsList = document.getElementById('events-list');
-                const eventsHTML = events.map(event => `
-                    <li>
-                        <h2>${event.title}</h2>
-                        <p>Date: ${event.date}</p>
-                        <p>Venue: ${event.venue}</p>
-                        <a href="${event.link}" target="_blank">More Info</a>
-                    </li>
-                `).join('');
-                eventsList.innerHTML = `<ul>${eventsHTML}</ul>`;
+                const groupedEvents = events.reduce((acc, event) => {
+                    (acc[event.venue] = acc[event.venue] || []).push(event);
+                    return acc;
+                }, {});
+                
+                let eventsHTML = '';
+                for (const [venue, venueEvents] of Object.entries(groupedEvents)) {
+                    eventsHTML += `
+                        <h2>${venue}</h2>
+                        <ul>
+                            ${venueEvents.map(event => `
+                                <li>
+                                    <h3>${event.title}</h3>
+                                    <p>Date: ${event.date}</p>
+                                    <p class="formatted-date">Formatted Date: ${formatDate(event.date)}</p>
+                                    <a href="${event.link}" target="_blank">More Info</a>
+                                </li>
+                            `).join('')}
+                        </ul>
+                    `;
+                }
+                eventsList.innerHTML = eventsHTML;
             })
             .catch(error => console.error('Error:', error));
+
+        function formatDate(dateString) {
+            const date = new Date(dateString);
+            if (isNaN(date.getTime())) {
+                return 'Invalid Date';
+            }
+            return date.toLocaleDateString('en-GB', { 
+                weekday: 'long', 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric' 
+            });
+        }
     </script>
 </body>
 </html>
