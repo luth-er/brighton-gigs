@@ -2,41 +2,6 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 import fs from 'fs/promises';
 
-function formatDate(dateString) {
-	let date;
-	
-	// Try parsing the first format: "13th September 2024 - 8:00 pm"
-	if (dateString.includes('-')) {
-	  const [datePart, timePart] = dateString.split('-').map(s => s.trim());
-	  const [day, month, year] = datePart.split(' ');
-	  const time = timePart.toLowerCase();
-	  date = new Date(`${day.replace(/\D/g,'')} ${month} ${year} ${time}`);
-	} 
-	// Try parsing the second format: "Sun, 22 Sep 2024"
-	else {
-	  date = new Date(dateString);
-	}
-  
-	// Check if the date is valid
-	if (isNaN(date.getTime())) {
-	  console.warn(`Unable to parse date: ${dateString}`);
-	  return dateString; // Return original string if parsing fails
-	}
-  
-	// Format the date
-	const options = { 
-	  weekday: 'short', 
-	  year: 'numeric', 
-	  month: 'short', 
-	  day: 'numeric',
-	  hour: '2-digit',
-	  minute: '2-digit',
-	  hour12: true
-	};
-  
-	return date.toLocaleString('en-GB', options);
-  }
-
 const scrapeSites = async () => {
   const allEvents = [];
 
