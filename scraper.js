@@ -22,23 +22,6 @@ const scrapeSites = async () => {
   console.log('Data has been written to events.json');
 };
 
-const parseDate = (dateString) => {
-	let parsedDate;
-  
-	// Try parsing Hope & Ruin format
-	parsedDate = parse(dateString, 'do MMMM yyyy - h:mm a', new Date());
-
-	if (!isNaN(parsedDate)) return format(parsedDate, 'yyyy-MM-dd');
-  
-	// Try parsing Green Door Store format
-	parsedDate = parse(dateString, 'EEE, d MMM yyyy', new Date());
-	if (!isNaN(parsedDate)) return format(parsedDate, 'yyyy-MM-dd');
-  
-	// If none of the above worked, return the original string
-	console.warn(`Unable to parse date: ${dateString}`);
-	return dateString;
-  };
-
 const scrapeHopeRuin = async () => {
   const url = "https://www.hope.pub/events/";
   const { data } = await axios.get(url);
