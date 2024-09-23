@@ -1,23 +1,5 @@
 [
   {
-    "title": "Interlaker",
-    "date": "20th September 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/interlaker/"
-  },
-  {
-    "title": "Other Half + Support",
-    "date": "21st September 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/other-half-support-2/"
-  },
-  {
-    "title": "Jungfrau + Map 71 + Holy Clang",
-    "date": "22nd September 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/jungfrau-map-71-holy-clang/"
-  },
-  {
     "title": "Eades",
     "date": "24th September 2024 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -120,7 +102,7 @@
     "link": "https://www.hope.pub/event/video-age/"
   },
   {
-    "title": "Freya Beer + Everyday Saints",
+    "title": "Freya Beer + Everyday Saints + Party In The Valley",
     "date": "13th October 2024 - 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/freya-beer-everyday-saints/"
@@ -402,30 +384,6 @@
     "link": "https://www.hope.pub/event/the-hooten-hallers-support/"
   },
   {
-    "title": "Blazed & Confused- Debauched Sounds of the 60s/70s",
-    "date": "Fri, 20 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/blazed-confused-debauched-sounds-of-the-60s-70s/"
-  },
-  {
-    "title": "Slag- single launch party!",
-    "date": "Sat, 21 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/slag-single-launch-party/"
-  },
-  {
-    "title": "It Is Still 1985",
-    "date": "Sat, 21 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-9/"
-  },
-  {
-    "title": "Trans Medical Fundraiser",
-    "date": "Sun, 22 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/trans-medical-fundraiser/"
-  },
-  {
     "title": "Rottweiler",
     "date": "Mon, 23 Sep 2024",
     "venue": "Green Door Store",
@@ -472,5 +430,29 @@
     "date": "Sat, 28 Sep 2024",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-10/"
+  },
+  {
+    "title": "234 Fest 2024",
+    "date": "Sun, 29 Sep 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/234-fest-2024-2/"
+  },
+  {
+    "title": "The Wrong Trousers",
+    "date": "Tue, 1 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-wrong-trousers/"
+  },
+  {
+    "title": "Baby Gem",
+    "date": "Wed, 2 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/baby-gem/"
+  },
+  {
+    "title": "Rum Jungle",
+    "date": "Thu, 3 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/rum-jungle/"
   }
 ]
