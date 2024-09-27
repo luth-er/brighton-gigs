@@ -1,23 +1,5 @@
 [
   {
-    "title": "Eades",
-    "date": "24th September 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/eades-2/"
-  },
-  {
-    "title": "Knox Hill Album Release Show *SOLD OUT*",
-    "date": "25th September 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/knox-hill-album-release-show/"
-  },
-  {
-    "title": "Buzzard Buzzard Buzzard",
-    "date": "26th September 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/buzzard-buzzard-buzzard/"
-  },
-  {
     "title": "Carsick",
     "date": "27th September 2024 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -60,6 +42,12 @@
     "link": "https://www.hope.pub/event/kevin-garrett/"
   },
   {
+    "title": "This Feeling – Beatroot, Not Right Here, Charm Type",
+    "date": "5th October 2024 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/this-feeling-beatroot-not-right-here-charm-type/"
+  },
+  {
     "title": "Loose Articles",
     "date": "6th October 2024 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -96,6 +84,12 @@
     "link": "https://www.hope.pub/event/nagasaki-dog-slag-modessa-arcadia-residential/"
   },
   {
+    "title": "SLAG + ARCADIA RESIDENTIAL + GUTTERFLY + MODESSA",
+    "date": "11th October 2024 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/slag-arcadia-residential-gutterfly-modessa/"
+  },
+  {
     "title": "Video Age",
     "date": "12th October 2024 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -114,16 +108,16 @@
     "link": "https://www.hope.pub/event/sarah-halgan/"
   },
   {
-    "title": "Bad Luck Live: Deadly Synths + Rottweiler + Artemisia + AFLO",
-    "date": "15th October 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/bad-luck-live-deadly-synths-rottweiler-artemisia-aflo/"
-  },
-  {
     "title": "Bad Luck Live",
     "date": "15th October 2024 - 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/bad-luck-live/"
+  },
+  {
+    "title": "Bad Luck Live: Deadly Synths + Rottweiler + Artemisia + AFLO",
+    "date": "15th October 2024 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/bad-luck-live-deadly-synths-rottweiler-artemisia-aflo/"
   },
   {
     "title": "HH Presents: Mewn + Van Zon + Salomé Wu + Woody Green",
@@ -184,6 +178,12 @@
     "date": "25th October 2024 - 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/halloween-headbanger-subdued-malignant-order-hellish-torment-skintern-first-show/"
+  },
+  {
+    "title": "HOT VOX Presents: Comforts // Mantarray // Maximilian + More",
+    "date": "26th October 2024 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hot-vox-presents-comforts-mantarray-maximilian-more/"
   },
   {
     "title": "Jon Byrd & Amelia White: Greetings from Nashville",
@@ -372,40 +372,34 @@
     "link": "https://www.hope.pub/event/half-happy/"
   },
   {
+    "title": "Cupboard Music House Party",
+    "date": "14th December 2024 - 1:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/cupboard-music-house-party/"
+  },
+  {
     "title": "Cult Figures + Fractured",
     "date": "21st December 2024 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/cult-figures-fractured/"
   },
   {
+    "title": "Belako + Support",
+    "date": "23rd January 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/belako-support/"
+  },
+  {
+    "title": "Belako",
+    "date": "23rd January 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/belako/"
+  },
+  {
     "title": "The Hooten Hallers + Support",
     "date": "15th March 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-hooten-hallers-support/"
-  },
-  {
-    "title": "Rottweiler",
-    "date": "Mon, 23 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/rottweiler/"
-  },
-  {
-    "title": "Polite Bureaux",
-    "date": "Tue, 24 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/polite-bureaux/"
-  },
-  {
-    "title": "Moon Idle",
-    "date": "Wed, 25 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/moon-idle/"
-  },
-  {
-    "title": "*SOLD OUT* Mermaid Chunky",
-    "date": "Thu, 26 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/mermaid-chunky/"
   },
   {
     "title": "Pictish Trail",
@@ -454,5 +448,29 @@
     "date": "Thu, 3 Oct 2024",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/rum-jungle/"
+  },
+  {
+    "title": "90s Vs 00s",
+    "date": "Fri, 4 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s/"
+  },
+  {
+    "title": "Outback",
+    "date": "Sat, 5 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/outback/"
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 5 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985/"
+  },
+  {
+    "title": "Splitting The Atom LXX- experimental/free/noise all-dayer",
+    "date": "Sun, 6 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/splitting-the-atom-lxx-experimental-free-noise-all-dayer/"
   }
 ]
