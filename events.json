@@ -1,23 +1,5 @@
 [
   {
-    "title": "Carsick",
-    "date": "27th September 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/carsick/"
-  },
-  {
-    "title": "Acid Klaus",
-    "date": "28th September 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/acid-klaus/"
-  },
-  {
-    "title": "The Mystery Lights + Support",
-    "date": "30th September 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-mystery-lights-support/"
-  },
-  {
     "title": "MALEVICH / CHEWING GLASS COLLECTIVE / HEALING WOUND / BELIEVE IN NOTHING",
     "date": "1st October 2024 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -402,36 +384,6 @@
     "link": "https://www.hope.pub/event/the-hooten-hallers-support/"
   },
   {
-    "title": "Pictish Trail",
-    "date": "Fri, 27 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/pictish-trail/"
-  },
-  {
-    "title": "that’s f***ing rubbish- the strokes vs sugababes",
-    "date": "Fri, 27 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-2/"
-  },
-  {
-    "title": "234 Fest 2024",
-    "date": "Sat, 28 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/234-fest-2024/"
-  },
-  {
-    "title": "It Is Still 1985",
-    "date": "Sat, 28 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-10/"
-  },
-  {
-    "title": "234 Fest 2024",
-    "date": "Sun, 29 Sep 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/234-fest-2024-2/"
-  },
-  {
     "title": "The Wrong Trousers",
     "date": "Tue, 1 Oct 2024",
     "venue": "Green Door Store",
@@ -472,5 +424,35 @@
     "date": "Sun, 6 Oct 2024",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/splitting-the-atom-lxx-experimental-free-noise-all-dayer/"
+  },
+  {
+    "title": "Borough Council",
+    "date": "Tue, 8 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/borough-council/"
+  },
+  {
+    "title": "Leibniz- EP launch show!",
+    "date": "Fri, 11 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/leibniz-single-release-show/"
+  },
+  {
+    "title": "i f***ing h8 clubbing- 2nd birthday party yooooooo",
+    "date": "Fri, 11 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-2nd-birthday-party-yooooooo/"
+  },
+  {
+    "title": "Krooked Tongue",
+    "date": "Sat, 12 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/krooked-tongue/"
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 12 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/"
   }
 ]
