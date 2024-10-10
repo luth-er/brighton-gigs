@@ -19,45 +19,49 @@
 		<div id="events-list"></div>
 
 		<script>
+			// Import required functions from date-fns if not already imported
+			import { parse, format, isValid } from 'date-fns';
+			
 			function formatDate(dateString) {
-				const date = new Date(dateString);
-				if (isNaN(date.getTime())) {
+				const parsedDate = parseDate(dateString);
+				if (parsedDate === dateString) {
 					return dateString; // Return original string if parsing fails
 				}
-				return date.toLocaleDateString('en-GB', { 
-					weekday: 'long', 
-					year: 'numeric', 
-					month: 'long', 
-					day: 'numeric',
-					hour: 'numeric',
-					minute: 'numeric'
-				});
+				return format(parsedDate, 'dd-MM-yyyy');
 			}
-
-			const parseDate = (dateString) => {
-				let parsedDate;
 			
-				// Try parsing Hope & Ruin format
-				parsedDate = parse(dateString, 'do MMMM yyyy - h:mm a', new Date());
-
-				if (!isNaN(parsedDate)) return format(parsedDate, 'yyyy-MM-dd');
+			function parseDate(dateString) {
+				const formats = [
+					'do MMMM yyyy - HH:mm', // Hope & Ruin format
+					'EEE, d MMM yyyy', // Green Door Store format
+					'yyyy-MM-dd', // ISO format
+					'dd/MM/yyyy', // Common UK format
+					'MM/dd/yyyy', // Common US format
+					'MMMM d, yyyy', // Full month name format
+				];
 			
-				// Try parsing Green Door Store format
-				parsedDate = parse(dateString, 'EEE, d MMM yyyy', new Date());
-				if (!isNaN(parsedDate)) return format(parsedDate, 'yyyy-MM-dd');
+				for (const formatString of formats) {
+					const parsedDate = parse(dateString, formatString, new Date());
+					if (isValid(parsedDate)) {
+						return parsedDate;
+					}
+				}
 			
-				// If none of the above worked, return the original string
 				console.warn(`Unable to parse date: ${dateString}`);
 				return dateString;
-			};
-
+			}
+			
 			fetch('events.json')
 				.then(response => response.json())
 				.then(events => {
 					const eventsList = document.getElementById('events-list');
 					
 					// Sort events by date
-					events.sort((a, b) => new Date(a.date) - new Date(b.date));
+					events.sort((a, b) => {
+						const dateA = parseDate(a.date);
+						const dateB = parseDate(b.date);
+						return dateA - dateB;
+					});
 					
 					let eventsHTML = '<ul>';
 					events.forEach(event => {
@@ -75,6 +79,7 @@
 					eventsList.innerHTML = eventsHTML;
 				})
 				.catch(error => console.error('Error:', error));
-		</script>
+			</script>
+			
 	</body>
 </html>
