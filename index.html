@@ -14,7 +14,6 @@
 			.venue { color: #666; font-style: italic; }
 			#debug { background-color: #f0f0f0; padding: 10px; margin-top: 20px; }
 		</style>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/date-fns/2.30.0/date-fns.min.js"></script>
 	</head>
 	<body>
 		<h1>Brighton Music Events</h1>
@@ -22,43 +21,40 @@
 		<div id="debug"></div>
 
 		<script>
-			// Check if date-fns is loaded
-			if (typeof dateFns === 'undefined') {
-				console.error('date-fns library not loaded');
-				document.getElementById('debug').innerHTML += '<p>Error: date-fns library not loaded</p>';
-			}
-
 			function formatDate(dateString) {
-				const parsedDate = parseDate(dateString);
-				if (parsedDate instanceof Date && !isNaN(parsedDate)) {
-					return dateFns.format(parsedDate, 'dd-MM-yyyy');
+				const date = parseDate(dateString);
+				if (date instanceof Date && !isNaN(date)) {
+					return `${padZero(date.getDate())}-${padZero(date.getMonth() + 1)}-${date.getFullYear()}`;
 				}
 				return dateString; // Return original string if parsing fails
 			}
+
+			function padZero(num) {
+				return num.toString().padStart(2, '0');
+			}
 			
 			function parseDate(dateString) {
-				const formats = [
-					'do MMMM yyyy - h:mm a', // Hope & Ruin format
-					'EEE, d MMM yyyy', // Green Door Store format
-					'yyyy-MM-dd',
-					'dd/MM/yyyy',
-					'MM/dd/yyyy',
-					'MMMM d, yyyy'
-				];
-			
-				for (const formatString of formats) {
-					try {
-						const parsedDate = dateFns.parse(dateString, formatString, new Date());
-						if (dateFns.isValid(parsedDate)) {
-							return parsedDate;
-						}
-					} catch (error) {
-						console.warn(`Error parsing date "${dateString}" with format "${formatString}":`, error);
-					}
+				// Try parsing Hope & Ruin format: "15th March 2025 - 8:00 pm"
+				let match = dateString.match(/(\d{1,2})(st|nd|rd|th)\s+(\w+)\s+(\d{4})/);
+				if (match) {
+					const [, day, , month, year] = match;
+					return new Date(year, getMonthIndex(month), day);
 				}
-			
-				console.warn(`Unable to parse date: ${dateString}`);
-				return new Date(dateString); // Fallback to built-in parsing
+
+				// Try parsing Green Door Store format: "Thu, 10 Oct 2024"
+				match = dateString.match(/\w+,\s+(\d{1,2})\s+(\w+)\s+(\d{4})/);
+				if (match) {
+					const [, day, month, year] = match;
+					return new Date(year, getMonthIndex(month), day);
+				}
+
+				// Fallback to built-in parsing
+				return new Date(dateString);
+			}
+
+			function getMonthIndex(monthName) {
+				const months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
+				return months.indexOf(monthName.toLowerCase());
 			}
 			
 			fetch('events.json')
@@ -77,11 +73,7 @@
 					debugElement.innerHTML += `<p>Number of events: ${events.length}</p>`;
 					
 					// Sort events by date
-					events.sort((a, b) => {
-						const dateA = parseDate(a.date);
-						const dateB = parseDate(b.date);
-						return dateA - dateB;
-					});
+					events.sort((a, b) => parseDate(a.date) - parseDate(b.date));
 					
 					let eventsHTML = '<ul>';
 					events.forEach(event => {
