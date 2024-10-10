@@ -1,82 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brighton Music Events</title>
-    <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
-        h1 { color: #333; }
-        ul { list-style-type: none; padding: 0; }
-        li { margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
-        a { color: #0066cc; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        .venue { color: #666; font-style: italic; }
-    </style>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/date-fns/2.29.3/date-fns.min.js"></script>
-</head>
-<body>
-    <h1>Brighton Music Events</h1>
-    <div id="events-list"></div>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Brighton Music Events</title>
+		<style>
+			body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+			h1 { color: #333; }
+			ul { list-style-type: none; padding: 0; }
+			li { margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+			a { color: #0066cc; text-decoration: none; }
+			a:hover { text-decoration: underline; }
+			.venue { color: #666; font-style: italic; }
+		</style>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/date-fns/2.29.3/date-fns.min.js"></script>
+	</head>
+	<body>
+		<h1>Brighton Music Events</h1>
+		<div id="events-list"></div>
 
-    <script>
-        function formatDate(dateString) {
-            const parsedDate = parseDate(dateString);
-            if (parsedDate === dateString) {
-                return dateString; // Return original string if parsing fails
-            }
-            return dateFns.format(parsedDate, 'dd-MM-yyyy');
-        }
-
-        function parseDate(dateString) {
-            const formats = [
-                'do MMMM yyyy - HH:mm', // Hope & Ruin format
-                'EEE, d MMM yyyy', // Green Door Store format
-                'yyyy-MM-dd', // ISO format
-                'dd/MM/yyyy', // Common UK format
-                'MM/dd/yyyy', // Common US format
-                'MMMM d, yyyy', // Full month name format
-            ];
-
-            for (const formatString of formats) {
-                const parsedDate = dateFns.parse(dateString, formatString, new Date());
-                if (dateFns.isValid(parsedDate)) {
-                    return parsedDate;
-                }
-            }
-
-            console.warn(`Unable to parse date: ${dateString}`);
-            return dateString;
-        }
-
-        fetch('events.json')
-            .then(response => response.json())
-            .then(events => {
-                const eventsList = document.getElementById('events-list');
-                
-                // Sort events by date
-                events.sort((a, b) => {
-                    const dateA = parseDate(a.date);
-                    const dateB = parseDate(b.date);
-                    return dateA - dateB;
-                });
-                
-                let eventsHTML = '<ul>';
-                events.forEach(event => {
-                    eventsHTML += `
-                        <li>
-                            <h2>${event.title}</h2>
-                            <p>Date: ${formatDate(event.date)}</p>
-                            <p class="venue">Venue: ${event.venue}</p>
-                            <a href="${event.link}" target="_blank">More Info</a>
-                        </li>
-                    `;
-                });
-                eventsHTML += '</ul>';
-                
-                eventsList.innerHTML = eventsHTML;
-            })
-            .catch(error => console.error('Error:', error));
-    </script>
-</body>
+		<script>
+			function formatDate(dateString) {
+				const parsedDate = parseDate(dateString);
+				if (parsedDate === dateString) {
+					return dateString; // Return original string if parsing fails
+				}
+				return dateFns.format(parsedDate, 'dd-MM-yyyy');
+			}
+			
+			function parseDate(dateString) {
+				const formats = [
+					'do MMMM yyyy - HH:mm', // Hope & Ruin format
+					'EEE, d MMM yyyy', // Green Door Store format
+					'yyyy-MM-dd', // ISO format
+					'dd/MM/yyyy', // Common UK format
+					'MM/dd/yyyy', // Common US format
+					'MMMM d, yyyy', // Full month name format
+				];
+			
+				for (const formatString of formats) {
+					const parsedDate = dateFns.parse(dateString, formatString, new Date());
+					if (dateFns.isValid(parsedDate)) {
+						return parsedDate;
+					}
+				}
+			
+				console.warn(`Unable to parse date: ${dateString}`);
+				return dateString;
+			}
+			
+			fetch('events.json')
+				.then(response => response.json())
+				.then(events => {
+					const eventsList = document.getElementById('events-list');
+					
+					// Sort events by date
+					events.sort((a, b) => {
+						const dateA = parseDate(a.date);
+						const dateB = parseDate(b.date);
+						return dateA - dateB;
+					});
+					
+					let eventsHTML = '<ul>';
+					events.forEach(event => {
+						eventsHTML += `
+							<li>
+								<h2>${event.title}</h2>
+								<p>Date: ${formatDate(event.date)}</p>
+								<p class="venue">Venue: ${event.venue}</p>
+								<a href="${event.link}" target="_blank">More Info</a>
+							</li>
+						`;
+					});
+					eventsHTML += '</ul>';
+					
+					eventsList.innerHTML = eventsHTML;
+				})
+				.catch(error => console.error('Error:', error));
+		</script>
+	</body>
 </html>
