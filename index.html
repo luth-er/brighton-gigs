@@ -22,20 +22,20 @@
 		<script>
 			function formatDate(dateString) {
 				const parsedDate = parseDate(dateString);
-				if (parsedDate === dateString) {
-					return dateString; // Return original string if parsing fails
+				if (parsedDate instanceof Date && !isNaN(parsedDate)) {
+					return dateFns.format(parsedDate, 'dd-MM-yyyy');
 				}
-				return dateFns.format(parsedDate, 'dd-MM-yyyy');
+				return dateString; // Return original string if parsing fails
 			}
 			
 			function parseDate(dateString) {
 				const formats = [
-					'do MMMM yyyy - HH:mm', // Hope & Ruin format
+					'do MMMM yyyy - h:mm a', // Hope & Ruin format
 					'EEE, d MMM yyyy', // Green Door Store format
-					'yyyy-MM-dd', // ISO format
-					'dd/MM/yyyy', // Common UK format
-					'MM/dd/yyyy', // Common US format
-					'MMMM d, yyyy', // Full month name format
+					'yyyy-MM-dd',
+					'dd/MM/yyyy',
+					'MM/dd/yyyy',
+					'MMMM d, yyyy'
 				];
 			
 				for (const formatString of formats) {
@@ -46,7 +46,7 @@
 				}
 			
 				console.warn(`Unable to parse date: ${dateString}`);
-				return dateString;
+				return new Date(dateString); // Fallback to built-in parsing
 			}
 			
 			fetch('events.json')
