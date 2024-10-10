@@ -12,14 +12,22 @@
 			a { color: #0066cc; text-decoration: none; }
 			a:hover { text-decoration: underline; }
 			.venue { color: #666; font-style: italic; }
+			#debug { background-color: #f0f0f0; padding: 10px; margin-top: 20px; }
 		</style>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/date-fns/2.29.3/date-fns.min.js"></script>
 	</head>
 	<body>
 		<h1>Brighton Music Events</h1>
 		<div id="events-list"></div>
+		<div id="debug"></div>
 
 		<script>
+			// Check if date-fns is loaded
+			if (typeof dateFns === 'undefined') {
+				console.error('date-fns library not loaded');
+				document.getElementById('debug').innerHTML += '<p>Error: date-fns library not loaded</p>';
+			}
+
 			function formatDate(dateString) {
 				const parsedDate = parseDate(dateString);
 				if (parsedDate instanceof Date && !isNaN(parsedDate)) {
@@ -39,9 +47,13 @@
 				];
 			
 				for (const formatString of formats) {
-					const parsedDate = dateFns.parse(dateString, formatString, new Date());
-					if (dateFns.isValid(parsedDate)) {
-						return parsedDate;
+					try {
+						const parsedDate = dateFns.parse(dateString, formatString, new Date());
+						if (dateFns.isValid(parsedDate)) {
+							return parsedDate;
+						}
+					} catch (error) {
+						console.warn(`Error parsing date "${dateString}" with format "${formatString}":`, error);
 					}
 				}
 			
@@ -50,9 +62,19 @@
 			}
 			
 			fetch('events.json')
-				.then(response => response.json())
+				.then(response => {
+					if (!response.ok) {
+						throw new Error(`HTTP error! status: ${response.status}`);
+					}
+					return response.json();
+				})
 				.then(events => {
 					const eventsList = document.getElementById('events-list');
+					const debugElement = document.getElementById('debug');
+					
+					// Debug: Log the number of events
+					console.log(`Number of events: ${events.length}`);
+					debugElement.innerHTML += `<p>Number of events: ${events.length}</p>`;
 					
 					// Sort events by date
 					events.sort((a, b) => {
@@ -71,12 +93,19 @@
 								<a href="${event.link}" target="_blank">More Info</a>
 							</li>
 						`;
+						
+						// Debug: Log each event
+						console.log(event);
+						debugElement.innerHTML += `<p>Event: ${JSON.stringify(event)}</p>`;
 					});
 					eventsHTML += '</ul>';
 					
 					eventsList.innerHTML = eventsHTML;
 				})
-				.catch(error => console.error('Error:', error));
+				.catch(error => {
+					console.error('Error:', error);
+					document.getElementById('debug').innerHTML += `<p>Error: ${error.message}</p>`;
+				});
 		</script>
 	</body>
 </html>
