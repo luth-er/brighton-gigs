@@ -1,47 +1,5 @@
 [
   {
-    "title": "GIFT",
-    "date": "10th October 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/gift/"
-  },
-  {
-    "title": "SLAG + ARCADIA RESIDENTIAL + GUTTERFLY + MODESSA",
-    "date": "11th October 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/slag-arcadia-residential-gutterfly-modessa/"
-  },
-  {
-    "title": "Video Age",
-    "date": "12th October 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/video-age/"
-  },
-  {
-    "title": "Freya Beer + Everyday Saints + Party In The Valley",
-    "date": "13th October 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/freya-beer-everyday-saints/"
-  },
-  {
-    "title": "Sarah Halgan",
-    "date": "14th October 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/sarah-halgan/"
-  },
-  {
-    "title": "Bad Luck Live: Deadly Synths + Rottweiler + Artemisia + AFLO",
-    "date": "15th October 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/bad-luck-live-deadly-synths-rottweiler-artemisia-aflo/"
-  },
-  {
-    "title": "HH Presents: Mewn + Van Zon + Salomé Wu + Woody Green",
-    "date": "16th October 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hh-presents-mewn-van-zon-salome-wu-woody-green/"
-  },
-  {
     "title": "Tribe Of Ghosts ‘CITY’ Album Launch Show",
     "date": "17th October 2024 - 7:45 pm",
     "venue": "Hope & Ruin",
@@ -156,6 +114,12 @@
     "link": "https://www.hope.pub/event/terry-bickers-and-the-inner-spiral-matinee/"
   },
   {
+    "title": "King Street + RAD + Flesh Prison + Mortal Carcass",
+    "date": "3rd November 2024 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/king-street-rad-flesh-prison-mortal-carcass/"
+  },
+  {
     "title": "Loren Kramar",
     "date": "4th November 2024 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -220,6 +184,12 @@
     "date": "16th November 2024 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/bloody-bath-support/"
+  },
+  {
+    "title": "Not Without Punishment + HLYBD + Blood Hex + Exhume + Flesh Prison",
+    "date": "17th November 2024 - 6:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/not-without-punishment-hlybd-blood-hex-exhume-flesh-prison/"
   },
   {
     "title": "COWZ + Room Service + Francis Pig",
@@ -342,10 +312,16 @@
     "link": "https://www.hope.pub/event/belako/"
   },
   {
-    "title": "The Young Knives",
+    "title": "Young Knives + Support",
     "date": "1st February 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-young-knives/"
+  },
+  {
+    "title": "Bon Enfant",
+    "date": "9th February 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/bon-enfant/"
   },
   {
     "title": "The Hooten Hallers + Support",
@@ -354,58 +330,10 @@
     "link": "https://www.hope.pub/event/the-hooten-hallers-support/"
   },
   {
-    "title": "Freddie J Watts & The Hot Rocks EP Launch Show",
-    "date": "Thu, 10 Oct 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/freddie-j-watts-the-hot-rocks-ep-launch-show/"
-  },
-  {
-    "title": "Leibniz- EP launch show!",
-    "date": "Fri, 11 Oct 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/leibniz-single-release-show/"
-  },
-  {
-    "title": "i f***ing h8 clubbing- 2nd birthday party yooooooo",
-    "date": "Fri, 11 Oct 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-2nd-birthday-party-yooooooo/"
-  },
-  {
-    "title": "Krooked Tongue",
-    "date": "Sat, 12 Oct 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/krooked-tongue/"
-  },
-  {
-    "title": "It Is Still 1985",
-    "date": "Sat, 12 Oct 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/"
-  },
-  {
-    "title": "Skating Polly",
-    "date": "Sun, 13 Oct 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/skating-polly/"
-  },
-  {
-    "title": "Amber Burgoyne",
-    "date": "Mon, 14 Oct 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/amber-burgoyne/"
-  },
-  {
-    "title": "Human Leather",
-    "date": "Tue, 15 Oct 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/human-leather/"
-  },
-  {
-    "title": "Humanist",
-    "date": "Wed, 16 Oct 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/humanist/"
+    "title": "Ghost Funk Orchestra",
+    "date": "19th March 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/ghost-funk-orchestra/"
   },
   {
     "title": "Black Market Karma",
@@ -424,5 +352,59 @@
     "date": "Fri, 18 Oct 2024",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/heads-will-roll/"
+  },
+  {
+    "title": "Mabe Fratti *LOW TICKETS*",
+    "date": "Sat, 19 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/mabe-fratti/"
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 19 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-3/"
+  },
+  {
+    "title": "Billiam & The Split Bills",
+    "date": "Sun, 20 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/billiam-the-split-bills/"
+  },
+  {
+    "title": "DROOP",
+    "date": "Mon, 21 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/droop/"
+  },
+  {
+    "title": "NMR: Porchlight",
+    "date": "Tue, 22 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/nmr-porchlight/"
+  },
+  {
+    "title": "Oxomo: ‘Outta The Loop’ Album Launch Party",
+    "date": "Wed, 23 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/oxomo-outta-the-loop-album-launch-party/"
+  },
+  {
+    "title": "Friktion",
+    "date": "Thu, 24 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/friktion/"
+  },
+  {
+    "title": "DZ Deathrays *LOW TICKETS*",
+    "date": "Fri, 25 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/dz-deathrays/"
+  },
+  {
+    "title": "that’s f***ing rubbish: sabrina carpenter vs slowdive",
+    "date": "Fri, 25 Oct 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish/"
   }
 ]
