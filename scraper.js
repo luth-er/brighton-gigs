@@ -41,7 +41,12 @@ const scrapeSites = async () => {
   allEvents.push(...greenDoorEvents);
 
   // Sort all events by date
-  allEvents.sort((a, b) => a.dateUnix - b.dateUnix);
+  allEvents.sort((a, b) => {
+    if (a.dateUnix === null && b.dateUnix === null) return 0;
+    if (a.dateUnix === null) return 1;
+    if (b.dateUnix === null) return -1;
+    return a.dateUnix - b.dateUnix;
+  });
 
   // Write all events to a JSON file
   await fs.writeFile('events.json', JSON.stringify(allEvents, null, 2));
@@ -59,7 +64,14 @@ const scrapeHopeRuin = async () => {
     const date = $(element).find(".meta--date").text().trim();
     const venue = 'Hope & Ruin';
     const link = $(element).find(".card__button").attr('href');
-    const dateUnix = parseHopeDate(date); // Convert date to Unix timestamp
+
+    let dateUnix;
+    try {
+      dateUnix = parseHopeDate(date); // Convert date to Unix timestamp
+    } catch (error) {
+      console.error(`Error parsing date for event "${title}": ${error.message}`);
+      dateUnix = null;
+    }
 
     return { title, date, venue, link, dateUnix };
   }).get();
@@ -75,7 +87,14 @@ const scrapeGreenDoor = async () => {
     const date = $(element).find(".event-card__date").text().trim();
     const venue = 'Green Door Store';
     const link = $(element).find(".event-card__link").attr('href');
-    const dateUnix = parseGDSDate(date); // Convert date to Unix timestamp
+
+    let dateUnix;
+    try {
+      dateUnix = parseGDSDate(date); // Convert date to Unix timestamp
+    } catch (error) {
+      console.error(`Error parsing date for event "${title}": ${error.message}`);
+      dateUnix = null;
+    }
 
     return { title, date, venue, link, dateUnix };
   }).get();
