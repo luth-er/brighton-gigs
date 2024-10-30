@@ -21,42 +21,7 @@
 		<div id="debug"></div>
 
 		<script>
-			function formatDate(dateString) {
-				const date = parseDate(dateString);
-				if (date instanceof Date && !isNaN(date)) {
-					return `${padZero(date.getDate())}-${padZero(date.getMonth() + 1)}-${date.getFullYear()}`;
-				}
-				return dateString; // Return original string if parsing fails
-			}
-
-			function padZero(num) {
-				return num.toString().padStart(2, '0');
-			}
-			
-			function parseDate(dateString) {
-				// Try parsing Hope & Ruin format: "15th March 2025 - 8:00 pm"
-				let match = dateString.match(/(\d{1,2})(st|nd|rd|th)\s+(\w+)\s+(\d{4})/);
-				if (match) {
-					const [, day, , month, year] = match;
-					return new Date(year, getMonthIndex(month), day);
-				}
-
-				// Try parsing Green Door Store format: "Thu, 10 Oct 2024"
-				match = dateString.match(/\w+,\s+(\d{1,2})\s+(\w+)\s+(\d{4})/);
-				if (match) {
-					const [, day, month, year] = match;
-					return new Date(year, getMonthIndex(month), day);
-				}
-
-				// Fallback to built-in parsing
-				return new Date(dateString);
-			}
-
-			function getMonthIndex(monthName) {
-				const months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
-				return months.indexOf(monthName.toLowerCase());
-			}
-			
+			// Fetch events from JSON file. 
 			fetch('events.json')
 				.then(response => {
 					if (!response.ok) {
@@ -73,14 +38,14 @@
 					debugElement.innerHTML += `<p>Number of events: ${events.length}</p>`;
 					
 					// Sort events by date
-					events.sort((a, b) => parseDate(a.date) - parseDate(b.date));
+					events.sort((a, b) => a.dateUnix - b.dateUnix);
 					
 					let eventsHTML = '<ul>';
 					events.forEach(event => {
 						eventsHTML += `
 							<li>
 								<h2>${event.title}</h2>
-								<p>Date: ${formatDate(event.date)}</p>
+								<p>Date: ${event.date}</p>
 								<p class="venue">Venue: ${event.venue}</p>
 								<a href="${event.link}" target="_blank">More Info</a>
 							</li>
