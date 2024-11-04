@@ -45,7 +45,7 @@
 						eventsHTML += `
 							<li>
 								<h2>${event.title}</h2>
-								<p>Date: ${ new Date (event.dateUnix * 1000 ) }</p>
+								<p>Date: ${ new Date (event.dateUnix * 1000 ).toDateString() }</p>
 								<p class="venue">Venue: ${event.venue}</p>
 								<a href="${event.link}" target="_blank">More Info</a>
 							</li>
