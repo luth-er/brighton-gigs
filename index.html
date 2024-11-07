@@ -42,6 +42,10 @@
 					
 					let eventsHTML = '<ul>';
 					events.forEach(event => {
+						// Format dates correctly
+						const date = new Date(event.dateUnix);
+						event.dateUnix = date.toLocaleDateString('en-GB', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+						
 						eventsHTML += `
 							<li>
 								<h2>${event.title}</h2>
