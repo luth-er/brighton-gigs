@@ -4,7 +4,7 @@
  * @returns {number} Unix timestamp in milliseconds
  * @throws {Error} If the input format is invalid or cannot be parsed
  */
-function toUnixTimestamp(input) {
+const toUnixTimestamp = (input) => {
     // If input is already a number, check if it's a reasonable timestamp
     if (typeof input === 'number') {
         // If it's in seconds (10 digits), convert to milliseconds
@@ -131,4 +131,6 @@ function toUnixTimestamp(input) {
     }
 
     throw new Error('Invalid date format');
-}
+};
+
+export default toUnixTimestamp;

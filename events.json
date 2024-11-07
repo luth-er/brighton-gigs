@@ -1,47 +1,5 @@
 [
   {
-    "title": "Carousel: The Rock House",
-    "date": "Mon, 4 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/carousel-the-rock-house/",
-    "dateUnix": 1730678400000
-  },
-  {
-    "title": "Loren Kramar",
-    "date": "4th November 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/loren-kramar/",
-    "dateUnix": 1730748600000
-  },
-  {
-    "title": "Crimson Veil- ‘Hex’ album launch",
-    "date": "Tue, 5 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/crimson-veil-hex-album-launch/",
-    "dateUnix": 1730764800000
-  },
-  {
-    "title": "Dame Area",
-    "date": "5th November 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dame-area/",
-    "dateUnix": 1730836800000
-  },
-  {
-    "title": "The Veltmans",
-    "date": "Wed, 6 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-veltmans/",
-    "dateUnix": 1730851200000
-  },
-  {
-    "title": "Bibi Club",
-    "date": "6th November 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/bibi-club/",
-    "dateUnix": 1730921400000
-  },
-  {
     "title": "Bones Ate Arfa",
     "date": "Thu, 7 Nov 2024",
     "venue": "Green Door Store",
@@ -154,6 +112,13 @@
     "dateUnix": 1731528000000
   },
   {
+    "title": "**LOW TICKETS** The Luka State",
+    "date": "Thu, 14 Nov 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-luka-state/",
+    "dateUnix": 1731542400000
+  },
+  {
     "title": "Bare Jams",
     "date": "14th November 2024 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -161,11 +126,25 @@
     "dateUnix": 1731610800000
   },
   {
+    "title": "Blazed & Confused- Debauched Sound of the 60s/70s",
+    "date": "Fri, 15 Nov 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/blazed-confused-debauched-sound-of-the-60s-70s/",
+    "dateUnix": 1731628800000
+  },
+  {
     "title": "Joe & The Shitboys + Support",
     "date": "15th November 2024 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/joe-the-shitboys-support/",
     "dateUnix": 1731700800000
+  },
+  {
+    "title": "Small Pond Emerging Vol. IV – Release Show",
+    "date": "Sat, 16 Nov 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/small-pond-emerging-vol-iv-release-show/",
+    "dateUnix": 1731715200000
   },
   {
     "title": "Bloody/Bath + Support",
@@ -194,6 +173,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/juan-waters/",
     "dateUnix": 1732044600000
+  },
+  {
+    "title": "Underground Sounds – Louie Le Vack + support",
+    "date": "20th November 2024 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/underground-sounds-louie-le-vack-support/",
+    "dateUnix": 1732129200000
   },
   {
     "title": "Tramhaus + Support",
@@ -315,6 +301,13 @@
     "dateUnix": 1733578200000
   },
   {
+    "title": "Dynamite Boogaloo Christmas Knees Up",
+    "date": "8th December 2024 - 5:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/dynamite-boogaloo-christmas-knees-up/",
+    "dateUnix": 1733677200000
+  },
+  {
     "title": "Hollow Hand + Dana Gavanski + Lichen",
     "date": "11th December 2024 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -399,6 +392,13 @@
     "dateUnix": 1740079800000
   },
   {
+    "title": "MAQUINA",
+    "date": "21st February 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/maquina/",
+    "dateUnix": 1740168000000
+  },
+  {
     "title": "Rosaline Cunningham",
     "date": "14th March 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -418,6 +418,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/ghost-funk-orchestra/",
     "dateUnix": 1742414400000
+  },
+  {
+    "title": "HOMEGROWN FESTIVAL 2025",
+    "date": "12th April 2025 - 2:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/homegrown-festival-2025/",
+    "dateUnix": 1744464600000
   },
   {
     "title": "Totorro + Guests",
