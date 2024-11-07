@@ -18,7 +18,7 @@
 	<body>
 		<h1>Brighton Music Events</h1>
 		<div id="events-list"></div>
-		<div id="debug"></div>
+		<!-- <div id="debug"></div> -->
 
 		<script>
             // Date formatting functions
@@ -58,7 +58,7 @@
 					
 					// Debug: Log the number of events
 					console.log(`Number of events: ${events.length}`);
-					debugElement.innerHTML += `<p>Number of events: ${events.length}</p>`;
+					// debugElement.innerHTML += `<p>Number of events: ${events.length}</p>`;
 					
 					// Sort events by date
 					events.sort((a, b) => a.dateUnix - b.dateUnix);
@@ -76,7 +76,7 @@
 						
 						// Debug: Log each event
 						console.log(event);
-						debugElement.innerHTML += `<p>Event: ${JSON.stringify(event)}</p>`;
+						// debugElement.innerHTML += `<p>Event: ${JSON.stringify(event)}</p>`;
 					});
 					eventsHTML += '</ul>';
 					
@@ -84,7 +84,7 @@
 				})
 				.catch(error => {
 					console.error('Error:', error);
-					document.getElementById('debug').innerHTML += `<p>Error: ${error.message}</p>`;
+					// document.getElementById('debug').innerHTML += `<p>Error: ${error.message}</p>`;
 				});
 		</script>
 	</body>
