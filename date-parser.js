@@ -109,6 +109,20 @@ const toUnixTimestamp = (input) => {
             }
         }
 
+        // Format: "09/11/24 23:00 to 10/11/24 04:00"
+        const dateRangeRegex = /^(\d{2})\/(\d{2})\/(\d{2})\s+(\d{2}):(\d{2})\s*to\s*\d{2}\/\d{2}\/\d{2}\s+\d{2}:\d{2}$/;
+        const dateRangeMatch = input.match(dateRangeRegex);
+        if (dateRangeMatch) {
+            const [_, day, monthStr, yearStr, hours, minutes] = dateRangeMatch;
+            const month = parseInt(monthStr) - 1;
+            const year = parseInt('20' + yearStr);
+            
+            date = new Date(year, month, parseInt(day), parseInt(hours), parseInt(minutes));
+            if (!isNaN(date.getTime())) {
+                return date.getTime();
+            }
+        }
+
         // Handle relative time formats like "2 days ago", "yesterday", etc.
         const relativeTimeRegex = /^(\d+)?\s*(second|minute|hour|day|week|month|year)s?\s+ago$/i;
         const matches = input.match(relativeTimeRegex);
