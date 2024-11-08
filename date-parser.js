@@ -95,6 +95,20 @@ const toUnixTimestamp = (input) => {
             }
         }
 
+        // Format: "1/12/24"
+        const shortDateRegex = /^(\d{1,2})\/(\d{1,2})\/(\d{2})$/;
+        const shortDateMatch = input.match(shortDateRegex);
+        if (shortDateMatch) {
+            const [_, day, monthStr, yearStr] = shortDateMatch;
+            const month = parseInt(monthStr) - 1;
+            const year = parseInt('20' + yearStr);
+            
+            date = new Date(year, month, parseInt(day));
+            if (!isNaN(date.getTime())) {
+                return date.getTime();
+            }
+        }
+
         // Handle relative time formats like "2 days ago", "yesterday", etc.
         const relativeTimeRegex = /^(\d+)?\s*(second|minute|hour|day|week|month|year)s?\s+ago$/i;
         const matches = input.match(relativeTimeRegex);

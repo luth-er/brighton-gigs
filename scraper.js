@@ -14,6 +14,10 @@ const scrapeSites = async () => {
   const greenDoorEvents = await scrapeGreenDoor();
   allEvents.push(...greenDoorEvents);
 
+  // Concorde 2
+  const concordeTwoEvents = await scrapeConcordeTwo();
+  allEvents.push(...concordeTwoEvents);
+
   // Sort all events by date
   allEvents.sort((a, b) => {
     if (a.dateUnix === null && b.dateUnix === null) return 0;
@@ -61,6 +65,29 @@ const scrapeGreenDoor = async () => {
     const date = $(element).find(".event-card__date").text().trim();
     const venue = 'Green Door Store';
     const link = $(element).find(".event-card__link").attr('href');
+
+    let dateUnix;
+    try {
+      dateUnix = toUnixTimestamp(date); // Convert date to Unix timestamp
+    } catch (error) {
+      console.error(`Error parsing date for event "${title}": ${error.message}`);
+      dateUnix = null;
+    }
+
+    return { title, date, venue, link, dateUnix };
+  }).get();
+};
+
+const scrapeConcordeTwo = async () => {
+  const url = "https://www.eventim-light.com/uk/a/63e65b596d6acd63f8b70fee/iframe/";
+  const { data } = await axios.get(url);
+  const $ = cheerio.load(data);
+
+  return $('.v-card.v-card--link').map((_, element) => {
+    const title = $(element).find(".v-card-title").text().trim();
+    const date = $(element).find(".event__date").text().trim();
+    const venue = 'Concorde 2';
+    const link = $(element).find(".v-btn").attr('href');
 
     let dateUnix;
     try {
