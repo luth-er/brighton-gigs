@@ -90,7 +90,7 @@ const scrapeConcordeTwo = async () => {
     const title = $(element).find(".details h3 a").text().trim();
     const date  = `${day} ${month} ${year}`;
     const venue = 'Concorde 2';
-    const link  = $(element).find(".details h3 a").attr('href');
+    const link  = 'https://www.gigseekr.com' + $(element).find(".details h3 a").attr('href');
 
     let dateUnix;
     try {
