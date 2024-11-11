@@ -79,15 +79,18 @@ const scrapeGreenDoor = async () => {
 };
 
 const scrapeConcordeTwo = async () => {
-  const url = "https://www.eventim-light.com/uk/a/63e65b596d6acd63f8b70fee/iframe/";
+  const url = "https://www.gigseekr.com/uk/en/brighton/concorde-2/venue/jk";
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
 
-  return $('.v-card.v-card--link').map((_, element) => {
-    const title = $(element).find(".v-card-title").text().trim();
-    const date = $(element).find(".event__date").text().trim();
+  return $('.event-container .basic-event').map((_, element) => {
+    const day   = $(element).find(".date-container . day").text().trim();
+    const month = $(element).find(".date-container .month").text().trim();
+    const year  = $(element).find(".date-container .year").text().trim();
+    const title = $(element).find(".details h3 a").text().trim();
+    const date  = `${day} ${month} ${year}`;
     const venue = 'Concorde 2';
-    const link = $(element).find(".v-btn").attr('href');
+    const link  = $(element).find(".details h3 a").attr('href');
 
     let dateUnix;
     try {

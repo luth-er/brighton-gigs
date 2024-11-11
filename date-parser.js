@@ -109,8 +109,8 @@ const toUnixTimestamp = (input) => {
             }
         }
 
-        // Format: "09/11/24 23:00 to 10/11/24 04:00"
-        const dateRangeRegex = /^(\d{2})\/(\d{2})\/(\d{2})\s+(\d{2}):(\d{2})\s*to\s*\d{2}\/\d{2}\/\d{2}\s+\d{2}:\d{2}$/;
+        // Format: "16/11/24 - 23:00 to 17/11/24 - 04:00"
+        const dateRangeRegex = /^(\d{2})\/(\d{2})\/(\d{2})\s*-\s*(\d{2}):(\d{2})/;
         const dateRangeMatch = input.match(dateRangeRegex);
 
         if (dateRangeMatch) {
@@ -118,9 +118,9 @@ const toUnixTimestamp = (input) => {
             const month = parseInt(monthStr) - 1;
             const year = parseInt('20' + yearStr);
             
-            const firstPartDate = new Date(year, month, parseInt(day), parseInt(hours), parseInt(minutes));
-            if (!isNaN(firstPartDate.getTime())) {
-                return firstPartDate.getTime();
+            date = new Date(year, month, parseInt(day), parseInt(hours), parseInt(minutes));
+            if (!isNaN(date.getTime())) {
+                return date.getTime();
             }
         }
 
