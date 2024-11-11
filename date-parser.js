@@ -109,18 +109,22 @@ const toUnixTimestamp = (input) => {
             }
         }
 
-        // Format: "16/11/24 - 23:00 to 17/11/24 - 04:00"
-        const dateRangeRegex = /^(\d{2})\/(\d{2})\/(\d{2})\s*-\s*(\d{2}):(\d{2})/;
-        const dateRangeMatch = input.match(dateRangeRegex);
-
-        if (dateRangeMatch) {
-            const [_, day, monthStr, yearStr, hours, minutes] = dateRangeMatch;
-            const month = parseInt(monthStr) - 1;
-            const year = parseInt('20' + yearStr);
+        // Format: 12 Nov 2024
+        const shortDateRegex2 = /^(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})$/i;
+        const shortDateMatch2 = input.match(shortDateRegex2);
+        if (shortDateMatch2) {
+            const [_, day, monthStr, year] = shortDateMatch2;
+            const month = months[monthStr.toLowerCase()];
             
-            date = new Date(year, month, parseInt(day), parseInt(hours), parseInt(minutes));
-            if (!isNaN(date.getTime())) {
-                return date.getTime();
+            if (month !== undefined) {
+                date = new Date(
+                    parseInt(year),
+                    month,
+                    parseInt(day)
+                );
+                if (!isNaN(date.getTime())) {
+                    return date.getTime();
+                }
             }
         }
 

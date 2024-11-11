@@ -84,7 +84,7 @@ const scrapeConcordeTwo = async () => {
   const $ = cheerio.load(data);
 
   return $('.event-container .basic-event').map((_, element) => {
-    const day   = $(element).find(".date-container . day").text().trim();
+    const day   = $(element).find(".date-container .day").text().trim();
     const month = $(element).find(".date-container .month").text().trim();
     const year  = $(element).find(".date-container .year").text().trim();
     const title = $(element).find(".details h3 a").text().trim();
