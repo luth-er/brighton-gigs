@@ -1,19 +1,5 @@
 [
   {
-    "title": "Aqualine",
-    "date": "Mon, 11 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/aqualine/",
-    "dateUnix": 1731283200000
-  },
-  {
-    "title": "Matt Hennessy: DUMB LUCK Single Release Show",
-    "date": "11th November 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/matt-hennessy-dumb-luck-single-release-show/",
-    "dateUnix": 1731353400000
-  },
-  {
     "title": "SOLD OUT: Luvcat",
     "date": "Tue, 12 Nov 2024",
     "venue": "Green Door Store",
@@ -70,7 +56,7 @@
     "dateUnix": 1731610800000
   },
   {
-    "title": "Blazed & Confused- Debauched Sound of the 60s/70s",
+    "title": "Blazed & Confused 60s/70s",
     "date": "Fri, 15 Nov 2024",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/blazed-confused-debauched-sound-of-the-60s-70s/",
@@ -182,7 +168,7 @@
     "dateUnix": 1732129200000
   },
   {
-    "title": "Afflecks Palace",
+    "title": "Afflecks Palace *LOW TICKETS*",
     "date": "Thu, 21 Nov 2024",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/afflecks-palace/",
@@ -200,6 +186,13 @@
     "date": "Fri, 22 Nov 2024",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/roses-fundraiser-gig/",
+    "dateUnix": 1732233600000
+  },
+  {
+    "title": "that’s f***ing rubbish- lana vs radiohead round 2 loool",
+    "date": "Fri, 22 Nov 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-3/",
     "dateUnix": 1732233600000
   },
   {

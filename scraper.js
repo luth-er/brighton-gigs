@@ -18,6 +18,10 @@ const scrapeSites = async () => {
   const concordeTwoEvents = await scrapeConcordeTwo();
   allEvents.push(...concordeTwoEvents);
 
+  // Chalk
+  const chalkEvents = await scrapeChalk();
+  allEvents.push(...chalkEvents);
+
   // Sort all events by date
   allEvents.sort((a, b) => {
     if (a.dateUnix === null && b.dateUnix === null) return 0;
@@ -91,6 +95,30 @@ const scrapeConcordeTwo = async () => {
     const date  = `${day} ${month} ${year}`;
     const venue = 'Concorde 2';
     const link  = 'https://www.gigseekr.com' + $(element).find(".details h3 a").attr('href');
+
+    let dateUnix;
+    try {
+      dateUnix = toUnixTimestamp(date); // Convert date to Unix timestamp
+    } catch (error) {
+      console.error(`Error parsing date for event "${title}": ${error.message}`);
+      dateUnix = null;
+    }
+
+    return { title, date, venue, link, dateUnix };
+  }).get();
+};
+
+const scrapeChalk = async () => {
+  const url = "https://chalkvenue.com/live";
+  const { data } = await axios.get(url);
+  const $ = cheerio.load(data);
+
+  return $('.grid.grid-cols-1.items-start.gap-6 .grid.h-full.grid-cols-2.gap-x-4.gap-y-3.p-3.bg-chalkBlue').map((_, element) => {
+    const title = $(element).find("h2.text-xl.font-semibold.uppercase.text-white").text().trim();
+    console.log(title);
+    const date = $(element).find(".text-base").text().trim();
+    const venue = 'Chalk';
+    const link = $(element).find("a.col-span-2.text-center").attr('href');
 
     let dateUnix;
     try {
