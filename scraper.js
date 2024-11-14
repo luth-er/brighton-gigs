@@ -22,6 +22,10 @@ const scrapeSites = async () => {
   const chalkEvents = await scrapeChalk();
   allEvents.push(...chalkEvents);
 
+  // Folklore Rooms
+  const folkloreRoomsEvents = await scrapeFolkloreRooms();
+  allEvents.push(...folkloreRoomsEvents);
+
   // Sort all events by date
   allEvents.sort((a, b) => {
     if (a.dateUnix === null && b.dateUnix === null) return 0;
@@ -131,6 +135,30 @@ const scrapeChalk = async () => {
     return { title, date, venue, link, dateUnix };
   }).get();
 };
+
+// Scrape Folklore Rooms.
+const scrapeFolkloreRooms = async () => {
+  const url = "https://www.folkloresessions.co.uk/event-list";
+  const { data } = await axios.get(url);
+  const $ = cheerio.load(data);
+
+  return $('li.yPI1TJ.yGVx1i').map((_, element) => {
+    const title = $(element).find(".DjQEyU").text().trim();
+    const date = $(element).find(".v2vbgt").text().trim();
+    const venue = 'Folklore Rooms';
+    const link = $(element).find(".DjQEyU").attr('href');
+
+    let dateUnix;
+    try {
+      dateUnix = toUnixTimestamp(date); // Convert date to Unix timestamp
+    } catch (error) {
+      console.error(`Error parsing date for event "${title}": ${error.message}`);
+      dateUnix = null;
+    }
+
+    return { title, date, venue, link, dateUnix };
+  }).get();
+}
 
 // Start the scraping
 scrapeSites();

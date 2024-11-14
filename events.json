@@ -1,38 +1,38 @@
 [
   {
-    "title": "SOLD OUT: Luvcat",
-    "date": "Tue, 12 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/luvcat/",
-    "dateUnix": 1731369600000
+    "title": "AustelLearn more",
+    "date": "Thu, 14 Nov",
+    "venue": "Folklore Rooms",
+    "link": "https://www.folkloresessions.co.uk/event-details/austel",
+    "dateUnix": 1005696000000
   },
   {
-    "title": "Alfie Templeman",
-    "date": "12 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/alfie-templeman-radiosoul-tour/event/q9o7",
-    "dateUnix": 1731369600000
+    "title": "Lewis McLaughlinLearn more",
+    "date": "Fri, 15 Nov",
+    "venue": "Folklore Rooms",
+    "link": "https://www.folkloresessions.co.uk/event-details/lewis-mclaughlin",
+    "dateUnix": 1005782400000
   },
   {
-    "title": "Daddy Long Legs",
-    "date": "12th November 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/daddy-long-legs/",
-    "dateUnix": 1731441600000
+    "title": "Rebetiki Serenata: Voices of GreeceLearn more",
+    "date": "Sat, 16 Nov",
+    "venue": "Folklore Rooms",
+    "link": "https://www.folkloresessions.co.uk/event-details/rebetiki-serenata-voices-of-greece",
+    "dateUnix": 1005868800000
   },
   {
-    "title": "Psychic & Wellbeing Event- EP Launch Show",
-    "date": "Wed, 13 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/psychic-wellbeing-event-ep-launch-show/",
-    "dateUnix": 1731456000000
+    "title": "Joe ToppingLearn more",
+    "date": "Sun, 17 Nov",
+    "venue": "Folklore Rooms",
+    "link": "https://www.folkloresessions.co.uk/event-details/joe-topping",
+    "dateUnix": 1005955200000
   },
   {
-    "title": "Meryl Streek",
-    "date": "13th November 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/meryl-streek-2/",
-    "dateUnix": 1731528000000
+    "title": "Glasshouse Red Spider MiteLearn more",
+    "date": "Mon, 18 Nov",
+    "venue": "Folklore Rooms",
+    "link": "https://www.folkloresessions.co.uk/event-details/glasshouse-red-spider-mite",
+    "dateUnix": 1006041600000
   },
   {
     "title": "**LOW TICKETS** The Luka State",
@@ -112,7 +112,7 @@
     "dateUnix": 1731801600000
   },
   {
-    "title": "Not Without Punishment + HLYBD + Blood Hex + Exhume + Flesh Prison",
+    "title": "Not Without Punishment + HLYBD + Blood Hex + Wiseguy + Flesh Prison",
     "date": "17th November 2024 - 6:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/not-without-punishment-hlybd-blood-hex-exhume-flesh-prison/",
@@ -189,7 +189,7 @@
     "dateUnix": 1732233600000
   },
   {
-    "title": "that’s f***ing rubbish- lana vs radiohead round 2 loool",
+    "title": "that’s f***ing rubbish- chappell roan vs fontaines dc",
     "date": "Fri, 22 Nov 2024",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-3/",
@@ -217,6 +217,13 @@
     "dateUnix": 1732305600000
   },
   {
+    "title": "SOLD OUT: The Clause",
+    "date": "Sat, 23 Nov 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-clause/",
+    "dateUnix": 1732320000000
+  },
+  {
     "title": "ARXX",
     "date": "23 NOV 2024",
     "venue": "Concorde 2",
@@ -229,6 +236,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/dog-unit-support/",
     "dateUnix": 1732392000000
+  },
+  {
+    "title": "Delving",
+    "date": "Sun, 24 Nov 2024",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/delving/",
+    "dateUnix": 1732406400000
   },
   {
     "title": "City Dog + Riff Raff + Psychic Wellbeing Event",
@@ -593,6 +607,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/airbourne-2025-tour/event/qmmh",
     "dateUnix": 1740960000000
+  },
+  {
+    "title": "Natty",
+    "date": "04 MAR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/natty-the-divine-trinity-uk-tour/event/qzk7",
+    "dateUnix": 1741046400000
   },
   {
     "title": "JJ Grey & Mofro",

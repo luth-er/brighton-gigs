@@ -152,6 +152,27 @@ const toUnixTimestamp = (input) => {
             }
         }
 
+        // Format: "Sun, 17 Nov". Assumes current year, unless month is December and current month is January.
+        const shortDateTimeRegex2 = /^([A-Za-z]+),\s*(\d{1,2})\s+([A-Za-z]+)$/i;
+        const shortDateTimeMatch2 = input.match(shortDateTimeRegex2);
+        if (shortDateTimeMatch2) {
+            const [_, , day, monthStr] = shortDateTimeMatch2;
+            const month = months[monthStr.toLowerCase()];
+            
+            if (month !== undefined) {
+                date = new Date();
+                if (month === 11 && date.getMonth() === 0) {
+                    date.setFullYear(date.getFullYear() - 1);
+                }
+                date.setMonth(month, parseInt(day));
+                // Set to start of day
+                date.setHours(0, 0, 0, 0);
+                if (!isNaN(date.getTime())) {
+                    return date.getTime();
+                }
+            }
+        }
+
         // Handle relative time formats like "2 days ago", "yesterday", etc.
         const relativeTimeRegex = /^(\d+)?\s*(second|minute|hour|day|week|month|year)s?\s+ago$/i;
         const matches = input.match(relativeTimeRegex);
