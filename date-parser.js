@@ -152,7 +152,7 @@ const toUnixTimestamp = (input) => {
             }
         }
 
-        // Format: "Sun, 17 Nov". Assumes current year, unless month is December and current month is January.
+        // Format: "Sun, 17 Nov". Assumes year is 2024, unless month is December and current month is January, then year is 2025.
         const shortDateTimeRegex2 = /^([A-Za-z]+),\s*(\d{1,2})\s+([A-Za-z]+)$/i;
         const shortDateTimeMatch2 = input.match(shortDateTimeRegex2);
         if (shortDateTimeMatch2) {
@@ -164,9 +164,8 @@ const toUnixTimestamp = (input) => {
                 if (month === 11 && date.getMonth() === 0) {
                     date.setFullYear(date.getFullYear() - 1);
                 }
-                date.setMonth(month, parseInt(day));
-                // Set to start of day
                 date.setHours(0, 0, 0, 0);
+                date.setMonth(month, parseInt(day));
                 if (!isNaN(date.getTime())) {
                     return date.getTime();
                 }

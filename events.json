@@ -1,465 +1,87 @@
 [
   {
-    "title": "AustelLearn more",
-    "date": "Thu, 14 Nov",
+    "title": "Rosie Mark : Single Release ShowDetails",
+    "date": "Fri, 17 Jan",
     "venue": "Folklore Rooms",
-    "link": "https://www.folkloresessions.co.uk/event-details/austel",
-    "dateUnix": 1005696000000
+    "link": "https://www.folkloresessions.co.uk/event-details/rosie-mark-single-release-show",
+    "dateUnix": 979689600000
   },
   {
-    "title": "Lewis McLaughlinLearn more",
-    "date": "Fri, 15 Nov",
+    "title": "Running Through The Woods. Double Klezmer DuoDetails",
+    "date": "Sat, 18 Jan",
     "venue": "Folklore Rooms",
-    "link": "https://www.folkloresessions.co.uk/event-details/lewis-mclaughlin",
-    "dateUnix": 1005782400000
+    "link": "https://www.folkloresessions.co.uk/event-details/running-through-the-woods-double-klezmer-duo",
+    "dateUnix": 979776000000
   },
   {
-    "title": "Rebetiki Serenata: Voices of GreeceLearn more",
-    "date": "Sat, 16 Nov",
+    "title": "Rube & RakeDetails",
+    "date": "Sun, 19 Jan",
     "venue": "Folklore Rooms",
-    "link": "https://www.folkloresessions.co.uk/event-details/rebetiki-serenata-voices-of-greece",
-    "dateUnix": 1005868800000
+    "link": "https://www.folkloresessions.co.uk/event-details/rube-rake",
+    "dateUnix": 979862400000
   },
   {
-    "title": "Joe ToppingLearn more",
-    "date": "Sun, 17 Nov",
+    "title": "Matt HennessyDetails",
+    "date": "Mon, 20 Jan",
     "venue": "Folklore Rooms",
-    "link": "https://www.folkloresessions.co.uk/event-details/joe-topping",
-    "dateUnix": 1005955200000
+    "link": "https://www.folkloresessions.co.uk/event-details/matt-hennessy",
+    "dateUnix": 979948800000
   },
   {
-    "title": "Glasshouse Red Spider MiteLearn more",
-    "date": "Mon, 18 Nov",
+    "title": "Folklore Monthly ShowcaseLearn more",
+    "date": "Tue, 21 Jan",
     "venue": "Folklore Rooms",
-    "link": "https://www.folkloresessions.co.uk/event-details/glasshouse-red-spider-mite",
-    "dateUnix": 1006041600000
+    "link": "https://www.folkloresessions.co.uk/event-details/folklore-monthly-showcase-3",
+    "dateUnix": 980035200000
   },
   {
-    "title": "**LOW TICKETS** The Luka State",
-    "date": "Thu, 14 Nov 2024",
+    "title": "Rottweiler",
+    "date": "Wed, 8 Jan 2025",
     "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-luka-state/",
-    "dateUnix": 1731542400000
+    "link": "https://thegreendoorstore.co.uk/events/rottweiler-2/",
+    "dateUnix": 1736294400000
   },
   {
-    "title": "Ibibio Sound Machine",
-    "date": "14 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/ibibio-sound-machine-pull-the-rope-tour/event/abeo",
-    "dateUnix": 1731542400000
-  },
-  {
-    "title": "Bare Jams",
-    "date": "14th November 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/bare-jams/",
-    "dateUnix": 1731610800000
-  },
-  {
-    "title": "Blazed & Confused 60s/70s",
-    "date": "Fri, 15 Nov 2024",
+    "title": "Fire Escape",
+    "date": "Thu, 9 Jan 2025",
     "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/blazed-confused-debauched-sound-of-the-60s-70s/",
-    "dateUnix": 1731628800000
+    "link": "https://thegreendoorstore.co.uk/events/fire-escape/",
+    "dateUnix": 1736380800000
   },
   {
-    "title": "Goldie Lookin Chain",
-    "date": "15 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/goldie-lookin-chain-the-420-tour/event/ap59",
-    "dateUnix": 1731628800000
-  },
-  {
-    "title": "Joe & The Shitboys + Support",
-    "date": "15th November 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/joe-the-shitboys-support/",
-    "dateUnix": 1731700800000
-  },
-  {
-    "title": "Small Pond Emerging Vol. IV – Release Show",
-    "date": "Sat, 16 Nov 2024",
+    "title": "Magda",
+    "date": "Fri, 10 Jan 2025",
     "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/small-pond-emerging-vol-iv-release-show/",
-    "dateUnix": 1731715200000
+    "link": "https://thegreendoorstore.co.uk/events/magda/",
+    "dateUnix": 1736467200000
+  },
+  {
+    "title": "i f***ing h8 clubbing",
+    "date": "Fri, 10 Jan 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing/",
+    "dateUnix": 1736467200000
+  },
+  {
+    "title": "Fuzztazer",
+    "date": "Sat, 11 Jan 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/fuzztazer/",
+    "dateUnix": 1736553600000
   },
   {
     "title": "It Is Still 1985",
-    "date": "Sat, 16 Nov 2024",
+    "date": "Sat, 11 Jan 2025",
     "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-7/",
-    "dateUnix": 1731715200000
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-3/",
+    "dateUnix": 1736553600000
   },
   {
-    "title": "Steve Ignorant",
-    "date": "16 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/steve-ignorant/event/wasu",
-    "dateUnix": 1731715200000
-  },
-  {
-    "title": "Bloody/Bath + Support",
-    "date": "16th November 2024 - 8:00 pm",
+    "title": "Unicorn Baby Slay – a night at the pink castle",
+    "date": "11th January 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/bloody-bath-support/",
-    "dateUnix": 1731787200000
-  },
-  {
-    "title": "Aircooled *LOW TICKETS*",
-    "date": "Sun, 17 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/aircooled/",
-    "dateUnix": 1731801600000
-  },
-  {
-    "title": "Not Without Punishment + HLYBD + Blood Hex + Wiseguy + Flesh Prison",
-    "date": "17th November 2024 - 6:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/not-without-punishment-hlybd-blood-hex-exhume-flesh-prison/",
-    "dateUnix": 1731868200000
-  },
-  {
-    "title": "TC & The Groove Family",
-    "date": "Mon, 18 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/tc-the-groove-family/",
-    "dateUnix": 1731888000000
-  },
-  {
-    "title": "Penetration",
-    "date": "18 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/penetration-uk-tour-2024/event/adtp",
-    "dateUnix": 1731888000000
-  },
-  {
-    "title": "COWZ + Room Service + Francis Pig",
-    "date": "18th November 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/cowz-room-service-francis-pig/",
-    "dateUnix": 1731958200000
-  },
-  {
-    "title": "Juan Wauters",
-    "date": "19th November 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/juan-waters/",
-    "dateUnix": 1732044600000
-  },
-  {
-    "title": "ELBV Fest 2- ft Somethingorother + more",
-    "date": "Wed, 20 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/elbv-fest-2-ft-somethingorother-more/",
-    "dateUnix": 1732060800000
-  },
-  {
-    "title": "Sólstafir",
-    "date": "20 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/solstafir-nordic-descent-tour-2024/event/adtd",
-    "dateUnix": 1732060800000
-  },
-  {
-    "title": "Underground Sounds – Louie Le Vack + support",
-    "date": "20th November 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/underground-sounds-louie-le-vack-support/",
-    "dateUnix": 1732129200000
-  },
-  {
-    "title": "Afflecks Palace *LOW TICKETS*",
-    "date": "Thu, 21 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/afflecks-palace/",
-    "dateUnix": 1732147200000
-  },
-  {
-    "title": "Tramhaus + Support",
-    "date": "21st November 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/tramhaus-support/",
-    "dateUnix": 1732219200000
-  },
-  {
-    "title": "Rose’s Fundraiser Gig",
-    "date": "Fri, 22 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/roses-fundraiser-gig/",
-    "dateUnix": 1732233600000
-  },
-  {
-    "title": "that’s f***ing rubbish- chappell roan vs fontaines dc",
-    "date": "Fri, 22 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-3/",
-    "dateUnix": 1732233600000
-  },
-  {
-    "title": "One Night in Nashville",
-    "date": "22 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/one-night-in-nashville/event/abj6",
-    "dateUnix": 1732233600000
-  },
-  {
-    "title": "Brighton Dub Club",
-    "date": "22 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/brighton-dub-club/event/a778",
-    "dateUnix": 1732233600000
-  },
-  {
-    "title": "Getdown Services",
-    "date": "22nd November 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/getdown-services/",
-    "dateUnix": 1732305600000
-  },
-  {
-    "title": "SOLD OUT: The Clause",
-    "date": "Sat, 23 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-clause/",
-    "dateUnix": 1732320000000
-  },
-  {
-    "title": "ARXX",
-    "date": "23 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/arxx-2024-tour/event/ax7v",
-    "dateUnix": 1732320000000
-  },
-  {
-    "title": "Dog Unit + Support",
-    "date": "23rd November 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dog-unit-support/",
-    "dateUnix": 1732392000000
-  },
-  {
-    "title": "Delving",
-    "date": "Sun, 24 Nov 2024",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/delving/",
-    "dateUnix": 1732406400000
-  },
-  {
-    "title": "City Dog + Riff Raff + Psychic Wellbeing Event",
-    "date": "24th November 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/city-dog-riff-raff-psychic-wellbeing-event/",
-    "dateUnix": 1732474800000
-  },
-  {
-    "title": "Reverend and The Makers",
-    "date": "25 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/reverend-and-the-makers-is-this-how-happiness-feels-tour/event/q9xx",
-    "dateUnix": 1732492800000
-  },
-  {
-    "title": "CTRL-ALT-DEL-TITS: Snake Eyes / Spitlake / Slacks",
-    "date": "25th November 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/ctrl-alt-del-tits-snake-eyes-spitlake-slacks/",
-    "dateUnix": 1732563000000
-  },
-  {
-    "title": "Katy J Pearson",
-    "date": "26 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/katy-j-pearson-someday-now-uk-tour/event/qo2v",
-    "dateUnix": 1732579200000
-  },
-  {
-    "title": "TWINNIE",
-    "date": "26th November 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/twinnie/",
-    "dateUnix": 1732651200000
-  },
-  {
-    "title": "Hidden Herd Presents: Sunken + ladylike + goodbye + Swan Deep",
-    "date": "27th November 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hidden-herd-presents-sunken-ladylike-goodbye-swan-deep/",
-    "dateUnix": 1732735800000
-  },
-  {
-    "title": "The MTV2s",
-    "date": "28th November 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-mtv2s/",
-    "dateUnix": 1732822200000
-  },
-  {
-    "title": "Luna Blue",
-    "date": "29th November 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/luna-blue/",
-    "dateUnix": 1732906800000
-  },
-  {
-    "title": "Nilüfer Yanya",
-    "date": "30 NOV 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nilufer-yanya-2024-tour/event/azee",
-    "dateUnix": 1732924800000
-  },
-  {
-    "title": "Sheelanagig + Buffo’s Wake + Nine Dead Mice",
-    "date": "30th November 2024 - 7:45 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/sheelanagig-buffos-wake-nine-dead-mice/",
-    "dateUnix": 1732995900000
-  },
-  {
-    "title": "Vision Video",
-    "date": "1st December 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/vision-video/",
-    "dateUnix": 1733079600000
-  },
-  {
-    "title": "Stars In “Their” Eyes: A Talent Show Fundraiser Extravaganza",
-    "date": "2nd December 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/stars-in-their-eyes-a-talent-show-fundraiser-extravaganza/",
-    "dateUnix": 1733166000000
-  },
-  {
-    "title": "Habibi + Support",
-    "date": "3rd December 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/habibi-support/",
-    "dateUnix": 1733254200000
-  },
-  {
-    "title": "The Blow Monkeys",
-    "date": "04 DEC 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-blow-monkeys-2024-uk-tour/event/q4yw",
-    "dateUnix": 1733270400000
-  },
-  {
-    "title": "Hidden Herd Presents: Lonnie Gunn + crysometimes + Sabiyha + Bekah Bossard",
-    "date": "4th December 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hidden-herd-presents-lonnie-gunn-crysometimes-sabiyha-bekah-bossard/",
-    "dateUnix": 1733340600000
-  },
-  {
-    "title": "Die Twice + Support",
-    "date": "5th December 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/die-twice-support/",
-    "dateUnix": 1733427000000
-  },
-  {
-    "title": "Wife Swap USA + Pussy Liqour + Antifa Supersoldier",
-    "date": "6th December 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/wife-swap-usa/",
-    "dateUnix": 1733513400000
-  },
-  {
-    "title": "Goo Records X Hidden Herd All-dayer",
-    "date": "7th December 2024 - 1:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/goo-records-x-hidden-herd-all-dayer/",
-    "dateUnix": 1733578200000
-  },
-  {
-    "title": "Electric Six",
-    "date": "08 DEC 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/electric-six/event/a3k2",
-    "dateUnix": 1733616000000
-  },
-  {
-    "title": "Dynamite Boogaloo Christmas Knees Up",
-    "date": "8th December 2024 - 5:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dynamite-boogaloo-christmas-knees-up/",
-    "dateUnix": 1733677200000
-  },
-  {
-    "title": "Hollow Hand + Dana Gavanski + Lichen",
-    "date": "11th December 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hollow-hand-support/",
-    "dateUnix": 1733947200000
-  },
-  {
-    "title": "Half Happy + Moon Idle",
-    "date": "12th December 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/half-happy/",
-    "dateUnix": 1734030000000
-  },
-  {
-    "title": "Brighton Dub Club",
-    "date": "13 DEC 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/brighton-dub-club/event/a77o",
-    "dateUnix": 1734048000000
-  },
-  {
-    "title": "This Feeling – Peach Season + Star Print Clad + Oxygen",
-    "date": "13th December 2024 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/this-feeling-peach-season-star-print-clad-oxygen/",
-    "dateUnix": 1734118200000
-  },
-  {
-    "title": "Cupboard Music House Party",
-    "date": "14th December 2024 - 1:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/cupboard-music-house-party/",
-    "dateUnix": 1734181200000
-  },
-  {
-    "title": "Bad Manners",
-    "date": "15 DEC 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/bad-manners/event/a3kx",
-    "dateUnix": 1734220800000
-  },
-  {
-    "title": "Jimmy Herrity",
-    "date": "15th December 2024 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/jimmy-herrity-2/",
-    "dateUnix": 1734289200000
-  },
-  {
-    "title": "Cult Figures + Fractured",
-    "date": "21st December 2024 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/cult-figures-fractured/",
-    "dateUnix": 1734811200000
-  },
-  {
-    "title": "The Cureheads",
-    "date": "23 DEC 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-cureheads/event/a3ke",
-    "dateUnix": 1734912000000
-  },
-  {
-    "title": "The Devout",
-    "date": "27 DEC 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-devout/event/a3kr",
-    "dateUnix": 1735257600000
-  },
-  {
-    "title": "Special Kinda Madness",
-    "date": "28 DEC 2024",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/special-kinda-madness/event/abjh",
-    "dateUnix": 1735344000000
+    "link": "https://www.hope.pub/event/unicorn-baby-slay-a-night-at-the-pink-castle/",
+    "dateUnix": 1736623800000
   },
   {
     "title": "The Jesus Lizard",
@@ -469,17 +91,94 @@
     "dateUnix": 1736640000000
   },
   {
-    "title": "Belako + Support",
-    "date": "23rd January 2025 - 8:00 pm",
+    "title": "Placeholder – Poetry Night #18",
+    "date": "13th January 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/belako-support/",
-    "dateUnix": 1737662400000
+    "link": "https://www.hope.pub/event/placeholder-poetry-night-18-2/",
+    "dateUnix": 1736796600000
+  },
+  {
+    "title": "Canopy",
+    "date": "Wed, 15 Jan 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/canopy/",
+    "dateUnix": 1736899200000
+  },
+  {
+    "title": "Crowgod",
+    "date": "Thu, 16 Jan 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/crowgod/",
+    "dateUnix": 1736985600000
+  },
+  {
+    "title": "Triptych VIII- Van Zon, Big Long Sun + Charlie Keen’s Silver Birch",
+    "date": "16th January 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/triptych-viii-van-zon-big-long-sun-charlie-keens-silver-birch/",
+    "dateUnix": 1737057600000
+  },
+  {
+    "title": "The Roebucks",
+    "date": "Fri, 17 Jan 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-roebucks/",
+    "dateUnix": 1737072000000
+  },
+  {
+    "title": "Blazed & Confused",
+    "date": "Fri, 17 Jan 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/blazed-confused/",
+    "dateUnix": 1737072000000
+  },
+  {
+    "title": "Triptych VIII- Lower Slaughter, Staff Party + Francis Pig",
+    "date": "17th January 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/triptych-viii-lower-slaughter-staff-party-francis-pig/",
+    "dateUnix": 1737144000000
+  },
+  {
+    "title": "GDS 14TH BDAY: MAN/WOMAN/CHAINSAW + Special Guests",
+    "date": "Sat, 18 Jan 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/gds-14th-bday-man-woman-chainsaw-special-guests/",
+    "dateUnix": 1737158400000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 18 Jan 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-4/",
+    "dateUnix": 1737158400000
+  },
+  {
+    "title": "Emo Fest",
+    "date": "18 JAN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/emo-fest/event/z997",
+    "dateUnix": 1737158400000
+  },
+  {
+    "title": "Triptych VIII- 0800 Rodeo, Terse Affection + B. Spanks",
+    "date": "18th January 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/triptych-viii-0800-rodeo-terse-affection-b-spanks/",
+    "dateUnix": 1737230400000
   },
   {
     "title": "Belako",
     "date": "23rd January 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/belako/",
+    "dateUnix": 1737662400000
+  },
+  {
+    "title": "Belako + Support",
+    "date": "23rd January 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/belako-support/",
     "dateUnix": 1737662400000
   },
   {
@@ -490,11 +189,39 @@
     "dateUnix": 1737676800000
   },
   {
+    "title": "Sugar-Free Birthday Show: Orchards + Gaffa Tape Sandy + H_ng_m_n + more",
+    "date": "24th January 2025 - 6:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/sugar-free-birthday-show-orchards-gaffa-tape-sandy-h_ng_m_n-more/",
+    "dateUnix": 1737741600000
+  },
+  {
+    "title": "Spill + Torus + Divorce Attorney",
+    "date": "25th January 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/spill-torus-divorce-attorney/",
+    "dateUnix": 1737835200000
+  },
+  {
+    "title": "HH Presents: Cucamaras + Shady Baby + Oslo Twins + Wonderbug",
+    "date": "29th January 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hh-presents-cucamaras-shady-baby-oslo-twins-wonderbug/",
+    "dateUnix": 1738179000000
+  },
+  {
     "title": "The Magic Numbers",
     "date": "31 JAN 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-magic-numbers-uk-and-ie-tour/event/aqmc",
     "dateUnix": 1738281600000
+  },
+  {
+    "title": "The Petrov Boys + Vipertime + Bovril Latrine",
+    "date": "31st January 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-petrov-boys-vipertime-bovril-latrine/",
+    "dateUnix": 1738353600000
   },
   {
     "title": "Young Knives + Support",
@@ -518,11 +245,32 @@
     "dateUnix": 1738609200000
   },
   {
+    "title": "Leibniz + Dum Fun + Aku",
+    "date": "4th February 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/leibniz-dum-fun-aku/",
+    "dateUnix": 1738697400000
+  },
+  {
+    "title": "Madball *SOLD OUT*",
+    "date": "5th February 2025 - 6:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/madball/",
+    "dateUnix": 1738778400000
+  },
+  {
     "title": "Field Music",
     "date": "07 FEB 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/field-music-limits-of-language-2025-uk-tour/event/qt4y",
     "dateUnix": 1738886400000
+  },
+  {
+    "title": "CUSP",
+    "date": "7th February 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/cusp/",
+    "dateUnix": 1738956600000
   },
   {
     "title": "Bon Enfant",
@@ -539,6 +287,20 @@
     "dateUnix": 1739318400000
   },
   {
+    "title": "HH Presents: Heavy Wild + Alphabet + Quaking Aspens + WEAKDAY",
+    "date": "12th February 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hh-presents-heavy-wild-alphabet-quaking-aspens-weakday/",
+    "dateUnix": 1739388600000
+  },
+  {
+    "title": "Karen Dió",
+    "date": "13th February 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/karen-dio/",
+    "dateUnix": 1739475000000
+  },
+  {
     "title": "The Rifles",
     "date": "14 FEB 2025",
     "venue": "Concorde 2",
@@ -549,7 +311,7 @@
     "title": "Ultimate RnB",
     "date": "15 FEB 2025",
     "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/ultimate-rnb/event/aqwh",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/ultimate-rnb-2025-tour/event/aqwh",
     "dateUnix": 1739577600000
   },
   {
@@ -595,11 +357,46 @@
     "dateUnix": 1740168000000
   },
   {
+    "title": "Andy C",
+    "date": "22 FEB 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/andy-c-180x360-uk-tour/event/z7a8",
+    "dateUnix": 1740182400000
+  },
+  {
+    "title": "Heartworms",
+    "date": "25 FEB 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/heartworms-glutton-for-punishment-ukeu-tour-2025/event/zp8f",
+    "dateUnix": 1740441600000
+  },
+  {
+    "title": "W. H. Lung",
+    "date": "27 FEB 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/w-h-lung-uk-tour-2025/event/zpmj",
+    "dateUnix": 1740614400000
+  },
+  {
+    "title": "The Hillbilly Moon Explosion",
+    "date": "27th February 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-hillbilly-moon-explosion/",
+    "dateUnix": 1740682800000
+  },
+  {
     "title": "Elles Bailey",
     "date": "28 FEB 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/elles-bailey-beneath-the-neon-glow-tour/event/qe66",
     "dateUnix": 1740700800000
+  },
+  {
+    "title": "Opal Mag",
+    "date": "28th February 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/opal-mag/",
+    "dateUnix": 1740772800000
   },
   {
     "title": "Airbourne",
@@ -637,11 +434,32 @@
     "dateUnix": 1741305600000
   },
   {
+    "title": "The 900",
+    "date": "7th March 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-900/",
+    "dateUnix": 1741375800000
+  },
+  {
     "title": "Chalk",
     "date": "08 MAR 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/chalk-the-conditions-tour/event/qdmz",
     "dateUnix": 1741392000000
+  },
+  {
+    "title": "The Fallen Leaves + Fractured",
+    "date": "8th March 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-fallen-leaves-fractured/",
+    "dateUnix": 1741464000000
+  },
+  {
+    "title": "Crywank & Johnny Foreigner",
+    "date": "09 MAR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/crywank-johnny-foreigner-co-headline-tour-2025/event/zmx7",
+    "dateUnix": 1741478400000
   },
   {
     "title": "Stiff Little Fingers",
@@ -651,11 +469,25 @@
     "dateUnix": 1741651200000
   },
   {
+    "title": "This Will Destroy You",
+    "date": "12 MAR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/this-will-destroy-you-20th-anniversary-tour/event/qz29",
+    "dateUnix": 1741737600000
+  },
+  {
     "title": "Nieve Ella",
     "date": "13 MAR 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nieve-ella-watch-it-ache-and-bleed-tour/event/qenu",
     "dateUnix": 1741824000000
+  },
+  {
+    "title": "New Purple Celebration",
+    "date": "14 MAR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/new-purple-celebration-2025-tour/event/zuru",
+    "dateUnix": 1741910400000
   },
   {
     "title": "Rosaline Cunningham",
@@ -686,6 +518,41 @@
     "dateUnix": 1742414400000
   },
   {
+    "title": "Thank + Kal Marks",
+    "date": "22nd March 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/thank-kal-marks/",
+    "dateUnix": 1742673600000
+  },
+  {
+    "title": "Tillie",
+    "date": "26th March 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/tillie/",
+    "dateUnix": 1743019200000
+  },
+  {
+    "title": "Juanita Stein",
+    "date": "27th March 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/juanita-stein/",
+    "dateUnix": 1743105600000
+  },
+  {
+    "title": "Charles Moothart",
+    "date": "28th March 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/charles-moothart/",
+    "dateUnix": 1743192000000
+  },
+  {
+    "title": "The Tubs",
+    "date": "29th March 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-tubs-2/",
+    "dateUnix": 1743278400000
+  },
+  {
     "title": "Alabama 3",
     "date": "30 MAR 2025",
     "venue": "Concorde 2",
@@ -700,11 +567,32 @@
     "dateUnix": 1743807600000
   },
   {
+    "title": "Jools",
+    "date": "5th April 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/jools/",
+    "dateUnix": 1743879600000
+  },
+  {
+    "title": "Sofy",
+    "date": "10th April 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/sofy/",
+    "dateUnix": 1744309800000
+  },
+  {
     "title": "HOMEGROWN FESTIVAL 2025",
     "date": "12th April 2025 - 2:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/homegrown-festival-2025/",
     "dateUnix": 1744464600000
+  },
+  {
+    "title": "The Undercover Hippy",
+    "date": "19th April 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-undercover-hippy/",
+    "dateUnix": 1745087400000
   },
   {
     "title": "Matilda Mann",
@@ -714,11 +602,39 @@
     "dateUnix": 1745276400000
   },
   {
+    "title": "Just Friends + Chain",
+    "date": "1st May 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/just-friends-chain/",
+    "dateUnix": 1746124200000
+  },
+  {
     "title": "HENGE",
     "date": "02 MAY 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/henge-uk-tour/event/qt5z",
     "dateUnix": 1746140400000
+  },
+  {
+    "title": "MIEN",
+    "date": "3rd May 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/mien/",
+    "dateUnix": 1746298800000
+  },
+  {
+    "title": "Acid Mothers Temple + Support",
+    "date": "4th May 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/acid-mothers-temple-support/",
+    "dateUnix": 1746383400000
+  },
+  {
+    "title": "Soda Blonde",
+    "date": "5th May 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/soda-blonde/",
+    "dateUnix": 1746471600000
   },
   {
     "title": "Grace Petrie",
@@ -735,10 +651,45 @@
     "dateUnix": 1746831600000
   },
   {
+    "title": "Bananagun",
+    "date": "10th May 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/bananagun-2/",
+    "dateUnix": 1746903600000
+  },
+  {
+    "title": "Kaneko Ayano + support",
+    "date": "21st May 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/kaneko-ayano-support/",
+    "dateUnix": 1747852200000
+  },
+  {
     "title": "Totorro + Guests",
     "date": "24th May 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/totorro-guests/",
     "dateUnix": 1748111400000
+  },
+  {
+    "title": "Andrew Cushin",
+    "date": "30 MAY 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/andrew-cushin-love-is-for-everyone-tour-2025/event/zozg",
+    "dateUnix": 1748559600000
+  },
+  {
+    "title": "Sanctum Sanctorium : The Dark Side Of The 80's",
+    "date": "27 JUN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sanctum-sanctorium-the-dark-side-of-the-80s-citadel-spring-2025/event/z9tm",
+    "dateUnix": 1750978800000
+  },
+  {
+    "title": "Brighton Psych Fest",
+    "date": "29th August 2025 - 2:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/brighton-psych-fest-2/",
+    "dateUnix": 1756472400000
   }
 ]
