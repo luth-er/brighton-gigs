@@ -138,15 +138,15 @@ const scrapeChalk = async () => {
 
 // Scrape Folklore Rooms.
 const scrapeFolkloreRooms = async () => {
-  const url = "https://www.folkloresessions.co.uk/event-list";
+  const url = "https://www.thefolklorerooms.co.uk/listings";
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
 
-  return $('li.yPI1TJ.yGVx1i').map((_, element) => {
-    const title = $(element).find(".DjQEyU").text().trim();
-    const date = $(element).find(".v2vbgt").text().trim();
+  return $('.Zc7IjY').map((_, element) => {
+    const title = $(element).find("h2").text().trim();
+    const date = $(element).find(".HcOXKn p span span span").text().trim();
     const venue = 'Folklore Rooms';
-    const link = $(element).find(".DjQEyU").attr('href');
+    const link = $(element).find(".wixui-button").attr('href');
 
     let dateUnix;
     try {
