@@ -148,17 +148,60 @@ const scrapeFolkloreRooms = async () => {
     const venue = 'Folklore Rooms';
     const link = $(element).find(".wixui-button").attr('href');
 
-    // Clean up the date format if needed
-    // Sometimes the date might have extra information or formatting
-    // that our parser can't handle directly
-    date = date.replace(/\s+/g, ' ').trim(); // Normalize whitespace
-
-    let dateUnix;
-    try {
-      dateUnix = toUnixTimestamp(date); // Convert date to Unix timestamp
-    } catch (error) {
-      console.error(`Error parsing date for event "${title}": ${error.message}`);
-      dateUnix = null;
+// Handle Folklore Rooms date format directly
+    // Format: "Tuesday 11 March 2025"
+    let dateUnix = null;
+    
+    if (date) {
+      try {
+        // Parse the date directly for the format "Tuesday 11 March 2025"
+        const folkloreRegex = /^([A-Za-z]+)\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})$/i;
+        const match = date.match(folkloreRegex);
+        
+        if (match) {
+          const [_, weekday, day, monthStr, year] = match;
+          
+          // Month name to number mapping
+          const months = {
+            'january': 0, 'jan': 0,
+            'february': 1, 'feb': 1,
+            'march': 2, 'mar': 2,
+            'april': 3, 'apr': 3,
+            'may': 4,
+            'june': 5, 'jun': 5,
+            'july': 6, 'jul': 6,
+            'august': 7, 'aug': 7,
+            'september': 8, 'sep': 8, 'sept': 8,
+            'october': 9, 'oct': 9,
+            'november': 10, 'nov': 10,
+            'december': 11, 'dec': 11
+          };
+          
+          const month = months[monthStr.toLowerCase()];
+          
+          if (month !== undefined) {
+            const folklore_date = new Date(parseInt(year), month, parseInt(day));
+            dateUnix = folklore_date.getTime();
+            console.log(`Successfully parsed Folklore date: ${folklore_date.toISOString()}`);
+          } else {
+            console.error(`Could not recognize month: ${monthStr}`);
+          }
+        } else {
+          console.error(`Date doesn't match expected format: ${date}`);
+        }
+      } catch (error) {
+        console.error(`Error parsing Folklore date: ${error.message}`);
+      }
+      
+      // If direct parsing failed, try using the standard parser as fallback
+      if (!dateUnix) {
+        try {
+          dateUnix = toUnixTimestamp(date);
+        } catch (error) {
+          console.error(`Fallback date parsing failed: ${error.message}`);
+          dateUnix = null;
+        }
+      }
     }
 
     return { title, date, venue, link, dateUnix };
