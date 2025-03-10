@@ -171,6 +171,26 @@ const toUnixTimestamp = (input) => {
                 }
             }
         }
+        
+        // Format: "Monday 10 March 2025" or "Tuesday 11 March 2025"
+        const fullDateRegex = /^([A-Za-z]+)\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})$/i;
+        const fullDateMatch = input.match(fullDateRegex);
+        if (fullDateMatch) {
+            const [_, , day, monthStr, year] = fullDateMatch;
+            const month = months[monthStr.toLowerCase()];
+            
+            if (month !== undefined) {
+                date = new Date(
+                    parseInt(year),
+                    month,
+                    parseInt(day)
+                );
+                date.setHours(0, 0, 0, 0);
+                if (!isNaN(date.getTime())) {
+                    return date.getTime();
+                }
+            }
+        }
 
         // Handle relative time formats like "2 days ago", "yesterday", etc.
         const relativeTimeRegex = /^(\d+)?\s*(second|minute|hour|day|week|month|year)s?\s+ago$/i;

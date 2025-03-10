@@ -148,6 +148,11 @@ const scrapeFolkloreRooms = async () => {
     const venue = 'Folklore Rooms';
     const link = $(element).find(".wixui-button").attr('href');
 
+    // Clean up the date format if needed
+    // Sometimes the date might have extra information or formatting
+    // that our parser can't handle directly
+    date = date.replace(/\s+/g, ' ').trim(); // Normalize whitespace
+
     let dateUnix;
     try {
       dateUnix = toUnixTimestamp(date); // Convert date to Unix timestamp
