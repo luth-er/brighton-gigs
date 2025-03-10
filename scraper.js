@@ -23,8 +23,8 @@ const scrapeSites = async () => {
   allEvents.push(...chalkEvents);
 
   // Folklore Rooms
-  const folkloreRoomsEvents = await scrapeFolkloreRooms();
-  allEvents.push(...folkloreRoomsEvents);
+  // const folkloreRoomsEvents = await scrapeFolkloreRooms();
+  // allEvents.push(...folkloreRoomsEvents);
 
   // Sort all events by date
   allEvents.sort((a, b) => {
@@ -117,12 +117,12 @@ const scrapeChalk = async () => {
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
 
-  return $('.grid.grid-cols-1.items-start.gap-6 .grid.h-full.grid-cols-2.gap-x-4.gap-y-3.p-3.bg-chalkBlue').map((_, element) => {
-    const title = $(element).find("h2.text-xl.font-semibold.uppercase.text-white").text().trim();
+  return $('.bg-chalkBlue').map((_, element) => {
+    const title = $(element).find("a h2").text().trim();
     console.log(title);
-    const date = $(element).find(".text-base").text().trim();
+    const date = $(element).find("a p.text-base").text().trim();
     const venue = 'Chalk';
-    const link = $(element).find("a.col-span-2.text-center").attr('href');
+    const link = $(element).find("a").attr('href');
 
     let dateUnix;
     try {
@@ -136,77 +136,77 @@ const scrapeChalk = async () => {
   }).get();
 };
 
-// Scrape Folklore Rooms.
-const scrapeFolkloreRooms = async () => {
-  const url = "https://www.thefolklorerooms.co.uk/listings";
-  const { data } = await axios.get(url);
-  const $ = cheerio.load(data);
+// // Scrape Folklore Rooms.
+// const scrapeFolkloreRooms = async () => {
+//   const url = "https://www.thefolklorerooms.co.uk/listings";
+//   const { data } = await axios.get(url);
+//   const $ = cheerio.load(data);
 
-  return $('.Zc7IjY').map((_, element) => {
-    const title = $(element).find("h2").text().trim();
-    const date = $(element).find(".HcOXKn p span span span").text().trim();
-    const venue = 'Folklore Rooms';
-    const link = $(element).find(".wixui-button").attr('href');
+//   return $('.Zc7IjY').map((_, element) => {
+//     const title = $(element).find("h2").text().trim();
+//     const date = $(element).find(".HcOXKn p span span span").text().trim();
+//     const venue = 'Folklore Rooms';
+//     const link = $(element).find(".wixui-button").attr('href');
 
-// Handle Folklore Rooms date format directly
-    // Format: "Tuesday 11 March 2025"
-    let dateUnix = null;
+// // Handle Folklore Rooms date format directly
+//     // Format: "Tuesday 11 March 2025"
+//     let dateUnix = null;
     
-    if (date) {
-      try {
-        // Parse the date directly for the format "Tuesday 11 March 2025"
-        const folkloreRegex = /^([A-Za-z]+)\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})$/i;
-        const match = date.match(folkloreRegex);
+//     if (date) {
+//       try {
+//         // Parse the date directly for the format "Tuesday 11 March 2025"
+//         const folkloreRegex = /^([A-Za-z]+)\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})$/i;
+//         const match = date.match(folkloreRegex);
         
-        if (match) {
-          const [_, weekday, day, monthStr, year] = match;
+//         if (match) {
+//           const [_, weekday, day, monthStr, year] = match;
           
-          // Month name to number mapping
-          const months = {
-            'january': 0, 'jan': 0,
-            'february': 1, 'feb': 1,
-            'march': 2, 'mar': 2,
-            'april': 3, 'apr': 3,
-            'may': 4,
-            'june': 5, 'jun': 5,
-            'july': 6, 'jul': 6,
-            'august': 7, 'aug': 7,
-            'september': 8, 'sep': 8, 'sept': 8,
-            'october': 9, 'oct': 9,
-            'november': 10, 'nov': 10,
-            'december': 11, 'dec': 11
-          };
+//           // Month name to number mapping
+//           const months = {
+//             'january': 0, 'jan': 0,
+//             'february': 1, 'feb': 1,
+//             'march': 2, 'mar': 2,
+//             'april': 3, 'apr': 3,
+//             'may': 4,
+//             'june': 5, 'jun': 5,
+//             'july': 6, 'jul': 6,
+//             'august': 7, 'aug': 7,
+//             'september': 8, 'sep': 8, 'sept': 8,
+//             'october': 9, 'oct': 9,
+//             'november': 10, 'nov': 10,
+//             'december': 11, 'dec': 11
+//           };
           
-          const month = months[monthStr.toLowerCase()];
+//           const month = months[monthStr.toLowerCase()];
           
-          if (month !== undefined) {
-            const folklore_date = new Date(parseInt(year), month, parseInt(day));
-            dateUnix = folklore_date.getTime();
-            console.log(`Successfully parsed Folklore date: ${folklore_date.toISOString()}`);
-          } else {
-            console.error(`Could not recognize month: ${monthStr}`);
-          }
-        } else {
-          console.error(`Date doesn't match expected format: ${date}`);
-        }
-      } catch (error) {
-        console.error(`Error parsing Folklore date: ${error.message}`);
-      }
+//           if (month !== undefined) {
+//             const folklore_date = new Date(parseInt(year), month, parseInt(day));
+//             dateUnix = folklore_date.getTime();
+//             console.log(`Successfully parsed Folklore date: ${folklore_date.toISOString()}`);
+//           } else {
+//             console.error(`Could not recognize month: ${monthStr}`);
+//           }
+//         } else {
+//           console.error(`Date doesn't match expected format: ${date}`);
+//         }
+//       } catch (error) {
+//         console.error(`Error parsing Folklore date: ${error.message}`);
+//       }
       
-      // If direct parsing failed, try using the standard parser as fallback
-      if (!dateUnix) {
-        try {
-          dateUnix = toUnixTimestamp(date);
-        } catch (error) {
-          console.error(`Fallback date parsing failed: ${error.message}`);
-          dateUnix = null;
-        }
-      }
-    }
+//       // If direct parsing failed, try using the standard parser as fallback
+//       if (!dateUnix) {
+//         try {
+//           dateUnix = toUnixTimestamp(date);
+//         } catch (error) {
+//           console.error(`Fallback date parsing failed: ${error.message}`);
+//           dateUnix = null;
+//         }
+//       }
+//     }
 
-    return { title, date, venue, link, dateUnix };
-  }).get();
-}
+//     return { title, date, venue, link, dateUnix };
+//   }).get();
+// }
 
 // Start the scraping
 scrapeSites();
