@@ -2,8 +2,8 @@ name: Update Brighton Gigs
 
 on:
   schedule:
-    # Run daily at 10pm
-    - cron: '0 22 * * *'
+    # Run daily at 3 AM UTC (adjust as needed)
+    - cron: '0 3 * * *'
   # Optional: Allow manual trigger
   workflow_dispatch:
 
@@ -36,3 +36,14 @@ jobs:
           git add events.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update events data - $(date +'%Y-%m-%d')"
           git push
+          
+      - name: Handle Errors
+        if: failure()
+        run: |
+          echo "::warning::Scraper script failed to run successfully."
+          
+      - name: Summary
+        if: success()
+        run: |
+          echo "✅ Successfully updated events data"
+          echo "Updated event count: $(cat events.json | grep -c 'title')"
