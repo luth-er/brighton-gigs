@@ -22,6 +22,10 @@ const scrapeSites = async () => {
   const chalkEvents = await scrapeChalk();
   allEvents.push(...chalkEvents);
 
+  // Patterns
+  const patternsEvents = await scrapePatterns();
+  allEvents.push(...patternsEvents);
+
   // Folklore Rooms
   // const folkloreRoomsEvents = await scrapeFolkloreRooms();
   // allEvents.push(...folkloreRoomsEvents);
@@ -40,6 +44,7 @@ const scrapeSites = async () => {
   console.log('Data has been written to events.json');
 };
 
+// Scrape Hope & Ruin
 const scrapeHopeRuin = async () => {
   const url = "https://www.hope.pub/events/";
   const { data } = await axios.get(url);
@@ -63,6 +68,7 @@ const scrapeHopeRuin = async () => {
   }).get();
 };
 
+// Scrape Green Door Store
 const scrapeGreenDoor = async () => {
   const url = "https://thegreendoorstore.co.uk/events/";
   const { data } = await axios.get(url);
@@ -86,6 +92,7 @@ const scrapeGreenDoor = async () => {
   }).get();
 };
 
+// Scrape Concorde 2
 const scrapeConcordeTwo = async () => {
   const url = "https://www.gigseekr.com/uk/en/brighton/concorde-2/venue/jk";
   const { data } = await axios.get(url);
@@ -112,6 +119,7 @@ const scrapeConcordeTwo = async () => {
   }).get();
 };
 
+// Scrape Chalk
 const scrapeChalk = async () => {
   const url = "https://chalkvenue.com/live";
   const { data } = await axios.get(url);
@@ -123,6 +131,30 @@ const scrapeChalk = async () => {
     const date = $(element).find("a p.text-base").text().trim();
     const venue = 'Chalk';
     const link = $(element).find("a").attr('href');
+
+    let dateUnix;
+    try {
+      dateUnix = toUnixTimestamp(date); // Convert date to Unix timestamp
+    } catch (error) {
+      console.error(`Error parsing date for event "${title}": ${error.message}`);
+      dateUnix = null;
+    }
+
+    return { title, date, venue, link, dateUnix };
+  }).get();
+};
+
+// Scrape Patterns
+const scrapePatterns = async () => {
+  const url = "https://patternsbrighton.com/club";
+  const { data } = await axios.get(url);
+  const $ = cheerio.load(data);
+
+  return $('article').map((_, element) => {
+    const title = $(element).find(".dice_event-title").text().trim();
+    const date = $(element).find("time").text().trim();
+    const venue = 'Patterns';
+    const link = $(element).find(".dice_event-title").attr('href');
 
     let dateUnix;
     try {

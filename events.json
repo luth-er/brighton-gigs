@@ -1,23 +1,9 @@
 [
   {
-    "title": "ism",
-    "date": "Mon, 10 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/ism/",
-    "dateUnix": 1741564800000
-  },
-  {
     "title": "Dread FM",
     "date": "Tue, 11 Mar 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/dread-fm/",
-    "dateUnix": 1741651200000
-  },
-  {
-    "title": "Stiff Little Fingers",
-    "date": "11 MAR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/stiff-little-fingers-flame-in-the-heart-tour/event/qw22",
     "dateUnix": 1741651200000
   },
   {
@@ -173,6 +159,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/rise-with-be-nce-leibniz-florescent-bella-artois/",
     "dateUnix": 1742497200000
+  },
+  {
+    "title": "Find Joy: Y + Rabbitfoot",
+    "date": "Fri, 21 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/find-joy-y-rabbitfoot/",
+    "dateUnix": 1742515200000
   },
   {
     "title": "Amongst Liars + Dear Tash",
