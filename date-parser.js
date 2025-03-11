@@ -102,6 +102,15 @@ const toUnixTimestamp = (input) => {
         if (result) return result;
       }
       
+      // ---- PATTERN 2B: WEEKDAY WITH ORDINAL DATE ----
+      // Example: "Tuesday 11th March, 2025"
+      const weekdayOrdinalDatePattern = /^(?:[A-Za-z]+)\s+(?<day>\d{1,2})(?:st|nd|rd|th)\s+(?<monthName>[A-Za-z]+)(?:,)?\s+(?<year>\d{4})$/i;
+      const weekdayOrdinalMatch = input.match(weekdayOrdinalDatePattern);
+      if (weekdayOrdinalMatch) {
+        const result = parseResult(weekdayOrdinalMatch, weekdayOrdinalMatch.groups.monthName, false);
+        if (result) return result;
+      }
+      
       // ---- PATTERN 3: WEEKDAY WITH DATE AND TIME ----
       // Example: "Fri 14 Mar ― 7:00pm" or "Fri 14 Mar - 7:00 pm"
       const weekdayDateTimePattern = /^(?:[A-Za-z]+)\s+(?<day>\d{1,2})\s+(?<monthName>[A-Za-z]+)(?:\s+[-–—]\s*|\s*[-–—]\s+)(?<hour>\d{1,2}):(?<minute>\d{2})(?:\s*)?(?<meridiem>am|pm)$/i;

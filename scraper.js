@@ -27,8 +27,8 @@ const scrapeSites = async () => {
   allEvents.push(...patternsEvents);
 
   // Folklore Rooms
-  // const folkloreRoomsEvents = await scrapeFolkloreRooms();
-  // allEvents.push(...folkloreRoomsEvents);
+  const folkloreRoomsEvents = await scrapeFolkloreRooms();
+  allEvents.push(...folkloreRoomsEvents);
 
   // Sort all events by date
   allEvents.sort((a, b) => {
@@ -155,6 +155,32 @@ const scrapePatterns = async () => {
     const date = $(element).find("time").text().trim();
     const venue = 'Patterns';
     const link = $(element).find(".dice_event-title").attr('href');
+    // For debugging
+    console.log(`Patterns - Found event: "${title}", date: "${date}", link: "${link}"`);
+
+    let dateUnix;
+    try {
+      dateUnix = toUnixTimestamp(date); // Convert date to Unix timestamp
+    } catch (error) {
+      console.error(`Error parsing date for event "${title}": ${error.message}`);
+      dateUnix = null;
+    }
+
+    return { title, date, venue, link, dateUnix };
+  }).get().filter(event => event.title && event.date); // Filter out any events that are missing title or date
+};
+
+// Scrape Folklore Rooms.
+const scrapeFolkloreRooms = async () => {
+  const url = "https://wegottickets.com/location/23904";
+  const { data } = await axios.get(url);
+  const $ = cheerio.load(data);
+
+  return $('.content.block-group.chatterbox-margin').map((_, element) => {
+    const title = $(element).find("h2 a").text().trim();
+    const date = $(element).find(".venue-details tr:nth-child(1) td").text().trim();
+    const venue = 'Folklore Rooms';
+    const link = $(element).find(".button").attr('href');
 
     let dateUnix;
     try {
@@ -167,78 +193,6 @@ const scrapePatterns = async () => {
     return { title, date, venue, link, dateUnix };
   }).get();
 };
-
-// // Scrape Folklore Rooms.
-// const scrapeFolkloreRooms = async () => {
-//   const url = "https://www.thefolklorerooms.co.uk/listings";
-//   const { data } = await axios.get(url);
-//   const $ = cheerio.load(data);
-
-//   return $('.Zc7IjY').map((_, element) => {
-//     const title = $(element).find("h2").text().trim();
-//     const date = $(element).find(".HcOXKn p span span span").text().trim();
-//     const venue = 'Folklore Rooms';
-//     const link = $(element).find(".wixui-button").attr('href');
-
-// // Handle Folklore Rooms date format directly
-//     // Format: "Tuesday 11 March 2025"
-//     let dateUnix = null;
-    
-//     if (date) {
-//       try {
-//         // Parse the date directly for the format "Tuesday 11 March 2025"
-//         const folkloreRegex = /^([A-Za-z]+)\s+(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})$/i;
-//         const match = date.match(folkloreRegex);
-        
-//         if (match) {
-//           const [_, weekday, day, monthStr, year] = match;
-          
-//           // Month name to number mapping
-//           const months = {
-//             'january': 0, 'jan': 0,
-//             'february': 1, 'feb': 1,
-//             'march': 2, 'mar': 2,
-//             'april': 3, 'apr': 3,
-//             'may': 4,
-//             'june': 5, 'jun': 5,
-//             'july': 6, 'jul': 6,
-//             'august': 7, 'aug': 7,
-//             'september': 8, 'sep': 8, 'sept': 8,
-//             'october': 9, 'oct': 9,
-//             'november': 10, 'nov': 10,
-//             'december': 11, 'dec': 11
-//           };
-          
-//           const month = months[monthStr.toLowerCase()];
-          
-//           if (month !== undefined) {
-//             const folklore_date = new Date(parseInt(year), month, parseInt(day));
-//             dateUnix = folklore_date.getTime();
-//             console.log(`Successfully parsed Folklore date: ${folklore_date.toISOString()}`);
-//           } else {
-//             console.error(`Could not recognize month: ${monthStr}`);
-//           }
-//         } else {
-//           console.error(`Date doesn't match expected format: ${date}`);
-//         }
-//       } catch (error) {
-//         console.error(`Error parsing Folklore date: ${error.message}`);
-//       }
-      
-//       // If direct parsing failed, try using the standard parser as fallback
-//       if (!dateUnix) {
-//         try {
-//           dateUnix = toUnixTimestamp(date);
-//         } catch (error) {
-//           console.error(`Fallback date parsing failed: ${error.message}`);
-//           dateUnix = null;
-//         }
-//       }
-//     }
-
-//     return { title, date, venue, link, dateUnix };
-//   }).get();
-// }
 
 // Start the scraping
 scrapeSites();
