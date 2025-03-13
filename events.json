@@ -1,26 +1,5 @@
 [
   {
-    "title": "Josh Fest 3",
-    "date": "Wed, 12 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/josh-fest-3/",
-    "dateUnix": 1741737600000
-  },
-  {
-    "title": "This Will Destroy You",
-    "date": "12 MAR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/this-will-destroy-you-20th-anniversary-tour/event/qz29",
-    "dateUnix": 1741737600000
-  },
-  {
-    "title": "H&R ONE’S 2 WATCH: FEVER ROUGE + M.WOODROE + SCRUFF",
-    "date": "12th March 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hr-ones-2-watch-fever-rouge-m-woodroe-scruff/",
-    "dateUnix": 1741807800000
-  },
-  {
     "title": "The Pale White *LOW TICKETS*",
     "date": "Thu, 13 Mar 2025",
     "venue": "Green Door Store",
@@ -173,6 +152,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/amongst-liars-dear-tash/",
     "dateUnix": 1742585400000
+  },
+  {
+    "title": "Haywire",
+    "date": "Sat, 22 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/haywire/",
+    "dateUnix": 1742601600000
   },
   {
     "title": "Thank + Kal Marks",
@@ -651,6 +637,13 @@
     "dateUnix": 1756476000000
   },
   {
+    "title": "Fun Lovin' Criminals",
+    "date": "07 SEP 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/fun-lovin-criminals-a-matter-of-time-tour-2025/event/zco7",
+    "dateUnix": 1757203200000
+  },
+  {
     "title": "Senser",
     "date": "13th September 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -691,6 +684,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/stone-foundation-2025-tour/event/zyjh",
     "dateUnix": 1761350400000
+  },
+  {
+    "title": "Cardinal Black",
+    "date": "28 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/cardinal-black-the-midnight-at-the-valencia-tour/event/zdwg",
+    "dateUnix": 1761609600000
   },
   {
     "title": "The Cinelli Brothers",
