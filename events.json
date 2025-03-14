@@ -1,26 +1,5 @@
 [
   {
-    "title": "The Pale White *LOW TICKETS*",
-    "date": "Thu, 13 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-pale-white/",
-    "dateUnix": 1741824000000
-  },
-  {
-    "title": "Nieve Ella",
-    "date": "13 MAR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nieve-ella-watch-it-ache-and-bleed-tour/event/qenu",
-    "dateUnix": 1741824000000
-  },
-  {
-    "title": "Sans Beanstalk",
-    "date": "13th March 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/sans-beanstalk/",
-    "dateUnix": 1741892400000
-  },
-  {
     "title": "Nagasaki Dog",
     "date": "Fri, 14 Mar 2025",
     "venue": "Green Door Store",
@@ -161,6 +140,13 @@
     "dateUnix": 1742601600000
   },
   {
+    "title": "It Is Still 1985",
+    "date": "Sat, 22 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-9/",
+    "dateUnix": 1742601600000
+  },
+  {
     "title": "Thank + Kal Marks",
     "date": "22nd March 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -180,13 +166,6 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/real-farmer/",
     "dateUnix": 1742932800000
-  },
-  {
-    "title": "POP & A PINT – Painting Workshop",
-    "date": "26th March 2025 - 6:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/pop-a-pint-painting-workshop-2/",
-    "dateUnix": 1743013800000
   },
   {
     "title": "Tillie",
@@ -567,6 +546,13 @@
     "dateUnix": 1748563200000
   },
   {
+    "title": "Shonen Knife",
+    "date": "01 JUN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/shonen-knife-have-a-knife-day-tour/event/zc95",
+    "dateUnix": 1748736000000
+  },
+  {
     "title": "Pachyman + Support",
     "date": "4th June 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -621,6 +607,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/allie-x-euuk-summer-tour/event/zb6g",
     "dateUnix": 1752192000000
+  },
+  {
+    "title": "Seany Clarke - Album Launch Show",
+    "date": "Thursday 24th July, 2025",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/653859",
+    "dateUnix": 1753315200000
   },
   {
     "title": "Retirement Party + Carly Cosgrove",
