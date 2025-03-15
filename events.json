@@ -1,31 +1,10 @@
 [
   {
-    "title": "Nagasaki Dog",
-    "date": "Fri, 14 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/nagasaki-dog/",
-    "dateUnix": 1741910400000
-  },
-  {
     "title": "i f***ing h8 clubbing",
     "date": "Fri, 14 Mar 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing/",
     "dateUnix": 1741910400000
-  },
-  {
-    "title": "New Purple Celebration",
-    "date": "14 MAR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/new-purple-celebration-2025-tour/event/zuru",
-    "dateUnix": 1741910400000
-  },
-  {
-    "title": "Rosaline Cunningham",
-    "date": "14th March 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/rosaline-cunningham/",
-    "dateUnix": 1741980600000
   },
   {
     "title": "Tormenta Fest: Banisher",
@@ -152,6 +131,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/thank-kal-marks/",
     "dateUnix": 1742673600000
+  },
+  {
+    "title": "Fat Lloyd- Single Release Show",
+    "date": "Mon, 24 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/fat-lloyd-single-release-show/",
+    "dateUnix": 1742774400000
   },
   {
     "title": "Goetia",
@@ -530,6 +516,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/planthood/",
     "dateUnix": 1748202300000
+  },
+  {
+    "title": "Seafret",
+    "date": "27th May 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/seafret/",
+    "dateUnix": 1748374200000
   },
   {
     "title": "The Sheepdogs",
