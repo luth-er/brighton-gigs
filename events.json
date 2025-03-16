@@ -1,31 +1,10 @@
 [
   {
-    "title": "i f***ing h8 clubbing",
-    "date": "Fri, 14 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing/",
-    "dateUnix": 1741910400000
-  },
-  {
-    "title": "Tormenta Fest: Banisher",
-    "date": "Sat, 15 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/tormenta-fest-banisher/",
-    "dateUnix": 1741996800000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 15 Mar 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-8/",
     "dateUnix": 1741996800000
-  },
-  {
-    "title": "The Hooten Hallers + Support",
-    "date": "15th March 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-hooten-hallers-support/",
-    "dateUnix": 1742068800000
   },
   {
     "title": "The Getaway",
@@ -147,11 +126,25 @@
     "dateUnix": 1742846400000
   },
   {
+    "title": "Revolt Brighton Palestine Fundraiser: Velvetine + more",
+    "date": "Tue, 25 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/revolt-brighton-palestine-fundraiser-velvetine-more/",
+    "dateUnix": 1742860800000
+  },
+  {
     "title": "Real Farmer + Magda",
     "date": "25th March 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/real-farmer/",
     "dateUnix": 1742932800000
+  },
+  {
+    "title": "ELLiS D *LOW TICKETS*",
+    "date": "Wed, 26 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/ellis-d/",
+    "dateUnix": 1742947200000
   },
   {
     "title": "Tillie",
