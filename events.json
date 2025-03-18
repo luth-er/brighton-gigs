@@ -1,12 +1,5 @@
 [
   {
-    "title": "Discordants + Modessa + Room 3",
-    "date": "17th March 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/discordants-modessa-room-3/",
-    "dateUnix": 1742238000000
-  },
-  {
     "title": "Faux Real *LOW TICKETS*",
     "date": "Tue, 18 Mar 2025",
     "venue": "Green Door Store",
@@ -19,6 +12,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/glaive-2025-tour/event/qsdj",
     "dateUnix": 1742256000000
+  },
+  {
+    "title": "Distress Call + Elandra + Carva",
+    "date": "18th March 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/distress-call-elandra-carva/",
+    "dateUnix": 1742328000000
   },
   {
     "title": "Telecom",
