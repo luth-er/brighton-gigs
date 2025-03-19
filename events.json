@@ -1,26 +1,5 @@
 [
   {
-    "title": "Faux Real *LOW TICKETS*",
-    "date": "Tue, 18 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/faux-real/",
-    "dateUnix": 1742256000000
-  },
-  {
-    "title": "Glaive",
-    "date": "18 MAR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/glaive-2025-tour/event/qsdj",
-    "dateUnix": 1742256000000
-  },
-  {
-    "title": "Distress Call + Elandra + Carva",
-    "date": "18th March 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/distress-call-elandra-carva/",
-    "dateUnix": 1742328000000
-  },
-  {
     "title": "Telecom",
     "date": "Wed, 19 Mar 2025",
     "venue": "Green Door Store",
@@ -161,6 +140,13 @@
     "dateUnix": 1743120000000
   },
   {
+    "title": "that’s f***ing rubbish- lady gaga vs joy division",
+    "date": "Fri, 28 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish/",
+    "dateUnix": 1743120000000
+  },
+  {
     "title": "Charles Moothart",
     "date": "28th March 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -264,6 +250,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/codex-serafini-kulk-crowgod/",
     "dateUnix": 1744659000000
+  },
+  {
+    "title": "Keywest",
+    "date": "16th April 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/keywest-2/",
+    "dateUnix": 1744831800000
   },
   {
     "title": "Amplify Her Showcase",
