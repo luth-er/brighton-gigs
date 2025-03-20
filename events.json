@@ -1,19 +1,5 @@
 [
   {
-    "title": "Telecom",
-    "date": "Wed, 19 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/telecom/",
-    "dateUnix": 1742342400000
-  },
-  {
-    "title": "Ghost Funk Orchestra",
-    "date": "19th March 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/ghost-funk-orchestra/",
-    "dateUnix": 1742414400000
-  },
-  {
     "title": "Bighead Tea Drinkers",
     "date": "Thu, 20 Mar 2025",
     "venue": "Green Door Store",
@@ -42,6 +28,13 @@
     "dateUnix": 1742515200000
   },
   {
+    "title": "Chris Moyles",
+    "date": "21 MAR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/chris-moyles-90s-hangover/event/zxt4",
+    "dateUnix": 1742515200000
+  },
+  {
     "title": "This Machine Kills Wasps",
     "date": "Friday 21st March, 2025",
     "venue": "Folklore Rooms",
@@ -67,6 +60,13 @@
     "date": "Sat, 22 Mar 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-9/",
+    "dateUnix": 1742601600000
+  },
+  {
+    "title": "Arctic Numpties",
+    "date": "22 MAR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/arctic-numpties/event/zxtr",
     "dateUnix": 1742601600000
   },
   {
@@ -147,11 +147,32 @@
     "dateUnix": 1743120000000
   },
   {
+    "title": "Craig Charles",
+    "date": "28 MAR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/craig-charles-funk-and-soul-house-party/event/zxte",
+    "dateUnix": 1743120000000
+  },
+  {
     "title": "Charles Moothart",
     "date": "28th March 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/charles-moothart/",
     "dateUnix": 1743192000000
+  },
+  {
+    "title": "Danny & The Champions of The World *LOW TICKETS*",
+    "date": "Sat, 29 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/danny-the-champions-of-the-world/",
+    "dateUnix": 1743206400000
+  },
+  {
+    "title": "Antony Szmierek",
+    "date": "29 MAR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/antony-szmierek-service-station-at-the-end-of-the-universe-to/event/zxtd",
+    "dateUnix": 1743206400000
   },
   {
     "title": "The Tubs",
@@ -187,6 +208,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hidden-herd-presents-lip-filler-bacci-pouch-slag-friktion/",
     "dateUnix": 1743623100000
+  },
+  {
+    "title": "Gok Wan",
+    "date": "04 APR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/gok-wan-dj-set/event/zxtc",
+    "dateUnix": 1743724800000
   },
   {
     "title": "Nagasaki Dog + The Veltmans + Gutterfly + Spool",
@@ -231,6 +259,13 @@
     "dateUnix": 1744313400000
   },
   {
+    "title": "Noasis",
+    "date": "11 APR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/noasis/event/zxtx",
+    "dateUnix": 1744329600000
+  },
+  {
     "title": "Hallan",
     "date": "11th April 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -238,11 +273,25 @@
     "dateUnix": 1744399800000
   },
   {
+    "title": "Police Dog Hogan",
+    "date": "12 APR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/police-dog-hogan-lightning-strike-tour/event/zxts",
+    "dateUnix": 1744416000000
+  },
+  {
     "title": "HOMEGROWN FESTIVAL 2025",
     "date": "12th April 2025 - 2:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/homegrown-festival-2025/",
     "dateUnix": 1744468200000
+  },
+  {
+    "title": "Father John Misty",
+    "date": "14 APR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/father-john-misty-acoustic-matinee-show/event/zx4o",
+    "dateUnix": 1744588800000
   },
   {
     "title": "Codex Serafini + Kulk + Crowgod",
@@ -271,6 +320,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/boys-wonder/",
     "dateUnix": 1745006400000
+  },
+  {
+    "title": "A Tribute to Amy",
+    "date": "19 APR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/a-tribute-to-amy/event/zx48",
+    "dateUnix": 1745020800000
   },
   {
     "title": "The Undercover Hippy",
@@ -306,6 +362,20 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/outlander-haal/",
     "dateUnix": 1745452800000
+  },
+  {
+    "title": "Shaun Williamson",
+    "date": "25 APR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/shaun-williamson-barrioke/event/zx4k",
+    "dateUnix": 1745539200000
+  },
+  {
+    "title": "Mungo's Hifi",
+    "date": "25 APR 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/mungos-hifi/event/zx47",
+    "dateUnix": 1745539200000
   },
   {
     "title": "TeenageWaitress.PPT -A Rock'n'Roll Powerpoint On Songs : Live at The Folklore Rooms, Brighton",
@@ -364,6 +434,13 @@
     "dateUnix": 1746144000000
   },
   {
+    "title": "Macky Gee",
+    "date": "02 MAY 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/macky-gee/event/zx46",
+    "dateUnix": 1746144000000
+  },
+  {
     "title": "Bones Ate Arfa + Slag",
     "date": "2nd May 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -413,6 +490,13 @@
     "dateUnix": 1746662400000
   },
   {
+    "title": "Beatles Dub Club",
+    "date": "09 MAY 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/beatles-dub-club/event/zx44",
+    "dateUnix": 1746748800000
+  },
+  {
     "title": "David Lance Callahan",
     "date": "9th May 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -434,6 +518,13 @@
     "dateUnix": 1746907200000
   },
   {
+    "title": "Walter Trout",
+    "date": "11 MAY 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/walter-trout-may-tour-2025/event/zx43",
+    "dateUnix": 1746921600000
+  },
+  {
     "title": "The Great Escape 2025 – Wednesday",
     "date": "14th May 2025 - 6:00 pm",
     "venue": "Hope & Ruin",
@@ -453,6 +544,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-great-escape-2025-friday/",
     "dateUnix": 1747396800000
+  },
+  {
+    "title": "Rhythm Of The 90s",
+    "date": "17 MAY 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/rhythm-of-the-90s/event/zx4d",
+    "dateUnix": 1747440000000
   },
   {
     "title": "The Great Escape 2025 – Saturday",
@@ -483,6 +581,13 @@
     "dateUnix": 1747855800000
   },
   {
+    "title": "CocoRosie",
+    "date": "23 MAY 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/cocorosie-little-death-wishes-tour-2025/event/zx4c",
+    "dateUnix": 1747958400000
+  },
+  {
     "title": "Sweet Pill",
     "date": "23rd May 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -497,11 +602,25 @@
     "dateUnix": 1748115000000
   },
   {
+    "title": "4am Kru",
+    "date": "25 MAY 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/4am-kru/event/zx4a",
+    "dateUnix": 1748131200000
+  },
+  {
     "title": "Planthood",
     "date": "25th May 2025 - 7:45 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/planthood/",
     "dateUnix": 1748202300000
+  },
+  {
+    "title": "Michael Monroe",
+    "date": "27 MAY 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/michael-monroe-uk-tour-may-2025/event/zx4z",
+    "dateUnix": 1748304000000
   },
   {
     "title": "Seafret",
@@ -516,6 +635,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-sheepdogs-uk-spring-2025/event/zrd7",
     "dateUnix": 1748390400000
+  },
+  {
+    "title": "The Altons & Thee Sinseers",
+    "date": "29 MAY 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-altons-thee-sinseers-club-heartache-2025-tour/event/zxrh",
+    "dateUnix": 1748476800000
   },
   {
     "title": "Andrew Cushin",
@@ -539,11 +665,39 @@
     "dateUnix": 1749067200000
   },
   {
+    "title": "KRS-One",
+    "date": "05 JUN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/krs-one-european-tour/event/zxrz",
+    "dateUnix": 1749081600000
+  },
+  {
+    "title": "Absolute Bowie",
+    "date": "06 JUN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/absolute-bowie/event/zxek",
+    "dateUnix": 1749168000000
+  },
+  {
+    "title": "8MH - Green Diesel, The Wicthcraft & Vagrancy Act, Bity Booker - Folklore Rooms",
+    "date": "Friday 6th June, 2025",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/654423",
+    "dateUnix": 1749168000000
+  },
+  {
     "title": "Pozi + For Breakfast + Big Long Sun + Speedial",
     "date": "6th June 2025 - 8:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/pozi-for-breakfast-big-long-sun-speedial/",
     "dateUnix": 1749241800000
+  },
+  {
+    "title": "Vivid People Brighton Weekender",
+    "date": "07 JUN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/vivid-people-brighton-weekender/event/zxey",
+    "dateUnix": 1749254400000
   },
   {
     "title": "Peter Bruntnell",
@@ -553,11 +707,32 @@
     "dateUnix": 1749409200000
   },
   {
+    "title": "Alien Ant Farm",
+    "date": "17 JUN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/alien-ant-farm-europe-uk-tour/event/zxev",
+    "dateUnix": 1750118400000
+  },
+  {
     "title": "Natty",
     "date": "19 JUN 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/natty-the-divine-trinity-uk-tour/event/qzk7",
     "dateUnix": 1750291200000
+  },
+  {
+    "title": "Stipe",
+    "date": "20 JUN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/stipe/event/zxeb",
+    "dateUnix": 1750377600000
+  },
+  {
+    "title": "Deptford Northern Soul Club",
+    "date": "21 JUN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/deptford-northern-soul-club/event/zxeg",
+    "dateUnix": 1750464000000
   },
   {
     "title": "Sanctum Sanctorium : The Dark Side Of The 80's",
@@ -581,6 +756,13 @@
     "dateUnix": 1751137200000
   },
   {
+    "title": "The Luke Combs Experience",
+    "date": "04 JUL 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-luke-combs-experience/event/zxet",
+    "dateUnix": 1751587200000
+  },
+  {
     "title": "Allie X",
     "date": "11 JUL 2025",
     "venue": "Concorde 2",
@@ -595,11 +777,39 @@
     "dateUnix": 1753315200000
   },
   {
+    "title": "JJ Grey & Mofro",
+    "date": "06 AUG 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/jj-grey-and-mofro-olustee-tour-2025/event/zxed",
+    "dateUnix": 1754438400000
+  },
+  {
     "title": "Retirement Party + Carly Cosgrove",
     "date": "7th August 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/retirement-party-carly-cosgrove/",
     "dateUnix": 1754595000000
+  },
+  {
+    "title": "The Madchester Experience",
+    "date": "15 AUG 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-madchester-experience/event/zxec",
+    "dateUnix": 1755216000000
+  },
+  {
+    "title": "The Jam'd",
+    "date": "22 AUG 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-jamd-brighton-bank-holiday-friday-jam-special/event/zxex",
+    "dateUnix": 1755820800000
+  },
+  {
+    "title": "Greg Wilson",
+    "date": "24 AUG 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/greg-wilson/event/zxew",
+    "dateUnix": 1755993600000
   },
   {
     "title": "Brighton Psych Fest",
@@ -609,6 +819,13 @@
     "dateUnix": 1756476000000
   },
   {
+    "title": "The Smyths",
+    "date": "30 AUG 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-smyths-meat-is-murder-40/event/zx39",
+    "dateUnix": 1756512000000
+  },
+  {
     "title": "Fun Lovin' Criminals",
     "date": "07 SEP 2025",
     "venue": "Concorde 2",
@@ -616,11 +833,32 @@
     "dateUnix": 1757203200000
   },
   {
+    "title": "Emo Fest",
+    "date": "12 SEP 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/emo-fest/event/zx3i",
+    "dateUnix": 1757635200000
+  },
+  {
     "title": "Senser",
     "date": "13th September 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/senser/",
     "dateUnix": 1757791800000
+  },
+  {
+    "title": "One Night in Nashville",
+    "date": "19 SEP 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/one-night-in-nashville/event/zx3j",
+    "dateUnix": 1758240000000
+  },
+  {
+    "title": "The Guns N Roses Experience",
+    "date": "20 SEP 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-guns-n-roses-experience/event/zx3n",
+    "dateUnix": 1758326400000
   },
   {
     "title": "Sleeper",
@@ -637,6 +875,13 @@
     "dateUnix": 1758758400000
   },
   {
+    "title": "Dirty DC",
+    "date": "27 SEP 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/dirty-dc/event/zx3h",
+    "dateUnix": 1758931200000
+  },
+  {
     "title": "Dirty Nice",
     "date": "8th October 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -644,38 +889,10 @@
     "dateUnix": 1759951800000
   },
   {
-    "title": "Sleeper",
-    "date": "18 OCT 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sleeper-inbetweener-tour-2025/event/zy2s",
-    "dateUnix": 1760745600000
-  },
-  {
-    "title": "Stone Foundation",
-    "date": "25 OCT 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/stone-foundation-2025-tour/event/zyjh",
-    "dateUnix": 1761350400000
-  },
-  {
-    "title": "Cardinal Black",
-    "date": "28 OCT 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/cardinal-black-the-midnight-at-the-valencia-tour/event/zdwg",
-    "dateUnix": 1761609600000
-  },
-  {
     "title": "The Cinelli Brothers",
     "date": "5th November 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-cinelli-brothers/",
     "dateUnix": 1762371000000
-  },
-  {
-    "title": "Hugh Cornwell",
-    "date": "16 NOV 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/hugh-cornwell-come-and-get-some-tour/event/ztij",
-    "dateUnix": 1763251200000
   }
 ]
