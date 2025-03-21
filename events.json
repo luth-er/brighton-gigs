@@ -1,19 +1,5 @@
 [
   {
-    "title": "Bighead Tea Drinkers",
-    "date": "Thu, 20 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/bighead-tea-drinkers/",
-    "dateUnix": 1742428800000
-  },
-  {
-    "title": "FUNDRAISER FOR TRANS PRIDE With BE N!CE + Leibniz + Could Be Ghosts +Florescent",
-    "date": "20th March 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/rise-with-be-nce-leibniz-florescent-bella-artois/",
-    "dateUnix": 1742497200000
-  },
-  {
     "title": "Find Joy: Y + Rabbitfoot",
     "date": "Fri, 21 Mar 2025",
     "venue": "Green Door Store",
@@ -75,6 +61,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/thank-kal-marks/",
     "dateUnix": 1742673600000
+  },
+  {
+    "title": "Uma Thurman",
+    "date": "Sun, 23 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/uma-thurman/",
+    "dateUnix": 1742688000000
   },
   {
     "title": "Fat Lloyd- Single Release Show",
