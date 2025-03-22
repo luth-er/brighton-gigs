@@ -1,38 +1,10 @@
 [
   {
-    "title": "Find Joy: Y + Rabbitfoot",
-    "date": "Fri, 21 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/find-joy-y-rabbitfoot/",
-    "dateUnix": 1742515200000
-  },
-  {
     "title": "Blazed & Confused",
     "date": "Fri, 21 Mar 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/blazed-confused/",
     "dateUnix": 1742515200000
-  },
-  {
-    "title": "Chris Moyles",
-    "date": "21 MAR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/chris-moyles-90s-hangover/event/zxt4",
-    "dateUnix": 1742515200000
-  },
-  {
-    "title": "This Machine Kills Wasps",
-    "date": "Friday 21st March, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/648218",
-    "dateUnix": 1742515200000
-  },
-  {
-    "title": "Amongst Liars + Dear Tash",
-    "date": "21st March 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/amongst-liars-dear-tash/",
-    "dateUnix": 1742585400000
   },
   {
     "title": "Haywire",
@@ -158,6 +130,13 @@
     "date": "Sat, 29 Mar 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/danny-the-champions-of-the-world/",
+    "dateUnix": 1743206400000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 29 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-10/",
     "dateUnix": 1743206400000
   },
   {
@@ -880,6 +859,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/dirty-nice/",
     "dateUnix": 1759951800000
+  },
+  {
+    "title": "Nirvana UK",
+    "date": "11 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nirvana-uk/event/zx3y",
+    "dateUnix": 1760140800000
   },
   {
     "title": "The Cinelli Brothers",
