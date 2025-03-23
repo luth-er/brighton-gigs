@@ -1,38 +1,10 @@
 [
   {
-    "title": "Blazed & Confused",
-    "date": "Fri, 21 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/blazed-confused/",
-    "dateUnix": 1742515200000
-  },
-  {
-    "title": "Haywire",
-    "date": "Sat, 22 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/haywire/",
-    "dateUnix": 1742601600000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 22 Mar 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-9/",
     "dateUnix": 1742601600000
-  },
-  {
-    "title": "Arctic Numpties",
-    "date": "22 MAR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/arctic-numpties/event/zxtr",
-    "dateUnix": 1742601600000
-  },
-  {
-    "title": "Thank + Kal Marks",
-    "date": "22nd March 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/thank-kal-marks/",
-    "dateUnix": 1742673600000
   },
   {
     "title": "Uma Thurman",
@@ -154,6 +126,13 @@
     "dateUnix": 1743278400000
   },
   {
+    "title": "Distress Call- Single Release Show",
+    "date": "Sun, 30 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/distress-call-single-release-show/",
+    "dateUnix": 1743292800000
+  },
+  {
     "title": "Alabama 3",
     "date": "30 MAR 2025",
     "venue": "Concorde 2",
@@ -166,6 +145,13 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/644779",
     "dateUnix": 1743292800000
+  },
+  {
+    "title": "Carousel: The Rock House",
+    "date": "Mon, 31 Mar 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/carousel-the-rock-house/",
+    "dateUnix": 1743379200000
   },
   {
     "title": "Sparring Songwriters",
@@ -866,6 +852,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nirvana-uk/event/zx3y",
     "dateUnix": 1760140800000
+  },
+  {
+    "title": "Sleeper",
+    "date": "18 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sleeper-inbetweener-tour-2025/event/zy2s",
+    "dateUnix": 1760745600000
   },
   {
     "title": "The Cinelli Brothers",
