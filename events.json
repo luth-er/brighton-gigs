@@ -1,19 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 22 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-9/",
-    "dateUnix": 1742601600000
-  },
-  {
-    "title": "Uma Thurman",
-    "date": "Sun, 23 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/uma-thurman/",
-    "dateUnix": 1742688000000
-  },
-  {
     "title": "Fat Lloyd- Single Release Show",
     "date": "Mon, 24 Mar 2025",
     "venue": "Green Door Store",
@@ -154,11 +140,25 @@
     "dateUnix": 1743379200000
   },
   {
+    "title": "Homegrown In Bloom: Jar of Blind Flies",
+    "date": "Tue, 1 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/homegrown-in-bloom-jar-of-blind-flies/",
+    "dateUnix": 1743465600000
+  },
+  {
     "title": "Sparring Songwriters",
     "date": "Tuesday 1st April, 2025",
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/642080",
     "dateUnix": 1743465600000
+  },
+  {
+    "title": "Lana Death Ray",
+    "date": "Wed, 2 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/lana-death-ray/",
+    "dateUnix": 1743552000000
   },
   {
     "title": "Hidden Herd Presents: Lip Filler + bacci pouch + Slag + Friktion",
