@@ -1,61 +1,5 @@
 [
   {
-    "title": "Fat Lloyd- Single Release Show",
-    "date": "Mon, 24 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/fat-lloyd-single-release-show/",
-    "dateUnix": 1742774400000
-  },
-  {
-    "title": "Goetia",
-    "date": "24th March 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/goetia/",
-    "dateUnix": 1742846400000
-  },
-  {
-    "title": "Revolt Brighton Palestine Fundraiser: Velvetine + more",
-    "date": "Tue, 25 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/revolt-brighton-palestine-fundraiser-velvetine-more/",
-    "dateUnix": 1742860800000
-  },
-  {
-    "title": "Real Farmer + Magda",
-    "date": "25th March 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/real-farmer/",
-    "dateUnix": 1742932800000
-  },
-  {
-    "title": "ELLiS D *LOW TICKETS*",
-    "date": "Wed, 26 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/ellis-d/",
-    "dateUnix": 1742947200000
-  },
-  {
-    "title": "Tillie",
-    "date": "26th March 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/tillie/",
-    "dateUnix": 1743019200000
-  },
-  {
-    "title": "House Of All *LOW TICKETS*",
-    "date": "Thu, 27 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/house-of-all/",
-    "dateUnix": 1743033600000
-  },
-  {
-    "title": "Juanita Stein",
-    "date": "27th March 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/juanita-stein/",
-    "dateUnix": 1743105600000
-  },
-  {
     "title": "Baby Gem",
     "date": "Fri, 28 Mar 2025",
     "venue": "Green Door Store",
@@ -105,7 +49,7 @@
     "dateUnix": 1743206400000
   },
   {
-    "title": "The Tubs",
+    "title": "The Tubs *SOLD OUT*",
     "date": "29th March 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-tubs-2/",
@@ -168,6 +112,41 @@
     "dateUnix": 1743623100000
   },
   {
+    "title": "The Atom Jacks",
+    "date": "Thu, 3 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-atom-jacks/",
+    "dateUnix": 1743638400000
+  },
+  {
+    "title": "ChopChop + Holy Clang cheap tickets",
+    "date": "Thursday 3rd April, 2025",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/655076",
+    "dateUnix": 1743638400000
+  },
+  {
+    "title": "H&R ONE’S 2 WATCH:Two Pounds Down + Mimi Rae + Cade In Rain",
+    "date": "3rd April 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hr-ones-2-watchtwo-pounds-down-mimi-rae-cade-in-rain/",
+    "dateUnix": 1743708600000
+  },
+  {
+    "title": "Marisa & The Moths",
+    "date": "Fri, 4 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/marisa-the-moths/",
+    "dateUnix": 1743724800000
+  },
+  {
+    "title": "90s vs 00s",
+    "date": "Fri, 4 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s/",
+    "dateUnix": 1743724800000
+  },
+  {
     "title": "Gok Wan",
     "date": "04 APR 2025",
     "venue": "Concorde 2",
@@ -182,6 +161,13 @@
     "dateUnix": 1743794100000
   },
   {
+    "title": "AIKO",
+    "date": "Sat, 5 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/aiko/",
+    "dateUnix": 1743811200000
+  },
+  {
     "title": "Gentleman's Dub Club",
     "date": "05 APR 2025",
     "venue": "Concorde 2",
@@ -189,7 +175,7 @@
     "dateUnix": 1743811200000
   },
   {
-    "title": "Jools",
+    "title": "Jools +  Porchlight + Jopy",
     "date": "5th April 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/jools/",
@@ -243,6 +229,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/homegrown-festival-2025/",
     "dateUnix": 1744468200000
+  },
+  {
+    "title": "Vacuous + Cavalerie + Labrys + Bastard Mycosis",
+    "date": "13th April 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/vacuous-cavalerie-labrys-bastard-mycosis/",
+    "dateUnix": 1744570800000
   },
   {
     "title": "Father John Misty",
@@ -434,6 +427,13 @@
     "dateUnix": 1746475200000
   },
   {
+    "title": "Breast Cancer Fundraiser – Women Metal Musicians",
+    "date": "6th May 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/breast-cancer-fundraiser-women-metal-musicians/",
+    "dateUnix": 1746558000000
+  },
+  {
     "title": "HH Presents: Flat Party + Black Bordello + COWZ + Ski Lift",
     "date": "7th May 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -481,6 +481,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/walter-trout-may-tour-2025/event/zx43",
     "dateUnix": 1746921600000
+  },
+  {
+    "title": "Jodie Bryant’s Discover Live",
+    "date": "13th May 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/jodie-bryants-discover-live/",
+    "dateUnix": 1747164600000
   },
   {
     "title": "The Great Escape 2025 – Wednesday",
@@ -537,6 +544,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/kaneko-ayano-support/",
     "dateUnix": 1747855800000
+  },
+  {
+    "title": "Lunar Vacation + SAD DADS + Divorce Attorney",
+    "date": "22nd May 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/lunar-vacation-sad-dads-divorce-attorney/",
+    "dateUnix": 1747944000000
   },
   {
     "title": "CocoRosie",
@@ -726,6 +740,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/allie-x-euuk-summer-tour/event/zb6g",
     "dateUnix": 1752192000000
+  },
+  {
+    "title": "Overthrust + Crypsis + Human Leather",
+    "date": "16th July 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/overthrust-crypsis-human-leather/",
+    "dateUnix": 1752696000000
   },
   {
     "title": "Seany Clarke - Album Launch Show",
