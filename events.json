@@ -1,31 +1,10 @@
 [
   {
-    "title": "Baby Gem",
-    "date": "Fri, 28 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/baby-gem/",
-    "dateUnix": 1743120000000
-  },
-  {
     "title": "that’s f***ing rubbish- lady gaga vs joy division",
     "date": "Fri, 28 Mar 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish/",
     "dateUnix": 1743120000000
-  },
-  {
-    "title": "Craig Charles",
-    "date": "28 MAR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/craig-charles-funk-and-soul-house-party/event/zxte",
-    "dateUnix": 1743120000000
-  },
-  {
-    "title": "Charles Moothart",
-    "date": "28th March 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/charles-moothart/",
-    "dateUnix": 1743192000000
   },
   {
     "title": "Danny & The Champions of The World *LOW TICKETS*",
@@ -165,6 +144,13 @@
     "date": "Sat, 5 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/aiko/",
+    "dateUnix": 1743811200000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 5 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985/",
     "dateUnix": 1743811200000
   },
   {
@@ -364,6 +350,13 @@
     "dateUnix": 1745798400000
   },
   {
+    "title": "H&R: Ones 2 Watch – Triple Drain + Lemonsuckr + Wrench",
+    "date": "29th April 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hr-ones-2-watch-triple-drain-lemonsuckr-wrench/",
+    "dateUnix": 1745955000000
+  },
+  {
     "title": "GNOD & White Hills",
     "date": "30th April 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -432,6 +425,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/breast-cancer-fundraiser-women-metal-musicians/",
     "dateUnix": 1746558000000
+  },
+  {
+    "title": "Scissor Sisters",
+    "date": "07 MAY 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/scissor-sisters-intimate-warmup-shows/event/zwob",
+    "dateUnix": 1746576000000
   },
   {
     "title": "HH Presents: Flat Party + Black Bordello + COWZ + Ski Lift",
@@ -861,6 +861,13 @@
     "dateUnix": 1758931200000
   },
   {
+    "title": "Mass of the Fermenting Dregs",
+    "date": "04 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/mass-of-the-fermenting-dregs-2025-europe-tour/event/zwot",
+    "dateUnix": 1759536000000
+  },
+  {
     "title": "Dirty Nice",
     "date": "8th October 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -873,13 +880,6 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nirvana-uk/event/zx3y",
     "dateUnix": 1760140800000
-  },
-  {
-    "title": "Sleeper",
-    "date": "18 OCT 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sleeper-inbetweener-tour-2025/event/zy2s",
-    "dateUnix": 1760745600000
   },
   {
     "title": "The Cinelli Brothers",
