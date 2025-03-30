@@ -1,38 +1,10 @@
 [
   {
-    "title": "that’s f***ing rubbish- lady gaga vs joy division",
-    "date": "Fri, 28 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish/",
-    "dateUnix": 1743120000000
-  },
-  {
-    "title": "Danny & The Champions of The World *LOW TICKETS*",
-    "date": "Sat, 29 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/danny-the-champions-of-the-world/",
-    "dateUnix": 1743206400000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 29 Mar 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-10/",
     "dateUnix": 1743206400000
-  },
-  {
-    "title": "Antony Szmierek",
-    "date": "29 MAR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/antony-szmierek-service-station-at-the-end-of-the-universe-to/event/zxtd",
-    "dateUnix": 1743206400000
-  },
-  {
-    "title": "The Tubs *SOLD OUT*",
-    "date": "29th March 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-tubs-2/",
-    "dateUnix": 1743278400000
   },
   {
     "title": "Distress Call- Single Release Show",
@@ -168,11 +140,25 @@
     "dateUnix": 1743883200000
   },
   {
+    "title": "Splitting The Atom",
+    "date": "Sun, 6 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/splitting-the-atom/",
+    "dateUnix": 1743897600000
+  },
+  {
     "title": "Punkhead x Slobheads",
     "date": "6th April 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/punkhead-x-slobheads/",
     "dateUnix": 1743967800000
+  },
+  {
+    "title": "Polite Bureaux",
+    "date": "Wed, 9 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/polite-bureaux/",
+    "dateUnix": 1744156800000
   },
   {
     "title": "CHAS LEMAN AND BAND @ THE FOLKLORE ROOMS",
@@ -880,6 +866,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nirvana-uk/event/zx3y",
     "dateUnix": 1760140800000
+  },
+  {
+    "title": "Sleeper",
+    "date": "18 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sleeper-inbetweener-tour-2025/event/zy2s",
+    "dateUnix": 1760745600000
   },
   {
     "title": "The Cinelli Brothers",
