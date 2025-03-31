@@ -1,33 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 29 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-10/",
-    "dateUnix": 1743206400000
-  },
-  {
-    "title": "Distress Call- Single Release Show",
-    "date": "Sun, 30 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/distress-call-single-release-show/",
-    "dateUnix": 1743292800000
-  },
-  {
-    "title": "Alabama 3",
-    "date": "30 MAR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/alabama-3-exile-on-coldharbour-lane-and-la-peste-tour/event/qefi",
-    "dateUnix": 1743292800000
-  },
-  {
-    "title": "Sadie Jemmett & Russell Joslin - SONGWRITER DOUBLE BILL @ Folklore Rooms, Brighton",
-    "date": "Sunday 30th March, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/644779",
-    "dateUnix": 1743292800000
-  },
-  {
     "title": "Carousel: The Rock House",
     "date": "Mon, 31 Mar 2025",
     "venue": "Green Door Store",
@@ -168,11 +140,25 @@
     "dateUnix": 1744156800000
   },
   {
+    "title": "SOLD OUT: Thou",
+    "date": "Thu, 10 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/thou/",
+    "dateUnix": 1744243200000
+  },
+  {
     "title": "Sofy",
     "date": "10th April 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/sofy/",
     "dateUnix": 1744313400000
+  },
+  {
+    "title": "SOLD OUT: Oscar Jerome",
+    "date": "Fri, 11 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/oscar-jerome/",
+    "dateUnix": 1744329600000
   },
   {
     "title": "Noasis",
@@ -873,6 +859,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sleeper-inbetweener-tour-2025/event/zy2s",
     "dateUnix": 1760745600000
+  },
+  {
+    "title": "Letz Zep",
+    "date": "24 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/letz-zep/event/zx35",
+    "dateUnix": 1761264000000
   },
   {
     "title": "The Cinelli Brothers",
