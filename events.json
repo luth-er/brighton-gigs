@@ -1,12 +1,5 @@
 [
   {
-    "title": "Carousel: The Rock House",
-    "date": "Mon, 31 Mar 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/carousel-the-rock-house/",
-    "dateUnix": 1743379200000
-  },
-  {
     "title": "Homegrown In Bloom: Jar of Blind Flies",
     "date": "Tue, 1 Apr 2025",
     "venue": "Green Door Store",
@@ -126,6 +119,13 @@
     "dateUnix": 1743967800000
   },
   {
+    "title": "Dizzy Fire",
+    "date": "Tue, 8 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/dizzy-fire/",
+    "dateUnix": 1744070400000
+  },
+  {
     "title": "Polite Bureaux",
     "date": "Wed, 9 Apr 2025",
     "venue": "Green Door Store",
@@ -140,6 +140,13 @@
     "dateUnix": 1744156800000
   },
   {
+    "title": "India Arkin + Hurray for Everything + Be Kind Cadaver + Spiritually Insane",
+    "date": "9th April 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/india-arkin-hurray-for-everything-be-kind-cadaver-spiritually-insane/",
+    "dateUnix": 1744225200000
+  },
+  {
     "title": "SOLD OUT: Thou",
     "date": "Thu, 10 Apr 2025",
     "venue": "Green Door Store",
@@ -147,7 +154,7 @@
     "dateUnix": 1744243200000
   },
   {
-    "title": "Sofy",
+    "title": "Sofy *SOLD OUT*",
     "date": "10th April 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/sofy/",
@@ -208,6 +215,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/codex-serafini-kulk-crowgod/",
     "dateUnix": 1744659000000
+  },
+  {
+    "title": "Brainface + Vivian Scarlett + Fire Escape + Sick Days",
+    "date": "15th April 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/brainface-vivian-scarlett-fire-escape-sick-days/",
+    "dateUnix": 1744745400000
   },
   {
     "title": "Keywest",
@@ -312,6 +326,13 @@
     "date": "27th April 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-dead-reds/",
+    "dateUnix": 1745780400000
+  },
+  {
+    "title": "The Dead Red’s Single Release Show",
+    "date": "27th April 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-dead-reds-single-release-show/",
     "dateUnix": 1745780400000
   },
   {
