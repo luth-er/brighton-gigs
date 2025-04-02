@@ -1,19 +1,5 @@
 [
   {
-    "title": "Homegrown In Bloom: Jar of Blind Flies",
-    "date": "Tue, 1 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/homegrown-in-bloom-jar-of-blind-flies/",
-    "dateUnix": 1743465600000
-  },
-  {
-    "title": "Sparring Songwriters",
-    "date": "Tuesday 1st April, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/642080",
-    "dateUnix": 1743465600000
-  },
-  {
     "title": "Lana Death Ray",
     "date": "Wed, 2 Apr 2025",
     "venue": "Green Door Store",
@@ -38,7 +24,7 @@
     "title": "ChopChop + Holy Clang cheap tickets",
     "date": "Thursday 3rd April, 2025",
     "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/655076",
+    "link": "https://wegottickets.com/waiting-list/655076",
     "dateUnix": 1743638400000
   },
   {
@@ -165,6 +151,13 @@
     "date": "Fri, 11 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/oscar-jerome/",
+    "dateUnix": 1744329600000
+  },
+  {
+    "title": "i f***ing h8 clubbing",
+    "date": "Fri, 11 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-2/",
     "dateUnix": 1744329600000
   },
   {
@@ -672,6 +665,13 @@
     "dateUnix": 1749409200000
   },
   {
+    "title": "Nick Mulvey",
+    "date": "16 JUN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nick-mulvey-dark-harvest-world-tour/event/z29n",
+    "dateUnix": 1750032000000
+  },
+  {
     "title": "Alien Ant Farm",
     "date": "17 JUN 2025",
     "venue": "Concorde 2",
@@ -880,13 +880,6 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sleeper-inbetweener-tour-2025/event/zy2s",
     "dateUnix": 1760745600000
-  },
-  {
-    "title": "Letz Zep",
-    "date": "24 OCT 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/letz-zep/event/zx35",
-    "dateUnix": 1761264000000
   },
   {
     "title": "The Cinelli Brothers",
