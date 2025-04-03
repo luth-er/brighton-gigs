@@ -1,19 +1,5 @@
 [
   {
-    "title": "Lana Death Ray",
-    "date": "Wed, 2 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/lana-death-ray/",
-    "dateUnix": 1743552000000
-  },
-  {
-    "title": "Hidden Herd Presents: Lip Filler + bacci pouch + Slag + Friktion",
-    "date": "2nd April 2025 - 7:45 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hidden-herd-presents-lip-filler-bacci-pouch-slag-friktion/",
-    "dateUnix": 1743623100000
-  },
-  {
     "title": "The Atom Jacks",
     "date": "Thu, 3 Apr 2025",
     "venue": "Green Door Store",
@@ -24,7 +10,7 @@
     "title": "ChopChop + Holy Clang cheap tickets",
     "date": "Thursday 3rd April, 2025",
     "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/waiting-list/655076",
+    "link": "https://wegottickets.com/event/655076",
     "dateUnix": 1743638400000
   },
   {
@@ -173,6 +159,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hallan/",
     "dateUnix": 1744399800000
+  },
+  {
+    "title": "Homegrown Festival 2025",
+    "date": "Sat, 12 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/homegrown-festival-2025/",
+    "dateUnix": 1744416000000
   },
   {
     "title": "Police Dog Hogan",
@@ -887,5 +880,12 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-cinelli-brothers/",
     "dateUnix": 1762371000000
+  },
+  {
+    "title": "David Devant & His Spirit Wife",
+    "date": "12th December 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/david-devant-his-spirit-wife-3/",
+    "dateUnix": 1765567800000
   }
 ]
