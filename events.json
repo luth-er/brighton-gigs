@@ -1,26 +1,5 @@
 [
   {
-    "title": "The Atom Jacks",
-    "date": "Thu, 3 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-atom-jacks/",
-    "dateUnix": 1743638400000
-  },
-  {
-    "title": "ChopChop + Holy Clang cheap tickets",
-    "date": "Thursday 3rd April, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/655076",
-    "dateUnix": 1743638400000
-  },
-  {
-    "title": "H&R ONE’S 2 WATCH:Two Pounds Down + Mimi Rae + Cade In Rain",
-    "date": "3rd April 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hr-ones-2-watchtwo-pounds-down-mimi-rae-cade-in-rain/",
-    "dateUnix": 1743708600000
-  },
-  {
     "title": "Marisa & The Moths",
     "date": "Fri, 4 Apr 2025",
     "venue": "Green Door Store",
@@ -98,7 +77,7 @@
     "dateUnix": 1744070400000
   },
   {
-    "title": "Polite Bureaux",
+    "title": "CANCELLED: Polite Bureaux",
     "date": "Wed, 9 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/polite-bureaux/",
@@ -165,6 +144,13 @@
     "date": "Sat, 12 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/homegrown-festival-2025/",
+    "dateUnix": 1744416000000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 12 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/",
     "dateUnix": 1744416000000
   },
   {
