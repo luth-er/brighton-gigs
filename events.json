@@ -1,31 +1,10 @@
 [
   {
-    "title": "Marisa & The Moths",
-    "date": "Fri, 4 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/marisa-the-moths/",
-    "dateUnix": 1743724800000
-  },
-  {
     "title": "90s vs 00s",
     "date": "Fri, 4 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s/",
     "dateUnix": 1743724800000
-  },
-  {
-    "title": "Gok Wan",
-    "date": "04 APR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/gok-wan-dj-set/event/zxtc",
-    "dateUnix": 1743724800000
-  },
-  {
-    "title": "Nagasaki Dog + The Veltmans + Gutterfly + Spool",
-    "date": "4th April 2025 - 7:15 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/nagasaki-dog-the-veltmans-gutterfly-spool/",
-    "dateUnix": 1743794100000
   },
   {
     "title": "AIKO",
@@ -168,6 +147,13 @@
     "dateUnix": 1744468200000
   },
   {
+    "title": "Sad Dads",
+    "date": "Sun, 13 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/sad-dads/",
+    "dateUnix": 1744502400000
+  },
+  {
     "title": "Vacuous + Cavalerie + Labrys + Bastard Mycosis",
     "date": "13th April 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -229,6 +215,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-undercover-hippy/",
     "dateUnix": 1745091000000
+  },
+  {
+    "title": "The Beyene Affair",
+    "date": "20th April 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-beyene-affair/",
+    "dateUnix": 1745175600000
   },
   {
     "title": "Matilda Mann",
@@ -742,6 +735,13 @@
     "dateUnix": 1754595000000
   },
   {
+    "title": "Helicon",
+    "date": "9th August 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/helicon-2/",
+    "dateUnix": 1754769600000
+  },
+  {
     "title": "The Madchester Experience",
     "date": "15 AUG 2025",
     "venue": "Concorde 2",
@@ -840,6 +840,13 @@
     "dateUnix": 1759536000000
   },
   {
+    "title": "Midnight Rodeo",
+    "date": "4th October 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/midnight-rodeo/",
+    "dateUnix": 1759608000000
+  },
+  {
     "title": "Dirty Nice",
     "date": "8th October 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -854,11 +861,25 @@
     "dateUnix": 1760140800000
   },
   {
+    "title": "Utopia Strong",
+    "date": "17th October 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/utopia-strong/",
+    "dateUnix": 1760731200000
+  },
+  {
     "title": "Sleeper",
     "date": "18 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sleeper-inbetweener-tour-2025/event/zy2s",
     "dateUnix": 1760745600000
+  },
+  {
+    "title": "Letz Zep",
+    "date": "24 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/letz-zep/event/zx35",
+    "dateUnix": 1761264000000
   },
   {
     "title": "The Cinelli Brothers",
