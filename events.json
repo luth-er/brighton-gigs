@@ -1,38 +1,10 @@
 [
   {
-    "title": "90s vs 00s",
-    "date": "Fri, 4 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s/",
-    "dateUnix": 1743724800000
-  },
-  {
-    "title": "AIKO",
-    "date": "Sat, 5 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/aiko/",
-    "dateUnix": 1743811200000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 5 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985/",
     "dateUnix": 1743811200000
-  },
-  {
-    "title": "Gentleman's Dub Club",
-    "date": "05 APR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/gentlemans-dub-club-2025-uk-tour/event/qbdf",
-    "dateUnix": 1743811200000
-  },
-  {
-    "title": "Jools +  Porchlight + Jopy",
-    "date": "5th April 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/jools/",
-    "dateUnix": 1743883200000
   },
   {
     "title": "Splitting The Atom",
@@ -161,6 +133,13 @@
     "dateUnix": 1744570800000
   },
   {
+    "title": "The Fallen State",
+    "date": "Mon, 14 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-fallen-state/",
+    "dateUnix": 1744588800000
+  },
+  {
     "title": "Father John Misty",
     "date": "14 APR 2025",
     "venue": "Concorde 2",
@@ -173,6 +152,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/codex-serafini-kulk-crowgod/",
     "dateUnix": 1744659000000
+  },
+  {
+    "title": "Soft Launch",
+    "date": "Tue, 15 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/soft-launch/",
+    "dateUnix": 1744675200000
   },
   {
     "title": "Brainface + Vivian Scarlett + Fire Escape + Sick Days",
@@ -880,6 +866,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/letz-zep/event/zx35",
     "dateUnix": 1761264000000
+  },
+  {
+    "title": "Stone Foundation",
+    "date": "25 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/stone-foundation-2025-tour/event/zyjh",
+    "dateUnix": 1761350400000
   },
   {
     "title": "The Cinelli Brothers",
