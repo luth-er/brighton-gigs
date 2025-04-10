@@ -1,26 +1,5 @@
 [
   {
-    "title": "CANCELLED: Polite Bureaux",
-    "date": "Wed, 9 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/polite-bureaux/",
-    "dateUnix": 1744156800000
-  },
-  {
-    "title": "CHAS LEMAN AND BAND @ THE FOLKLORE ROOMS",
-    "date": "Wednesday 9th April, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/644021",
-    "dateUnix": 1744156800000
-  },
-  {
-    "title": "India Arkin + Hurray for Everything + Be Kind Cadaver + Spiritually Insane",
-    "date": "9th April 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/india-arkin-hurray-for-everything-be-kind-cadaver-spiritually-insane/",
-    "dateUnix": 1744225200000
-  },
-  {
     "title": "SOLD OUT: Thou",
     "date": "Thu, 10 Apr 2025",
     "venue": "Green Door Store",
@@ -84,7 +63,7 @@
     "dateUnix": 1744416000000
   },
   {
-    "title": "HOMEGROWN FESTIVAL 2025",
+    "title": "HOMEGROWN FESTIVAL 2025 *SOLD OUT*",
     "date": "12th April 2025 - 2:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/homegrown-festival-2025/",
@@ -172,6 +151,13 @@
     "date": "Fri, 18 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/sowt/",
+    "dateUnix": 1744934400000
+  },
+  {
+    "title": "Heads Will Roll",
+    "date": "Fri, 18 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/heads-will-roll/",
     "dateUnix": 1744934400000
   },
   {
@@ -803,6 +789,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-guns-n-roses-experience/event/zx3n",
     "dateUnix": 1758326400000
+  },
+  {
+    "title": "First Time Flyers + Support",
+    "date": "20th September 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/first-time-flyers-support/",
+    "dateUnix": 1758396600000
   },
   {
     "title": "Sleeper",
