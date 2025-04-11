@@ -1,19 +1,5 @@
 [
   {
-    "title": "SOLD OUT: Thou",
-    "date": "Thu, 10 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/thou/",
-    "dateUnix": 1744243200000
-  },
-  {
-    "title": "Sofy *SOLD OUT*",
-    "date": "10th April 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/sofy/",
-    "dateUnix": 1744313400000
-  },
-  {
     "title": "SOLD OUT: Oscar Jerome",
     "date": "Fri, 11 Apr 2025",
     "venue": "Green Door Store",
@@ -166,6 +152,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/boys-wonder/",
     "dateUnix": 1745006400000
+  },
+  {
+    "title": "Ultha",
+    "date": "Sat, 19 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/ultha/",
+    "dateUnix": 1745020800000
   },
   {
     "title": "A Tribute to Amy",
@@ -570,7 +563,7 @@
     "title": "KRS-One",
     "date": "05 JUN 2025",
     "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/krs-one-european-tour/event/zxrz",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/krs-one-temple-of-hip-hop-tour/event/zxrz",
     "dateUnix": 1749081600000
   },
   {
