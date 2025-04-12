@@ -1,31 +1,10 @@
 [
   {
-    "title": "SOLD OUT: Oscar Jerome",
-    "date": "Fri, 11 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/oscar-jerome/",
-    "dateUnix": 1744329600000
-  },
-  {
     "title": "i f***ing h8 clubbing",
     "date": "Fri, 11 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-2/",
     "dateUnix": 1744329600000
-  },
-  {
-    "title": "Noasis",
-    "date": "11 APR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/noasis/event/zxtx",
-    "dateUnix": 1744329600000
-  },
-  {
-    "title": "Hallan",
-    "date": "11th April 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hallan/",
-    "dateUnix": 1744399800000
   },
   {
     "title": "Homegrown Festival 2025",
@@ -158,6 +137,13 @@
     "date": "Sat, 19 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/ultha/",
+    "dateUnix": 1745020800000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 19 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-4/",
     "dateUnix": 1745020800000
   },
   {
@@ -866,6 +852,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/stone-foundation-2025-tour/event/zyjh",
     "dateUnix": 1761350400000
+  },
+  {
+    "title": "Cardinal Black",
+    "date": "28 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/cardinal-black-the-midnight-at-the-valencia-tour/event/zdwg",
+    "dateUnix": 1761609600000
   },
   {
     "title": "The Cinelli Brothers",
