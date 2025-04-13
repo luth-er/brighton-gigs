@@ -1,38 +1,10 @@
 [
   {
-    "title": "i f***ing h8 clubbing",
-    "date": "Fri, 11 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-2/",
-    "dateUnix": 1744329600000
-  },
-  {
-    "title": "Homegrown Festival 2025",
-    "date": "Sat, 12 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/homegrown-festival-2025/",
-    "dateUnix": 1744416000000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 12 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/",
     "dateUnix": 1744416000000
-  },
-  {
-    "title": "Police Dog Hogan",
-    "date": "12 APR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/police-dog-hogan-lightning-strike-tour/event/zxts",
-    "dateUnix": 1744416000000
-  },
-  {
-    "title": "HOMEGROWN FESTIVAL 2025 *SOLD OUT*",
-    "date": "12th April 2025 - 2:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/homegrown-festival-2025/",
-    "dateUnix": 1744468200000
   },
   {
     "title": "Sad Dads",
@@ -161,11 +133,25 @@
     "dateUnix": 1745091000000
   },
   {
+    "title": "Osk",
+    "date": "Sun, 20 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/osk/",
+    "dateUnix": 1745107200000
+  },
+  {
     "title": "The Beyene Affair",
     "date": "20th April 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-beyene-affair/",
     "dateUnix": 1745175600000
+  },
+  {
+    "title": "False Heads",
+    "date": "Tue, 22 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/false-heads/",
+    "dateUnix": 1745280000000
   },
   {
     "title": "Matilda Mann",
@@ -859,6 +845,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/cardinal-black-the-midnight-at-the-valencia-tour/event/zdwg",
     "dateUnix": 1761609600000
+  },
+  {
+    "title": "MONO",
+    "date": "05 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/mono-oath-european-tour-2025/event/zxd8",
+    "dateUnix": 1762300800000
   },
   {
     "title": "The Cinelli Brothers",
