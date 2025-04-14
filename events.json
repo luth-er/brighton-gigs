@@ -1,26 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 12 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/",
-    "dateUnix": 1744416000000
-  },
-  {
-    "title": "Sad Dads",
-    "date": "Sun, 13 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/sad-dads/",
-    "dateUnix": 1744502400000
-  },
-  {
-    "title": "Vacuous + Cavalerie + Labrys + Bastard Mycosis",
-    "date": "13th April 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/vacuous-cavalerie-labrys-bastard-mycosis/",
-    "dateUnix": 1744570800000
-  },
-  {
     "title": "The Fallen State",
     "date": "Mon, 14 Apr 2025",
     "venue": "Green Door Store",
@@ -168,6 +147,13 @@
     "dateUnix": 1745348400000
   },
   {
+    "title": "Arjun Nala",
+    "date": "Wed, 23 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/arjun-nala/",
+    "dateUnix": 1745366400000
+  },
+  {
     "title": "The Courettes",
     "date": "23rd April 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -179,6 +165,13 @@
     "date": "24th April 2025 - 12:00 am",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/outlander-haal/",
+    "dateUnix": 1745452800000
+  },
+  {
+    "title": "S.G.A.T.V",
+    "date": "Thu, 24 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/s-g-a-t-v/",
     "dateUnix": 1745452800000
   },
   {
