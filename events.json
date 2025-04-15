@@ -1,26 +1,5 @@
 [
   {
-    "title": "The Fallen State",
-    "date": "Mon, 14 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-fallen-state/",
-    "dateUnix": 1744588800000
-  },
-  {
-    "title": "Father John Misty",
-    "date": "14 APR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/father-john-misty-acoustic-matinee-show/event/zx4o",
-    "dateUnix": 1744588800000
-  },
-  {
-    "title": "Codex Serafini + Kulk + Crowgod",
-    "date": "14th April 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/codex-serafini-kulk-crowgod/",
-    "dateUnix": 1744659000000
-  },
-  {
     "title": "Soft Launch",
     "date": "Tue, 15 Apr 2025",
     "venue": "Green Door Store",
@@ -126,6 +105,13 @@
     "dateUnix": 1745175600000
   },
   {
+    "title": "COTC Spotlight Launch Event",
+    "date": "21st April 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/cotc-spotlight-launch-event/",
+    "dateUnix": 1745262000000
+  },
+  {
     "title": "False Heads",
     "date": "Tue, 22 Apr 2025",
     "venue": "Green Door Store",
@@ -161,18 +147,25 @@
     "dateUnix": 1745438400000
   },
   {
-    "title": "Outlander + HAAL",
-    "date": "24th April 2025 - 12:00 am",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/outlander-haal/",
-    "dateUnix": 1745452800000
-  },
-  {
     "title": "S.G.A.T.V",
     "date": "Thu, 24 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/s-g-a-t-v/",
     "dateUnix": 1745452800000
+  },
+  {
+    "title": "Outlander + HAAL",
+    "date": "24th April 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/outlander-haal/",
+    "dateUnix": 1745524800000
+  },
+  {
+    "title": "Maria Somerville",
+    "date": "Fri, 25 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/maria-somerville/",
+    "dateUnix": 1745539200000
   },
   {
     "title": "Shaun Williamson",
@@ -703,7 +696,7 @@
     "title": "The Smyths",
     "date": "30 AUG 2025",
     "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-smyths-meat-is-murder-40/event/zx39",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-smyths-2025-meat-is-murder-40-tour/event/zx39",
     "dateUnix": 1756512000000
   },
   {
@@ -852,6 +845,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-cinelli-brothers/",
     "dateUnix": 1762371000000
+  },
+  {
+    "title": "Metallica Reloaded",
+    "date": "08 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/metallica-reloaded/event/zx3f",
+    "dateUnix": 1762560000000
   },
   {
     "title": "David Devant & His Spirit Wife",
