@@ -1,19 +1,5 @@
 [
   {
-    "title": "Soft Launch",
-    "date": "Tue, 15 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/soft-launch/",
-    "dateUnix": 1744675200000
-  },
-  {
-    "title": "Brainface + Vivian Scarlett + Fire Escape + Sick Days",
-    "date": "15th April 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/brainface-vivian-scarlett-fire-escape-sick-days/",
-    "dateUnix": 1744745400000
-  },
-  {
     "title": "IV & The Strange Band",
     "date": "Wed, 16 Apr 2025",
     "venue": "Green Door Store",
@@ -165,6 +151,13 @@
     "date": "Fri, 25 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/maria-somerville/",
+    "dateUnix": 1745539200000
+  },
+  {
+    "title": "that’s f***ing rubbish- avril lavigne v the smiths",
+    "date": "Fri, 25 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-2/",
     "dateUnix": 1745539200000
   },
   {
@@ -707,6 +700,13 @@
     "dateUnix": 1757203200000
   },
   {
+    "title": "Flyte",
+    "date": "10 SEP 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/flyte-between-you-and-me-tour/event/8oomp",
+    "dateUnix": 1757462400000
+  },
+  {
     "title": "Emo Fest",
     "date": "12 SEP 2025",
     "venue": "Concorde 2",
@@ -845,13 +845,6 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-cinelli-brothers/",
     "dateUnix": 1762371000000
-  },
-  {
-    "title": "Metallica Reloaded",
-    "date": "08 NOV 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/metallica-reloaded/event/zx3f",
-    "dateUnix": 1762560000000
   },
   {
     "title": "David Devant & His Spirit Wife",
