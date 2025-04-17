@@ -1,19 +1,5 @@
 [
   {
-    "title": "IV & The Strange Band",
-    "date": "Wed, 16 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/iv-the-strange-band/",
-    "dateUnix": 1744761600000
-  },
-  {
-    "title": "Keywest",
-    "date": "16th April 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/keywest-2/",
-    "dateUnix": 1744831800000
-  },
-  {
     "title": "pageninetynine",
     "date": "Thu, 17 Apr 2025",
     "venue": "Green Door Store",
@@ -187,6 +173,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/patients-album-release-show/",
     "dateUnix": 1745611200000
+  },
+  {
+    "title": "Brown Horse",
+    "date": "Sat, 26 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/brown-horse/",
+    "dateUnix": 1745625600000
   },
   {
     "title": "Good Sad Happy Bad + Support",
@@ -621,6 +614,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/allie-x-euuk-summer-tour/event/zb6g",
     "dateUnix": 1752192000000
+  },
+  {
+    "title": "JAYMADEIT",
+    "date": "12th July 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/jaymadeit/",
+    "dateUnix": 1752348600000
   },
   {
     "title": "Overthrust + Crypsis + Human Leather",
