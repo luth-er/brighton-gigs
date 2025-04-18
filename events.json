@@ -1,19 +1,5 @@
 [
   {
-    "title": "pageninetynine",
-    "date": "Thu, 17 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/pageninetynine/",
-    "dateUnix": 1744848000000
-  },
-  {
-    "title": "Amplify Her Showcase",
-    "date": "17th April 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/amplify-her-showcase/",
-    "dateUnix": 1744916400000
-  },
-  {
     "title": "Søwt",
     "date": "Fri, 18 Apr 2025",
     "venue": "Green Door Store",
@@ -182,6 +168,13 @@
     "dateUnix": 1745625600000
   },
   {
+    "title": "It Is Still 1985",
+    "date": "Sat, 26 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-3/",
+    "dateUnix": 1745625600000
+  },
+  {
     "title": "Good Sad Happy Bad + Support",
     "date": "26th April 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -252,13 +245,6 @@
     "dateUnix": 1746216000000
   },
   {
-    "title": "MIEN + Support",
-    "date": "3rd May 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/mien-support/",
-    "dateUnix": 1746302400000
-  },
-  {
     "title": "MIEN",
     "date": "3rd May 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -306,6 +292,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/grace-petrie-uk-tour/event/qg48",
     "dateUnix": 1746662400000
+  },
+  {
+    "title": "Fire Esxcape + Babyteeth + Park Crescent + The Devils Lotus",
+    "date": "8th May 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/fire-esxcape-babyteeth-park-crescent-the-devils-lotus/",
+    "dateUnix": 1746732600000
   },
   {
     "title": "Beatles Dub Club",
@@ -845,6 +838,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-cinelli-brothers/",
     "dateUnix": 1762371000000
+  },
+  {
+    "title": "The Lost Trades",
+    "date": "Thursday 6th November, 2025",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/657354",
+    "dateUnix": 1762387200000
   },
   {
     "title": "David Devant & His Spirit Wife",
