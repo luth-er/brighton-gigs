@@ -1,24 +1,10 @@
 [
   {
-    "title": "Søwt",
-    "date": "Fri, 18 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/sowt/",
-    "dateUnix": 1744934400000
-  },
-  {
     "title": "Heads Will Roll",
     "date": "Fri, 18 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/heads-will-roll/",
     "dateUnix": 1744934400000
-  },
-  {
-    "title": "Boys Wonder",
-    "date": "18th April 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/boys-wonder/",
-    "dateUnix": 1745006400000
   },
   {
     "title": "Ultha",
@@ -180,6 +166,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/good-sad-happy-bad-support/",
     "dateUnix": 1745697600000
+  },
+  {
+    "title": "NECRONAUTICAL",
+    "date": "Sun, 27 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/necronautical/",
+    "dateUnix": 1745712000000
   },
   {
     "title": "The Dead Reds",
@@ -483,6 +476,13 @@
     "dateUnix": 1748563200000
   },
   {
+    "title": "Harvey Jay Dodgson",
+    "date": "30th May 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/harvey-jay-dodgson/",
+    "dateUnix": 1748633400000
+  },
+  {
     "title": "Shonen Knife",
     "date": "01 JUN 2025",
     "venue": "Concorde 2",
@@ -537,6 +537,20 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/peter-bruntnell/",
     "dateUnix": 1749409200000
+  },
+  {
+    "title": "Last Seen Alive",
+    "date": "11th June 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/last-seen-alive-3/",
+    "dateUnix": 1749670200000
+  },
+  {
+    "title": "Vision Video",
+    "date": "15th June 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/vision-video-2/",
+    "dateUnix": 1750014000000
   },
   {
     "title": "Nick Mulvey",
