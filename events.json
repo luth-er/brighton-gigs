@@ -1,38 +1,10 @@
 [
   {
-    "title": "Heads Will Roll",
-    "date": "Fri, 18 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/heads-will-roll/",
-    "dateUnix": 1744934400000
-  },
-  {
-    "title": "Ultha",
-    "date": "Sat, 19 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/ultha/",
-    "dateUnix": 1745020800000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 19 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-4/",
     "dateUnix": 1745020800000
-  },
-  {
-    "title": "A Tribute to Amy",
-    "date": "19 APR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/a-tribute-to-amy/event/zx48",
-    "dateUnix": 1745020800000
-  },
-  {
-    "title": "The Undercover Hippy",
-    "date": "19th April 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-undercover-hippy/",
-    "dateUnix": 1745091000000
   },
   {
     "title": "Osk",
@@ -189,11 +161,25 @@
     "dateUnix": 1745780400000
   },
   {
+    "title": "Joe Little",
+    "date": "Mon, 28 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/joe-little/",
+    "dateUnix": 1745798400000
+  },
+  {
     "title": "Astrid Williamson",
     "date": "Monday 28th April, 2025",
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/616836",
     "dateUnix": 1745798400000
+  },
+  {
+    "title": "The Wrong Trousers: Single Release Show",
+    "date": "Tue, 29 Apr 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-wrong-trousers-single-release-show/",
+    "dateUnix": 1745884800000
   },
   {
     "title": "H&R: Ones 2 Watch – Triple Drain + Lemonsuckr + Wrench",
@@ -859,6 +845,13 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/657354",
     "dateUnix": 1762387200000
+  },
+  {
+    "title": "Metallica Reloaded",
+    "date": "08 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/metallica-reloaded/event/zx3f",
+    "dateUnix": 1762560000000
   },
   {
     "title": "David Devant & His Spirit Wife",
