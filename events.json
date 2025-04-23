@@ -1,26 +1,5 @@
 [
   {
-    "title": "False Heads",
-    "date": "Tue, 22 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/false-heads/",
-    "dateUnix": 1745280000000
-  },
-  {
-    "title": "Matilda Mann",
-    "date": "22 APR 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/matilda-mann-roxwell-tour-2025/event/qqmp",
-    "dateUnix": 1745280000000
-  },
-  {
-    "title": "Christian Le Surf",
-    "date": "22nd April 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/christian-le-surf/",
-    "dateUnix": 1745348400000
-  },
-  {
     "title": "Arjun Nala",
     "date": "Wed, 23 Apr 2025",
     "venue": "Green Door Store",
@@ -173,6 +152,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/gnod-white-hills/",
     "dateUnix": 1746041400000
+  },
+  {
+    "title": "Strike Map: May Day at Green Door",
+    "date": "Thu, 1 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/strike-map-may-day-at-green-door/",
+    "dateUnix": 1746057600000
   },
   {
     "title": "Just Friends + Chain",
@@ -656,6 +642,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/greg-wilson/event/zxew",
     "dateUnix": 1755993600000
+  },
+  {
+    "title": "Pub Choir",
+    "date": "25 AUG 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/pub-choir-go-on-then-tour/event/8o8y5",
+    "dateUnix": 1756080000000
   },
   {
     "title": "Brighton Psych Fest",
