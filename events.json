@@ -1,19 +1,5 @@
 [
   {
-    "title": "Arjun Nala",
-    "date": "Wed, 23 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/arjun-nala/",
-    "dateUnix": 1745366400000
-  },
-  {
-    "title": "The Courettes",
-    "date": "23rd April 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-courettes/",
-    "dateUnix": 1745438400000
-  },
-  {
     "title": "S.G.A.T.V",
     "date": "Thu, 24 Apr 2025",
     "venue": "Green Door Store",
@@ -122,7 +108,7 @@
     "title": "Astrid Williamson",
     "date": "Monday 28th April, 2025",
     "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/616836",
+    "link": "https://wegottickets.com/waiting-list/616836",
     "dateUnix": 1745798400000
   },
   {
@@ -194,6 +180,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/bones-ate-arfa-slag/",
     "dateUnix": 1746216000000
+  },
+  {
+    "title": "Slung",
+    "date": "Sat, 3 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/slung/",
+    "dateUnix": 1746230400000
   },
   {
     "title": "MIEN",
@@ -600,6 +593,13 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/653859",
     "dateUnix": 1753315200000
+  },
+  {
+    "title": "CUD",
+    "date": "26th July 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/cud/",
+    "dateUnix": 1753558200000
   },
   {
     "title": "JJ Grey & Mofro",
