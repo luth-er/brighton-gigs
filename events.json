@@ -1,19 +1,5 @@
 [
   {
-    "title": "S.G.A.T.V",
-    "date": "Thu, 24 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/s-g-a-t-v/",
-    "dateUnix": 1745452800000
-  },
-  {
-    "title": "Outlander + HAAL",
-    "date": "24th April 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/outlander-haal/",
-    "dateUnix": 1745524800000
-  },
-  {
     "title": "Maria Somerville",
     "date": "Fri, 25 Apr 2025",
     "venue": "Green Door Store",
@@ -175,7 +161,7 @@
     "dateUnix": 1746144000000
   },
   {
-    "title": "Bones Ate Arfa + Slag",
+    "title": "Bones Ate Arfa + Slag + Miler",
     "date": "2nd May 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/bones-ate-arfa-slag/",
@@ -186,6 +172,13 @@
     "date": "Sat, 3 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/slung/",
+    "dateUnix": 1746230400000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 3 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-5/",
     "dateUnix": 1746230400000
   },
   {
@@ -439,6 +432,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/shonen-knife-have-a-knife-day-tour/event/zc95",
     "dateUnix": 1748736000000
+  },
+  {
+    "title": "Twin Atlantic",
+    "date": "04 JUN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/twin-atlantic-2025-uk-tour/event/8opi8",
+    "dateUnix": 1748995200000
   },
   {
     "title": "Pachyman + Support",
@@ -742,6 +742,13 @@
     "dateUnix": 1758931200000
   },
   {
+    "title": "Overpass",
+    "date": "02 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/overpass-uk-and-eu-tour-2025/event/8op9y",
+    "dateUnix": 1759363200000
+  },
+  {
     "title": "Mass of the Fermenting Dregs",
     "date": "04 OCT 2025",
     "venue": "Concorde 2",
@@ -805,13 +812,6 @@
     "dateUnix": 1761609600000
   },
   {
-    "title": "MONO",
-    "date": "05 NOV 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/mono-oath-european-tour-2025/event/zxd8",
-    "dateUnix": 1762300800000
-  },
-  {
     "title": "The Cinelli Brothers",
     "date": "5th November 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -824,13 +824,6 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/657354",
     "dateUnix": 1762387200000
-  },
-  {
-    "title": "Metallica Reloaded",
-    "date": "08 NOV 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/metallica-reloaded/event/zx3f",
-    "dateUnix": 1762560000000
   },
   {
     "title": "David Devant & His Spirit Wife",
