@@ -1,31 +1,10 @@
 [
   {
-    "title": "that’s f***ing rubbish- avril lavigne v the smiths",
-    "date": "Fri, 25 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-2/",
-    "dateUnix": 1745539200000
-  },
-  {
-    "title": "Brown Horse",
-    "date": "Sat, 26 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/brown-horse/",
-    "dateUnix": 1745625600000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 26 Apr 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-3/",
     "dateUnix": 1745625600000
-  },
-  {
-    "title": "Good Sad Happy Bad + Support",
-    "date": "26th April 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/good-sad-happy-bad-support/",
-    "dateUnix": 1745697600000
   },
   {
     "title": "NECRONAUTICAL",
@@ -175,11 +154,25 @@
     "dateUnix": 1746475200000
   },
   {
+    "title": "Kanukai",
+    "date": "Tue, 6 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/kanukai/",
+    "dateUnix": 1746489600000
+  },
+  {
     "title": "Breast Cancer Fundraiser – Women Metal Musicians",
     "date": "6th May 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/breast-cancer-fundraiser-women-metal-musicians/",
     "dateUnix": 1746558000000
+  },
+  {
+    "title": "LOW TICKETS: Big Boy",
+    "date": "Wed, 7 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/low-tickets-big-boy/",
+    "dateUnix": 1746576000000
   },
   {
     "title": "Scissor Sisters",
