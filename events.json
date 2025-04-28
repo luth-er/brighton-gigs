@@ -1,33 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 26 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-3/",
-    "dateUnix": 1745625600000
-  },
-  {
-    "title": "NECRONAUTICAL",
-    "date": "Sun, 27 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/necronautical/",
-    "dateUnix": 1745712000000
-  },
-  {
-    "title": "The Dead Reds",
-    "date": "27th April 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-dead-reds/",
-    "dateUnix": 1745780400000
-  },
-  {
-    "title": "The Dead Red’s Single Release Show",
-    "date": "27th April 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-dead-reds-single-release-show/",
-    "dateUnix": 1745780400000
-  },
-  {
     "title": "Joe Little",
     "date": "Mon, 28 Apr 2025",
     "venue": "Green Door Store",
@@ -189,6 +161,13 @@
     "dateUnix": 1746646200000
   },
   {
+    "title": "SOLD OUT: Post Rave Britain Archive Roadshow",
+    "date": "Thu, 8 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/sold-out-post-rave-britain-archive-roadshow/",
+    "dateUnix": 1746662400000
+  },
+  {
     "title": "Grace Petrie",
     "date": "08 MAY 2025",
     "venue": "Concorde 2",
@@ -201,6 +180,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/fire-esxcape-babyteeth-park-crescent-the-devils-lotus/",
     "dateUnix": 1746732600000
+  },
+  {
+    "title": "Strawberry Lace",
+    "date": "Fri, 9 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/strawberry-lace/",
+    "dateUnix": 1746748800000
   },
   {
     "title": "Beatles Dub Club",
