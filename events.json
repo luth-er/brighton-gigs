@@ -1,19 +1,5 @@
 [
   {
-    "title": "Joe Little",
-    "date": "Mon, 28 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/joe-little/",
-    "dateUnix": 1745798400000
-  },
-  {
-    "title": "Astrid Williamson",
-    "date": "Monday 28th April, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/waiting-list/616836",
-    "dateUnix": 1745798400000
-  },
-  {
     "title": "The Wrong Trousers: Single Release Show",
     "date": "Tue, 29 Apr 2025",
     "venue": "Green Door Store",
@@ -49,7 +35,7 @@
     "dateUnix": 1746057600000
   },
   {
-    "title": "Just Friends + Chain",
+    "title": "Just Friends + Chain + Really Big Really Clever",
     "date": "1st May 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/just-friends-chain/",
@@ -175,7 +161,7 @@
     "dateUnix": 1746662400000
   },
   {
-    "title": "Fire Esxcape + Babyteeth + Park Crescent + The Devils Lotus",
+    "title": "Fire Escape + Babyteeth + Park Crescent + The Devils Lotus",
     "date": "8th May 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/fire-esxcape-babyteeth-park-crescent-the-devils-lotus/",
@@ -186,6 +172,13 @@
     "date": "Fri, 9 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/strawberry-lace/",
+    "dateUnix": 1746748800000
+  },
+  {
+    "title": "i f***ing h8 clubbing",
+    "date": "Fri, 9 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing/",
     "dateUnix": 1746748800000
   },
   {
@@ -378,6 +371,13 @@
     "dateUnix": 1748633400000
   },
   {
+    "title": "PUNK PRIDE W/ GENDER CRISIS, GUM DISEASE, FLORALIS, DRIVE BY KILLS",
+    "date": "31st May 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/punk-pride-w-gender-crisis-gum-disease-floralis-drive-by-kills/",
+    "dateUnix": 1748718000000
+  },
+  {
     "title": "Shonen Knife",
     "date": "01 JUN 2025",
     "venue": "Concorde 2",
@@ -404,6 +404,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/krs-one-temple-of-hip-hop-tour/event/zxrz",
     "dateUnix": 1749081600000
+  },
+  {
+    "title": "SUEP + SAD DADS",
+    "date": "5th June 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/suep-sad-dads/",
+    "dateUnix": 1749151800000
   },
   {
     "title": "Absolute Bowie",
@@ -446,6 +453,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/last-seen-alive-3/",
     "dateUnix": 1749670200000
+  },
+  {
+    "title": "Rebelation + Supports",
+    "date": "14th June 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/rebelation-supports/",
+    "dateUnix": 1749927600000
   },
   {
     "title": "Vision Video",
