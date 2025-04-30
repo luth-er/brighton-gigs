@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Wrong Trousers: Single Release Show",
-    "date": "Tue, 29 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-wrong-trousers-single-release-show/",
-    "dateUnix": 1745884800000
-  },
-  {
-    "title": "H&R: Ones 2 Watch – Triple Drain + Lemonsuckr + Wrench",
-    "date": "29th April 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hr-ones-2-watch-triple-drain-lemonsuckr-wrench/",
-    "dateUnix": 1745955000000
-  },
-  {
     "title": "crysometimes",
     "date": "Wed, 30 Apr 2025",
     "venue": "Green Door Store",
@@ -194,6 +180,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/david-lance-callahan/",
     "dateUnix": 1746820800000
+  },
+  {
+    "title": "Boom Boom Kid",
+    "date": "Sat, 10 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/boom-boom-kid/",
+    "dateUnix": 1746835200000
   },
   {
     "title": "Alabaster DePlume",
@@ -439,6 +432,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/vivid-people-brighton-weekender/event/zxey",
     "dateUnix": 1749254400000
+  },
+  {
+    "title": "Cody Pennington",
+    "date": "08 JUN 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/cody-pennington-country-show-tour-2025/event/8o9vj",
+    "dateUnix": 1749340800000
   },
   {
     "title": "Peter Bruntnell",
@@ -798,17 +798,17 @@
     "dateUnix": 1762387200000
   },
   {
-    "title": "Metallica Reloaded",
-    "date": "08 NOV 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/metallica-reloaded/event/zx3f",
-    "dateUnix": 1762560000000
-  },
-  {
     "title": "David Devant & His Spirit Wife",
     "date": "12th December 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/david-devant-his-spirit-wife-3/",
     "dateUnix": 1765567800000
+  },
+  {
+    "title": "Xana",
+    "date": "27th January 2026 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/xana/",
+    "dateUnix": 1769542200000
   }
 ]
