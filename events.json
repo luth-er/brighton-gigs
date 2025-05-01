@@ -1,19 +1,5 @@
 [
   {
-    "title": "crysometimes",
-    "date": "Wed, 30 Apr 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/crysometimes/",
-    "dateUnix": 1745971200000
-  },
-  {
-    "title": "GNOD & White Hills",
-    "date": "30th April 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/gnod-white-hills/",
-    "dateUnix": 1746041400000
-  },
-  {
     "title": "Strike Map: May Day at Green Door",
     "date": "Thu, 1 May 2025",
     "venue": "Green Door Store",
@@ -189,6 +175,13 @@
     "dateUnix": 1746835200000
   },
   {
+    "title": "It Is Still 1985",
+    "date": "Sat, 10 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-6/",
+    "dateUnix": 1746835200000
+  },
+  {
     "title": "Alabaster DePlume",
     "date": "10 MAY 2025",
     "venue": "Concorde 2",
@@ -343,6 +336,13 @@
     "dateUnix": 1748390400000
   },
   {
+    "title": "Dratmandu + Real Life Goblin + Aquatic Ape Theory",
+    "date": "28th May 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/dratmandu-real-life-goblin-aquatic-ape-theory/",
+    "dateUnix": 1748460600000
+  },
+  {
     "title": "The Altons & Thee Sinseers",
     "date": "29 MAY 2025",
     "venue": "Concorde 2",
@@ -357,7 +357,7 @@
     "dateUnix": 1748563200000
   },
   {
-    "title": "Harvey Jay Dodgson",
+    "title": "Harvey Jay Dodgson + Dritsharks + AlfE",
     "date": "30th May 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/harvey-jay-dodgson/",
@@ -614,6 +614,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/pub-choir-go-on-then-tour/event/8o8y5",
     "dateUnix": 1756080000000
+  },
+  {
+    "title": "Chase Petra",
+    "date": "27th August 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/chase-petra/",
+    "dateUnix": 1756323000000
   },
   {
     "title": "Brighton Psych Fest",
