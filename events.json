@@ -1,19 +1,5 @@
 [
   {
-    "title": "Strike Map: May Day at Green Door",
-    "date": "Thu, 1 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/strike-map-may-day-at-green-door/",
-    "dateUnix": 1746057600000
-  },
-  {
-    "title": "Just Friends + Chain + Really Big Really Clever",
-    "date": "1st May 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/just-friends-chain/",
-    "dateUnix": 1746127800000
-  },
-  {
     "title": "90s vs 00s",
     "date": "Fri, 2 May 2025",
     "venue": "Green Door Store",
@@ -194,6 +180,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/bananagun-2/",
     "dateUnix": 1746907200000
+  },
+  {
+    "title": "Pearll: Gender Affirming Care Fundraiser",
+    "date": "Sun, 11 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/pearll-gender-affirming-care-fundraiser/",
+    "dateUnix": 1746921600000
   },
   {
     "title": "Walter Trout",
