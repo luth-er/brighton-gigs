@@ -7,27 +7,6 @@
     "dateUnix": 1746144000000
   },
   {
-    "title": "HENGE",
-    "date": "02 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/henge-uk-tour/event/qt5z",
-    "dateUnix": 1746144000000
-  },
-  {
-    "title": "Macky Gee",
-    "date": "02 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/macky-gee/event/zx46",
-    "dateUnix": 1746144000000
-  },
-  {
-    "title": "Bones Ate Arfa + Slag + Miler",
-    "date": "2nd May 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/bones-ate-arfa-slag/",
-    "dateUnix": 1746216000000
-  },
-  {
     "title": "Slung",
     "date": "Sat, 3 May 2025",
     "venue": "Green Door Store",
@@ -224,11 +203,25 @@
     "dateUnix": 1747310400000
   },
   {
+    "title": "No Friends In The Industry – Thursday",
+    "date": "15th May 2025 - 2:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/no-friends-in-the-industry-thursday/",
+    "dateUnix": 1747317600000
+  },
+  {
     "title": "The Great Escape 2025 – Friday",
     "date": "16th May 2025 - 12:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-great-escape-2025-friday/",
     "dateUnix": 1747396800000
+  },
+  {
+    "title": "No Friends In The Industry – Friday",
+    "date": "16th May 2025 - 2:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/no-friends-in-the-industry-friday/",
+    "dateUnix": 1747404000000
   },
   {
     "title": "Rhythm Of The 90s",
@@ -243,6 +236,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-great-escape-2025-saturday/",
     "dateUnix": 1747483200000
+  },
+  {
+    "title": "No Friends In The Industry – Saturday",
+    "date": "17th May 2025 - 2:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/no-friends-in-the-industry-saturday/",
+    "dateUnix": 1747490400000
   },
   {
     "title": "Sonny Tennet",
@@ -798,6 +798,27 @@
     "dateUnix": 1762387200000
   },
   {
+    "title": "Metallica Reloaded",
+    "date": "08 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/metallica-reloaded/event/zx3f",
+    "dateUnix": 1762560000000
+  },
+  {
+    "title": "Chameleons",
+    "date": "12 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/chameleons/event/zxco",
+    "dateUnix": 1762905600000
+  },
+  {
+    "title": "Good Health Good Wealth",
+    "date": "30th November 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/good-health-good-wealth/",
+    "dateUnix": 1764529200000
+  },
+  {
     "title": "David Devant & His Spirit Wife",
     "date": "12th December 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -805,7 +826,7 @@
     "dateUnix": 1765567800000
   },
   {
-    "title": "Xana",
+    "title": "Xana *NEW VENUE*",
     "date": "27th January 2026 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/xana/",
