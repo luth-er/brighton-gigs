@@ -1,31 +1,10 @@
 [
   {
-    "title": "90s vs 00s",
-    "date": "Fri, 2 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s-2/",
-    "dateUnix": 1746144000000
-  },
-  {
-    "title": "Slung",
-    "date": "Sat, 3 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/slung/",
-    "dateUnix": 1746230400000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 3 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-5/",
     "dateUnix": 1746230400000
-  },
-  {
-    "title": "MIEN",
-    "date": "3rd May 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/mien/",
-    "dateUnix": 1746302400000
   },
   {
     "title": "C Turtle",
@@ -175,11 +154,25 @@
     "dateUnix": 1746921600000
   },
   {
+    "title": "KermesZ à l’Est",
+    "date": "Mon, 12 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/kermesz-a-lest/",
+    "dateUnix": 1747008000000
+  },
+  {
     "title": "Placeholder – Poetry Night #20",
     "date": "12th May 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/placeholder-poetry-night-20/",
     "dateUnix": 1747078200000
+  },
+  {
+    "title": "Mirepoix- Single Release Show",
+    "date": "Tue, 13 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/mirepoix-single-release-show/",
+    "dateUnix": 1747094400000
   },
   {
     "title": "Jodie Bryant’s Discover Live",
