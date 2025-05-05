@@ -1,26 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 3 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-5/",
-    "dateUnix": 1746230400000
-  },
-  {
-    "title": "C Turtle",
-    "date": "Sun, 4 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/c-turtle/",
-    "dateUnix": 1746316800000
-  },
-  {
-    "title": "Acid Mothers Temple + Support",
-    "date": "4th May 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/acid-mothers-temple-support/",
-    "dateUnix": 1746387000000
-  },
-  {
     "title": "Soda Blonde",
     "date": "5th May 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -189,6 +168,13 @@
     "dateUnix": 1747245600000
   },
   {
+    "title": "The Great Escape Festival",
+    "date": "Thu, 15 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-great-escape-festival/",
+    "dateUnix": 1747267200000
+  },
+  {
     "title": "The Great Escape 2025 – Thursday",
     "date": "15th May 2025 - 12:00 pm",
     "venue": "Hope & Ruin",
@@ -201,6 +187,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/no-friends-in-the-industry-thursday/",
     "dateUnix": 1747317600000
+  },
+  {
+    "title": "The Great Escape Festival",
+    "date": "Fri, 16 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-great-escape-festival-2/",
+    "dateUnix": 1747353600000
   },
   {
     "title": "The Great Escape 2025 – Friday",
