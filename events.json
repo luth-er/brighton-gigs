@@ -1,19 +1,5 @@
 [
   {
-    "title": "Kanukai",
-    "date": "Tue, 6 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/kanukai/",
-    "dateUnix": 1746489600000
-  },
-  {
-    "title": "Breast Cancer Fundraiser – Women Metal Musicians",
-    "date": "6th May 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/breast-cancer-fundraiser-women-metal-musicians/",
-    "dateUnix": 1746558000000
-  },
-  {
     "title": "LOW TICKETS: Big Boy",
     "date": "Wed, 7 May 2025",
     "venue": "Green Door Store",
@@ -186,6 +172,13 @@
     "date": "Fri, 16 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/the-great-escape-festival-2/",
+    "dateUnix": 1747353600000
+  },
+  {
+    "title": "Blazed & Confused",
+    "date": "Fri, 16 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/blazed-confused/",
     "dateUnix": 1747353600000
   },
   {
