@@ -1,26 +1,5 @@
 [
   {
-    "title": "LOW TICKETS: Big Boy",
-    "date": "Wed, 7 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/low-tickets-big-boy/",
-    "dateUnix": 1746576000000
-  },
-  {
-    "title": "Scissor Sisters",
-    "date": "07 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/scissor-sisters-intimate-warmup-shows/event/zwob",
-    "dateUnix": 1746576000000
-  },
-  {
-    "title": "HH Presents: Flat Party + Black Bordello + COWZ + Ski Lift",
-    "date": "7th May 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hh-presents-flat-party-black-bordello-cowz-ski-lift/",
-    "dateUnix": 1746646200000
-  },
-  {
     "title": "SOLD OUT: Post Rave Britain Archive Roadshow",
     "date": "Thu, 8 May 2025",
     "venue": "Green Door Store",
@@ -194,6 +173,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/no-friends-in-the-industry-friday/",
     "dateUnix": 1747404000000
+  },
+  {
+    "title": "The Great Escape Festival",
+    "date": "Sat, 17 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-great-escape-festival-3/",
+    "dateUnix": 1747440000000
   },
   {
     "title": "Rhythm Of The 90s",
@@ -497,6 +483,13 @@
     "dateUnix": 1751587200000
   },
   {
+    "title": "Regal Cheer – A ‘Quite Good’ Evening",
+    "date": "5th July 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/regal-cheer-a-quite-good-evening/",
+    "dateUnix": 1751743800000
+  },
+  {
     "title": "Allie X",
     "date": "11 JUL 2025",
     "venue": "Concorde 2",
@@ -523,6 +516,13 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/653859",
     "dateUnix": 1753315200000
+  },
+  {
+    "title": "End Times Launch Night at The Folklore Rooms, Brighton",
+    "date": "Saturday 26th July, 2025",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/659400",
+    "dateUnix": 1753488000000
   },
   {
     "title": "CUD",
@@ -782,6 +782,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/chameleons/event/zxco",
     "dateUnix": 1762905600000
+  },
+  {
+    "title": "The Crazy World Of Arthur Brown",
+    "date": "13 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-crazy-world-of-arthur-brown/event/zxc8",
+    "dateUnix": 1762992000000
   },
   {
     "title": "Good Health Good Wealth",
