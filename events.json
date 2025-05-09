@@ -1,26 +1,5 @@
 [
   {
-    "title": "SOLD OUT: Post Rave Britain Archive Roadshow",
-    "date": "Thu, 8 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/sold-out-post-rave-britain-archive-roadshow/",
-    "dateUnix": 1746662400000
-  },
-  {
-    "title": "Grace Petrie",
-    "date": "08 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/grace-petrie-uk-tour/event/qg48",
-    "dateUnix": 1746662400000
-  },
-  {
-    "title": "Fire Escape + Babyteeth + Park Crescent + The Devils Lotus",
-    "date": "8th May 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/fire-esxcape-babyteeth-park-crescent-the-devils-lotus/",
-    "dateUnix": 1746732600000
-  },
-  {
     "title": "Strawberry Lace",
     "date": "Fri, 9 May 2025",
     "venue": "Green Door Store",
@@ -117,6 +96,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/jodie-bryants-discover-live/",
     "dateUnix": 1747164600000
+  },
+  {
+    "title": "Alt Alt Escape Kick Off Partaaaayy!",
+    "date": "Wed, 14 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/alt-alt-escape-kick-off-partaaaayy/",
+    "dateUnix": 1747180800000
   },
   {
     "title": "The Great Escape 2025 – Wednesday",
@@ -789,6 +775,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-crazy-world-of-arthur-brown/event/zxc8",
     "dateUnix": 1762992000000
+  },
+  {
+    "title": "Turin Brakes",
+    "date": "14 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/turin-brakes-spacehopper-tour/event/zxvm",
+    "dateUnix": 1763078400000
   },
   {
     "title": "Good Health Good Wealth",
