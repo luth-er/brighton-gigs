@@ -1,31 +1,10 @@
 [
   {
-    "title": "Strawberry Lace",
-    "date": "Fri, 9 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/strawberry-lace/",
-    "dateUnix": 1746748800000
-  },
-  {
     "title": "i f***ing h8 clubbing",
     "date": "Fri, 9 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing/",
     "dateUnix": 1746748800000
-  },
-  {
-    "title": "Beatles Dub Club",
-    "date": "09 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/beatles-dub-club/event/zx44",
-    "dateUnix": 1746748800000
-  },
-  {
-    "title": "David Lance Callahan",
-    "date": "9th May 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/david-lance-callahan/",
-    "dateUnix": 1746820800000
   },
   {
     "title": "Boom Boom Kid",
@@ -165,6 +144,13 @@
     "date": "Sat, 17 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/the-great-escape-festival-3/",
+    "dateUnix": 1747440000000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 17 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-7/",
     "dateUnix": 1747440000000
   },
   {
@@ -392,6 +378,13 @@
     "dateUnix": 1749670200000
   },
   {
+    "title": "FREE Music Production Masterclass & Q&A with Joy Stacey – For Women and Gender Minority Producers",
+    "date": "14th June 2025 - 1:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/free-music-production-masterclass-qa-with-joy-stacey-for-women-and-gender-minority-producers/",
+    "dateUnix": 1749906000000
+  },
+  {
     "title": "Rebelation + Supports",
     "date": "14th June 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -439,6 +432,20 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/deptford-northern-soul-club/event/zxeg",
     "dateUnix": 1750464000000
+  },
+  {
+    "title": "DUMFUN + Support",
+    "date": "21st June 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/dumfun-support/",
+    "dateUnix": 1750532400000
+  },
+  {
+    "title": "Social Wildcard + Support",
+    "date": "26th June 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/social-wildcard-support-2/",
+    "dateUnix": 1750966200000
   },
   {
     "title": "Sanctum Sanctorium : The Dark Side Of The 80's",
@@ -495,6 +502,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/overthrust-crypsis-human-leather/",
     "dateUnix": 1752696000000
+  },
+  {
+    "title": "Hidden Herd: Comforts + Mulimba + Winter Gardens + more",
+    "date": "23rd July 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hidden-herd-comforts-mulimba-winter-gardens-more/",
+    "dateUnix": 1753299000000
   },
   {
     "title": "Seany Clarke - Album Launch Show",
@@ -782,6 +796,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/turin-brakes-spacehopper-tour/event/zxvm",
     "dateUnix": 1763078400000
+  },
+  {
+    "title": "Hugh Cornwell",
+    "date": "16 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/hugh-cornwell-come-and-get-some-tour/event/ztij",
+    "dateUnix": 1763251200000
   },
   {
     "title": "Good Health Good Wealth",
