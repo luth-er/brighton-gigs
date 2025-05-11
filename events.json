@@ -1,38 +1,10 @@
 [
   {
-    "title": "i f***ing h8 clubbing",
-    "date": "Fri, 9 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing/",
-    "dateUnix": 1746748800000
-  },
-  {
-    "title": "Boom Boom Kid",
-    "date": "Sat, 10 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/boom-boom-kid/",
-    "dateUnix": 1746835200000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 10 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-6/",
     "dateUnix": 1746835200000
-  },
-  {
-    "title": "Alabaster DePlume",
-    "date": "10 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/alabaster-deplume-a-blade-because-2025-tour/event/qc2w",
-    "dateUnix": 1746835200000
-  },
-  {
-    "title": "Bananagun",
-    "date": "10th May 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/bananagun-2/",
-    "dateUnix": 1746907200000
   },
   {
     "title": "Pearll: Gender Affirming Care Fundraiser",
@@ -173,6 +145,20 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/no-friends-in-the-industry-saturday/",
     "dateUnix": 1747490400000
+  },
+  {
+    "title": "Face Off Fundraiser- For Erin’s Gender Affirming Care",
+    "date": "Sun, 18 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/face-off-fundraiser-for-erins-gender-affirming-care/",
+    "dateUnix": 1747526400000
+  },
+  {
+    "title": "SOLD OUT: Samantha Crain",
+    "date": "Mon, 19 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/samantha-crain/",
+    "dateUnix": 1747612800000
   },
   {
     "title": "Sonny Tennet",
@@ -803,6 +789,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/hugh-cornwell-come-and-get-some-tour/event/ztij",
     "dateUnix": 1763251200000
+  },
+  {
+    "title": "The Pains of Being Pure at Heart",
+    "date": "21 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-pains-of-being-pure-at-heart-15-year-anniversary-tour/event/zxcp",
+    "dateUnix": 1763683200000
   },
   {
     "title": "Good Health Good Wealth",
