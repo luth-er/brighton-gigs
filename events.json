@@ -1,26 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 10 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-6/",
-    "dateUnix": 1746835200000
-  },
-  {
-    "title": "Pearll: Gender Affirming Care Fundraiser",
-    "date": "Sun, 11 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/pearll-gender-affirming-care-fundraiser/",
-    "dateUnix": 1746921600000
-  },
-  {
-    "title": "Walter Trout",
-    "date": "11 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/walter-trout-may-tour-2025/event/zx43",
-    "dateUnix": 1746921600000
-  },
-  {
     "title": "KermesZ à l’Est",
     "date": "Mon, 12 May 2025",
     "venue": "Green Door Store",
@@ -161,11 +140,25 @@
     "dateUnix": 1747612800000
   },
   {
+    "title": "Cowboyy",
+    "date": "Tue, 20 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/cowboyy/",
+    "dateUnix": 1747699200000
+  },
+  {
     "title": "Sonny Tennet",
     "date": "20th May 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/sonny-tennet/",
     "dateUnix": 1747767600000
+  },
+  {
+    "title": "Maximilian",
+    "date": "Wed, 21 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/maximilian/",
+    "dateUnix": 1747785600000
   },
   {
     "title": "The Attendant (Pete Astor)",
@@ -796,6 +789,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-pains-of-being-pure-at-heart-15-year-anniversary-tour/event/zxcp",
     "dateUnix": 1763683200000
+  },
+  {
+    "title": "UK Foo Fighters",
+    "date": "22 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/uk-foo-fighters-celebrating-30-years-of-foo-fighters-tour/event/zxc9",
+    "dateUnix": 1763769600000
   },
   {
     "title": "Good Health Good Wealth",
