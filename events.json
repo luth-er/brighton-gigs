@@ -1,19 +1,5 @@
 [
   {
-    "title": "KermesZ à l’Est",
-    "date": "Mon, 12 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/kermesz-a-lest/",
-    "dateUnix": 1747008000000
-  },
-  {
-    "title": "Placeholder – Poetry Night #20",
-    "date": "12th May 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/placeholder-poetry-night-20/",
-    "dateUnix": 1747078200000
-  },
-  {
     "title": "Mirepoix- Single Release Show",
     "date": "Tue, 13 May 2025",
     "venue": "Green Door Store",
@@ -36,10 +22,10 @@
   },
   {
     "title": "The Great Escape 2025 – Wednesday",
-    "date": "14th May 2025 - 6:00 pm",
+    "date": "14th May 2025 - 4:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-great-escape-2025-wednesday/",
-    "dateUnix": 1747245600000
+    "dateUnix": 1747238400000
   },
   {
     "title": "The Great Escape Festival",
@@ -173,6 +159,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/kaneko-ayano-support/",
     "dateUnix": 1747855800000
+  },
+  {
+    "title": "SOLD OUT: AS IT IS",
+    "date": "Thu, 22 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/as-it-is/",
+    "dateUnix": 1747872000000
   },
   {
     "title": "Lunar Vacation + SAD DADS + Divorce Attorney",
@@ -497,6 +490,13 @@
     "dateUnix": 1753315200000
   },
   {
+    "title": "Lair",
+    "date": "24th July 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/lair/",
+    "dateUnix": 1753385400000
+  },
+  {
     "title": "End Times Launch Night at The Folklore Rooms, Brighton",
     "date": "Saturday 26th July, 2025",
     "venue": "Folklore Rooms",
@@ -686,6 +686,13 @@
     "dateUnix": 1759951800000
   },
   {
+    "title": "The New Eves",
+    "date": "09 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-new-eves-the-new-eve-is-rising-uk-tour/event/8omsy",
+    "dateUnix": 1759968000000
+  },
+  {
     "title": "Nirvana UK",
     "date": "11 OCT 2025",
     "venue": "Concorde 2",
@@ -789,13 +796,6 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-pains-of-being-pure-at-heart-15-year-anniversary-tour/event/zxcp",
     "dateUnix": 1763683200000
-  },
-  {
-    "title": "UK Foo Fighters",
-    "date": "22 NOV 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/uk-foo-fighters-celebrating-30-years-of-foo-fighters-tour/event/zxc9",
-    "dateUnix": 1763769600000
   },
   {
     "title": "Good Health Good Wealth",
