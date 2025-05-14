@@ -1,19 +1,5 @@
 [
   {
-    "title": "Mirepoix- Single Release Show",
-    "date": "Tue, 13 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/mirepoix-single-release-show/",
-    "dateUnix": 1747094400000
-  },
-  {
-    "title": "Jodie Bryant’s Discover Live",
-    "date": "13th May 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/jodie-bryants-discover-live/",
-    "dateUnix": 1747164600000
-  },
-  {
     "title": "Alt Alt Escape Kick Off Partaaaayy!",
     "date": "Wed, 14 May 2025",
     "venue": "Green Door Store",
@@ -173,6 +159,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/lunar-vacation-sad-dads-divorce-attorney/",
     "dateUnix": 1747944000000
+  },
+  {
+    "title": "LOW TICKETS: Brontide",
+    "date": "Fri, 23 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/brontide/",
+    "dateUnix": 1747958400000
   },
   {
     "title": "CocoRosie",
