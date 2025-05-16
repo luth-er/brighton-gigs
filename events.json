@@ -1,33 +1,5 @@
 [
   {
-    "title": "Alt Alt Escape Kick Off Partaaaayy!",
-    "date": "Wed, 14 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/alt-alt-escape-kick-off-partaaaayy/",
-    "dateUnix": 1747180800000
-  },
-  {
-    "title": "The Great Escape Festival",
-    "date": "Thu, 15 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-great-escape-festival/",
-    "dateUnix": 1747267200000
-  },
-  {
-    "title": "The Great Escape 2025 – Thursday",
-    "date": "15th May 2025 - 12:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-great-escape-2025-thursday/",
-    "dateUnix": 1747310400000
-  },
-  {
-    "title": "No Friends In The Industry – Thursday",
-    "date": "15th May 2025 - 2:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/no-friends-in-the-industry-thursday/",
-    "dateUnix": 1747317600000
-  },
-  {
     "title": "The Great Escape Festival",
     "date": "Fri, 16 May 2025",
     "venue": "Green Door Store",
@@ -161,6 +133,13 @@
     "dateUnix": 1747958400000
   },
   {
+    "title": "that’s f***ing rubbish- blondie vs sabrina carpenter",
+    "date": "Fri, 23 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish/",
+    "dateUnix": 1747958400000
+  },
+  {
     "title": "CocoRosie",
     "date": "23 MAY 2025",
     "venue": "Concorde 2",
@@ -173,6 +152,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/sweet-pill/",
     "dateUnix": 1748028600000
+  },
+  {
+    "title": "Big Tree All-Dayer",
+    "date": "Sat, 24 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/big-tree-all-dayer/",
+    "dateUnix": 1748044800000
   },
   {
     "title": "Totorro + Guests",
@@ -336,6 +322,13 @@
     "dateUnix": 1749670200000
   },
   {
+    "title": "Lower Slaughter",
+    "date": "13th June 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/lower-slaughter/",
+    "dateUnix": 1749844800000
+  },
+  {
     "title": "FREE Music Production Masterclass & Q&A with Joy Stacey – For Women and Gender Minority Producers",
     "date": "14th June 2025 - 1:00 pm",
     "venue": "Hope & Ruin",
@@ -369,6 +362,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/alien-ant-farm-europe-uk-tour/event/zxev",
     "dateUnix": 1750118400000
+  },
+  {
+    "title": "Hidden Herd Presents: Thistle. + Goodbye + Ain’t + Carne",
+    "date": "18th June 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hidden-herd-presents-thistle-goodbye-aint-carne/",
+    "dateUnix": 1750275000000
   },
   {
     "title": "Natty",
@@ -425,6 +425,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/dakka-skanks-takeover-2/",
     "dateUnix": 1751137200000
+  },
+  {
+    "title": "Sweet Billy Pilgirm",
+    "date": "1st July 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/sweet-billy-pilgirm/",
+    "dateUnix": 1751398200000
   },
   {
     "title": "The Luke Combs Experience",
