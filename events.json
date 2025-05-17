@@ -1,31 +1,10 @@
 [
   {
-    "title": "The Great Escape Festival",
-    "date": "Fri, 16 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-great-escape-festival-2/",
-    "dateUnix": 1747353600000
-  },
-  {
     "title": "Blazed & Confused",
     "date": "Fri, 16 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/blazed-confused/",
     "dateUnix": 1747353600000
-  },
-  {
-    "title": "The Great Escape 2025 – Friday",
-    "date": "16th May 2025 - 12:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-great-escape-2025-friday/",
-    "dateUnix": 1747396800000
-  },
-  {
-    "title": "No Friends In The Industry – Friday",
-    "date": "16th May 2025 - 2:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/no-friends-in-the-industry-friday/",
-    "dateUnix": 1747404000000
   },
   {
     "title": "The Great Escape Festival",
@@ -158,6 +137,13 @@
     "date": "Sat, 24 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/big-tree-all-dayer/",
+    "dateUnix": 1748044800000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 24 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-8/",
     "dateUnix": 1748044800000
   },
   {
