@@ -1,45 +1,10 @@
 [
   {
-    "title": "Blazed & Confused",
-    "date": "Fri, 16 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/blazed-confused/",
-    "dateUnix": 1747353600000
-  },
-  {
-    "title": "The Great Escape Festival",
-    "date": "Sat, 17 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-great-escape-festival-3/",
-    "dateUnix": 1747440000000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 17 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-7/",
     "dateUnix": 1747440000000
-  },
-  {
-    "title": "Rhythm Of The 90s",
-    "date": "17 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/rhythm-of-the-90s/event/zx4d",
-    "dateUnix": 1747440000000
-  },
-  {
-    "title": "The Great Escape 2025 – Saturday",
-    "date": "17th May 2025 - 12:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-great-escape-2025-saturday/",
-    "dateUnix": 1747483200000
-  },
-  {
-    "title": "No Friends In The Industry – Saturday",
-    "date": "17th May 2025 - 2:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/no-friends-in-the-industry-saturday/",
-    "dateUnix": 1747490400000
   },
   {
     "title": "Face Off Fundraiser- For Erin’s Gender Affirming Care",
@@ -182,6 +147,13 @@
     "dateUnix": 1748374200000
   },
   {
+    "title": "SOLD OUT: Jasmine.4.t",
+    "date": "Wed, 28 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/jasmine-4-t/",
+    "dateUnix": 1748390400000
+  },
+  {
     "title": "The Sheepdogs",
     "date": "28 MAY 2025",
     "venue": "Concorde 2",
@@ -194,6 +166,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/dratmandu-real-life-goblin-aquatic-ape-theory/",
     "dateUnix": 1748460600000
+  },
+  {
+    "title": "Floral Image",
+    "date": "Thu, 29 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/floral-image/",
+    "dateUnix": 1748476800000
   },
   {
     "title": "The Altons & Thee Sinseers",
@@ -775,6 +754,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-pains-of-being-pure-at-heart-15-year-anniversary-tour/event/zxcp",
     "dateUnix": 1763683200000
+  },
+  {
+    "title": "UK Foo Fighters",
+    "date": "22 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/uk-foo-fighters-celebrating-30-years-of-foo-fighters-tour/event/zxc9",
+    "dateUnix": 1763769600000
   },
   {
     "title": "Good Health Good Wealth",
