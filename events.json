@@ -1,19 +1,5 @@
 [
   {
-    "title": "Cowboyy",
-    "date": "Tue, 20 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/cowboyy/",
-    "dateUnix": 1747699200000
-  },
-  {
-    "title": "Sonny Tennet",
-    "date": "20th May 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/sonny-tennet/",
-    "dateUnix": 1747767600000
-  },
-  {
     "title": "Maximilian",
     "date": "Wed, 21 May 2025",
     "venue": "Green Door Store",
@@ -161,6 +147,13 @@
     "dateUnix": 1748476800000
   },
   {
+    "title": "Trans Pride Fundraiser ft. Lonnie Gunn + More",
+    "date": "29th May 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/trans-pride-fundraiser-ft-lonnie-gunn-more/",
+    "dateUnix": 1748545200000
+  },
+  {
     "title": "Spill Tab",
     "date": "Fri, 30 May 2025",
     "venue": "Green Door Store",
@@ -193,6 +186,13 @@
     "date": "Sat, 31 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/dirty-work/",
+    "dateUnix": 1748649600000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 31 May 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-9/",
     "dateUnix": 1748649600000
   },
   {
@@ -616,11 +616,25 @@
     "dateUnix": 1758758400000
   },
   {
+    "title": "LA Witch",
+    "date": "25th September 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/la-witch/",
+    "dateUnix": 1758828600000
+  },
+  {
     "title": "Dirty DC",
     "date": "27 SEP 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/dirty-dc/event/zx3h",
     "dateUnix": 1758931200000
+  },
+  {
+    "title": "Vestia + Support",
+    "date": "28th September 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/vestia-support/",
+    "dateUnix": 1759086000000
   },
   {
     "title": "Overpass",
@@ -642,6 +656,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/midnight-rodeo/",
     "dateUnix": 1759608000000
+  },
+  {
+    "title": "Red Rum Club",
+    "date": "08 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/red-rum-club-buck-uk-tour/event/8o68s",
+    "dateUnix": 1759881600000
   },
   {
     "title": "Dirty Nice",
@@ -761,13 +782,6 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-pains-of-being-pure-at-heart-15-year-anniversary-tour/event/zxcp",
     "dateUnix": 1763683200000
-  },
-  {
-    "title": "UK Foo Fighters",
-    "date": "22 NOV 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/uk-foo-fighters-celebrating-30-years-of-foo-fighters-tour/event/zxc9",
-    "dateUnix": 1763769600000
   },
   {
     "title": "Good Health Good Wealth",
