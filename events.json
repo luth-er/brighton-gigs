@@ -1,26 +1,5 @@
 [
   {
-    "title": "Maximilian",
-    "date": "Wed, 21 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/maximilian/",
-    "dateUnix": 1747785600000
-  },
-  {
-    "title": "The Attendant (Pete Astor)",
-    "date": "Wednesday 21st May, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/650824",
-    "dateUnix": 1747785600000
-  },
-  {
-    "title": "Kanekoayano + Frances Mistry + Alex White",
-    "date": "21st May 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/kaneko-ayano-support/",
-    "dateUnix": 1747855800000
-  },
-  {
     "title": "SOLD OUT: AS IT IS",
     "date": "Thu, 22 May 2025",
     "venue": "Green Door Store",
@@ -56,7 +35,7 @@
     "dateUnix": 1747958400000
   },
   {
-    "title": "Sweet Pill",
+    "title": "Sweet Pill *SOLD OUT*",
     "date": "23rd May 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/sweet-pill/",
@@ -210,6 +189,13 @@
     "dateUnix": 1748736000000
   },
   {
+    "title": "CLAMM",
+    "date": "Mon, 2 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/clamm/",
+    "dateUnix": 1748822400000
+  },
+  {
     "title": "Twin Atlantic",
     "date": "04 JUN 2025",
     "venue": "Concorde 2",
@@ -231,7 +217,7 @@
     "dateUnix": 1749081600000
   },
   {
-    "title": "SUEP + SAD DADS",
+    "title": "SUEP + SAD DADS + SUZI FROM THE TANNING SALON",
     "date": "5th June 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/suep-sad-dads/",
@@ -348,6 +334,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/stipe/event/zxeb",
     "dateUnix": 1750377600000
+  },
+  {
+    "title": "Salter Cane",
+    "date": "20th June 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/salter-cane/",
+    "dateUnix": 1750449600000
   },
   {
     "title": "Deptford Northern Soul Club",
