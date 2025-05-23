@@ -1,19 +1,5 @@
 [
   {
-    "title": "SOLD OUT: AS IT IS",
-    "date": "Thu, 22 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/as-it-is/",
-    "dateUnix": 1747872000000
-  },
-  {
-    "title": "Lunar Vacation + SAD DADS + Divorce Attorney",
-    "date": "22nd May 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/lunar-vacation-sad-dads-divorce-attorney/",
-    "dateUnix": 1747944000000
-  },
-  {
     "title": "LOW TICKETS: Brontide",
     "date": "Fri, 23 May 2025",
     "venue": "Green Door Store",
@@ -194,6 +180,13 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/clamm/",
     "dateUnix": 1748822400000
+  },
+  {
+    "title": "Anton Vic",
+    "date": "Wed, 4 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/anton-vic/",
+    "dateUnix": 1748995200000
   },
   {
     "title": "Twin Atlantic",
