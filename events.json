@@ -1,31 +1,10 @@
 [
   {
-    "title": "LOW TICKETS: Brontide",
-    "date": "Fri, 23 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/brontide/",
-    "dateUnix": 1747958400000
-  },
-  {
     "title": "that’s f***ing rubbish- blondie vs sabrina carpenter",
     "date": "Fri, 23 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish/",
     "dateUnix": 1747958400000
-  },
-  {
-    "title": "CocoRosie",
-    "date": "23 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/cocorosie-little-death-wishes-tour-2025/event/zx4c",
-    "dateUnix": 1747958400000
-  },
-  {
-    "title": "Sweet Pill *SOLD OUT*",
-    "date": "23rd May 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/sweet-pill/",
-    "dateUnix": 1748028600000
   },
   {
     "title": "Big Tree All-Dayer",
@@ -215,6 +194,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/suep-sad-dads/",
     "dateUnix": 1749151800000
+  },
+  {
+    "title": "Magda",
+    "date": "Fri, 6 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/magda/",
+    "dateUnix": 1749168000000
   },
   {
     "title": "Absolute Bowie",
@@ -670,6 +656,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nirvana-uk/event/zx3y",
     "dateUnix": 1760140800000
+  },
+  {
+    "title": "The Royston Club",
+    "date": "16 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-royston-club-songs-for-the-spine-tour/event/8onuh",
+    "dateUnix": 1760572800000
   },
   {
     "title": "Utopia Strong",
