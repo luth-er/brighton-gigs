@@ -121,16 +121,18 @@ const scrapeConcordeTwo = async () => {
 
 // Scrape Chalk
 const scrapeChalk = async () => {
-  const url = "https://chalkvenue.com/live";
+  const url = "https://www.gigseekr.com/uk/en/brighton/chalk/venue/8kq";
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
 
-  return $('.bg-chalkBlue').map((_, element) => {
-    const title = $(element).find("a h2").text().trim();
-    console.log(title);
-    const date = $(element).find("a p.text-base").text().trim();
+  return $('.event-container .basic-event').map((_, element) => {
+    const day   = $(element).find(".date-container .day").text().trim();
+    const month = $(element).find(".date-container .month").text().trim();
+    const year  = $(element).find(".date-container .year").text().trim();
+    const title = $(element).find(".details h3 a").text().trim();
+    const date  = `${day} ${month} ${year}`;
     const venue = 'Chalk';
-    const link = $(element).find("a").attr('href');
+    const link  = 'https://www.gigseekr.com' + $(element).find(".details h3 a").attr('href');
 
     let dateUnix;
     try {
