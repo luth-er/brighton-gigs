@@ -1,26 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 24 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-8/",
-    "dateUnix": 1748044800000
-  },
-  {
-    "title": "4am Kru",
-    "date": "25 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/4am-kru/event/zx4a",
-    "dateUnix": 1748131200000
-  },
-  {
-    "title": "Planthood",
-    "date": "25th May 2025 - 7:45 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/planthood/",
-    "dateUnix": 1748202300000
-  },
-  {
     "title": "Michael Monroe",
     "date": "27 MAY 2025",
     "venue": "Concorde 2",
@@ -214,6 +193,13 @@
     "date": "Sat, 7 Jun 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/gutterfly/",
+    "dateUnix": 1749254400000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 7 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985/",
     "dateUnix": 1749254400000
   },
   {
@@ -754,6 +740,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-pains-of-being-pure-at-heart-15-year-anniversary-tour/event/zxcp",
     "dateUnix": 1763683200000
+  },
+  {
+    "title": "UK Foo Fighters",
+    "date": "22 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/uk-foo-fighters-celebrating-30-years-of-foo-fighters-tour/event/zxc9",
+    "dateUnix": 1763769600000
   },
   {
     "title": "Good Health Good Wealth",
