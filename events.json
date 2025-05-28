@@ -1,26 +1,5 @@
 [
   {
-    "title": "Michael Monroe",
-    "date": "27 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/michael-monroe-uk-tour-may-2025/event/zx4z",
-    "dateUnix": 1748304000000
-  },
-  {
-    "title": "Public Image Ltd (PIL)",
-    "date": "27 MAY 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/public-image-ltd-pil-this-is-not-the-last-tour/event/z7nm",
-    "dateUnix": 1748304000000
-  },
-  {
-    "title": "Seafret",
-    "date": "27th May 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/seafret/",
-    "dateUnix": 1748374200000
-  },
-  {
     "title": "SOLD OUT: Jasmine.4.t",
     "date": "Wed, 28 May 2025",
     "venue": "Green Door Store",
@@ -239,10 +218,10 @@
   },
   {
     "title": "Pozi + For Breakfast + Big Long Sun + Speedial",
-    "date": "6th June 2025 - 8:30 pm",
+    "date": "6th June 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/pozi-for-breakfast-big-long-sun-speedial/",
-    "dateUnix": 1749241800000
+    "dateUnix": 1749238200000
   },
   {
     "title": "Gutterfly",
@@ -973,6 +952,13 @@
     "dateUnix": 1761350400000
   },
   {
+    "title": "The Lovely Eggs",
+    "date": "26 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-lovely-eggs-20th-anniversary-tour/event/8onvg",
+    "dateUnix": 1761436800000
+  },
+  {
     "title": "Cardinal Black",
     "date": "28 OCT 2025",
     "venue": "Concorde 2",
@@ -1020,6 +1006,13 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/657354",
     "dateUnix": 1762387200000
+  },
+  {
+    "title": "Pop Will Eat Itself",
+    "date": "07 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/pop-will-eat-itself-delete-everything-2025-uk-tour/event/8ongi",
+    "dateUnix": 1762473600000
   },
   {
     "title": "Metallica Reloaded",
@@ -1092,10 +1085,10 @@
     "dateUnix": 1763683200000
   },
   {
-    "title": "UK Foo Fighters",
+    "title": "Drowning Pool & Spineshank",
     "date": "22 NOV 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/uk-foo-fighters-celebrating-30-years-of-foo-fighters-tour/event/zxc9",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/drowning-pool-spineshank-uk-and-ireland-tour-2025/event/zanj",
     "dateUnix": 1763769600000
   },
   {
