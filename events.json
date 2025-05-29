@@ -1,33 +1,5 @@
 [
   {
-    "title": "SOLD OUT: Jasmine.4.t",
-    "date": "Wed, 28 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/jasmine-4-t/",
-    "dateUnix": 1748390400000
-  },
-  {
-    "title": "The Sheepdogs",
-    "date": "28 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-sheepdogs-uk-spring-2025/event/zrd7",
-    "dateUnix": 1748390400000
-  },
-  {
-    "title": "The Nightingales",
-    "date": "28 MAY 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/the-nightingales-uk-tour-2025/event/q2ku",
-    "dateUnix": 1748390400000
-  },
-  {
-    "title": "Dratmandu + Real Life Goblin + Aquatic Ape Theory",
-    "date": "28th May 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dratmandu-real-life-goblin-aquatic-ape-theory/",
-    "dateUnix": 1748460600000
-  },
-  {
     "title": "Floral Image",
     "date": "Thu, 29 May 2025",
     "venue": "Green Door Store",
@@ -250,6 +222,20 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/aswad/event/zxsi",
     "dateUnix": 1749254400000
+  },
+  {
+    "title": "H&R ONES 2 WATCH: Rizzas+ Real Life Goblin + Sleepless Pleasures + The Xlnts",
+    "date": "7th June 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hr-ones-2-watch-rizzas-real-life-goblin-sleepless-pleasures-the-xlnts/",
+    "dateUnix": 1749324600000
+  },
+  {
+    "title": "Splitting The Atom LXXIV",
+    "date": "Sun, 8 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/splitting-the-atom-lxxiv/",
+    "dateUnix": 1749340800000
   },
   {
     "title": "Cody Pennington",
@@ -1085,11 +1071,25 @@
     "dateUnix": 1763683200000
   },
   {
+    "title": "UK Foo Fighters",
+    "date": "22 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/uk-foo-fighters-celebrating-30-years-of-foo-fighters-tour/event/zxc9",
+    "dateUnix": 1763769600000
+  },
+  {
     "title": "Drowning Pool & Spineshank",
     "date": "22 NOV 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/drowning-pool-spineshank-uk-and-ireland-tour-2025/event/zanj",
     "dateUnix": 1763769600000
+  },
+  {
+    "title": "The Horrors",
+    "date": "23 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/the-horrors-night-life-tour-2025/event/zwk9",
+    "dateUnix": 1763856000000
   },
   {
     "title": "Good Health Good Wealth",
