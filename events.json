@@ -1,33 +1,5 @@
 [
   {
-    "title": "Floral Image",
-    "date": "Thu, 29 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/floral-image/",
-    "dateUnix": 1748476800000
-  },
-  {
-    "title": "The Altons & Thee Sinseers",
-    "date": "29 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-altons-thee-sinseers-club-heartache-2025-tour/event/zxrh",
-    "dateUnix": 1748476800000
-  },
-  {
-    "title": "Throwing Muses",
-    "date": "29 MAY 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/throwing-muses-2025-tour/event/qzfd",
-    "dateUnix": 1748476800000
-  },
-  {
-    "title": "Trans Pride Fundraiser ft. Lonnie Gunn + More",
-    "date": "29th May 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/trans-pride-fundraiser-ft-lonnie-gunn-more/",
-    "dateUnix": 1748545200000
-  },
-  {
     "title": "Spill Tab",
     "date": "Fri, 30 May 2025",
     "venue": "Green Door Store",
@@ -252,6 +224,13 @@
     "dateUnix": 1749409200000
   },
   {
+    "title": "Nel Blu",
+    "date": "Wed, 11 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/nel-blu/",
+    "dateUnix": 1749600000000
+  },
+  {
     "title": "Don Broco",
     "date": "11 JUN 2025",
     "venue": "Chalk",
@@ -264,6 +243,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/last-seen-alive-3/",
     "dateUnix": 1749670200000
+  },
+  {
+    "title": "H&R Presents: Ones 2 Watch ft. crysometimes + Crimson + Jimmy",
+    "date": "12th June 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hr-presents-ones-2-watch-ft-crysometimes-crimson-jimmy/",
+    "dateUnix": 1749756600000
   },
   {
     "title": "Lower Slaughter",
@@ -334,6 +320,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/natty-the-divine-trinity-uk-tour/event/qzk7",
     "dateUnix": 1750291200000
+  },
+  {
+    "title": "H&R: Ones 2 Watch ft. Ragdoll + Oral Habit + Knuckle Draggers",
+    "date": "19th June 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hr-ones-2-watch-ft-ragdoll-oral-habit-knuckle-draggers/",
+    "dateUnix": 1750361400000
   },
   {
     "title": "Stipe",
@@ -518,7 +511,7 @@
     "dateUnix": 1753488000000
   },
   {
-    "title": "CUD",
+    "title": "CUD *SOLD OUT*",
     "date": "26th July 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/cud/",
@@ -833,6 +826,13 @@
     "dateUnix": 1759968000000
   },
   {
+    "title": "Art D’ecco",
+    "date": "9th October 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/art-decco/",
+    "dateUnix": 1760040000000
+  },
+  {
     "title": "Panic Shack",
     "date": "10 OCT 2025",
     "venue": "Chalk",
@@ -1090,6 +1090,20 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-horrors-night-life-tour-2025/event/zwk9",
     "dateUnix": 1763856000000
+  },
+  {
+    "title": "Conan",
+    "date": "24 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/conan-violence-dimension-uk-and-ireland-mmxxv/event/8oj3p",
+    "dateUnix": 1763942400000
+  },
+  {
+    "title": "Arthur Hill",
+    "date": "25 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/arthur-hill-stella-artour/event/zrki",
+    "dateUnix": 1764028800000
   },
   {
     "title": "Good Health Good Wealth",
