@@ -1,38 +1,10 @@
 [
   {
-    "title": "Spill Tab",
-    "date": "Fri, 30 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/spill-tab/",
-    "dateUnix": 1748563200000
-  },
-  {
     "title": "i f***ing h8 clubbing",
     "date": "Fri, 30 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-3/",
     "dateUnix": 1748563200000
-  },
-  {
-    "title": "Andrew Cushin",
-    "date": "30 MAY 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/andrew-cushin-love-is-for-everyone-tour-2025/event/zozg",
-    "dateUnix": 1748563200000
-  },
-  {
-    "title": "MJ Lenderman & The Wind",
-    "date": "30 MAY 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/mj-lenderman-and-the-wind-2025-tour/event/zjwn",
-    "dateUnix": 1748563200000
-  },
-  {
-    "title": "Harvey Jay Dodgson + Dritsharks + AlfE",
-    "date": "30th May 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/harvey-jay-dodgson/",
-    "dateUnix": 1748633400000
   },
   {
     "title": "Dirty Work",
@@ -243,6 +215,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/last-seen-alive-3/",
     "dateUnix": 1749670200000
+  },
+  {
+    "title": "Vile Imbeciles",
+    "date": "Thu, 12 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/vile-imbeciles/",
+    "dateUnix": 1749686400000
   },
   {
     "title": "H&R Presents: Ones 2 Watch ft. crysometimes + Crimson + Jimmy",
@@ -504,6 +483,13 @@
     "dateUnix": 1753385400000
   },
   {
+    "title": "Spooky Huge",
+    "date": "25th July 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/spooky-huge/",
+    "dateUnix": 1753471800000
+  },
+  {
     "title": "End Times Launch Night at The Folklore Rooms, Brighton",
     "date": "Saturday 26th July, 2025",
     "venue": "Folklore Rooms",
@@ -684,6 +670,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-kopycat-killers/event/zxwy",
     "dateUnix": 1757635200000
+  },
+  {
+    "title": "Armor For Sleep",
+    "date": "13 SEP 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/armor-for-sleep-what-to-do-when-you-are-dead/event/8ohd4",
+    "dateUnix": 1757721600000
   },
   {
     "title": "Senser",
@@ -1111,6 +1104,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/good-health-good-wealth/",
     "dateUnix": 1764529200000
+  },
+  {
+    "title": "Dub Pistols",
+    "date": "05 DEC 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/dub-pistols-winter-tour-25/event/8oh77",
+    "dateUnix": 1764892800000
   },
   {
     "title": "David Devant & His Spirit Wife",
