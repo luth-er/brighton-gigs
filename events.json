@@ -1,38 +1,10 @@
 [
   {
-    "title": "i f***ing h8 clubbing",
-    "date": "Fri, 30 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-3/",
-    "dateUnix": 1748563200000
-  },
-  {
-    "title": "Dirty Work",
-    "date": "Sat, 31 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/dirty-work/",
-    "dateUnix": 1748649600000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 31 May 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-9/",
     "dateUnix": 1748649600000
-  },
-  {
-    "title": "The Dualers",
-    "date": "31 MAY 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/the-dualers/event/zxxs",
-    "dateUnix": 1748649600000
-  },
-  {
-    "title": "PUNK PRIDE W/ GENDER CRISIS, GUM DISEASE, FLORALIS, DRIVE BY KILLS",
-    "date": "31st May 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/punk-pride-w-gender-crisis-gum-disease-floralis-drive-by-kills/",
-    "dateUnix": 1748718000000
   },
   {
     "title": "Shonen Knife",
@@ -229,6 +201,20 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hr-presents-ones-2-watch-ft-crysometimes-crimson-jimmy/",
     "dateUnix": 1749756600000
+  },
+  {
+    "title": "Nagasaki Dog",
+    "date": "Fri, 13 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/nagasaki-dog/",
+    "dateUnix": 1749772800000
+  },
+  {
+    "title": "i f***ing h8 clubbing",
+    "date": "Fri, 13 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-2/",
+    "dateUnix": 1749772800000
   },
   {
     "title": "Lower Slaughter",
@@ -1097,6 +1083,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/arthur-hill-stella-artour/event/zrki",
     "dateUnix": 1764028800000
+  },
+  {
+    "title": "Nouvelle Vague",
+    "date": "26 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/nouvelle-vague-2025-uk-tour/event/qaqw",
+    "dateUnix": 1764115200000
   },
   {
     "title": "Good Health Good Wealth",
