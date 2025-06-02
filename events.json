@@ -1,26 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 31 May 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-9/",
-    "dateUnix": 1748649600000
-  },
-  {
-    "title": "Shonen Knife",
-    "date": "01 JUN 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/shonen-knife-have-a-knife-day-tour/event/zc95",
-    "dateUnix": 1748736000000
-  },
-  {
-    "title": "Spear of Destiny",
-    "date": "01 JUN 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/spear-of-destiny/event/zxsp",
-    "dateUnix": 1748736000000
-  },
-  {
     "title": "CLAMM",
     "date": "Mon, 2 Jun 2025",
     "venue": "Green Door Store",
@@ -222,6 +201,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/lower-slaughter/",
     "dateUnix": 1749844800000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 14 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/",
+    "dateUnix": 1749859200000
   },
   {
     "title": "Cattle Decapitation",
@@ -1092,6 +1078,13 @@
     "dateUnix": 1764115200000
   },
   {
+    "title": "Lacuna Coil",
+    "date": "29 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/lacuna-coil-sleepless-empire-tour-2025/event/zxwt",
+    "dateUnix": 1764374400000
+  },
+  {
     "title": "Good Health Good Wealth",
     "date": "30th November 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -1104,6 +1097,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/dub-pistols-winter-tour-25/event/8oh77",
     "dateUnix": 1764892800000
+  },
+  {
+    "title": "Electric Six",
+    "date": "07 DEC 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/electric-six/event/zxci",
+    "dateUnix": 1765065600000
   },
   {
     "title": "David Devant & His Spirit Wife",
