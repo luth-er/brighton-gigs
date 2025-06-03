@@ -1,12 +1,5 @@
 [
   {
-    "title": "CLAMM",
-    "date": "Mon, 2 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/clamm/",
-    "dateUnix": 1748822400000
-  },
-  {
     "title": "Anton Vic",
     "date": "Wed, 4 Jun 2025",
     "venue": "Green Door Store",
@@ -259,6 +252,20 @@
     "dateUnix": 1750118400000
   },
   {
+    "title": "The Haunt",
+    "date": "Wed, 18 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-haunt/",
+    "dateUnix": 1750204800000
+  },
+  {
+    "title": "False Reality + Support",
+    "date": "18th June 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/false-reality-support/",
+    "dateUnix": 1750273200000
+  },
+  {
     "title": "Hidden Herd Presents: Thistle. + Goodbye + Ain’t + Carne",
     "date": "18th June 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -392,6 +399,13 @@
     "dateUnix": 1751932800000
   },
   {
+    "title": "XIBALBA / EXTINGUISH + supports",
+    "date": "8th July 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/xibalba-extinguish-supports/",
+    "dateUnix": 1752001200000
+  },
+  {
     "title": "Allie X",
     "date": "11 JUL 2025",
     "venue": "Concorde 2",
@@ -432,6 +446,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/melvins-stop-your-whining-tour/event/zr3b",
     "dateUnix": 1752796800000
+  },
+  {
+    "title": "Geordie Greep",
+    "date": "23 JUL 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/geordie-greep-uk-summer-2025/event/8oy8h",
+    "dateUnix": 1753228800000
   },
   {
     "title": "Hidden Herd: Comforts + Mulimba + Winter Gardens + more",
@@ -1076,13 +1097,6 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/nouvelle-vague-2025-uk-tour/event/qaqw",
     "dateUnix": 1764115200000
-  },
-  {
-    "title": "Lacuna Coil",
-    "date": "29 NOV 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/lacuna-coil-sleepless-empire-tour-2025/event/zxwt",
-    "dateUnix": 1764374400000
   },
   {
     "title": "Good Health Good Wealth",
