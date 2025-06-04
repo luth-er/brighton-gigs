@@ -196,6 +196,13 @@
     "dateUnix": 1749844800000
   },
   {
+    "title": "Telecom",
+    "date": "Sat, 14 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/telecom/",
+    "dateUnix": 1749859200000
+  },
+  {
     "title": "It Is Still 1985",
     "date": "Sat, 14 Jun 2025",
     "venue": "Green Door Store",
@@ -250,13 +257,6 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/deafheaven-across-the-vast-wilds-of-time/event/zxsu",
     "dateUnix": 1750118400000
-  },
-  {
-    "title": "The Haunt",
-    "date": "Wed, 18 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-haunt/",
-    "dateUnix": 1750204800000
   },
   {
     "title": "False Reality + Support",
@@ -1036,6 +1036,13 @@
     "dateUnix": 1763251200000
   },
   {
+    "title": "Shame",
+    "date": "19 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/shame-massive-monster-2025-tour/event/8oyuv",
+    "dateUnix": 1763510400000
+  },
+  {
     "title": "Dutty Moonshine Big Band",
     "date": "20 NOV 2025",
     "venue": "Chalk",
@@ -1090,13 +1097,6 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/arthur-hill-stella-artour/event/zrki",
     "dateUnix": 1764028800000
-  },
-  {
-    "title": "Nouvelle Vague",
-    "date": "26 NOV 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/nouvelle-vague-2025-uk-tour/event/qaqw",
-    "dateUnix": 1764115200000
   },
   {
     "title": "Good Health Good Wealth",
