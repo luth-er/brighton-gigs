@@ -1,33 +1,5 @@
 [
   {
-    "title": "Anton Vic",
-    "date": "Wed, 4 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/anton-vic/",
-    "dateUnix": 1748995200000
-  },
-  {
-    "title": "Twin Atlantic",
-    "date": "04 JUN 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/twin-atlantic-2025-uk-tour/event/8opi8",
-    "dateUnix": 1748995200000
-  },
-  {
-    "title": "We Are Scientists",
-    "date": "04 JUN 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/we-are-scientists-2025-uk-and-eu-tour/event/zpb4",
-    "dateUnix": 1748995200000
-  },
-  {
-    "title": "Pachyman + Support",
-    "date": "4th June 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/pachyman-support/",
-    "dateUnix": 1749067200000
-  },
-  {
     "title": "KRS-One",
     "date": "05 JUN 2025",
     "venue": "Concorde 2",
@@ -259,6 +231,13 @@
     "dateUnix": 1750118400000
   },
   {
+    "title": "The Haunt",
+    "date": "Wed, 18 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-haunt/",
+    "dateUnix": 1750204800000
+  },
+  {
     "title": "False Reality + Support",
     "date": "18th June 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -418,6 +397,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/cheekface-martha-uk-tour/event/zrhv",
     "dateUnix": 1752192000000
+  },
+  {
+    "title": "PIPPA",
+    "date": "11th July 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/pippa/",
+    "dateUnix": 1752262200000
   },
   {
     "title": "Sham 69",
@@ -1099,6 +1085,13 @@
     "dateUnix": 1764028800000
   },
   {
+    "title": "Nouvelle Vague",
+    "date": "26 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/nouvelle-vague-2025-uk-tour/event/qaqw",
+    "dateUnix": 1764115200000
+  },
+  {
     "title": "Good Health Good Wealth",
     "date": "30th November 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -1125,6 +1118,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/david-devant-his-spirit-wife-3/",
     "dateUnix": 1765567800000
+  },
+  {
+    "title": "80s HiFi",
+    "date": "20 DEC 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/80s-hifi-christmas-special/event/zxck",
+    "dateUnix": 1766188800000
   },
   {
     "title": "Xana *NEW VENUE*",
