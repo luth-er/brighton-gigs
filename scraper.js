@@ -37,8 +37,8 @@ const scrapeSites = async () => {
   allEvents.push(...chalkEvents);
 
   // Patterns
-  const patternsEvents = await scrapePatterns();
-  allEvents.push(...patternsEvents);
+  // const patternsEvents = await scrapePatterns();
+  // allEvents.push(...patternsEvents);
 
   // Folklore Rooms
   const folkloreRoomsEvents = await scrapeFolkloreRooms();
@@ -129,20 +129,20 @@ const scrapeChalk = async () => {
 };
 
 // Scrape Patterns
-const scrapePatterns = async () => {
-  const url = "https://patternsbrighton.com/club";
-  const $ = await fetchAndParseHTML(url);
+// const scrapePatterns = async () => {
+//   const url = "https://patternsbrighton.com/club";
+//   const $ = await fetchAndParseHTML(url);
 
-  return $('article').map((_, element) => {
-    const title = $(element).find(".dice_event-title").text().trim();
-    const date = $(element).find("time").text().trim();
-    const venue = 'Patterns';
-    const link = $(element).find(".dice_event-title").attr('href');
-    const dateUnix = parseEventDate(date, title);
+//   return $('article').map((_, element) => {
+//     const title = $(element).find(".dice_event-title").text().trim();
+//     const date = $(element).find("time").text().trim();
+//     const venue = 'Patterns';
+//     const link = $(element).find(".dice_event-title").attr('href');
+//     const dateUnix = parseEventDate(date, title);
 
-    return { title, date, venue, link, dateUnix };
-  }).get();
-};
+//     return { title, date, venue, link, dateUnix };
+//   }).get();
+// };
 
 // Scrape Folklore Rooms
 const scrapeFolkloreRooms = async () => {
