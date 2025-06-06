@@ -2,15 +2,15 @@
   "name": "brighton-gigs-scraper",
   "version": "1.0.0",
   "description": "Web scraper for Brighton gig listings",
-  "main": "scraper.js",
+  "main": "src/scraper.js",
   "type": "module",
   "scripts": {
-    "start": "node scraper.js",
+    "start": "node src/scraper.js",
     "lint": "npm run lint:js && npm run lint:css && npm run lint:html",
-    "lint:js": "eslint *.js",
-    "lint:css": "stylelint \"*.css\"",
+    "lint:js": "eslint src/**/*.js --config config/eslint.config.js",
+    "lint:css": "stylelint \"src/css/**/*.css\"",
     "lint:html": "htmlhint *.html",
-    "lint:fix": "eslint *.js --fix && stylelint \"*.css\" --fix",
+    "lint:fix": "eslint src/**/*.js --config config/eslint.config.js --fix && stylelint \"src/css/**/*.css\" --fix",
     "prepare": "husky"
   },
   "dependencies": {
@@ -28,8 +28,8 @@
     "stylelint-config-standard": "^38.0.0"
   },
   "lint-staged": {
-    "*.js": ["eslint --fix"],
-    "*.css": ["stylelint --fix"],
+    "src/**/*.js": ["eslint --config config/eslint.config.js --fix"],
+    "src/css/**/*.css": ["stylelint --fix"],
     "*.html": ["htmlhint"]
   }
 }

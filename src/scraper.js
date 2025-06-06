@@ -1,7 +1,7 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 import fs from 'fs/promises';
-import toUnixTimestamp from './date-parser.js';
+import toUnixTimestamp from './utils/date-parser.js';
 
 const parseEventDate = (date, eventTitle) => {
   try {
@@ -53,7 +53,7 @@ const scrapeSites = async () => {
   });
 
   // Write all events to a JSON file
-  await fs.writeFile('events.json', JSON.stringify(allEvents, null, 2));
+  await fs.writeFile('./data/events.json', JSON.stringify(allEvents, null, 2));
 
   console.log('Data has been written to events.json');
 };
