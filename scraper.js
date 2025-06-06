@@ -141,7 +141,7 @@ const scrapePatterns = async () => {
     const dateUnix = parseEventDate(date, title);
 
     return { title, date, venue, link, dateUnix };
-  }).get().filter(event => event.title && event.date);
+  }).get();
 };
 
 // Scrape Folklore Rooms
