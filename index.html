@@ -4,104 +4,11 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Brighton Gigs</title>
-		<style>
-			body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
-			h1 { color: #333; }
-			ul {
-				list-style-type: none;
-				padding: 0;
-				list-style-type: none;
-				display: grid;
-				grid-template-columns: 30% 30% 30%;
-				column-gap: 5%;
-
-				@media screen and (max-width: 992px) {
-					grid-template-columns: 100%;
-				}
-			}
-			li {
-				margin-bottom: 20px;
-				border: 1px solid #333;
-				padding: 8px 12px 20px 12px;
-				box-shadow: 4px 4px #333;
-			}
-			a { color: #0066cc; text-decoration: none; }
-			a:hover { text-decoration: underline; }
-			.venue { color: #666; font-style: italic; }
-			#debug { background-color: #f0f0f0; padding: 10px; margin-top: 20px; }
-		</style>
+		<link rel="stylesheet" href="styles.css">
 	</head>
 	<body>
 		<h1>Brighton Gigs</h1>
 		<div id="events-list"></div>
-		<!-- <div id="debug"></div> -->
-
-		<script>
-            // Date formatting functions
-            const getOrdinalSuffix = (day) => {
-                if (day > 3 && day < 21) return 'th';
-                switch (day % 10) {
-                    case 1: return 'st';
-                    case 2: return 'nd';
-                    case 3: return 'rd';
-                    default: return 'th';
-                }
-            };
-
-            const formatDate = (unixTimestamp) => {
-                const date = new Date(unixTimestamp);
-                const day = date.getDate();
-                const months = [
-                    'January', 'February', 'March', 'April', 'May', 'June',
-                    'July', 'August', 'September', 'October', 'November', 'December'
-                ];
-                const month = months[date.getMonth()];
-                const year = date.getFullYear();
-                return `${day}${getOrdinalSuffix(day)} ${month} ${year}`;
-            };
-
-			// Fetch events from JSON file
-			fetch('events.json')
-				.then(response => {
-					if (!response.ok) {
-						throw new Error(`HTTP error! status: ${response.status}`);
-					}
-					return response.json();
-				})
-				.then(events => {
-					const eventsList = document.getElementById('events-list');
-					const debugElement = document.getElementById('debug');
-					
-					// Debug: Log the number of events
-					console.log(`Number of events: ${events.length}`);
-					// debugElement.innerHTML += `<p>Number of events: ${events.length}</p>`;
-					
-					// Sort events by date
-					events.sort((a, b) => a.dateUnix - b.dateUnix);
-					
-					let eventsHTML = '<ul>';
-					events.forEach(event => {
-						eventsHTML += `
-							<li>
-								<h2>${event.title}</h2>
-								<p>Date: ${formatDate(event.dateUnix)}</p>
-								<p class="venue">Venue: ${event.venue}</p>
-								<a href="${event.link}" target="_blank">More Info</a>
-							</li>
-						`;
-						
-						// Debug: Log each event
-						console.log(event);
-						// debugElement.innerHTML += `<p>Event: ${JSON.stringify(event)}</p>`;
-					});
-					eventsHTML += '</ul>';
-					
-					eventsList.innerHTML = eventsHTML;
-				})
-				.catch(error => {
-					console.error('Error:', error);
-					// document.getElementById('debug').innerHTML += `<p>Error: ${error.message}</p>`;
-				});
-		</script>
+			<script src="script.js"></script>
 	</body>
 </html>
