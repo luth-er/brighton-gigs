@@ -5,11 +5,31 @@
   "main": "scraper.js",
   "type": "module",
   "scripts": {
-    "start": "node scraper.js"
+    "start": "node scraper.js",
+    "lint": "npm run lint:js && npm run lint:css && npm run lint:html",
+    "lint:js": "eslint *.js",
+    "lint:css": "stylelint \"*.css\"",
+    "lint:html": "htmlhint *.html",
+    "lint:fix": "eslint *.js --fix && stylelint \"*.css\" --fix",
+    "prepare": "husky"
   },
   "dependencies": {
     "axios": "^1.7.7",
     "cheerio": "^1.0.0-rc.12",
     "date-fns": "^3.6.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.28.0",
+    "eslint": "^9.28.0",
+    "htmlhint": "^1.5.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.1.0",
+    "stylelint": "^16.20.0",
+    "stylelint-config-standard": "^38.0.0"
+  },
+  "lint-staged": {
+    "*.js": ["eslint --fix"],
+    "*.css": ["stylelint --fix"],
+    "*.html": ["htmlhint"]
   }
 }
