@@ -24,7 +24,7 @@ jobs:
         run: npm ci
       
       - name: Run scraper
-        run: node scraper.js
+        run: node src/scraper.js
       
       - name: Configure Git
         run: |
@@ -33,7 +33,7 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          git add events.json
+          git add data/events.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Update events data - $(date +'%Y-%m-%d')"
           git push
           
@@ -46,4 +46,4 @@ jobs:
         if: success()
         run: |
           echo "✅ Successfully updated events data"
-          echo "Updated event count: $(cat events.json | grep -c 'title')"
+          echo "Updated event count: $(cat data/events.json | grep -c 'title')"
