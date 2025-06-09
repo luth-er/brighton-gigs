@@ -1,51 +1,144 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
-	font-family: Arial, sans-serif;
-	max-width: 800px;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+	max-width: 1200px;
 	margin: 0 auto;
-	padding: 20px;
+	padding: 2rem;
+	background-color: #fafafa;
+	color: #333;
+	line-height: 1.6;
 }
 
 h1 {
-	color: #333;
+	color: #1a1a1a;
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-bottom: 2rem;
+	text-align: center;
+	letter-spacing: -0.025em;
 }
 
 ul {
 	padding: 0;
 	list-style-type: none;
 	display: grid;
-	grid-template-columns: 30% 30% 30%;
-	column-gap: 5%;
-}
-
-@media screen and (max-width: 992px) {
-	ul {
-		grid-template-columns: 100%;
-	}
+	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+	gap: 1.5rem;
+	margin: 0;
 }
 
 li {
-	margin-bottom: 20px;
-	border: 1px solid #333;
-	padding: 8px 12px 20px 12px;
-	box-shadow: 4px 4px #333;
+	background: white;
+	border-radius: 12px;
+	padding: 1.5rem;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+	border: 1px solid #e5e5e5;
+	transition: all 0.2s ease;
+	position: relative;
 }
 
-a {
-	color: #0066cc;
+li:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+	border-color: #d1d5db;
+}
+
+.event-title {
+	font-size: 1.25rem;
+	font-weight: 600;
+	margin-bottom: 0.75rem;
+	line-height: 1.4;
+}
+
+.event-title a {
+	color: #1a1a1a;
 	text-decoration: none;
+	display: block;
 }
 
-a:hover {
-	text-decoration: underline;
+.event-title a:hover {
+	color: #2563eb;
+}
+
+.event-date {
+	color: #2563eb;
+	font-weight: 600;
+	font-size: 0.95rem;
+	margin-bottom: 0.5rem;
+	display: block;
 }
 
 .venue {
-	color: #666;
-	font-style: italic;
+	color: #6b7280;
+	font-size: 0.9rem;
+	font-weight: 500;
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.venue::before {
+	content: "📍";
+	font-size: 0.8rem;
+}
+
+a {
+	color: #2563eb;
+	text-decoration: none;
+	transition: color 0.2s ease;
+}
+
+a:hover {
+	color: #1d4ed8;
+}
+
+@media screen and (max-width: 768px) {
+	body {
+		padding: 1rem;
+	}
+	
+	h1 {
+		font-size: 2rem;
+		margin-bottom: 1.5rem;
+	}
+	
+	ul {
+		grid-template-columns: 1fr;
+		gap: 1rem;
+	}
+	
+	li {
+		padding: 1.25rem;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	body {
+		padding: 0.75rem;
+	}
+	
+	h1 {
+		font-size: 1.75rem;
+	}
+	
+	li {
+		padding: 1rem;
+	}
+	
+	.event-title {
+		font-size: 1.1rem;
+	}
 }
 
 #debug {
-	background-color: #f0f0f0;
-	padding: 10px;
-	margin-top: 20px;
+	background-color: #f8f9fa;
+	border: 1px solid #e9ecef;
+	border-radius: 8px;
+	padding: 1rem;
+	margin-top: 2rem;
+	font-family: 'Monaco', 'Consolas', monospace;
+	font-size: 0.875rem;
 }
