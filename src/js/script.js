@@ -42,10 +42,11 @@ fetch('data/events.json')
         events.forEach(event => {
             eventsHTML += `
                 <li>
-                    <h2>${event.title}</h2>
-                    <p>Date: ${formatDate(event.dateUnix)}</p>
-                    <p class="venue">Venue: ${event.venue}</p>
-                    <a href="${event.link}" target="_blank">More Info</a>
+                    <div class="event-title">
+                        <a href="${event.link}" target="_blank">${event.title}</a>
+                    </div>
+                    <span class="event-date">${formatDate(event.dateUnix)}</span>
+                    <div class="venue">${event.venue}</div>
                 </li>
             `;
             
