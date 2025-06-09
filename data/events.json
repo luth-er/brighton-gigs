@@ -1,33 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 7 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985/",
-    "dateUnix": 1749254400000
-  },
-  {
-    "title": "Splitting The Atom LXXIV",
-    "date": "Sun, 8 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/splitting-the-atom-lxxiv/",
-    "dateUnix": 1749340800000
-  },
-  {
-    "title": "Cody Pennington",
-    "date": "08 JUN 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/cody-pennington-country-show-tour-2025/event/8o9vj",
-    "dateUnix": 1749340800000
-  },
-  {
-    "title": "Peter Bruntnell",
-    "date": "8th June 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/peter-bruntnell/",
-    "dateUnix": 1749409200000
-  },
-  {
     "title": "Nel Blu",
     "date": "Wed, 11 Jun 2025",
     "venue": "Green Door Store",
@@ -208,6 +180,20 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/salter-cane/",
     "dateUnix": 1750449600000
+  },
+  {
+    "title": "Faeser",
+    "date": "Sat, 21 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/faeser/",
+    "dateUnix": 1750464000000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 21 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-4/",
+    "dateUnix": 1750464000000
   },
   {
     "title": "Deptford Northern Soul Club",
@@ -1139,5 +1125,12 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/morgan-wallen-tribute-uk/event/zxcu",
     "dateUnix": 1770422400000
+  },
+  {
+    "title": "The Cureheads + Siouxsie & The Budgiees",
+    "date": "13 FEB 2026",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-cureheads-siouxsie-and-the-budgiees/event/zxcj",
+    "dateUnix": 1770940800000
   }
 ]
