@@ -8,6 +8,23 @@
 	</head>
 	<body>
 		<h1>Brighton Gigs</h1>
+		<div id="filters">
+			<div class="filter-group">
+				<label for="venue-filter">Filter by Venue:</label>
+				<select id="venue-filter">
+					<option value="">All Venues</option>
+				</select>
+			</div>
+			<div class="filter-group">
+				<label for="date-from">From Date:</label>
+				<input type="date" id="date-from">
+			</div>
+			<div class="filter-group">
+				<label for="date-to">To Date:</label>
+				<input type="date" id="date-to">
+			</div>
+			<button id="clear-filters">Clear Filters</button>
+		</div>
 		<div id="events-list"></div>
 		<script src="src/js/script.js"></script>
 	</body>
