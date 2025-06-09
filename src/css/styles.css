@@ -46,6 +46,16 @@ li:hover {
 	border-color: #d1d5db;
 }
 
+a {
+	color: #2563eb;
+	text-decoration: none;
+	transition: color 0.2s ease;
+}
+
+a:hover {
+	color: #1d4ed8;
+}
+
 .event-title {
 	font-size: 1.25rem;
 	font-weight: 600;
@@ -83,16 +93,6 @@ li:hover {
 .venue::before {
 	content: "📍";
 	font-size: 0.8rem;
-}
-
-a {
-	color: #2563eb;
-	text-decoration: none;
-	transition: color 0.2s ease;
-}
-
-a:hover {
-	color: #1d4ed8;
 }
 
 @media screen and (max-width: 768px) {
