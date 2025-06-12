@@ -1,26 +1,5 @@
 [
   {
-    "title": "Nel Blu",
-    "date": "Wed, 11 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/nel-blu/",
-    "dateUnix": 1749600000000
-  },
-  {
-    "title": "Don Broco",
-    "date": "11 JUN 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/don-broco-june-2025/event/8oukt",
-    "dateUnix": 1749600000000
-  },
-  {
-    "title": "Last Seen Alive",
-    "date": "11th June 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/last-seen-alive-3/",
-    "dateUnix": 1749670200000
-  },
-  {
     "title": "Vile Imbeciles",
     "date": "Thu, 12 Jun 2025",
     "venue": "Green Door Store",
@@ -103,6 +82,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nick-mulvey-dark-harvest-world-tour/event/z29n",
     "dateUnix": 1750032000000
+  },
+  {
+    "title": "Milo Korbenski",
+    "date": "Tue, 17 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/milo-korbenski/",
+    "dateUnix": 1750118400000
   },
   {
     "title": "Alien Ant Farm",
@@ -301,6 +287,20 @@
     "dateUnix": 1752001200000
   },
   {
+    "title": "H&R ONE’S 2 WATCH: Mirepoix + Call Me Franco + Pleasance",
+    "date": "9th July 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hr-ones-2-watch-mirepoix-call-me-franco-pleasance/",
+    "dateUnix": 1752089400000
+  },
+  {
+    "title": "Ponceau",
+    "date": "10th July 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/ponceau/",
+    "dateUnix": 1752174000000
+  },
+  {
     "title": "Allie X",
     "date": "11 JUL 2025",
     "venue": "Concorde 2",
@@ -334,6 +334,20 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/jaymadeit/",
     "dateUnix": 1752348600000
+  },
+  {
+    "title": "Dead Letter Presents",
+    "date": "Sunday 13th July, 2025",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/662789",
+    "dateUnix": 1752364800000
+  },
+  {
+    "title": "Placeholder #21",
+    "date": "14th July 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/placeholder-21/",
+    "dateUnix": 1752521400000
   },
   {
     "title": "Overthrust + Crypsis + Human Leather",
@@ -425,6 +439,13 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/662343",
     "dateUnix": 1753833600000
+  },
+  {
+    "title": "Mods vs Rockers",
+    "date": "31st July 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/mods-vs-rockers/",
+    "dateUnix": 1753990200000
   },
   {
     "title": "HAWXX",
@@ -607,6 +628,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-kopycat-killers/event/zxwy",
     "dateUnix": 1757635200000
+  },
+  {
+    "title": "Fortitude Valley + Support",
+    "date": "12th September 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/fortitude-valley-support/",
+    "dateUnix": 1757705400000
   },
   {
     "title": "Armor For Sleep",
@@ -1076,6 +1104,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/dub-pistols-winter-tour-25/event/8oh77",
     "dateUnix": 1764892800000
+  },
+  {
+    "title": "Wheatus",
+    "date": "06 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/wheatus-2025-tour/event/8o8jr",
+    "dateUnix": 1764979200000
   },
   {
     "title": "Electric Six",
