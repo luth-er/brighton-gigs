@@ -1,19 +1,5 @@
 [
   {
-    "title": "Vile Imbeciles",
-    "date": "Thu, 12 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/vile-imbeciles/",
-    "dateUnix": 1749686400000
-  },
-  {
-    "title": "H&R Presents: Ones 2 Watch ft. crysometimes + Crimson + Jimmy",
-    "date": "12th June 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hr-presents-ones-2-watch-ft-crysometimes-crimson-jimmy/",
-    "dateUnix": 1749756600000
-  },
-  {
     "title": "Nagasaki Dog",
     "date": "Fri, 13 Jun 2025",
     "venue": "Green Door Store",
@@ -194,6 +180,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/dumfun-support/",
     "dateUnix": 1750534200000
+  },
+  {
+    "title": "Psychic & Wellbeing Event",
+    "date": "Sun, 22 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/psychic-wellbeing-event/",
+    "dateUnix": 1750550400000
   },
   {
     "title": "Peach PRC",
@@ -614,6 +607,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/japanese-television-radio-anorak-magda-more/",
     "dateUnix": 1757498400000
+  },
+  {
+    "title": "Genitorturers",
+    "date": "11 SEP 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/genitorturers-scars-and-stripes-tour/event/8ovhv",
+    "dateUnix": 1757548800000
   },
   {
     "title": "Emo Fest",
@@ -1104,13 +1104,6 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/dub-pistols-winter-tour-25/event/8oh77",
     "dateUnix": 1764892800000
-  },
-  {
-    "title": "Wheatus",
-    "date": "06 DEC 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/wheatus-2025-tour/event/8o8jr",
-    "dateUnix": 1764979200000
   },
   {
     "title": "Electric Six",
