@@ -1,24 +1,10 @@
 [
   {
-    "title": "Nagasaki Dog",
-    "date": "Fri, 13 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/nagasaki-dog/",
-    "dateUnix": 1749772800000
-  },
-  {
     "title": "i f***ing h8 clubbing",
     "date": "Fri, 13 Jun 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-2/",
     "dateUnix": 1749772800000
-  },
-  {
-    "title": "Lower Slaughter",
-    "date": "13th June 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/lower-slaughter/",
-    "dateUnix": 1749844800000
   },
   {
     "title": "Telecom",
@@ -187,6 +173,13 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/psychic-wellbeing-event/",
     "dateUnix": 1750550400000
+  },
+  {
+    "title": "Carousel: The Rock House",
+    "date": "Mon, 23 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/carousel-the-rock-house/",
+    "dateUnix": 1750636800000
   },
   {
     "title": "Peach PRC",
@@ -574,6 +567,13 @@
     "dateUnix": 1756944000000
   },
   {
+    "title": "really big really clever",
+    "date": "6th September 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/really-big-really-clever/",
+    "dateUnix": 1757187000000
+  },
+  {
     "title": "Fun Lovin' Criminals",
     "date": "07 SEP 2025",
     "venue": "Concorde 2",
@@ -868,6 +868,13 @@
     "dateUnix": 1760745600000
   },
   {
+    "title": "GLOIN + Support",
+    "date": "19th October 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/gloin-support/",
+    "dateUnix": 1760902200000
+  },
+  {
     "title": "Letz Zep",
     "date": "24 OCT 2025",
     "venue": "Concorde 2",
@@ -900,6 +907,13 @@
     "date": "26 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-lovely-eggs-20th-anniversary-tour/event/8onvg",
+    "dateUnix": 1761436800000
+  },
+  {
+    "title": "NewDad",
+    "date": "26 OCT 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/newdad-ireland-and-uk-tour-2025/event/8ovwu",
     "dateUnix": 1761436800000
   },
   {
@@ -971,6 +985,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/metallica-reloaded/event/zx3f",
     "dateUnix": 1762560000000
+  },
+  {
+    "title": "Willie J Healey",
+    "date": "10 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/willie-j-healey-2025-uk-tour/event/8ova9",
+    "dateUnix": 1762732800000
   },
   {
     "title": "Chameleons",
@@ -1085,13 +1106,6 @@
     "dateUnix": 1764115200000
   },
   {
-    "title": "Lacuna Coil",
-    "date": "29 NOV 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/lacuna-coil-sleepless-empire-tour-2025/event/zxwt",
-    "dateUnix": 1764374400000
-  },
-  {
     "title": "Good Health Good Wealth",
     "date": "30th November 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -1153,12 +1167,5 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/morgan-wallen-tribute-uk/event/zxcu",
     "dateUnix": 1770422400000
-  },
-  {
-    "title": "The Cureheads + Siouxsie & The Budgiees",
-    "date": "13 FEB 2026",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-cureheads-siouxsie-and-the-budgiees/event/zxcj",
-    "dateUnix": 1770940800000
   }
 ]
