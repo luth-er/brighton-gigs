@@ -1,30 +1,9 @@
 [
   {
-    "title": "i f***ing h8 clubbing",
-    "date": "Fri, 13 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-2/",
-    "dateUnix": 1749772800000
-  },
-  {
-    "title": "Telecom",
-    "date": "Sat, 14 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/telecom/",
-    "dateUnix": 1749859200000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 14 Jun 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/",
-    "dateUnix": 1749859200000
-  },
-  {
-    "title": "Cattle Decapitation",
-    "date": "14 JUN 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/cattle-decapitation-europe-summer-2025/event/zxsk",
     "dateUnix": 1749859200000
   },
   {
@@ -33,13 +12,6 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/free-music-production-masterclass-qa-with-joy-stacey-for-women-and-gender-minority-producers/",
     "dateUnix": 1749906000000
-  },
-  {
-    "title": "Rebelation + Supports",
-    "date": "14th June 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/rebelation-supports/",
-    "dateUnix": 1749927600000
   },
   {
     "title": "Vision Video",
@@ -203,11 +175,25 @@
     "dateUnix": 1750878000000
   },
   {
+    "title": "Eyes + Ears: Live Music & Painting",
+    "date": "Thu, 26 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/eyes-ears-live-music-painting/",
+    "dateUnix": 1750896000000
+  },
+  {
     "title": "Social Wildcard + Support",
     "date": "26th June 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/social-wildcard-support-2/",
     "dateUnix": 1750966200000
+  },
+  {
+    "title": "Fever Rouge",
+    "date": "Fri, 27 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/fever-rouge/",
+    "dateUnix": 1750982400000
   },
   {
     "title": "Sanctum Sanctorium : The Dark Side Of The 80's",
@@ -1104,6 +1090,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/nouvelle-vague-2025-uk-tour/event/qaqw",
     "dateUnix": 1764115200000
+  },
+  {
+    "title": "Lacuna Coil",
+    "date": "29 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/lacuna-coil-sleepless-empire-tour-2025/event/zxwt",
+    "dateUnix": 1764374400000
   },
   {
     "title": "Good Health Good Wealth",
