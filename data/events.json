@@ -1,26 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 14 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/",
-    "dateUnix": 1749859200000
-  },
-  {
-    "title": "FREE Music Production Masterclass & Q&A with Joy Stacey – For Women and Gender Minority Producers",
-    "date": "14th June 2025 - 1:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/free-music-production-masterclass-qa-with-joy-stacey-for-women-and-gender-minority-producers/",
-    "dateUnix": 1749906000000
-  },
-  {
-    "title": "Vision Video",
-    "date": "15th June 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/vision-video-2/",
-    "dateUnix": 1750014000000
-  },
-  {
     "title": "Nick Mulvey",
     "date": "16 JUN 2025",
     "venue": "Concorde 2",
@@ -193,6 +172,13 @@
     "date": "Fri, 27 Jun 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/fever-rouge/",
+    "dateUnix": 1750982400000
+  },
+  {
+    "title": "that’s f***ing rubbish- lana del rey vs pixies",
+    "date": "Fri, 27 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-3/",
     "dateUnix": 1750982400000
   },
   {
