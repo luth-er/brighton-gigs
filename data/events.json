@@ -1,12 +1,5 @@
 [
   {
-    "title": "Nick Mulvey",
-    "date": "16 JUN 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nick-mulvey-dark-harvest-world-tour/event/z29n",
-    "dateUnix": 1750032000000
-  },
-  {
     "title": "Milo Korbenski",
     "date": "Tue, 17 Jun 2025",
     "venue": "Green Door Store",
@@ -222,6 +215,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-luke-combs-experience/event/zxet",
     "dateUnix": 1751587200000
+  },
+  {
+    "title": "Jman / Micall Parknsun / DJ Jazz T",
+    "date": "4th July 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/jman-micall-parknsun-dj-jazz-t/",
+    "dateUnix": 1751655600000
   },
   {
     "title": "Regal Cheer – A ‘Quite Good’ Evening",
@@ -721,6 +721,13 @@
     "dateUnix": 1759363200000
   },
   {
+    "title": "14 Iced Bears",
+    "date": "3rd October 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/14-iced-bears/",
+    "dateUnix": 1759519800000
+  },
+  {
     "title": "Mass of the Fermenting Dregs",
     "date": "04 OCT 2025",
     "venue": "Concorde 2",
@@ -838,6 +845,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-bluetones-uk-tour-2025/event/z3bu",
     "dateUnix": 1760745600000
+  },
+  {
+    "title": "ADMT",
+    "date": "19 OCT 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/admt-uk-tour-2025/event/8obit",
+    "dateUnix": 1760832000000
   },
   {
     "title": "GLOIN + Support",
@@ -1078,13 +1092,6 @@
     "dateUnix": 1764115200000
   },
   {
-    "title": "Lacuna Coil",
-    "date": "29 NOV 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/lacuna-coil-sleepless-empire-tour-2025/event/zxwt",
-    "dateUnix": 1764374400000
-  },
-  {
     "title": "Good Health Good Wealth",
     "date": "30th November 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -1146,5 +1153,12 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/morgan-wallen-tribute-uk/event/zxcu",
     "dateUnix": 1770422400000
+  },
+  {
+    "title": "The Cureheads + Siouxsie & The Budgiees",
+    "date": "13 FEB 2026",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-cureheads-siouxsie-and-the-budgiees/event/zxcj",
+    "dateUnix": 1770940800000
   }
 ]
