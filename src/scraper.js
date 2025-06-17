@@ -47,6 +47,10 @@ const scrapeSites = async () => {
   // Prince Albert
   const princeAlbertEvents = await scrapePrinceAlbert();
   allEvents.push(...princeAlbertEvents);
+
+  // Pipeline
+  const pipelineEvents = await scrapePipeline();
+  allEvents.push(...pipelineEvents);
   
   // Add more venues as needed...
 
@@ -179,6 +183,22 @@ const scrapePrinceAlbert = async () => {
     const date  = `${day} ${month} ${year}`;
     const venue = 'Prince Albert';
     const link  = 'https://www.gigseekr.com' + $(element).find(".details h3 a").attr('href');
+    const dateUnix = parseEventDate(date, title);
+
+    return { title, date, venue, link, dateUnix };
+  }).get();
+};
+
+// Scrape Pipeline
+const scrapePipeline = async () => {
+  const url = "https://wegottickets.com/location/20025";
+  const $ = await fetchAndParseHTML(url);
+
+  return $('.content.block-group.chatterbox-margin').map((_, element) => {
+    const title = $(element).find("h2 a").text().trim();
+    const date = $(element).find(".venue-details tr:nth-child(1) td").text().trim();
+    const venue = 'Pipeline';
+    const link = $(element).find(".button").attr('href');
     const dateUnix = parseEventDate(date, title);
 
     return { title, date, venue, link, dateUnix };
