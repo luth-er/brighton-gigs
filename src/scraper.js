@@ -44,6 +44,12 @@ const scrapeSites = async () => {
   const folkloreRoomsEvents = await scrapeFolkloreRooms();
   allEvents.push(...folkloreRoomsEvents);
 
+  // Prince Albert
+  const princeAlbertEvents = await scrapePrinceAlbert();
+  allEvents.push(...princeAlbertEvents);
+  
+  // Add more venues as needed...
+
   // Sort all events by date
   allEvents.sort((a, b) => {
     if (a.dateUnix === null && b.dateUnix === null) return 0;
@@ -154,6 +160,25 @@ const scrapeFolkloreRooms = async () => {
     const date = $(element).find(".venue-details tr:nth-child(1) td").text().trim();
     const venue = 'Folklore Rooms';
     const link = $(element).find(".button").attr('href');
+    const dateUnix = parseEventDate(date, title);
+
+    return { title, date, venue, link, dateUnix };
+  }).get();
+};
+
+// Scrape Prince Albert
+const scrapePrinceAlbert = async () => {
+  const url = "https://www.gigseekr.com/uk/en/brighton/the-prince-albert/venue/6a";
+  const $ = await fetchAndParseHTML(url);
+
+  return $('.event-container .basic-event').map((_, element) => {
+    const day   = $(element).find(".date-container .day").text().trim();
+    const month = $(element).find(".date-container .month").text().trim();
+    const year  = $(element).find(".date-container .year").text().trim();
+    const title = $(element).find(".details h3 a").text().trim();
+    const date  = `${day} ${month} ${year}`;
+    const venue = 'Prince Albert';
+    const link  = 'https://www.gigseekr.com' + $(element).find(".details h3 a").attr('href');
     const dateUnix = parseEventDate(date, title);
 
     return { title, date, venue, link, dateUnix };
