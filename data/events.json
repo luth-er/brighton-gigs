@@ -1,19 +1,5 @@
 [
   {
-    "title": "The Haunt",
-    "date": "Wed, 18 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-haunt/",
-    "dateUnix": 1750204800000
-  },
-  {
-    "title": "Hidden Herd Presents: Thistle. + Goodbye + Ain’t + Carne",
-    "date": "18th June 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hidden-herd-presents-thistle-goodbye-aint-carne/",
-    "dateUnix": 1750275000000
-  },
-  {
     "title": "Alien Nosejob",
     "date": "Thu, 19 Jun 2025",
     "venue": "Green Door Store",
@@ -189,6 +175,13 @@
     "dateUnix": 1751068800000
   },
   {
+    "title": "It Is Still 1985",
+    "date": "Sat, 28 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-10/",
+    "dateUnix": 1751068800000
+  },
+  {
     "title": "DISMISS (FKA Bad Habits)",
     "date": "Saturday 28th June, 2025",
     "venue": "Pipeline",
@@ -301,7 +294,7 @@
     "dateUnix": 1752192000000
   },
   {
-    "title": "PIPPA",
+    "title": "PIPPA + Ava McKechnie + Amber Titchener",
     "date": "11th July 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/pippa/",
@@ -334,6 +327,13 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/662789",
     "dateUnix": 1752364800000
+  },
+  {
+    "title": "The March Violets",
+    "date": "13th July 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-march-violets/",
+    "dateUnix": 1752433200000
   },
   {
     "title": "Placeholder #21",
@@ -490,6 +490,13 @@
     "dateUnix": 1754438400000
   },
   {
+    "title": "NIL BY HABIT + WALLFROG + DAZED MIND",
+    "date": "6th August 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/nil-by-habit-wallfrog-dazed-mind/",
+    "dateUnix": 1754508600000
+  },
+  {
     "title": "Retirement Party + Carly Cosgrove",
     "date": "7th August 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -530,6 +537,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/kid-creole-and-the-coconuts-bye-bye-birdie-tour/event/zxwo",
     "dateUnix": 1755216000000
+  },
+  {
+    "title": "Horsebastard + Human Leather + Chem Sex Party",
+    "date": "16th August 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/horsebastard-human-leather-chem-sex-party/",
+    "dateUnix": 1755372600000
   },
   {
     "title": "Pissed Jeans",
@@ -1134,6 +1148,13 @@
     "dateUnix": 1762732800000
   },
   {
+    "title": "Hamilton Leithauser",
+    "date": "11 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/hamilton-leithauser-this-side-of-the-island-tour-2025/event/8obz8",
+    "dateUnix": 1762819200000
+  },
+  {
     "title": "Chameleons",
     "date": "12 NOV 2025",
     "venue": "Concorde 2",
@@ -1225,6 +1246,13 @@
     "dateUnix": 1763856000000
   },
   {
+    "title": "Marathon",
+    "date": "23 NOV 2025",
+    "venue": "Prince Albert",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/marathon-debut-album-release-tour/event/8ogkj",
+    "dateUnix": 1763856000000
+  },
+  {
     "title": "Conan",
     "date": "24 NOV 2025",
     "venue": "Concorde 2",
@@ -1244,13 +1272,6 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/nouvelle-vague-2025-uk-tour/event/qaqw",
     "dateUnix": 1764115200000
-  },
-  {
-    "title": "Lacuna Coil",
-    "date": "29 NOV 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/lacuna-coil-sleepless-empire-tour-2025/event/zxwt",
-    "dateUnix": 1764374400000
   },
   {
     "title": "Good Health Good Wealth",
