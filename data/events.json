@@ -1,26 +1,5 @@
 [
   {
-    "title": "Alien Nosejob",
-    "date": "Thu, 19 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/alien-nosejob/",
-    "dateUnix": 1750291200000
-  },
-  {
-    "title": "Natty",
-    "date": "19 JUN 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/natty-the-divine-trinity-uk-tour/event/qzk7",
-    "dateUnix": 1750291200000
-  },
-  {
-    "title": "H&R: Ones 2 Watch ft. Ragdoll + Oral Habit + Knuckle Draggers",
-    "date": "19th June 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hr-ones-2-watch-ft-ragdoll-oral-habit-knuckle-draggers/",
-    "dateUnix": 1750361400000
-  },
-  {
     "title": "Swallowtail",
     "date": "Fri, 20 Jun 2025",
     "venue": "Green Door Store",
@@ -194,6 +173,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/dakka-skanks-takeover-2/",
     "dateUnix": 1751137200000
+  },
+  {
+    "title": "Le Lamb",
+    "date": "Sun, 29 Jun 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/le-lamb/",
+    "dateUnix": 1751155200000
   },
   {
     "title": "Stephen Wilson Jr.",
@@ -504,6 +490,13 @@
     "dateUnix": 1754595000000
   },
   {
+    "title": "Rainy Eyes",
+    "date": "8th August 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/rainy-eyes/",
+    "dateUnix": 1754683200000
+  },
+  {
     "title": "Thumpasaurus",
     "date": "09 AUG 2025",
     "venue": "Chalk",
@@ -523,6 +516,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/rolo-tomassi-20th-anniversary-celebration/event/zxsz",
     "dateUnix": 1755129600000
+  },
+  {
+    "title": "Horror Vacui",
+    "date": "14th August 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/horror-vacui/",
+    "dateUnix": 1755199800000
   },
   {
     "title": "The Madchester Experience",
