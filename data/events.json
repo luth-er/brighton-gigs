@@ -1,31 +1,10 @@
 [
   {
-    "title": "Swallowtail",
-    "date": "Fri, 20 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/swallowtail/",
-    "dateUnix": 1750377600000
-  },
-  {
     "title": "party 4 u",
     "date": "Fri, 20 Jun 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/party-4-u/",
     "dateUnix": 1750377600000
-  },
-  {
-    "title": "Stipe",
-    "date": "20 JUN 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/stipe/event/zxeb",
-    "dateUnix": 1750377600000
-  },
-  {
-    "title": "Salter Cane",
-    "date": "20th June 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/salter-cane/",
-    "dateUnix": 1750449600000
   },
   {
     "title": "Faeser",
@@ -189,11 +168,25 @@
     "dateUnix": 1751241600000
   },
   {
+    "title": "Frances Mistry",
+    "date": "Tue, 1 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/frances-mistry/",
+    "dateUnix": 1751328000000
+  },
+  {
     "title": "Sweet Billy Pilgirm",
     "date": "1st July 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/sweet-billy-pilgirm/",
     "dateUnix": 1751398200000
+  },
+  {
+    "title": "NO WARNING + NO RELIEF + MINDLESS + INFINITE WISDOM + LOST CAUSE",
+    "date": "2nd July 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/no-warning-no-relief-mindless-infinite-wisdom-lost-cause/",
+    "dateUnix": 1751482800000
   },
   {
     "title": "The Luke Combs Experience",
