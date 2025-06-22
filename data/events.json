@@ -1,38 +1,10 @@
 [
   {
-    "title": "party 4 u",
-    "date": "Fri, 20 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/party-4-u/",
-    "dateUnix": 1750377600000
-  },
-  {
-    "title": "Faeser",
-    "date": "Sat, 21 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/faeser/",
-    "dateUnix": 1750464000000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 21 Jun 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-4/",
     "dateUnix": 1750464000000
-  },
-  {
-    "title": "Deptford Northern Soul Club",
-    "date": "21 JUN 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/deptford-northern-soul-club/event/zxeg",
-    "dateUnix": 1750464000000
-  },
-  {
-    "title": "DUMFUN + Support",
-    "date": "21st June 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dumfun-support/",
-    "dateUnix": 1750534200000
   },
   {
     "title": "Psychic & Wellbeing Event",
@@ -187,6 +159,20 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/no-warning-no-relief-mindless-infinite-wisdom-lost-cause/",
     "dateUnix": 1751482800000
+  },
+  {
+    "title": "Mind Frog",
+    "date": "Thu, 3 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/mind-frog/",
+    "dateUnix": 1751500800000
+  },
+  {
+    "title": "Miler",
+    "date": "Fri, 4 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/miler/",
+    "dateUnix": 1751587200000
   },
   {
     "title": "The Luke Combs Experience",
@@ -642,6 +628,13 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-drowns-september-tour-2025/event/z47p",
     "dateUnix": 1756944000000
+  },
+  {
+    "title": "Picky New Promotions present SWALLOWTAIL",
+    "date": "Saturday 6th September, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/666663",
+    "dateUnix": 1757116800000
   },
   {
     "title": "really big really clever",
