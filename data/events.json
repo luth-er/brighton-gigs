@@ -1,26 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 21 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-4/",
-    "dateUnix": 1750464000000
-  },
-  {
-    "title": "Psychic & Wellbeing Event",
-    "date": "Sun, 22 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/psychic-wellbeing-event/",
-    "dateUnix": 1750550400000
-  },
-  {
-    "title": "Extra Life",
-    "date": "22 JUN 2025",
-    "venue": "Prince Albert",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/extra-life-eu-tour-2025/event/8oig8",
-    "dateUnix": 1750550400000
-  },
-  {
     "title": "Carousel: The Rock House",
     "date": "Mon, 23 Jun 2025",
     "venue": "Green Door Store",
@@ -196,11 +175,25 @@
     "dateUnix": 1751655600000
   },
   {
+    "title": "Die Twice",
+    "date": "Sat, 5 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/die-twice/",
+    "dateUnix": 1751673600000
+  },
+  {
     "title": "Regal Cheer – A ‘Quite Good’ Evening",
     "date": "5th July 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/regal-cheer-a-quite-good-evening/",
     "dateUnix": 1751743800000
+  },
+  {
+    "title": "Psychedelic Summer Sundae",
+    "date": "Sun, 6 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/psychedelic-summer-sundae/",
+    "dateUnix": 1751760000000
   },
   {
     "title": "Kaonashi",
