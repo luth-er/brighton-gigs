@@ -1,26 +1,5 @@
 [
   {
-    "title": "Carousel: The Rock House",
-    "date": "Mon, 23 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/carousel-the-rock-house/",
-    "dateUnix": 1750636800000
-  },
-  {
-    "title": "Peach PRC",
-    "date": "23 JUN 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/peach-prc-uk-tour-2025/event/8oixp",
-    "dateUnix": 1750636800000
-  },
-  {
-    "title": "Soot Sprite",
-    "date": "23 JUN 2025",
-    "venue": "Prince Albert",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/soot-sprite-summer-2025-tour/event/zdhw",
-    "dateUnix": 1750636800000
-  },
-  {
     "title": "Osees",
     "date": "25 JUN 2025",
     "venue": "Chalk",
@@ -133,6 +112,13 @@
     "dateUnix": 1751398200000
   },
   {
+    "title": "Swallowtail",
+    "date": "Wed, 2 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/swallowtail/",
+    "dateUnix": 1751414400000
+  },
+  {
     "title": "NO WARNING + NO RELIEF + MINDLESS + INFINITE WISDOM + LOST CAUSE",
     "date": "2nd July 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -175,13 +161,6 @@
     "dateUnix": 1751655600000
   },
   {
-    "title": "Die Twice",
-    "date": "Sat, 5 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/die-twice/",
-    "dateUnix": 1751673600000
-  },
-  {
     "title": "Regal Cheer – A ‘Quite Good’ Evening",
     "date": "5th July 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -201,6 +180,13 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/kaonashi-the-real-deal-tesco-meal-deal-tour/event/8o7zn",
     "dateUnix": 1751846400000
+  },
+  {
+    "title": "Jeff Ubetcha",
+    "date": "Tue, 8 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/jeff-ubetcha/",
+    "dateUnix": 1751932800000
   },
   {
     "title": "DZ Deathrays & Battlesnake",
@@ -686,6 +672,13 @@
     "dateUnix": 1757548800000
   },
   {
+    "title": "ACOPIA + Support",
+    "date": "11th September 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/acopia-support/",
+    "dateUnix": 1757620800000
+  },
+  {
     "title": "Emo Fest",
     "date": "12 SEP 2025",
     "venue": "Concorde 2",
@@ -985,6 +978,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/gloin-support/",
     "dateUnix": 1760902200000
+  },
+  {
+    "title": "Pale Waves",
+    "date": "20 OCT 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/pale-waves-still-smitten-tour/event/8og48",
+    "dateUnix": 1760918400000
   },
   {
     "title": "Los Fastidios",
