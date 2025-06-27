@@ -1,19 +1,5 @@
 [
   {
-    "title": "Eyes + Ears: Live Music & Painting",
-    "date": "Thu, 26 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/eyes-ears-live-music-painting/",
-    "dateUnix": 1750896000000
-  },
-  {
-    "title": "Social Wildcard + Support",
-    "date": "26th June 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/social-wildcard-support-2/",
-    "dateUnix": 1750966200000
-  },
-  {
     "title": "Fever Rouge",
     "date": "Fri, 27 Jun 2025",
     "venue": "Green Door Store",
@@ -173,6 +159,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/regal-cheer-a-quite-good-evening/",
     "dateUnix": 1751743800000
+  },
+  {
+    "title": "Psychedelic Summer Sundae",
+    "date": "Sun, 6 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/psychedelic-summer-sundae/",
+    "dateUnix": 1751760000000
   },
   {
     "title": "Kaonashi",
@@ -460,6 +453,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/helicon-2/",
     "dateUnix": 1754769600000
+  },
+  {
+    "title": "SHAKE SOME ACTON #106.( Brighton ). LAS FOKIN BICHES( Mexico), DESERT VIPERS, FAMILY OF STRANGERS.",
+    "date": "Tuesday 12th August, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/667319",
+    "dateUnix": 1754956800000
   },
   {
     "title": "Rolo Tomassi",
@@ -1211,6 +1211,13 @@
     "dateUnix": 1763769600000
   },
   {
+    "title": "Poly-Math",
+    "date": "22nd November 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/poly-math/",
+    "dateUnix": 1763841600000
+  },
+  {
     "title": "The Horrors",
     "date": "23 NOV 2025",
     "venue": "Chalk",
@@ -1244,6 +1251,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/nouvelle-vague-2025-uk-tour/event/qaqw",
     "dateUnix": 1764115200000
+  },
+  {
+    "title": "Warmduscher",
+    "date": "27 NOV 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/warmduscher/event/8otte",
+    "dateUnix": 1764201600000
   },
   {
     "title": "Lacuna Coil",
@@ -1328,5 +1342,12 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/coach-party-club-caramel-tour-2026/event/8ovaz",
     "dateUnix": 1771545600000
+  },
+  {
+    "title": "LOVE Revisited",
+    "date": "01 MAY 2026",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/love-revisited-uk-tour-2026/event/8otrr",
+    "dateUnix": 1777593600000
   }
 ]
