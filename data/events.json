@@ -1,31 +1,10 @@
 [
   {
-    "title": "Fever Rouge",
-    "date": "Fri, 27 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/fever-rouge/",
-    "dateUnix": 1750982400000
-  },
-  {
     "title": "that’s f***ing rubbish- lana del rey vs pixies",
     "date": "Fri, 27 Jun 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-3/",
     "dateUnix": 1750982400000
-  },
-  {
-    "title": "Sanctum Sanctorium : The Dark Side Of The 80's",
-    "date": "27 JUN 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sanctum-sanctorium-the-dark-side-of-the-80s-citadel-spring-2025/event/z9tm",
-    "dateUnix": 1750982400000
-  },
-  {
-    "title": "The MTV2s",
-    "date": "27th June 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-mtv2s-2/",
-    "dateUnix": 1751052600000
   },
   {
     "title": "Vitamin G & Mr Slipz",
@@ -173,6 +152,13 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/kaonashi-the-real-deal-tesco-meal-deal-tour/event/8o7zn",
     "dateUnix": 1751846400000
+  },
+  {
+    "title": "Jeff Ubetcha",
+    "date": "Tue, 8 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/jeff-ubetcha/",
+    "dateUnix": 1751932800000
   },
   {
     "title": "DZ Deathrays & Battlesnake",
@@ -453,13 +439,6 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/helicon-2/",
     "dateUnix": 1754769600000
-  },
-  {
-    "title": "SHAKE SOME ACTON #106.( Brighton ). LAS FOKIN BICHES( Mexico), DESERT VIPERS, FAMILY OF STRANGERS.",
-    "date": "Tuesday 12th August, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/667319",
-    "dateUnix": 1754956800000
   },
   {
     "title": "Rolo Tomassi",
