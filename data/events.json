@@ -1,38 +1,10 @@
 [
   {
-    "title": "that’s f***ing rubbish- lana del rey vs pixies",
-    "date": "Fri, 27 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-3/",
-    "dateUnix": 1750982400000
-  },
-  {
-    "title": "Vitamin G & Mr Slipz",
-    "date": "Sat, 28 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/vitamin-g-mr-slipz/",
-    "dateUnix": 1751068800000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 28 Jun 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-10/",
     "dateUnix": 1751068800000
-  },
-  {
-    "title": "DISMISS (FKA Bad Habits)",
-    "date": "Saturday 28th June, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/654823",
-    "dateUnix": 1751068800000
-  },
-  {
-    "title": "Dakka Skanks Takeover",
-    "date": "28th June 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dakka-skanks-takeover-2/",
-    "dateUnix": 1751137200000
   },
   {
     "title": "Le Lamb",
@@ -175,6 +147,13 @@
     "dateUnix": 1752001200000
   },
   {
+    "title": "Spill",
+    "date": "Wed, 9 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/spill/",
+    "dateUnix": 1752019200000
+  },
+  {
     "title": "H&R ONE’S 2 WATCH: Mirepoix + Call Me Franco + Pleasance",
     "date": "9th July 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -187,6 +166,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/ponceau/",
     "dateUnix": 1752174000000
+  },
+  {
+    "title": "Had Sandy",
+    "date": "Fri, 11 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/had-sandy/",
+    "dateUnix": 1752192000000
   },
   {
     "title": "Allie X",
