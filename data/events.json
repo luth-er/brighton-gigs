@@ -1,19 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 28 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-10/",
-    "dateUnix": 1751068800000
-  },
-  {
-    "title": "Le Lamb",
-    "date": "Sun, 29 Jun 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/le-lamb/",
-    "dateUnix": 1751155200000
-  },
-  {
     "title": "Stephen Wilson Jr.",
     "date": "30 JUN 2025",
     "venue": "Chalk",
@@ -175,6 +161,13 @@
     "dateUnix": 1752192000000
   },
   {
+    "title": "i f***ing h8 clubbing",
+    "date": "Fri, 11 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing/",
+    "dateUnix": 1752192000000
+  },
+  {
     "title": "Allie X",
     "date": "11 JUL 2025",
     "venue": "Concorde 2",
@@ -201,6 +194,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/pippa/",
     "dateUnix": 1752262200000
+  },
+  {
+    "title": "Star Print Clad",
+    "date": "Sat, 12 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/star-print-clad/",
+    "dateUnix": 1752278400000
   },
   {
     "title": "Sham 69",
