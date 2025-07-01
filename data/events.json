@@ -1,12 +1,5 @@
 [
   {
-    "title": "Stephen Wilson Jr.",
-    "date": "30 JUN 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/stephen-wilson-jr-son-of-dad-tour-2025/event/zvfx",
-    "dateUnix": 1751241600000
-  },
-  {
     "title": "Frances Mistry",
     "date": "Tue, 1 Jul 2025",
     "venue": "Green Door Store",
@@ -1243,6 +1236,13 @@
     "date": "05 DEC 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/dub-pistols-winter-tour-25/event/8oh77",
+    "dateUnix": 1764892800000
+  },
+  {
+    "title": "The Limiñanas",
+    "date": "05 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/the-liminanas-faded-tour-2025uk/event/8otrs",
     "dateUnix": 1764892800000
   },
   {
