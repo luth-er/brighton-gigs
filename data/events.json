@@ -1,19 +1,5 @@
 [
   {
-    "title": "Frances Mistry",
-    "date": "Tue, 1 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/frances-mistry/",
-    "dateUnix": 1751328000000
-  },
-  {
-    "title": "Sweet Billy Pilgirm",
-    "date": "1st July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/sweet-billy-pilgirm/",
-    "dateUnix": 1751398200000
-  },
-  {
     "title": "Swallowtail",
     "date": "Wed, 2 Jul 2025",
     "venue": "Green Door Store",
@@ -196,6 +182,13 @@
     "dateUnix": 1752278400000
   },
   {
+    "title": "It Is Still 1985",
+    "date": "Sat, 12 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/",
+    "dateUnix": 1752278400000
+  },
+  {
     "title": "Sham 69",
     "date": "12 JUL 2025",
     "venue": "Chalk",
@@ -280,6 +273,13 @@
     "dateUnix": 1752865200000
   },
   {
+    "title": "H&R: Ones 2 Watch – Matilda Bond + Freya Eastcott + Kate Peaches + sra666",
+    "date": "19th July 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hr-ones-2-watch-matilda-bond-freya-eastcott-kate-peaches-sra666/",
+    "dateUnix": 1752951600000
+  },
+  {
     "title": "Geordie Greep",
     "date": "23 JUL 2025",
     "venue": "Chalk",
@@ -334,6 +334,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/cud/",
     "dateUnix": 1753558200000
+  },
+  {
+    "title": "Fundraiser Show ft. Mabel Clarke + ABE + Anknee + Limbslacker",
+    "date": "27th July 2025 - 12:00 am",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/fundraiser-show-ft-mabel-clarke-abe-anknee-limbslacker/",
+    "dateUnix": 1753574400000
   },
   {
     "title": "Wednesday 13",
