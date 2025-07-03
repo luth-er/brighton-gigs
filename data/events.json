@@ -1,19 +1,5 @@
 [
   {
-    "title": "Swallowtail",
-    "date": "Wed, 2 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/swallowtail/",
-    "dateUnix": 1751414400000
-  },
-  {
-    "title": "NO WARNING + NO RELIEF + MINDLESS + INFINITE WISDOM + LOST CAUSE",
-    "date": "2nd July 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/no-warning-no-relief-mindless-infinite-wisdom-lost-cause/",
-    "dateUnix": 1751482800000
-  },
-  {
     "title": "Mind Frog",
     "date": "Thu, 3 Jul 2025",
     "venue": "Green Door Store",
@@ -208,6 +194,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/jaymadeit/",
     "dateUnix": 1752348600000
+  },
+  {
+    "title": "The Q-Days",
+    "date": "Sun, 13 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-q-days/",
+    "dateUnix": 1752364800000
   },
   {
     "title": "Dead Letter Presents",
@@ -931,6 +924,13 @@
     "dateUnix": 1760832000000
   },
   {
+    "title": "DAIISTAR",
+    "date": "19 OCT 2025",
+    "venue": "Prince Albert",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/daiistar-tour-2025/event/8orgx",
+    "dateUnix": 1760832000000
+  },
+  {
     "title": "GLOIN + Support",
     "date": "19th October 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -957,6 +957,13 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/heavy-lungs-2025-tour/event/8o6x5",
     "dateUnix": 1761091200000
+  },
+  {
+    "title": "Holysseus Fly",
+    "date": "23rd October 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/holysseus-fly/",
+    "dateUnix": 1761247800000
   },
   {
     "title": "Letz Zep",
