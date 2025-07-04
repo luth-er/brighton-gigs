@@ -1,19 +1,5 @@
 [
   {
-    "title": "Mind Frog",
-    "date": "Thu, 3 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/mind-frog/",
-    "dateUnix": 1751500800000
-  },
-  {
-    "title": "H&R ONES TO WATCH: bedbugz + Elandra + Real Life Goblin + Lynnie Snow",
-    "date": "3rd July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hr-ones-to-watch-bedbugz-elandra-real-life-goblin-lynnie-snow/",
-    "dateUnix": 1751571000000
-  },
-  {
     "title": "Miler",
     "date": "Fri, 4 Jul 2025",
     "venue": "Green Door Store",
@@ -224,6 +210,13 @@
     "dateUnix": 1752521400000
   },
   {
+    "title": "Nil By Habit",
+    "date": "Tue, 15 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/nil-by-habit/",
+    "dateUnix": 1752537600000
+  },
+  {
     "title": "Kate Clover",
     "date": "15th July 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -301,7 +294,7 @@
     "dateUnix": 1753385400000
   },
   {
-    "title": "Spooky Huge",
+    "title": "Spooky Huge + Smoked Filled Room + Loose Endz",
     "date": "25th July 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/spooky-huge/",
