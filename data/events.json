@@ -1,38 +1,10 @@
 [
   {
-    "title": "Miler",
-    "date": "Fri, 4 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/miler/",
-    "dateUnix": 1751587200000
-  },
-  {
     "title": "90s vs 00s",
     "date": "Fri, 4 Jul 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s/",
     "dateUnix": 1751587200000
-  },
-  {
-    "title": "The Luke Combs Experience",
-    "date": "04 JUL 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-luke-combs-experience/event/zxet",
-    "dateUnix": 1751587200000
-  },
-  {
-    "title": "Spreading The Disease",
-    "date": "Friday 4th July, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/653760",
-    "dateUnix": 1751587200000
-  },
-  {
-    "title": "Jman / Micall Parknsun / DJ Jazz T",
-    "date": "4th July 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/jman-micall-parknsun-dj-jazz-t/",
-    "dateUnix": 1751655600000
   },
   {
     "title": "It Is Still 1985",
@@ -222,6 +194,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/kate-clover/",
     "dateUnix": 1752607800000
+  },
+  {
+    "title": "Divorce Attorney",
+    "date": "Wed, 16 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/divorce-attorney/",
+    "dateUnix": 1752624000000
   },
   {
     "title": "Overthrust + Crypsis + Human Leather",
@@ -508,6 +487,13 @@
     "date": "28 AUG 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/black-honey-album-release-tour/event/8o7bt",
+    "dateUnix": 1756339200000
+  },
+  {
+    "title": "SHAKE SOME ACTON #109( Brighton). RADIOACTIVAS,SHIT STIRRERS,GRIPPER LEE.",
+    "date": "Thursday 28th August, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/668534",
     "dateUnix": 1756339200000
   },
   {
@@ -798,10 +784,24 @@
     "dateUnix": 1759608000000
   },
   {
+    "title": "CM Wolf and The Backbones",
+    "date": "7th October 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/cm-wolf-and-the-backbones/",
+    "dateUnix": 1759863600000
+  },
+  {
     "title": "Red Rum Club",
     "date": "08 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/red-rum-club-buck-uk-tour/event/8o68s",
+    "dateUnix": 1759881600000
+  },
+  {
+    "title": "British Birds",
+    "date": "08 OCT 2025",
+    "venue": "Prince Albert",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/british-birds-uk-tour-2025/event/8oe8b",
     "dateUnix": 1759881600000
   },
   {
