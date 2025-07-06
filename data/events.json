@@ -1,24 +1,10 @@
 [
   {
-    "title": "90s vs 00s",
-    "date": "Fri, 4 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s/",
-    "dateUnix": 1751587200000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 5 Jul 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985/",
     "dateUnix": 1751673600000
-  },
-  {
-    "title": "Regal Cheer – A ‘Quite Good’ Evening",
-    "date": "5th July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/regal-cheer-a-quite-good-evening/",
-    "dateUnix": 1751743800000
   },
   {
     "title": "Psychedelic Summer Sundae",
@@ -208,6 +194,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/overthrust-crypsis-human-leather/",
     "dateUnix": 1752696000000
+  },
+  {
+    "title": "Florescent",
+    "date": "Thu, 17 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/florescent/",
+    "dateUnix": 1752710400000
   },
   {
     "title": "George Crump + Misha Mandy",
