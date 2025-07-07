@@ -1,19 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 5 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985/",
-    "dateUnix": 1751673600000
-  },
-  {
-    "title": "Psychedelic Summer Sundae",
-    "date": "Sun, 6 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/psychedelic-summer-sundae/",
-    "dateUnix": 1751760000000
-  },
-  {
     "title": "Kaonashi",
     "date": "07 JUL 2025",
     "venue": "Prince Albert",
@@ -208,6 +194,20 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/george-crump-misha-mandy/",
     "dateUnix": 1752780600000
+  },
+  {
+    "title": "Slow Time Mondays",
+    "date": "Fri, 18 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/slow-time-mondays/",
+    "dateUnix": 1752796800000
+  },
+  {
+    "title": "Blazed & Confused",
+    "date": "Fri, 18 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/blazed-confused/",
+    "dateUnix": 1752796800000
   },
   {
     "title": "Melvins",
