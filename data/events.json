@@ -1,12 +1,5 @@
 [
   {
-    "title": "Kaonashi",
-    "date": "07 JUL 2025",
-    "venue": "Prince Albert",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/kaonashi-the-real-deal-tesco-meal-deal-tour/event/8o7zn",
-    "dateUnix": 1751846400000
-  },
-  {
     "title": "Jeff Ubetcha",
     "date": "Tue, 8 Jul 2025",
     "venue": "Green Door Store",
@@ -385,6 +378,13 @@
     "dateUnix": 1754769600000
   },
   {
+    "title": "Chalk Hands",
+    "date": "10th August 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/chalk-hands/",
+    "dateUnix": 1754852400000
+  },
+  {
     "title": "Rolo Tomassi",
     "date": "14 AUG 2025",
     "venue": "Chalk",
@@ -432,6 +432,13 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/jack-botts-home-days-tour/event/z2oh",
     "dateUnix": 1755388800000
+  },
+  {
+    "title": "Los Fucking Surfer Smokers",
+    "date": "17th August 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/los-fucking-surfer-smokers/",
+    "dateUnix": 1755460800000
   },
   {
     "title": "The Jam'd",
