@@ -1,26 +1,5 @@
 [
   {
-    "title": "Jeff Ubetcha",
-    "date": "Tue, 8 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/jeff-ubetcha/",
-    "dateUnix": 1751932800000
-  },
-  {
-    "title": "DZ Deathrays & Battlesnake",
-    "date": "08 JUL 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/dz-deathrays-battlesnake/event/zxsw",
-    "dateUnix": 1751932800000
-  },
-  {
-    "title": "XIBALBA / EXTINGUISH + supports",
-    "date": "8th July 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/xibalba-extinguish-supports/",
-    "dateUnix": 1752001200000
-  },
-  {
     "title": "Spill",
     "date": "Wed, 9 Jul 2025",
     "venue": "Green Door Store",
@@ -222,6 +201,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/false-reality-support/",
     "dateUnix": 1752865200000
+  },
+  {
+    "title": "Overhead, The Albatross",
+    "date": "Sat, 19 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/overhead-the-albatross/",
+    "dateUnix": 1752883200000
   },
   {
     "title": "H&R: Ones 2 Watch – Matilda Bond + Freya Eastcott + Kate Peaches + sra666",
@@ -1251,6 +1237,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-liminanas-faded-tour-2025uk/event/8otrs",
     "dateUnix": 1764892800000
+  },
+  {
+    "title": "Wheatus",
+    "date": "06 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/wheatus-2025-tour/event/8o8jr",
+    "dateUnix": 1764979200000
   },
   {
     "title": "Electric Six",
