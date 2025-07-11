@@ -1,12 +1,5 @@
 [
   {
-    "title": "Ponceau",
-    "date": "10th July 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/ponceau/",
-    "dateUnix": 1752174000000
-  },
-  {
     "title": "Had Sandy",
     "date": "Fri, 11 Jul 2025",
     "venue": "Green Door Store",
@@ -686,6 +679,13 @@
     "dateUnix": 1758672000000
   },
   {
+    "title": "Dez Dare + Lunar Dirt",
+    "date": "24th September 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/dez-dare-lunar-dirt/",
+    "dateUnix": 1758742200000
+  },
+  {
     "title": "Florence Black",
     "date": "25 SEP 2025",
     "venue": "Concorde 2",
@@ -964,6 +964,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/gogol-bordello-fall-2025-european-tour/event/z38g",
     "dateUnix": 1761264000000
+  },
+  {
+    "title": "Phinius Gage",
+    "date": "24th October 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/phinius-gage/",
+    "dateUnix": 1761334200000
   },
   {
     "title": "Stone Foundation",
