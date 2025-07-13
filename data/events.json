@@ -1,45 +1,10 @@
 [
   {
-    "title": "i f***ing h8 clubbing",
-    "date": "Fri, 11 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing/",
-    "dateUnix": 1752192000000
-  },
-  {
-    "title": "Star Print Clad",
-    "date": "Sat, 12 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/star-print-clad/",
-    "dateUnix": 1752278400000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 12 Jul 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/",
     "dateUnix": 1752278400000
-  },
-  {
-    "title": "Sham 69",
-    "date": "12 JUL 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/sham-69/event/zxsa",
-    "dateUnix": 1752278400000
-  },
-  {
-    "title": "Guitar Wolf",
-    "date": "12 JUL 2025",
-    "venue": "Prince Albert",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/guitar-wolf-uk-tour-july-2025/event/zao8",
-    "dateUnix": 1752278400000
-  },
-  {
-    "title": "JAYMADEIT",
-    "date": "12th July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/jaymadeit/",
-    "dateUnix": 1752348600000
   },
   {
     "title": "The Q-Days",
@@ -173,6 +138,20 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/fuzztazer-single-release-show/",
     "dateUnix": 1752969600000
+  },
+  {
+    "title": "Droop",
+    "date": "Tue, 22 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/droop/",
+    "dateUnix": 1753142400000
+  },
+  {
+    "title": "The Roebucks",
+    "date": "Wed, 23 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-roebucks/",
+    "dateUnix": 1753228800000
   },
   {
     "title": "Geordie Greep",
@@ -1244,6 +1223,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/duckwrth-all-american-freak-show-tour/event/8ok6r",
     "dateUnix": 1765411200000
+  },
+  {
+    "title": "Black Grape",
+    "date": "12 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/black-grape-its-great-when-youre-straightyeah-tour/event/zyxk",
+    "dateUnix": 1765497600000
   },
   {
     "title": "David Devant & His Spirit Wife",
