@@ -1,33 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 12 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/",
-    "dateUnix": 1752278400000
-  },
-  {
-    "title": "The Q-Days",
-    "date": "Sun, 13 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-q-days/",
-    "dateUnix": 1752364800000
-  },
-  {
-    "title": "Dead Letter Presents",
-    "date": "Sunday 13th July, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/662789",
-    "dateUnix": 1752364800000
-  },
-  {
-    "title": "The March Violets",
-    "date": "13th July 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-march-violets/",
-    "dateUnix": 1752433200000
-  },
-  {
     "title": "Placeholder #21",
     "date": "14th July 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -168,6 +140,13 @@
     "dateUnix": 1753299000000
   },
   {
+    "title": "Ash Nazg Burz",
+    "date": "Thu, 24 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/ash-nazg-burz/",
+    "dateUnix": 1753315200000
+  },
+  {
     "title": "Seany Clarke - Album Launch Show",
     "date": "Thursday 24th July, 2025",
     "venue": "Folklore Rooms",
@@ -180,6 +159,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/lair/",
     "dateUnix": 1753385400000
+  },
+  {
+    "title": "that’s f***ing rubbish",
+    "date": "Fri, 25 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish/",
+    "dateUnix": 1753401600000
   },
   {
     "title": "Spooky Huge + Smoked Filled Room + Loose Endz",
