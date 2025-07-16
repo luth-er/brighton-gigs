@@ -1,19 +1,5 @@
 [
   {
-    "title": "Nil By Habit",
-    "date": "Tue, 15 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/nil-by-habit/",
-    "dateUnix": 1752537600000
-  },
-  {
-    "title": "Kate Clover",
-    "date": "15th July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/kate-clover/",
-    "dateUnix": 1752607800000
-  },
-  {
     "title": "Divorce Attorney",
     "date": "Wed, 16 Jul 2025",
     "venue": "Green Door Store",
@@ -105,6 +91,13 @@
     "dateUnix": 1752969600000
   },
   {
+    "title": "Edging + Ruckus + Spike My Heart + Sunlifter + Tunguska",
+    "date": "21st July 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/edging-ruckus-spike-my-heart-sunlifter-tunguska/",
+    "dateUnix": 1753124400000
+  },
+  {
     "title": "Droop",
     "date": "Tue, 22 Jul 2025",
     "venue": "Green Door Store",
@@ -168,6 +161,13 @@
     "dateUnix": 1753471800000
   },
   {
+    "title": "It Is Still 1985",
+    "date": "Sat, 26 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-4/",
+    "dateUnix": 1753488000000
+  },
+  {
     "title": "End Times Launch Night at The Folklore Rooms, Brighton",
     "date": "Saturday 26th July, 2025",
     "venue": "Folklore Rooms",
@@ -190,10 +190,10 @@
   },
   {
     "title": "Fundraiser Show ft. Mabel Clarke + ABE + Anknee + Limbslacker",
-    "date": "27th July 2025 - 12:00 am",
+    "date": "27th July 2025 - 6:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/fundraiser-show-ft-mabel-clarke-abe-anknee-limbslacker/",
-    "dateUnix": 1753574400000
+    "dateUnix": 1753639200000
   },
   {
     "title": "Wednesday 13",
@@ -952,6 +952,13 @@
     "dateUnix": 1761955200000
   },
   {
+    "title": "Scott Lavene + MC Pumpkin",
+    "date": "1st November 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/scott-lavene-mc-pumpkin/",
+    "dateUnix": 1762027200000
+  },
+  {
     "title": "Amenra",
     "date": "03 NOV 2025",
     "venue": "Chalk",
@@ -1155,6 +1162,13 @@
     "dateUnix": 1764201600000
   },
   {
+    "title": "Hotel Lux",
+    "date": "28th November 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hotel-lux/",
+    "dateUnix": 1764358200000
+  },
+  {
     "title": "Lacuna Coil",
     "date": "29 NOV 2025",
     "venue": "Chalk",
@@ -1202,6 +1216,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/duckwrth-all-american-freak-show-tour/event/8ok6r",
     "dateUnix": 1765411200000
+  },
+  {
+    "title": "Two Promoters, 1 Pod",
+    "date": "11th December 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/two-promoters-1-pod/",
+    "dateUnix": 1765483200000
   },
   {
     "title": "Black Grape",
