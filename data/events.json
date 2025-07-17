@@ -1,19 +1,5 @@
 [
   {
-    "title": "Divorce Attorney",
-    "date": "Wed, 16 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/divorce-attorney/",
-    "dateUnix": 1752624000000
-  },
-  {
-    "title": "Overthrust + Crypsis + Human Leather",
-    "date": "16th July 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/overthrust-crypsis-human-leather/",
-    "dateUnix": 1752696000000
-  },
-  {
     "title": "Florescent",
     "date": "Thu, 17 Jul 2025",
     "venue": "Green Door Store",
@@ -187,6 +173,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/cud/",
     "dateUnix": 1753558200000
+  },
+  {
+    "title": "Agitation Fundraiser x Veronica",
+    "date": "Sun, 27 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/agitation-fundraiser-x-veronica/",
+    "dateUnix": 1753574400000
   },
   {
     "title": "Fundraiser Show ft. Mabel Clarke + ABE + Anknee + Limbslacker",
@@ -1146,6 +1139,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/arthur-hill-stella-artour/event/zrki",
     "dateUnix": 1764028800000
+  },
+  {
+    "title": "Kean Kavanagh",
+    "date": "25th November 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/kean-kavanagh/",
+    "dateUnix": 1764099000000
   },
   {
     "title": "Nouvelle Vague",
