@@ -1,19 +1,5 @@
 [
   {
-    "title": "Florescent",
-    "date": "Thu, 17 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/florescent/",
-    "dateUnix": 1752710400000
-  },
-  {
-    "title": "George Crump + Misha Mandy",
-    "date": "17th July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/george-crump-misha-mandy/",
-    "dateUnix": 1752780600000
-  },
-  {
     "title": "CANCELLED: Slow Time Mondays",
     "date": "Fri, 18 Jul 2025",
     "venue": "Green Door Store",
@@ -189,6 +175,13 @@
     "dateUnix": 1753639200000
   },
   {
+    "title": "A Formal Horse",
+    "date": "Wed, 30 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/a-formal-horse/",
+    "dateUnix": 1753833600000
+  },
+  {
     "title": "Wednesday 13",
     "date": "30 JUL 2025",
     "venue": "Chalk",
@@ -285,6 +278,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/chalk-hands/",
     "dateUnix": 1754852400000
+  },
+  {
+    "title": "7Celsius + Florescent + Dratmandu + Elvie",
+    "date": "12th August 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/7celsius-florescent-dratmandu-elvie/",
+    "dateUnix": 1755025200000
   },
   {
     "title": "Rolo Tomassi",
@@ -403,6 +403,13 @@
     "date": "28th August 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hh-c-turtle-lonnie-gunn-flypaper-wilshaw/",
+    "dateUnix": 1756409400000
+  },
+  {
+    "title": "Hidden Herd Presents: Thistle. + Goodbye + Ain’t + Carne",
+    "date": "28th August 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hidden-herd-presents-thistle-goodbye-aint-carne-2/",
     "dateUnix": 1756409400000
   },
   {
@@ -642,6 +649,13 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/658459",
     "dateUnix": 1758931200000
+  },
+  {
+    "title": "Harker + Regal Cheer + mydiary.",
+    "date": "27th September 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/harker-regal-cheer-mydiary/",
+    "dateUnix": 1759003200000
   },
   {
     "title": "Billy Nomates",
@@ -1022,6 +1036,13 @@
     "dateUnix": 1762819200000
   },
   {
+    "title": "GAG + INGROWN + Plastics",
+    "date": "11th November 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/gag-ingrown-plastics/",
+    "dateUnix": 1762887600000
+  },
+  {
     "title": "Chameleons",
     "date": "12 NOV 2025",
     "venue": "Concorde 2",
@@ -1237,6 +1258,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/david-devant-his-spirit-wife-3/",
     "dateUnix": 1765567800000
+  },
+  {
+    "title": "Bones Ate Arfa",
+    "date": "13th December 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/bones-ate-arfa/",
+    "dateUnix": 1765656000000
   },
   {
     "title": "80s HiFi",
