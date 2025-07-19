@@ -1,30 +1,9 @@
 [
   {
-    "title": "CANCELLED: Slow Time Mondays",
-    "date": "Fri, 18 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/slow-time-mondays/",
-    "dateUnix": 1752796800000
-  },
-  {
     "title": "Blazed & Confused",
     "date": "Fri, 18 Jul 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/blazed-confused/",
-    "dateUnix": 1752796800000
-  },
-  {
-    "title": "Melvins",
-    "date": "18 JUL 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/melvins-stop-your-whining-tour/event/zr3b",
-    "dateUnix": 1752796800000
-  },
-  {
-    "title": "MOWFY",
-    "date": "Friday 18th July, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/656154",
     "dateUnix": 1752796800000
   },
   {
@@ -119,7 +98,7 @@
     "dateUnix": 1753385400000
   },
   {
-    "title": "that’s f***ing rubbish",
+    "title": "that’s f***ing rubbish: shoe-girlz vs shoegaze",
     "date": "Fri, 25 Jul 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish/",
@@ -201,6 +180,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/miler-rea-winnipeg-mn/",
     "dateUnix": 1753903800000
+  },
+  {
+    "title": "Los Kamer",
+    "date": "Thu, 31 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/los-kamer/",
+    "dateUnix": 1753920000000
   },
   {
     "title": "Mods vs Rockers",
@@ -315,6 +301,13 @@
     "dateUnix": 1755216000000
   },
   {
+    "title": "NOT RICHARD AND HER MAJESTY + SUPPORT",
+    "date": "15th August 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/not-richard-and-her-majesty-support/",
+    "dateUnix": 1755288000000
+  },
+  {
     "title": "Horsebastard + Human Leather + Chem Sex Party",
     "date": "16th August 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -406,7 +399,7 @@
     "dateUnix": 1756409400000
   },
   {
-    "title": "Hidden Herd Presents: Thistle. + Goodbye + Ain’t + Carne",
+    "title": "Hidden Herd Presents: Frances Mistry + Flypaper + Lynnie Snow + Wilshaw",
     "date": "28th August 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hidden-herd-presents-thistle-goodbye-aint-carne-2/",
@@ -425,6 +418,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-smyths-2025-meat-is-murder-40-tour/event/zx39",
     "dateUnix": 1756512000000
+  },
+  {
+    "title": "HELLRIDE RECORDS LAUNCH PARTY",
+    "date": "31st August 2025 - 6:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hellride-records-launch-party/",
+    "dateUnix": 1756663200000
   },
   {
     "title": "Greg Freeman",
@@ -924,6 +924,13 @@
     "dateUnix": 1761350400000
   },
   {
+    "title": "LollapaGOOza 3",
+    "date": "25th October 2025 - 1:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/lollapagooza-3/",
+    "dateUnix": 1761397200000
+  },
+  {
     "title": "The Lovely Eggs",
     "date": "26 OCT 2025",
     "venue": "Concorde 2",
@@ -1258,6 +1265,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/david-devant-his-spirit-wife-3/",
     "dateUnix": 1765567800000
+  },
+  {
+    "title": "Million Dead",
+    "date": "13 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/million-dead-uk-tour-december-2025/event/8ojdy",
+    "dateUnix": 1765584000000
   },
   {
     "title": "Bones Ate Arfa",
