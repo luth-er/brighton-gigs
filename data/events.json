@@ -1,38 +1,10 @@
 [
   {
-    "title": "Blazed & Confused",
-    "date": "Fri, 18 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/blazed-confused/",
-    "dateUnix": 1752796800000
-  },
-  {
-    "title": "False Reality + Support",
-    "date": "18th July 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/false-reality-support/",
-    "dateUnix": 1752865200000
-  },
-  {
-    "title": "Overhead, The Albatross",
-    "date": "Sat, 19 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/overhead-the-albatross/",
-    "dateUnix": 1752883200000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 19 Jul 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-3/",
     "dateUnix": 1752883200000
-  },
-  {
-    "title": "H&R: Ones 2 Watch – Matilda Bond + Freya Eastcott + Kate Peaches + sra666",
-    "date": "19th July 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hr-ones-2-watch-matilda-bond-freya-eastcott-kate-peaches-sra666/",
-    "dateUnix": 1752951600000
   },
   {
     "title": "Fuzztazer- Single Release Show",
@@ -194,6 +166,20 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/mods-vs-rockers/",
     "dateUnix": 1753990200000
+  },
+  {
+    "title": "Chris Cohen",
+    "date": "Fri, 1 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/chris-cohen/",
+    "dateUnix": 1754006400000
+  },
+  {
+    "title": "90s vs 00s",
+    "date": "Fri, 1 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s-2/",
+    "dateUnix": 1754006400000
   },
   {
     "title": "Clitosaurus",
