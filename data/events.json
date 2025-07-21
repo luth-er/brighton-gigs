@@ -1,19 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 19 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-3/",
-    "dateUnix": 1752883200000
-  },
-  {
-    "title": "Fuzztazer- Single Release Show",
-    "date": "Sun, 20 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/fuzztazer-single-release-show/",
-    "dateUnix": 1752969600000
-  },
-  {
     "title": "Edging + Ruckus + Spike My Heart + Sunlifter + Tunguska",
     "date": "21st July 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -196,11 +182,25 @@
     "dateUnix": 1754076600000
   },
   {
+    "title": "It Is Still 1985",
+    "date": "Sat, 2 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-5/",
+    "dateUnix": 1754092800000
+  },
+  {
     "title": "Cheap Dirty Pride 2",
     "date": "2nd August 2025 - 2:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/cheap-dirty-pride-2/",
     "dateUnix": 1754143200000
+  },
+  {
+    "title": "The Cloverhearts + Mr Irish Bastard: Celtic Punk Riot Tour",
+    "date": "Tue, 5 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/the-cloverhearts-mr-irish-bastard-celtic-punk-riot-tour/",
+    "dateUnix": 1754352000000
   },
   {
     "title": "JJ Grey & Mofro",
