@@ -1,12 +1,5 @@
 [
   {
-    "title": "Edging + Ruckus + Spike My Heart + Sunlifter + Tunguska",
-    "date": "21st July 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/edging-ruckus-spike-my-heart-sunlifter-tunguska/",
-    "dateUnix": 1753124400000
-  },
-  {
     "title": "Droop",
     "date": "Tue, 22 Jul 2025",
     "venue": "Green Door Store",
@@ -334,6 +327,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/small-fakers-brighton-bank-holiday-60s-mod-special/event/zxwp",
     "dateUnix": 1755907200000
+  },
+  {
+    "title": "¡SONIDO SABROSO!",
+    "date": "23rd August 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/sonido-sabroso/",
+    "dateUnix": 1755979200000
   },
   {
     "title": "Greg Wilson",
@@ -693,6 +693,13 @@
     "dateUnix": 1759608000000
   },
   {
+    "title": "JoJo Siwa",
+    "date": "06 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/jojo-siwa-infinity-heart-tour/event/8ocf9",
+    "dateUnix": 1759708800000
+  },
+  {
     "title": "CM Wolf and The Backbones",
     "date": "7th October 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -824,6 +831,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-bluetones-uk-tour-2025/event/z3bu",
     "dateUnix": 1760745600000
+  },
+  {
+    "title": "Kid Kapichi",
+    "date": "19 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/kid-kapichi-uk-underplay-tour/event/8ocfy",
+    "dateUnix": 1760832000000
   },
   {
     "title": "ADMT",
