@@ -1,12 +1,5 @@
 [
   {
-    "title": "Droop",
-    "date": "Tue, 22 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/droop/",
-    "dateUnix": 1753142400000
-  },
-  {
     "title": "The Roebucks",
     "date": "Wed, 23 Jul 2025",
     "venue": "Green Door Store",
@@ -196,6 +189,13 @@
     "dateUnix": 1754352000000
   },
   {
+    "title": "Veronica",
+    "date": "Wed, 6 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/veronica/",
+    "dateUnix": 1754438400000
+  },
+  {
     "title": "JJ Grey & Mofro",
     "date": "06 AUG 2025",
     "venue": "Concorde 2",
@@ -308,11 +308,11 @@
     "dateUnix": 1755388800000
   },
   {
-    "title": "Los Fucking Surfer Smokers",
-    "date": "17th August 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/los-fucking-surfer-smokers/",
-    "dateUnix": 1755460800000
+    "title": "Radio Free Alice",
+    "date": "18 AUG 2025",
+    "venue": "Prince Albert",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/radio-free-alice-ukeu-tour-2025/event/8oc2r",
+    "dateUnix": 1755475200000
   },
   {
     "title": "The Jam'd",
@@ -327,13 +327,6 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/small-fakers-brighton-bank-holiday-60s-mod-special/event/zxwp",
     "dateUnix": 1755907200000
-  },
-  {
-    "title": "¡SONIDO SABROSO!",
-    "date": "23rd August 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/sonido-sabroso/",
-    "dateUnix": 1755979200000
   },
   {
     "title": "Greg Wilson",
@@ -432,6 +425,13 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-drowns-september-tour-2025/event/z47p",
     "dateUnix": 1756944000000
+  },
+  {
+    "title": "Throwing Muses",
+    "date": "06 SEP 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/throwing-muses-2025-tour/event/qzfd",
+    "dateUnix": 1757116800000
   },
   {
     "title": "Picky New Promotions present SWALLOWTAIL",
@@ -1265,13 +1265,6 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/david-devant-his-spirit-wife-3/",
     "dateUnix": 1765567800000
-  },
-  {
-    "title": "Million Dead",
-    "date": "13 DEC 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/million-dead-uk-tour-december-2025/event/8ojdy",
-    "dateUnix": 1765584000000
   },
   {
     "title": "Bones Ate Arfa",
