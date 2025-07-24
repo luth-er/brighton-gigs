@@ -1,26 +1,5 @@
 [
   {
-    "title": "The Roebucks",
-    "date": "Wed, 23 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-roebucks/",
-    "dateUnix": 1753228800000
-  },
-  {
-    "title": "Geordie Greep",
-    "date": "23 JUL 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/geordie-greep-uk-summer-2025/event/8oy8h",
-    "dateUnix": 1753228800000
-  },
-  {
-    "title": "Hidden Herd: Comforts + Mulimba + Winter Gardens + more",
-    "date": "23rd July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hidden-herd-comforts-mulimba-winter-gardens-more/",
-    "dateUnix": 1753299000000
-  },
-  {
     "title": "Ash Nazg Burz",
     "date": "Thu, 24 Jul 2025",
     "venue": "Green Door Store",
@@ -210,6 +189,13 @@
     "dateUnix": 1754508600000
   },
   {
+    "title": "Shady Baby",
+    "date": "Thu, 7 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/shady-baby/",
+    "dateUnix": 1754524800000
+  },
+  {
     "title": "Retirement Party + Carly Cosgrove",
     "date": "7th August 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -315,6 +301,20 @@
     "dateUnix": 1755475200000
   },
   {
+    "title": "Fuzztazer + Pretty + Ragdoll",
+    "date": "18th August 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/fuzztazer-pretty-ragdoll/",
+    "dateUnix": 1755545400000
+  },
+  {
+    "title": "CLUBHEADS ALBUM RELEASE SHOW",
+    "date": "21st August 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/clubheads-album-release-show/",
+    "dateUnix": 1755802800000
+  },
+  {
     "title": "The Jam'd",
     "date": "22 AUG 2025",
     "venue": "Concorde 2",
@@ -327,6 +327,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/small-fakers-brighton-bank-holiday-60s-mod-special/event/zxwp",
     "dateUnix": 1755907200000
+  },
+  {
+    "title": "Bootlicker + Draümar + Second Death + Bomb",
+    "date": "23rd August 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/bootlicker-draumar-second-death-bomb/",
+    "dateUnix": 1755975600000
   },
   {
     "title": "Greg Wilson",
@@ -369,13 +376,6 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/668534",
     "dateUnix": 1756339200000
-  },
-  {
-    "title": "HH: C Turtle + Lonnie Gunn + flypaper + Wilshaw",
-    "date": "28th August 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hh-c-turtle-lonnie-gunn-flypaper-wilshaw/",
-    "dateUnix": 1756409400000
   },
   {
     "title": "Hidden Herd Presents: Frances Mistry + Flypaper + Lynnie Snow + Wilshaw",
@@ -1265,6 +1265,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/david-devant-his-spirit-wife-3/",
     "dateUnix": 1765567800000
+  },
+  {
+    "title": "Million Dead",
+    "date": "13 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/million-dead-uk-tour-december-2025/event/8ojdy",
+    "dateUnix": 1765584000000
   },
   {
     "title": "Bones Ate Arfa",
