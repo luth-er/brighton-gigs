@@ -1,26 +1,5 @@
 [
   {
-    "title": "Ash Nazg Burz",
-    "date": "Thu, 24 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/ash-nazg-burz/",
-    "dateUnix": 1753315200000
-  },
-  {
-    "title": "Seany Clarke - Album Launch Show",
-    "date": "Thursday 24th July, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/653859",
-    "dateUnix": 1753315200000
-  },
-  {
-    "title": "Lair",
-    "date": "24th July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/lair/",
-    "dateUnix": 1753385400000
-  },
-  {
     "title": "that’s f***ing rubbish: shoe-girlz vs shoegaze",
     "date": "Fri, 25 Jul 2025",
     "venue": "Green Door Store",
@@ -33,6 +12,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/spooky-huge/",
     "dateUnix": 1753471800000
+  },
+  {
+    "title": "Flavours",
+    "date": "Sat, 26 Jul 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/flavours/",
+    "dateUnix": 1753488000000
   },
   {
     "title": "It Is Still 1985",
