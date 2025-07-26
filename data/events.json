@@ -1,19 +1,5 @@
 [
   {
-    "title": "that’s f***ing rubbish: shoe-girlz vs shoegaze",
-    "date": "Fri, 25 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish/",
-    "dateUnix": 1753401600000
-  },
-  {
-    "title": "Spooky Huge + Smoked Filled Room + Loose Endz",
-    "date": "25th July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/spooky-huge/",
-    "dateUnix": 1753471800000
-  },
-  {
     "title": "Flavours",
     "date": "Sat, 26 Jul 2025",
     "venue": "Green Door Store",
@@ -187,6 +173,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/retirement-party-carly-cosgrove/",
     "dateUnix": 1754595000000
+  },
+  {
+    "title": "dbcooper- first headline / final show",
+    "date": "Fri, 8 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/dbcooper-first-headline-final-show/",
+    "dateUnix": 1754611200000
   },
   {
     "title": "Rainy Eyes",
@@ -525,6 +518,13 @@
     "dateUnix": 1757791800000
   },
   {
+    "title": "Dance Myth",
+    "date": "14th September 2025 - 6:45 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/dance-myth/",
+    "dateUnix": 1757875500000
+  },
+  {
     "title": "Lowkey",
     "date": "16 SEP 2025",
     "venue": "Chalk",
@@ -551,6 +551,13 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/pins-10th-anniversary-tour-2025/event/z3kt",
     "dateUnix": 1758240000000
+  },
+  {
+    "title": "Ramona Marx",
+    "date": "19th September 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/ramona-marx/",
+    "dateUnix": 1758310200000
   },
   {
     "title": "The Guns N Roses Experience",
@@ -868,6 +875,13 @@
     "dateUnix": 1761091200000
   },
   {
+    "title": "Aqualine",
+    "date": "22nd October 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/aqualine/",
+    "dateUnix": 1761161400000
+  },
+  {
     "title": "Holysseus Fly",
     "date": "23rd October 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -999,6 +1013,13 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/657354",
     "dateUnix": 1762387200000
+  },
+  {
+    "title": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+    "date": "6th November 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-world-is-a-beautiful-place-i-am-no-longer-afraid-to-die/",
+    "dateUnix": 1762459200000
   },
   {
     "title": "Pop Will Eat Itself",
