@@ -1,38 +1,10 @@
 [
   {
-    "title": "Flavours",
-    "date": "Sat, 26 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/flavours/",
-    "dateUnix": 1753488000000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 26 Jul 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-4/",
     "dateUnix": 1753488000000
-  },
-  {
-    "title": "End Times Launch Night at The Folklore Rooms, Brighton",
-    "date": "Saturday 26th July, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/659400",
-    "dateUnix": 1753488000000
-  },
-  {
-    "title": "Pure Chlorine",
-    "date": "Saturday 26th July, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/657045",
-    "dateUnix": 1753488000000
-  },
-  {
-    "title": "CUD *SOLD OUT*",
-    "date": "26th July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/cud/",
-    "dateUnix": 1753558200000
   },
   {
     "title": "Agitation Fundraiser x Veronica",
@@ -179,6 +151,13 @@
     "date": "Fri, 8 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/dbcooper-first-headline-final-show/",
+    "dateUnix": 1754611200000
+  },
+  {
+    "title": "i f***ing h8 clubbing",
+    "date": "Fri, 8 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-2/",
     "dateUnix": 1754611200000
   },
   {
