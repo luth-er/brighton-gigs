@@ -1,26 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 26 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-4/",
-    "dateUnix": 1753488000000
-  },
-  {
-    "title": "Agitation Fundraiser x Veronica",
-    "date": "Sun, 27 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/agitation-fundraiser-x-veronica/",
-    "dateUnix": 1753574400000
-  },
-  {
-    "title": "Fundraiser Show ft. Mabel Clarke + ABE + Anknee + Limbslacker",
-    "date": "27th July 2025 - 6:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/fundraiser-show-ft-mabel-clarke-abe-anknee-limbslacker/",
-    "dateUnix": 1753639200000
-  },
-  {
     "title": "A Formal Horse",
     "date": "Wed, 30 Jul 2025",
     "venue": "Green Door Store",
@@ -38,7 +17,7 @@
     "title": "The Perfect English Weather - Album Launch",
     "date": "Wednesday 30th July, 2025",
     "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/662343",
+    "link": "https://wegottickets.com/waiting-list/662343",
     "dateUnix": 1753833600000
   },
   {
@@ -166,6 +145,20 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/rainy-eyes/",
     "dateUnix": 1754683200000
+  },
+  {
+    "title": "Your Demise 2004 & HC Family",
+    "date": "Sat, 9 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/your-demise-2004-hc-family/",
+    "dateUnix": 1754697600000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 9 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-6/",
+    "dateUnix": 1754697600000
   },
   {
     "title": "Thumpasaurus",
