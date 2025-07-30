@@ -17,7 +17,7 @@
     "title": "The Perfect English Weather - Album Launch",
     "date": "Wednesday 30th July, 2025",
     "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/waiting-list/662343",
+    "link": "https://wegottickets.com/event/662343",
     "dateUnix": 1753833600000
   },
   {
@@ -259,6 +259,13 @@
     "dateUnix": 1755545400000
   },
   {
+    "title": "The Gulls",
+    "date": "20th August 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-gulls/",
+    "dateUnix": 1755716400000
+  },
+  {
     "title": "CLUBHEADS ALBUM RELEASE SHOW",
     "date": "21st August 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -350,6 +357,13 @@
     "dateUnix": 1756512000000
   },
   {
+    "title": "CTRL ALT DEL: ALL DAY ALL NIGHT",
+    "date": "30th August 2025 - 5:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/ctrl-alt-del-all-day-all-night/",
+    "dateUnix": 1756573200000
+  },
+  {
     "title": "HELLRIDE RECORDS LAUNCH PARTY",
     "date": "31st August 2025 - 6:00 pm",
     "venue": "Hope & Ruin",
@@ -376,6 +390,13 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-drowns-september-tour-2025/event/z47p",
     "dateUnix": 1756944000000
+  },
+  {
+    "title": "Fleetwood Bac",
+    "date": "06 SEP 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/fleetwood-bac/event/8owp7",
+    "dateUnix": 1757116800000
   },
   {
     "title": "Throwing Muses",
@@ -501,6 +522,20 @@
     "date": "16 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/lowkey-soundtrack-to-the-struggle-3-tour-september-2/event/zxcw",
+    "dateUnix": 1757980800000
+  },
+  {
+    "title": "SHAKE SOME ACTON #113.( Brighton Edition). TEO WISE, FAMILY OF STRANGERS,FEROX FUCKING FEROX.",
+    "date": "Tuesday 16th September, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/671424",
+    "dateUnix": 1757980800000
+  },
+  {
+    "title": "SHAKE SOME ACTON #113.( Brighton Edition). TEO WISE, FAMILY OF STRANGERS,FEROX FUCKING FEROX.",
+    "date": "Tuesday 16th September, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/671423",
     "dateUnix": 1757980800000
   },
   {
@@ -1265,6 +1300,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/bones-ate-arfa/",
     "dateUnix": 1765656000000
+  },
+  {
+    "title": "Absolute Bowie",
+    "date": "19 DEC 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/absolute-bowie/event/8ow8v",
+    "dateUnix": 1766102400000
   },
   {
     "title": "80s HiFi",
