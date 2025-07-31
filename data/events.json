@@ -1,33 +1,5 @@
 [
   {
-    "title": "A Formal Horse",
-    "date": "Wed, 30 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/a-formal-horse/",
-    "dateUnix": 1753833600000
-  },
-  {
-    "title": "Wednesday 13",
-    "date": "30 JUL 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/wednesday-13-summer-blood-storm-tour/event/zvtd",
-    "dateUnix": 1753833600000
-  },
-  {
-    "title": "The Perfect English Weather - Album Launch",
-    "date": "Wednesday 30th July, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/662343",
-    "dateUnix": 1753833600000
-  },
-  {
-    "title": "Miler + REA + Winnipeg, MN",
-    "date": "30th July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/miler-rea-winnipeg-mn/",
-    "dateUnix": 1753903800000
-  },
-  {
     "title": "Los Kamer",
     "date": "Thu, 31 Jul 2025",
     "venue": "Green Door Store",
@@ -187,6 +159,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/7celsius-florescent-dratmandu-elvie/",
     "dateUnix": 1755025200000
+  },
+  {
+    "title": "i’vebeeneatingfruit",
+    "date": "Wed, 13 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/ivebeeneatingfruit/",
+    "dateUnix": 1755043200000
   },
   {
     "title": "Rolo Tomassi",
@@ -490,6 +469,13 @@
     "dateUnix": 1757635200000
   },
   {
+    "title": "Omega Tribe",
+    "date": "Friday 12th September, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/671176",
+    "dateUnix": 1757635200000
+  },
+  {
     "title": "Fortitude Valley + Support",
     "date": "12th September 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
@@ -522,13 +508,6 @@
     "date": "16 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/lowkey-soundtrack-to-the-struggle-3-tour-september-2/event/zxcw",
-    "dateUnix": 1757980800000
-  },
-  {
-    "title": "SHAKE SOME ACTON #113.( Brighton Edition). TEO WISE, FAMILY OF STRANGERS,FEROX FUCKING FEROX.",
-    "date": "Tuesday 16th September, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/671424",
     "dateUnix": 1757980800000
   },
   {
@@ -756,6 +735,13 @@
     "dateUnix": 1760054400000
   },
   {
+    "title": "SHAKE SOME ACTON #118. POWER APES , CLUB BRAT , GLITTERBOMBS",
+    "date": "Friday 10th October, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/671648",
+    "dateUnix": 1760054400000
+  },
+  {
     "title": "Nirvana UK",
     "date": "11 OCT 2025",
     "venue": "Concorde 2",
@@ -796,6 +782,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/new-model-army-2025-uk-tour/event/qov3",
     "dateUnix": 1760400000000
+  },
+  {
+    "title": "JME",
+    "date": "15 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/jme/event/8owf6",
+    "dateUnix": 1760486400000
   },
   {
     "title": "The Royston Club",
@@ -1302,6 +1295,13 @@
     "dateUnix": 1765656000000
   },
   {
+    "title": "Crobot",
+    "date": "14 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/crobot-chasin-death-tour-uk-2025/event/8ot2x",
+    "dateUnix": 1765670400000
+  },
+  {
     "title": "Absolute Bowie",
     "date": "19 DEC 2025",
     "venue": "Concorde 2",
@@ -1363,12 +1363,5 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/coach-party-club-caramel-tour-2026/event/8ovaz",
     "dateUnix": 1771545600000
-  },
-  {
-    "title": "LOVE Revisited",
-    "date": "01 MAY 2026",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/love-revisited-uk-tour-2026/event/8otrr",
-    "dateUnix": 1777593600000
   }
 ]
