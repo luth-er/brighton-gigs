@@ -1,19 +1,5 @@
 [
   {
-    "title": "Los Kamer",
-    "date": "Thu, 31 Jul 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/los-kamer/",
-    "dateUnix": 1753920000000
-  },
-  {
-    "title": "Mods vs Rockers",
-    "date": "31st July 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/mods-vs-rockers/",
-    "dateUnix": 1753990200000
-  },
-  {
     "title": "Chris Cohen",
     "date": "Fri, 1 Aug 2025",
     "venue": "Green Door Store",
@@ -166,6 +152,13 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/ivebeeneatingfruit/",
     "dateUnix": 1755043200000
+  },
+  {
+    "title": "Theo Mizú",
+    "date": "Thu, 14 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/theo-mizu/",
+    "dateUnix": 1755129600000
   },
   {
     "title": "Rolo Tomassi",
@@ -581,7 +574,7 @@
     "dateUnix": 1758672000000
   },
   {
-    "title": "Dez Dare + Lunar Dirt",
+    "title": "Dez Dare + Lunar Dirt + Lipworms",
     "date": "24th September 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/dez-dare-lunar-dirt/",
@@ -768,6 +761,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/dakhabrakha/event/zxwv",
     "dateUnix": 1760227200000
+  },
+  {
+    "title": "The K's",
+    "date": "13 OCT 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-ks-pretty-on-the-internet-tour/event/8owdc",
+    "dateUnix": 1760313600000
   },
   {
     "title": "Welly",
@@ -1356,12 +1356,5 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-cureheads-siouxsie-and-the-budgiees/event/zxcj",
     "dateUnix": 1770940800000
-  },
-  {
-    "title": "Coach Party",
-    "date": "20 FEB 2026",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/coach-party-club-caramel-tour-2026/event/8ovaz",
-    "dateUnix": 1771545600000
   }
 ]
