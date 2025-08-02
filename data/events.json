@@ -1,31 +1,10 @@
 [
   {
-    "title": "Chris Cohen",
-    "date": "Fri, 1 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/chris-cohen/",
-    "dateUnix": 1754006400000
-  },
-  {
     "title": "90s vs 00s",
     "date": "Fri, 1 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s-2/",
     "dateUnix": 1754006400000
-  },
-  {
-    "title": "Clitosaurus",
-    "date": "Friday 1st August, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/654808",
-    "dateUnix": 1754006400000
-  },
-  {
-    "title": "HAWXX",
-    "date": "1st August 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hawxx/",
-    "dateUnix": 1754076600000
   },
   {
     "title": "It Is Still 1985",
@@ -173,6 +152,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/horror-vacui/",
     "dateUnix": 1755199800000
+  },
+  {
+    "title": "Wimp",
+    "date": "Fri, 15 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/wimp/",
+    "dateUnix": 1755216000000
   },
   {
     "title": "The Madchester Experience",
