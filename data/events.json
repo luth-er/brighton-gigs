@@ -1,24 +1,10 @@
 [
   {
-    "title": "90s vs 00s",
-    "date": "Fri, 1 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s-2/",
-    "dateUnix": 1754006400000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 2 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-5/",
     "dateUnix": 1754092800000
-  },
-  {
-    "title": "Cheap Dirty Pride 2",
-    "date": "2nd August 2025 - 2:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/cheap-dirty-pride-2/",
-    "dateUnix": 1754143200000
   },
   {
     "title": "The Cloverhearts + Mr Irish Bastard: Celtic Punk Riot Tour",
@@ -158,6 +144,13 @@
     "date": "Fri, 15 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/wimp/",
+    "dateUnix": 1755216000000
+  },
+  {
+    "title": "party 4 u",
+    "date": "Fri, 15 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/party-4-u/",
     "dateUnix": 1755216000000
   },
   {
