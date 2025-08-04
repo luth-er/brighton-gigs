@@ -1,12 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 2 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-5/",
-    "dateUnix": 1754092800000
-  },
-  {
     "title": "The Cloverhearts + Mr Irish Bastard: Celtic Punk Riot Tour",
     "date": "Tue, 5 Aug 2025",
     "venue": "Green Door Store",
@@ -173,6 +166,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/not-richard-and-her-majesty-support/",
     "dateUnix": 1755288000000
+  },
+  {
+    "title": "Undeath",
+    "date": "Sat, 16 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/undeath/",
+    "dateUnix": 1755302400000
   },
   {
     "title": "Horsebastard + Human Leather + Chem Sex Party",
