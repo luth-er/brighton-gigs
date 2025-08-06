@@ -1,12 +1,5 @@
 [
   {
-    "title": "The Cloverhearts + Mr Irish Bastard: Celtic Punk Riot Tour",
-    "date": "Tue, 5 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/the-cloverhearts-mr-irish-bastard-celtic-punk-riot-tour/",
-    "dateUnix": 1754352000000
-  },
-  {
     "title": "Veronica",
     "date": "Wed, 6 Aug 2025",
     "venue": "Green Door Store",
@@ -161,7 +154,7 @@
     "dateUnix": 1755216000000
   },
   {
-    "title": "NOT RICHARD AND HER MAJESTY + SUPPORT",
+    "title": "NOT RICHARD AND HER MAJESTY + TWISTED TEENS + SWALLOWTAIL",
     "date": "15th August 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/not-richard-and-her-majesty-support/",
@@ -172,6 +165,13 @@
     "date": "Sat, 16 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/undeath/",
+    "dateUnix": 1755302400000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 16 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-7/",
     "dateUnix": 1755302400000
   },
   {
@@ -777,6 +777,13 @@
     "dateUnix": 1760486400000
   },
   {
+    "title": "Long Fling",
+    "date": "15th October 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/long-fling/",
+    "dateUnix": 1760558400000
+  },
+  {
     "title": "The Royston Club",
     "date": "16 OCT 2025",
     "venue": "Concorde 2",
@@ -1076,6 +1083,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/turin-brakes-spacehopper-tour/event/zxvm",
     "dateUnix": 1763078400000
+  },
+  {
+    "title": "ANNA PHOEBE + Special Guests",
+    "date": "14th November 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/anna-phoebe-special-guests/",
+    "dateUnix": 1763150400000
   },
   {
     "title": "Emma-Jean Thackray",
