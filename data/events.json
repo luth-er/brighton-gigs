@@ -1,26 +1,5 @@
 [
   {
-    "title": "Veronica",
-    "date": "Wed, 6 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/veronica/",
-    "dateUnix": 1754438400000
-  },
-  {
-    "title": "JJ Grey & Mofro",
-    "date": "06 AUG 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/jj-grey-and-mofro-olustee-tour-2025/event/zxed",
-    "dateUnix": 1754438400000
-  },
-  {
-    "title": "NIL BY HABIT + WALLFROG + DAZED MIND",
-    "date": "6th August 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/nil-by-habit-wallfrog-dazed-mind/",
-    "dateUnix": 1754508600000
-  },
-  {
     "title": "Shady Baby",
     "date": "Thu, 7 Aug 2025",
     "venue": "Green Door Store",
@@ -199,7 +178,7 @@
     "title": "Radio Free Alice",
     "date": "18 AUG 2025",
     "venue": "Prince Albert",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/radio-free-alice-ukeu-tour-2025/event/8oc2r",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/radio-free-alice-july-shows-2025/event/8oc2r",
     "dateUnix": 1755475200000
   },
   {
@@ -208,6 +187,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/fuzztazer-pretty-ragdoll/",
     "dateUnix": 1755545400000
+  },
+  {
+    "title": "Hill Collective",
+    "date": "Tue, 19 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/hill-collective/",
+    "dateUnix": 1755561600000
   },
   {
     "title": "The Gulls",
@@ -371,7 +357,7 @@
     "dateUnix": 1757116800000
   },
   {
-    "title": "really big really clever",
+    "title": "really big really clever + jar of blind flies + prom + had sandy",
     "date": "6th September 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/really-big-really-clever/",
@@ -1363,5 +1349,12 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-cureheads-siouxsie-and-the-budgiees/event/zxcj",
     "dateUnix": 1770940800000
+  },
+  {
+    "title": "Coach Party",
+    "date": "20 FEB 2026",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/coach-party-club-caramel-tour-2026/event/8ovaz",
+    "dateUnix": 1771545600000
   }
 ]
