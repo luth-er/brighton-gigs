@@ -1,19 +1,5 @@
 [
   {
-    "title": "Shady Baby",
-    "date": "Thu, 7 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/shady-baby/",
-    "dateUnix": 1754524800000
-  },
-  {
-    "title": "Retirement Party + Carly Cosgrove",
-    "date": "7th August 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/retirement-party-carly-cosgrove/",
-    "dateUnix": 1754595000000
-  },
-  {
     "title": "dbcooper- first headline / final show",
     "date": "Fri, 8 Aug 2025",
     "venue": "Green Door Store",
@@ -173,6 +159,13 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/jack-botts-home-days-tour/event/z2oh",
     "dateUnix": 1755388800000
+  },
+  {
+    "title": "Lovejoy",
+    "date": "Mon, 18 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/lovejoy/",
+    "dateUnix": 1755475200000
   },
   {
     "title": "Radio Free Alice",
