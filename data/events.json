@@ -1,24 +1,10 @@
 [
   {
-    "title": "dbcooper- first headline / final show",
-    "date": "Fri, 8 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/dbcooper-first-headline-final-show/",
-    "dateUnix": 1754611200000
-  },
-  {
     "title": "i f***ing h8 clubbing",
     "date": "Fri, 8 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-2/",
     "dateUnix": 1754611200000
-  },
-  {
-    "title": "Rainy Eyes",
-    "date": "8th August 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/rainy-eyes/",
-    "dateUnix": 1754683200000
   },
   {
     "title": "Your Demise 2004 & HC Family",
@@ -187,6 +173,13 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/hill-collective/",
     "dateUnix": 1755561600000
+  },
+  {
+    "title": "BABYTEETH",
+    "date": "Wed, 20 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/babyteeth/",
+    "dateUnix": 1755648000000
   },
   {
     "title": "The Gulls",
