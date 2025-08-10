@@ -1,38 +1,10 @@
 [
   {
-    "title": "i f***ing h8 clubbing",
-    "date": "Fri, 8 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-2/",
-    "dateUnix": 1754611200000
-  },
-  {
-    "title": "Your Demise 2004 & HC Family",
-    "date": "Sat, 9 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/your-demise-2004-hc-family/",
-    "dateUnix": 1754697600000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 9 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-6/",
     "dateUnix": 1754697600000
-  },
-  {
-    "title": "Thumpasaurus",
-    "date": "09 AUG 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/thumpasaurus-existential-dread-tour/event/zwoj",
-    "dateUnix": 1754697600000
-  },
-  {
-    "title": "Helicon",
-    "date": "9th August 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/helicon-2/",
-    "dateUnix": 1754769600000
   },
   {
     "title": "Chalk Hands",
@@ -189,11 +161,25 @@
     "dateUnix": 1755716400000
   },
   {
+    "title": "Mirepoix",
+    "date": "Thu, 21 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/mirepoix/",
+    "dateUnix": 1755734400000
+  },
+  {
     "title": "CLUBHEADS ALBUM RELEASE SHOW",
     "date": "21st August 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/clubheads-album-release-show/",
     "dateUnix": 1755802800000
+  },
+  {
+    "title": "Witchrot",
+    "date": "Fri, 22 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/witchrot/",
+    "dateUnix": 1755820800000
   },
   {
     "title": "The Jam'd",
@@ -1307,6 +1293,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/special-kinda-madness/event/zxc7",
     "dateUnix": 1766793600000
+  },
+  {
+    "title": "Xana",
+    "date": "27 JAN 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/xana-until-it-wasnt-tour-202526/event/8op4d",
+    "dateUnix": 1769472000000
   },
   {
     "title": "Xana *NEW VENUE*",
