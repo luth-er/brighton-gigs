@@ -1,19 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 9 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-6/",
-    "dateUnix": 1754697600000
-  },
-  {
-    "title": "Chalk Hands",
-    "date": "10th August 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/chalk-hands/",
-    "dateUnix": 1754852400000
-  },
-  {
     "title": "7Celsius + Florescent + Dratmandu + Elvie",
     "date": "12th August 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
@@ -179,6 +165,13 @@
     "date": "Fri, 22 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/witchrot/",
+    "dateUnix": 1755820800000
+  },
+  {
+    "title": "that’s f***ing rubbish: monkeys vs gorillaz",
+    "date": "Fri, 22 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-2/",
     "dateUnix": 1755820800000
   },
   {
