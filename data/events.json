@@ -105,13 +105,6 @@
     "dateUnix": 1755388800000
   },
   {
-    "title": "Lovejoy",
-    "date": "Mon, 18 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/lovejoy/",
-    "dateUnix": 1755475200000
-  },
-  {
     "title": "Radio Free Alice",
     "date": "18 AUG 2025",
     "venue": "Prince Albert",
@@ -187,6 +180,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/peach-season-m-woodroe-aeternum/",
     "dateUnix": 1755891000000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 23 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-8/",
+    "dateUnix": 1755907200000
   },
   {
     "title": "Small Fakers",
@@ -607,6 +607,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/midnight-rodeo/",
     "dateUnix": 1759608000000
+  },
+  {
+    "title": "Psudoku + Call Me Franco + Gurf",
+    "date": "5th October 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/psudoku-call-me-franco-gurf/",
+    "dateUnix": 1759694400000
   },
   {
     "title": "JoJo Siwa",
