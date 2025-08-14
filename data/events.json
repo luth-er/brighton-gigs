@@ -1,19 +1,5 @@
 [
   {
-    "title": "7Celsius + Florescent + Dratmandu + Elvie",
-    "date": "12th August 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/7celsius-florescent-dratmandu-elvie/",
-    "dateUnix": 1755025200000
-  },
-  {
-    "title": "i’vebeeneatingfruit",
-    "date": "Wed, 13 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/ivebeeneatingfruit/",
-    "dateUnix": 1755043200000
-  },
-  {
     "title": "Theo Mizú",
     "date": "Thu, 14 Aug 2025",
     "venue": "Green Door Store",
@@ -28,7 +14,7 @@
     "dateUnix": 1755129600000
   },
   {
-    "title": "Horror Vacui",
+    "title": "Horror Vacui + Bones Ate Arfa + Loose Endz",
     "date": "14th August 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/horror-vacui/",
@@ -85,10 +71,10 @@
   },
   {
     "title": "Horsebastard + Human Leather + Chem Sex Party",
-    "date": "16th August 2025 - 7:30 pm",
+    "date": "16th August 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/horsebastard-human-leather-chem-sex-party/",
-    "dateUnix": 1755372600000
+    "dateUnix": 1755374400000
   },
   {
     "title": "Pissed Jeans",
@@ -134,10 +120,10 @@
   },
   {
     "title": "The Gulls",
-    "date": "20th August 2025 - 7:00 pm",
+    "date": "20th August 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-gulls/",
-    "dateUnix": 1755716400000
+    "dateUnix": 1755718200000
   },
   {
     "title": "Mirepoix",
@@ -203,6 +189,13 @@
     "dateUnix": 1755975600000
   },
   {
+    "title": "Smokin Bones Club presents Noise & Order: Petbrick + more",
+    "date": "Sun, 24 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/smokin-bones-club-presents-noise-order-petbrick-more/",
+    "dateUnix": 1755993600000
+  },
+  {
     "title": "Greg Wilson",
     "date": "24 AUG 2025",
     "venue": "Concorde 2",
@@ -238,7 +231,7 @@
     "dateUnix": 1756339200000
   },
   {
-    "title": "SHAKE SOME ACTON #109( Brighton). RADIOACTIVAS,SHIT STIRRERS,GRIPPER LEE.",
+    "title": "SHAKE SOME ACTON #109( Brighton). RADIOACTIVAS,SHIT STIRRERS,GRIPPER LEE,DAFFODILDOS.",
     "date": "Thursday 28th August, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/668534",
