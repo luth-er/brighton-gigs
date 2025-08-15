@@ -1,26 +1,5 @@
 [
   {
-    "title": "Theo Mizú",
-    "date": "Thu, 14 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/theo-mizu/",
-    "dateUnix": 1755129600000
-  },
-  {
-    "title": "Rolo Tomassi",
-    "date": "14 AUG 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/rolo-tomassi-20th-anniversary-celebration/event/zxsz",
-    "dateUnix": 1755129600000
-  },
-  {
-    "title": "Horror Vacui + Bones Ate Arfa + Loose Endz",
-    "date": "14th August 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/horror-vacui/",
-    "dateUnix": 1755199800000
-  },
-  {
     "title": "Wimp",
     "date": "Fri, 15 Aug 2025",
     "venue": "Green Door Store",
@@ -215,6 +194,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/pub-choir-go-on-then-tour/event/8o8y5",
     "dateUnix": 1756080000000
+  },
+  {
+    "title": "Gag Salon",
+    "date": "Wed, 27 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/gag-salon/",
+    "dateUnix": 1756252800000
   },
   {
     "title": "Chase Petra",
@@ -1197,6 +1183,13 @@
     "dateUnix": 1764979200000
   },
   {
+    "title": "Zombie Met Girl",
+    "date": "Saturday 6th December, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/673289",
+    "dateUnix": 1764979200000
+  },
+  {
     "title": "Electric Six",
     "date": "07 DEC 2025",
     "venue": "Concorde 2",
@@ -1300,6 +1293,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/xana/",
     "dateUnix": 1769542200000
+  },
+  {
+    "title": "The Skids",
+    "date": "31 JAN 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/the-skids-the-absolute-game-tour/event/8ocv2",
+    "dateUnix": 1769817600000
   },
   {
     "title": "Saturdays at Your Place",
