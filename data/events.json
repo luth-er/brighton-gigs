@@ -1,38 +1,10 @@
 [
   {
-    "title": "Wimp",
-    "date": "Fri, 15 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/wimp/",
-    "dateUnix": 1755216000000
-  },
-  {
     "title": "party 4 u",
     "date": "Fri, 15 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/party-4-u/",
     "dateUnix": 1755216000000
-  },
-  {
-    "title": "The Madchester Experience",
-    "date": "15 AUG 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-madchester-experience/event/zxec",
-    "dateUnix": 1755216000000
-  },
-  {
-    "title": "Kid Creole and the Coconuts",
-    "date": "15 AUG 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/kid-creole-and-the-coconuts-bye-bye-birdie-tour/event/zxwo",
-    "dateUnix": 1755216000000
-  },
-  {
-    "title": "NOT RICHARD AND HER MAJESTY + TWISTED TEENS + SWALLOWTAIL",
-    "date": "15th August 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/not-richard-and-her-majesty-support/",
-    "dateUnix": 1755288000000
   },
   {
     "title": "Undeath",
@@ -208,6 +180,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/chase-petra/",
     "dateUnix": 1756323000000
+  },
+  {
+    "title": "Le Lamb",
+    "date": "Thu, 28 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/le-lamb/",
+    "dateUnix": 1756339200000
   },
   {
     "title": "Black Honey",
@@ -1309,6 +1288,13 @@
     "dateUnix": 1769887800000
   },
   {
+    "title": "Fozzy",
+    "date": "06 FEB 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/fozzy-2026-uk-tour/event/8ot57",
+    "dateUnix": 1770336000000
+  },
+  {
     "title": "Morgan Wallen Tribute UK",
     "date": "07 FEB 2026",
     "venue": "Concorde 2",
@@ -1328,5 +1314,12 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/coach-party-club-caramel-tour-2026/event/8ovaz",
     "dateUnix": 1771545600000
+  },
+  {
+    "title": "LOVE Revisited",
+    "date": "01 MAY 2026",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/love-revisited-uk-tour-2026/event/8otrr",
+    "dateUnix": 1777593600000
   }
 ]
