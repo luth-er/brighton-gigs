@@ -1,31 +1,10 @@
 [
   {
-    "title": "party 4 u",
-    "date": "Fri, 15 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/party-4-u/",
-    "dateUnix": 1755216000000
-  },
-  {
-    "title": "Undeath",
-    "date": "Sat, 16 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/undeath/",
-    "dateUnix": 1755302400000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 16 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-7/",
     "dateUnix": 1755302400000
-  },
-  {
-    "title": "Horsebastard + Human Leather + Chem Sex Party",
-    "date": "16th August 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/horsebastard-human-leather-chem-sex-party/",
-    "dateUnix": 1755374400000
   },
   {
     "title": "Pissed Jeans",
@@ -208,6 +187,20 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hidden-herd-presents-thistle-goodbye-aint-carne-2/",
     "dateUnix": 1756409400000
+  },
+  {
+    "title": "Brighton Psych Fest!",
+    "date": "Fri, 29 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/brighton-psych-fest/",
+    "dateUnix": 1756425600000
+  },
+  {
+    "title": "i f***ing h8 clubbing",
+    "date": "Fri, 29 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing-3/",
+    "dateUnix": 1756425600000
   },
   {
     "title": "Brighton Psych Fest",
