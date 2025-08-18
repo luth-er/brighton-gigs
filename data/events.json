@@ -1,26 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 16 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-7/",
-    "dateUnix": 1755302400000
-  },
-  {
-    "title": "Pissed Jeans",
-    "date": "17 AUG 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/pissed-jeans-uk-tour/event/8o7wm",
-    "dateUnix": 1755388800000
-  },
-  {
-    "title": "Jack Botts",
-    "date": "17 AUG 2025",
-    "venue": "Prince Albert",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/jack-botts-home-days-tour/event/z2oh",
-    "dateUnix": 1755388800000
-  },
-  {
     "title": "Radio Free Alice",
     "date": "18 AUG 2025",
     "venue": "Prince Albert",
@@ -208,6 +187,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/brighton-psych-fest-2/",
     "dateUnix": 1756476000000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 30 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-9/",
+    "dateUnix": 1756512000000
   },
   {
     "title": "The Smyths",
@@ -1307,6 +1293,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/coach-party-club-caramel-tour-2026/event/8ovaz",
     "dateUnix": 1771545600000
+  },
+  {
+    "title": "The Feeling",
+    "date": "14 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/the-feeling-twelve-stops-and-home-anniversary-tour/event/8otsn",
+    "dateUnix": 1773446400000
   },
   {
     "title": "LOVE Revisited",
