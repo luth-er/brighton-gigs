@@ -1,19 +1,5 @@
 [
   {
-    "title": "Radio Free Alice",
-    "date": "18 AUG 2025",
-    "venue": "Prince Albert",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/radio-free-alice-july-shows-2025/event/8oc2r",
-    "dateUnix": 1755475200000
-  },
-  {
-    "title": "Fuzztazer + Pretty + Ragdoll",
-    "date": "18th August 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/fuzztazer-pretty-ragdoll/",
-    "dateUnix": 1755545400000
-  },
-  {
     "title": "Hill Collective",
     "date": "Tue, 19 Aug 2025",
     "venue": "Green Door Store",
@@ -236,6 +222,13 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-drowns-september-tour-2025/event/z47p",
     "dateUnix": 1756944000000
+  },
+  {
+    "title": "Nagasaki Dog + The Wrong Trousers + Gutterfly + Flavours",
+    "date": "5th September 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/nagasaki-dog-the-wrong-trousers-gutterfly-flavours/",
+    "dateUnix": 1757098800000
   },
   {
     "title": "Fleetwood Bac",
