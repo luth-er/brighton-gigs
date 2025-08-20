@@ -1,12 +1,5 @@
 [
   {
-    "title": "Hill Collective",
-    "date": "Tue, 19 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/hill-collective/",
-    "dateUnix": 1755561600000
-  },
-  {
     "title": "BABYTEETH",
     "date": "Wed, 20 Aug 2025",
     "venue": "Green Door Store",
@@ -173,6 +166,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/brighton-psych-fest-2/",
     "dateUnix": 1756476000000
+  },
+  {
+    "title": "Doomsday",
+    "date": "Sat, 30 Aug 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/doomsday/",
+    "dateUnix": 1756512000000
   },
   {
     "title": "It Is Still 1985",
@@ -812,6 +812,13 @@
     "dateUnix": 1761350400000
   },
   {
+    "title": "Orange Skies",
+    "date": "Saturday 25th October, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/673726",
+    "dateUnix": 1761350400000
+  },
+  {
     "title": "LollapaGOOza 3",
     "date": "25th October 2025 - 1:00 pm",
     "venue": "Hope & Ruin",
@@ -1295,10 +1302,10 @@
     "dateUnix": 1773446400000
   },
   {
-    "title": "LOVE Revisited",
-    "date": "01 MAY 2026",
+    "title": "The Cribs",
+    "date": "28 MAR 2026",
     "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/love-revisited-uk-tour-2026/event/8otrr",
-    "dateUnix": 1777593600000
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-cribs-march-2026/event/8ozme",
+    "dateUnix": 1774656000000
   }
 ]
