@@ -1,19 +1,5 @@
 [
   {
-    "title": "BABYTEETH",
-    "date": "Wed, 20 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/babyteeth/",
-    "dateUnix": 1755648000000
-  },
-  {
-    "title": "The Gulls",
-    "date": "20th August 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-gulls/",
-    "dateUnix": 1755718200000
-  },
-  {
     "title": "Mirepoix",
     "date": "Thu, 21 Aug 2025",
     "venue": "Green Door Store",
@@ -49,7 +35,7 @@
     "dateUnix": 1755820800000
   },
   {
-    "title": "Peach Season + M. Woodroe + Aeternum",
+    "title": "Peach Season + M. Woodroe + Aeternum + Frances Murray",
     "date": "22nd August 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/peach-season-m-woodroe-aeternum/",
@@ -210,6 +196,13 @@
     "dateUnix": 1756684800000
   },
   {
+    "title": "Gans",
+    "date": "Tue, 2 Sep 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/gans/",
+    "dateUnix": 1756771200000
+  },
+  {
     "title": "George Clanton",
     "date": "04 SEP 2025",
     "venue": "Chalk",
@@ -222,6 +215,13 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-drowns-september-tour-2025/event/z47p",
     "dateUnix": 1756944000000
+  },
+  {
+    "title": "ONES 2 WATCH: WINDOWHEAD + CARNE + IVEBEENEATINGFRUIT",
+    "date": "4th September 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/ones-2-watch-windowhead-carne-ivebeeneatingfruit/",
+    "dateUnix": 1757014200000
   },
   {
     "title": "Nagasaki Dog + The Wrong Trousers + Gutterfly + Flavours",
@@ -420,6 +420,13 @@
     "dateUnix": 1758396600000
   },
   {
+    "title": "Gloma + Mashed + Seethe + Sunlifter *FREE ENTRY*",
+    "date": "21st September 2025 - 6:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/gloma-mashed-seethe-sunlifter-free-entry/",
+    "dateUnix": 1758477600000
+  },
+  {
     "title": "Nathan O'Regan",
     "date": "23 SEP 2025",
     "venue": "Prince Albert",
@@ -502,6 +509,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/vestia-support/",
     "dateUnix": 1759086000000
+  },
+  {
+    "title": "The Monday Smile + Moth + Sunlifter + Insectus",
+    "date": "29th September 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-monday-smile-moth-sunlifter-insectus/",
+    "dateUnix": 1759172400000
   },
   {
     "title": "Overpass",
@@ -620,6 +634,13 @@
     "date": "11 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/syml-the-nobody-lives-here-tour/event/zf9f",
+    "dateUnix": 1760140800000
+  },
+  {
+    "title": "End Times Present: Nagasaki Dog • Claw Machine • Your Majesty",
+    "date": "Saturday 11th October, 2025",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/673840",
     "dateUnix": 1760140800000
   },
   {
