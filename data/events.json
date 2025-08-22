@@ -1,19 +1,5 @@
 [
   {
-    "title": "Mirepoix",
-    "date": "Thu, 21 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/mirepoix/",
-    "dateUnix": 1755734400000
-  },
-  {
-    "title": "CLUBHEADS ALBUM RELEASE SHOW",
-    "date": "21st August 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/clubheads-album-release-show/",
-    "dateUnix": 1755802800000
-  },
-  {
     "title": "Witchrot",
     "date": "Fri, 22 Aug 2025",
     "venue": "Green Door Store",
@@ -61,6 +47,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/bootlicker-draumar-second-death-bomb/",
     "dateUnix": 1755975600000
+  },
+  {
+    "title": "¡SONIDO SABROSO! *FREE ENTRY*",
+    "date": "23rd August 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/sonido-sabroso-free-entry/",
+    "dateUnix": 1755979200000
   },
   {
     "title": "Smokin Bones Club presents Noise & Order: Petbrick + more",
@@ -201,6 +194,13 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/gans/",
     "dateUnix": 1756771200000
+  },
+  {
+    "title": "Ever Elysian",
+    "date": "Wed, 3 Sep 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/ever-elysian/",
+    "dateUnix": 1756857600000
   },
   {
     "title": "George Clanton",
@@ -1246,6 +1246,13 @@
     "dateUnix": 1766188800000
   },
   {
+    "title": "Bad Manners",
+    "date": "21 DEC 2025",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/bad-manners-50th-anniversary-tour/event/88okv",
+    "dateUnix": 1766275200000
+  },
+  {
     "title": "The Marley Experience",
     "date": "23 DEC 2025",
     "venue": "Concorde 2",
@@ -1321,12 +1328,5 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-feeling-twelve-stops-and-home-anniversary-tour/event/8otsn",
     "dateUnix": 1773446400000
-  },
-  {
-    "title": "The Cribs",
-    "date": "28 MAR 2026",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-cribs-march-2026/event/8ozme",
-    "dateUnix": 1774656000000
   }
 ]
