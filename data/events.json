@@ -1,31 +1,10 @@
 [
   {
-    "title": "Witchrot",
-    "date": "Fri, 22 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/witchrot/",
-    "dateUnix": 1755820800000
-  },
-  {
     "title": "that’s f***ing rubbish: monkeys vs gorillaz",
     "date": "Fri, 22 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-2/",
     "dateUnix": 1755820800000
-  },
-  {
-    "title": "The Jam'd",
-    "date": "22 AUG 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-jamd-brighton-bank-holiday-friday-jam-special/event/zxex",
-    "dateUnix": 1755820800000
-  },
-  {
-    "title": "Peach Season + M. Woodroe + Aeternum + Frances Murray",
-    "date": "22nd August 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/peach-season-m-woodroe-aeternum/",
-    "dateUnix": 1755891000000
   },
   {
     "title": "It Is Still 1985",
@@ -201,6 +180,13 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/ever-elysian/",
     "dateUnix": 1756857600000
+  },
+  {
+    "title": "Max Adriaan",
+    "date": "Thu, 4 Sep 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/max-adriaan/",
+    "dateUnix": 1756944000000
   },
   {
     "title": "George Clanton",
@@ -777,6 +763,13 @@
     "dateUnix": 1760918400000
   },
   {
+    "title": "Michael Aldag",
+    "date": "20th October 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/michael-aldag/",
+    "dateUnix": 1760988600000
+  },
+  {
     "title": "Heavy Lungs",
     "date": "22 OCT 2025",
     "venue": "Prince Albert",
@@ -882,7 +875,7 @@
     "dateUnix": 1761955200000
   },
   {
-    "title": "Scott Lavene + MC Pumpkin",
+    "title": "Scott Lavene + LC Pumpkin",
     "date": "1st November 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/scott-lavene-mc-pumpkin/",
@@ -950,6 +943,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/metallica-reloaded/event/zx3f",
     "dateUnix": 1762560000000
+  },
+  {
+    "title": "Vigilantes",
+    "date": "09 NOV 2025",
+    "venue": "Prince Albert",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/vigilantes-golden-record-tour/event/88ovf",
+    "dateUnix": 1762646400000
   },
   {
     "title": "Willie J Healey",
@@ -1328,5 +1328,12 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-feeling-twelve-stops-and-home-anniversary-tour/event/8otsn",
     "dateUnix": 1773446400000
+  },
+  {
+    "title": "The Cribs",
+    "date": "28 MAR 2026",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-cribs-march-2026/event/8ozme",
+    "dateUnix": 1774656000000
   }
 ]
