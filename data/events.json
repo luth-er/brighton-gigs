@@ -1,38 +1,10 @@
 [
   {
-    "title": "that’s f***ing rubbish: monkeys vs gorillaz",
-    "date": "Fri, 22 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-2/",
-    "dateUnix": 1755820800000
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 23 Aug 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-8/",
     "dateUnix": 1755907200000
-  },
-  {
-    "title": "Small Fakers",
-    "date": "23 AUG 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton/small-fakers-brighton-bank-holiday-60s-mod-special/event/zxwp",
-    "dateUnix": 1755907200000
-  },
-  {
-    "title": "Bootlicker + Draümar + Second Death + Bomb",
-    "date": "23rd August 2025 - 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/bootlicker-draumar-second-death-bomb/",
-    "dateUnix": 1755975600000
-  },
-  {
-    "title": "¡SONIDO SABROSO! *FREE ENTRY*",
-    "date": "23rd August 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/sonido-sabroso-free-entry/",
-    "dateUnix": 1755979200000
   },
   {
     "title": "Smokin Bones Club presents Noise & Order: Petbrick + more",
@@ -208,6 +180,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/ones-2-watch-windowhead-carne-ivebeeneatingfruit/",
     "dateUnix": 1757014200000
+  },
+  {
+    "title": "HIRS",
+    "date": "Fri, 5 Sep 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/hirs/",
+    "dateUnix": 1757030400000
   },
   {
     "title": "Nagasaki Dog + The Wrong Trousers + Gutterfly + Flavours",
