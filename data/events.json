@@ -1,33 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 23 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-8/",
-    "dateUnix": 1755907200000
-  },
-  {
-    "title": "Smokin Bones Club presents Noise & Order: Petbrick + more",
-    "date": "Sun, 24 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/smokin-bones-club-presents-noise-order-petbrick-more/",
-    "dateUnix": 1755993600000
-  },
-  {
-    "title": "Greg Wilson",
-    "date": "24 AUG 2025",
-    "venue": "Concorde 2",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/greg-wilson/event/zxew",
-    "dateUnix": 1755993600000
-  },
-  {
-    "title": "The Glitterbombs",
-    "date": "24th August 2025 - 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-glitterbombs/",
-    "dateUnix": 1756065600000
-  },
-  {
     "title": "Pub Choir",
     "date": "25 AUG 2025",
     "venue": "Concorde 2",
@@ -189,11 +161,25 @@
     "dateUnix": 1757030400000
   },
   {
+    "title": "90s vs 00s",
+    "date": "Fri, 5 Sep 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s/",
+    "dateUnix": 1757030400000
+  },
+  {
     "title": "Nagasaki Dog + The Wrong Trousers + Gutterfly + Flavours",
     "date": "5th September 2025 - 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/nagasaki-dog-the-wrong-trousers-gutterfly-flavours/",
     "dateUnix": 1757098800000
+  },
+  {
+    "title": "KVLL COLONISERS: FLORALIS ALBUM RELEASE",
+    "date": "Sat, 6 Sep 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/floralis-album-release-show/",
+    "dateUnix": 1757116800000
   },
   {
     "title": "Fleetwood Bac",
@@ -1134,6 +1120,13 @@
     "dateUnix": 1764892800000
   },
   {
+    "title": "Andy Crofts live in Brighton",
+    "date": "Friday 5th December, 2025",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/674190",
+    "dateUnix": 1764892800000
+  },
+  {
     "title": "Wheatus",
     "date": "06 DEC 2025",
     "venue": "Chalk",
@@ -1314,5 +1307,12 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-cribs-march-2026/event/8ozme",
     "dateUnix": 1774656000000
+  },
+  {
+    "title": "LOVE Revisited",
+    "date": "01 MAY 2026",
+    "venue": "Concorde 2",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/love-revisited-uk-tour-2026/event/8otrr",
+    "dateUnix": 1777593600000
   }
 ]
