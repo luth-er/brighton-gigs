@@ -308,6 +308,13 @@
     "dateUnix": 1757875500000
   },
   {
+    "title": "Placeholder – Poetry Night",
+    "date": "15th September 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/placeholder-poetry-night-12/",
+    "dateUnix": 1757964600000
+  },
+  {
     "title": "Lowkey",
     "date": "16 SEP 2025",
     "venue": "Chalk",
@@ -896,11 +903,25 @@
     "dateUnix": 1762473600000
   },
   {
+    "title": "Mutations Festival 2025 – Friday",
+    "date": "7th November 2025 - 5:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/mutations-festival-2025-friday/",
+    "dateUnix": 1762534800000
+  },
+  {
     "title": "Metallica Reloaded",
     "date": "08 NOV 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/metallica-reloaded/event/zx3f",
     "dateUnix": 1762560000000
+  },
+  {
+    "title": "Mutations Festival 2025 – Saturday",
+    "date": "8th November 2025 - 5:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/mutations-festival-2025-saturday/",
+    "dateUnix": 1762621200000
   },
   {
     "title": "Vigilantes",
