@@ -1,19 +1,5 @@
 [
   {
-    "title": "Gag Salon",
-    "date": "Wed, 27 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/gag-salon/",
-    "dateUnix": 1756252800000
-  },
-  {
-    "title": "Chase Petra",
-    "date": "27th August 2025 - 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/chase-petra/",
-    "dateUnix": 1756323000000
-  },
-  {
     "title": "Le Lamb",
     "date": "Thu, 28 Aug 2025",
     "venue": "Green Door Store",
@@ -172,6 +158,13 @@
     "date": "Sat, 6 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/floralis-album-release-show/",
+    "dateUnix": 1757116800000
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 6 Sep 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985/",
     "dateUnix": 1757116800000
   },
   {
@@ -420,6 +413,13 @@
     "dateUnix": 1758828600000
   },
   {
+    "title": "Daffodils + Dura Mater + Divorce Attorney + Nel Blu",
+    "date": "26th September 2025 - 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/daffodils-dura-mater-divorce-attorney-nel-blu/",
+    "dateUnix": 1758913200000
+  },
+  {
     "title": "Dirty DC",
     "date": "27 SEP 2025",
     "venue": "Concorde 2",
@@ -467,6 +467,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-monday-smile-moth-sunlifter-insectus/",
     "dateUnix": 1759172400000
+  },
+  {
+    "title": "The Stealers *FREE ENTRY*",
+    "date": "30th September 2025 - 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-stealers-free-entry/",
+    "dateUnix": 1759262400000
   },
   {
     "title": "Overpass",
@@ -732,6 +739,13 @@
     "date": "20th October 2025 - 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/michael-aldag/",
+    "dateUnix": 1760988600000
+  },
+  {
+    "title": "Michael Aldag + Support",
+    "date": "20th October 2025 - 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/michael-aldag-support/",
     "dateUnix": 1760988600000
   },
   {
@@ -1043,6 +1057,13 @@
     "dateUnix": 1763769600000
   },
   {
+    "title": "The Roz Bruce Infusion",
+    "date": "Saturday 22nd November, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/674513",
+    "dateUnix": 1763769600000
+  },
+  {
     "title": "Poly-Math",
     "date": "22nd November 2025 - 8:00 pm",
     "venue": "Hope & Ruin",
@@ -1279,6 +1300,13 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/saturdays-at-your-place/",
     "dateUnix": 1769887800000
+  },
+  {
+    "title": "VUKOVI",
+    "date": "04 FEB 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/vukovi-mghgag-tour-part-2/event/8888v",
+    "dateUnix": 1770163200000
   },
   {
     "title": "Fozzy",
