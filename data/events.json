@@ -1,12 +1,5 @@
 [
   {
-    "title": "Brighton Psych Fest!",
-    "date": "Fri, 29 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/brighton-psych-fest/",
-    "dateUnix": 1756425600000
-  },
-  {
     "title": "i f***ing h8 clubbing",
     "date": "Fri, 29 Aug 2025",
     "venue": "Green Door Store",
@@ -152,6 +145,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/night-verses-europe-and-uk-headline-tour-2025/event/zski",
     "dateUnix": 1757289600000
+  },
+  {
+    "title": "Food House",
+    "date": "Tue, 9 Sep 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/food-house/",
+    "dateUnix": 1757376000000
   },
   {
     "title": "Flyte",
@@ -567,6 +567,13 @@
     "dateUnix": 1761955200000
   },
   {
+    "title": "Capsula",
+    "date": "Saturday 1st November, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/674274",
+    "dateUnix": 1761955200000
+  },
+  {
     "title": "Amenra",
     "date": "03 NOV 2025",
     "venue": "Chalk",
@@ -959,13 +966,6 @@
     "dateUnix": 1777593600000
   },
   {
-    "title": "Brighton Psych Fest",
-    "date": "29th August 2025 at 4:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/brighton-psych-fest-2/",
-    "dateUnix": null
-  },
-  {
     "title": "CTRL ALT DEL: ALL DAY ALL NIGHT",
     "date": "30th August 2025 at 5:00 pm",
     "venue": "Hope & Ruin",
@@ -1222,6 +1222,13 @@
     "date": "25th October 2025 at 1:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/lollapagooza-3/",
+    "dateUnix": null
+  },
+  {
+    "title": "The Now",
+    "date": "29th October 2025 at 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-now/",
     "dateUnix": null
   },
   {
