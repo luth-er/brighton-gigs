@@ -6,6 +6,9 @@
   "type": "module",
   "scripts": {
     "start": "node src/scraper.js",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:coverage": "vitest run --coverage",
     "lint": "npm run lint:js && npm run lint:css && npm run lint:html",
     "lint:js": "eslint src/**/*.js --config config/eslint.config.js",
     "lint:css": "stylelint \"src/css/**/*.css\"",
@@ -25,11 +28,18 @@
     "husky": "^9.1.7",
     "lint-staged": "^16.1.0",
     "stylelint": "^16.20.0",
-    "stylelint-config-standard": "^38.0.0"
+    "stylelint-config-standard": "^38.0.0",
+    "vitest": "^2.1.9"
   },
   "lint-staged": {
-    "src/**/*.js": ["eslint --config config/eslint.config.js --fix"],
-    "src/css/**/*.css": ["stylelint --fix"],
-    "*.html": ["htmlhint"]
+    "src/**/*.js": [
+      "eslint --config config/eslint.config.js --fix"
+    ],
+    "src/css/**/*.css": [
+      "stylelint --fix"
+    ],
+    "*.html": [
+      "htmlhint"
+    ]
   }
 }

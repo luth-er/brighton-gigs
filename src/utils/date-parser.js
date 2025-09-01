@@ -85,8 +85,8 @@ const toUnixTimestamp = (input) => {
       };
       
       // ---- PATTERN 1: DATES WITH ORDINALS AND TIME ----
-      // Examples: "31st October 2024 - 7:30 pm", "7th November 2024 - 8:00 pm"
-      const ordinalDateTimePattern = /^(?<day>\d{1,2})(?:st|nd|rd|th)\s+(?<monthName>[A-Za-z]+)\s+(?<year>\d{4})\s*[-–—]\s*(?<hour>\d{1,2}):(?<minute>\d{2})\s*(?<meridiem>am|pm)$/i;
+      // Examples: "31st October 2024 - 7:30 pm", "7th November 2024 - 8:00 pm", "5th September 2025 at 7:00 pm"
+      const ordinalDateTimePattern = /^(?<day>\d{1,2})(?:st|nd|rd|th)\s+(?<monthName>[A-Za-z]+)\s+(?<year>\d{4})\s*(?:[-–—]|at)\s*(?<hour>\d{1,2}):(?<minute>\d{2})\s*(?<meridiem>am|pm)$/i;
       const ordinalMatch = input.match(ordinalDateTimePattern);
       if (ordinalMatch) {
         const result = parseResult(ordinalMatch, ordinalMatch.groups.monthName);

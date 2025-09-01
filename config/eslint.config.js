@@ -11,7 +11,8 @@ export default [
         process: 'readonly',
         fetch: 'readonly',
         document: 'readonly',
-        window: 'readonly'
+        window: 'readonly',
+        URL: 'readonly'
       }
     },
     rules: {

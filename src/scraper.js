@@ -2,6 +2,7 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 import fs from 'fs/promises';
 import toUnixTimestamp from './utils/date-parser.js';
+import { validateEvents } from './utils/data-validator.js';
 
 const parseEventDate = (date, eventTitle) => {
   try {
@@ -12,45 +13,74 @@ const parseEventDate = (date, eventTitle) => {
   }
 };
 
-const fetchAndParseHTML = async (url) => {
-  const { data } = await axios.get(url);
-  return cheerio.load(data);
+const fetchAndParseHTML = async (url, timeout = 10000) => {
+  try {
+    const { data } = await axios.get(url, { timeout });
+    return cheerio.load(data);
+  } catch (error) {
+    if (error.code === 'ECONNABORTED') {
+      throw new Error(`Request timeout (${timeout}ms) for ${url}`);
+    }
+    throw new Error(`Failed to fetch ${url}: ${error.message}`);
+  }
 };
 
 const scrapeSites = async () => {
   const allEvents = [];
+  const scrapeStats = {
+    successful: 0,
+    failed: 0,
+    venues: {}
+  };
 
-  // Hope & Ruin
-  const hopeRuinEvents = await scrapeHopeRuin();
-  allEvents.push(...hopeRuinEvents);
+  const venues = [
+    { name: 'Hope & Ruin', scraper: scrapeHopeRuin },
+    { name: 'Green Door Store', scraper: scrapeGreenDoor },
+    { name: 'Concorde 2', scraper: scrapeConcordeTwo },
+    { name: 'Chalk', scraper: scrapeChalk },
+    { name: 'Folklore Rooms', scraper: scrapeFolkloreRooms },
+    { name: 'Prince Albert', scraper: scrapePrinceAlbert },
+    { name: 'Pipeline', scraper: scrapePipeline }
+  ];
 
-  // Green Door Store
-  const greenDoorEvents = await scrapeGreenDoor();
-  allEvents.push(...greenDoorEvents);
-
-  // Concorde 2
-  const concordeTwoEvents = await scrapeConcordeTwo();
-  allEvents.push(...concordeTwoEvents);
-
-  // Chalk
-  const chalkEvents = await scrapeChalk();
-  allEvents.push(...chalkEvents);
-
-  // Patterns
-  // const patternsEvents = await scrapePatterns();
-  // allEvents.push(...patternsEvents);
-
-  // Folklore Rooms
-  const folkloreRoomsEvents = await scrapeFolkloreRooms();
-  allEvents.push(...folkloreRoomsEvents);
-
-  // Prince Albert
-  const princeAlbertEvents = await scrapePrinceAlbert();
-  allEvents.push(...princeAlbertEvents);
-
-  // Pipeline
-  const pipelineEvents = await scrapePipeline();
-  allEvents.push(...pipelineEvents);
+  // Process each venue with error isolation
+  for (const venue of venues) {
+    try {
+      console.log(`Scraping ${venue.name}...`);
+      const rawEvents = await venue.scraper();
+      
+      if (rawEvents && rawEvents.length > 0) {
+        // Validate events
+        const validation = validateEvents(rawEvents);
+        
+        if (validation.valid.length > 0) {
+          allEvents.push(...validation.valid);
+        }
+        
+        scrapeStats.successful++;
+        scrapeStats.venues[venue.name] = { 
+          status: 'success', 
+          events: validation.valid.length,
+          invalidEvents: validation.invalid.length,
+          rawEvents: rawEvents.length,
+          validationErrors: validation.stats.errors
+        };
+        
+        console.log(`✓ ${venue.name}: ${validation.valid.length}/${rawEvents.length} valid events`);
+        
+        if (validation.invalid.length > 0) {
+          console.log(`  ⚠ ${validation.invalid.length} events failed validation`);
+        }
+      } else {
+        scrapeStats.venues[venue.name] = { status: 'no_events', events: 0 };
+        console.log(`⚠ ${venue.name}: No events found`);
+      }
+    } catch (error) {
+      scrapeStats.failed++;
+      scrapeStats.venues[venue.name] = { status: 'error', error: error.message, events: 0 };
+      console.error(`✗ ${venue.name} failed: ${error.message}`);
+    }
+  }
   
   // Add more venues as needed...
 
@@ -64,8 +94,21 @@ const scrapeSites = async () => {
 
   // Write all events to a JSON file
   await fs.writeFile('./data/events.json', JSON.stringify(allEvents, null, 2));
+  
+  // Write scraping statistics
+  await fs.writeFile('./data/scrape-stats.json', JSON.stringify({
+    timestamp: new Date().toISOString(),
+    totalEvents: allEvents.length,
+    nullDates: allEvents.filter(e => e.dateUnix === null).length,
+    ...scrapeStats
+  }, null, 2));
 
-  console.log('Data has been written to events.json');
+  console.log(`\n=== Scraping Summary ===`);
+  console.log(`Total events: ${allEvents.length}`);
+  console.log(`Successful venues: ${scrapeStats.successful}`);
+  console.log(`Failed venues: ${scrapeStats.failed}`);
+  console.log(`Events with parsing issues: ${allEvents.filter(e => e.dateUnix === null).length}`);
+  console.log('Data written to events.json and scrape-stats.json');
 };
 
 // Scrape Hope & Ruin

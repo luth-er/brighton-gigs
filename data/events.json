@@ -1,542 +1,787 @@
 [
   {
-    "title": "Greg Freeman",
-    "date": "01 SEP 2025",
-    "venue": "Prince Albert",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/greg-freeman-burnover-tour/event/8op8b",
-    "dateUnix": 1756684800000
-  },
-  {
     "title": "Gans",
     "date": "Tue, 2 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/gans/",
-    "dateUnix": 1756771200000
+    "dateUnix": 1756767600000
   },
   {
     "title": "Ever Elysian",
     "date": "Wed, 3 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/ever-elysian/",
-    "dateUnix": 1756857600000
+    "dateUnix": 1756854000000
   },
   {
     "title": "Max Adriaan",
     "date": "Thu, 4 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/max-adriaan/",
-    "dateUnix": 1756944000000
+    "dateUnix": 1756940400000
   },
   {
     "title": "George Clanton",
     "date": "04 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/george-clanton-euro-invasion-tour/event/zah7",
-    "dateUnix": 1756944000000
+    "dateUnix": 1756940400000
   },
   {
     "title": "The Drowns",
     "date": "04 SEP 2025",
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-drowns-september-tour-2025/event/z47p",
-    "dateUnix": 1756944000000
+    "dateUnix": 1756940400000
+  },
+  {
+    "title": "ONES 2 WATCH: WINDOWHEAD + CARNE + IVEBEENEATINGFRUIT",
+    "date": "4th September 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/ones-2-watch-windowhead-carne-ivebeeneatingfruit/",
+    "dateUnix": 1757010600000
   },
   {
     "title": "HIRS",
     "date": "Fri, 5 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/hirs/",
-    "dateUnix": 1757030400000
+    "dateUnix": 1757026800000
   },
   {
     "title": "90s vs 00s",
     "date": "Fri, 5 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s/",
-    "dateUnix": 1757030400000
+    "dateUnix": 1757026800000
+  },
+  {
+    "title": "Nagasaki Dog + The Wrong Trousers + Gutterfly + Flavours",
+    "date": "5th September 2025 at 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/nagasaki-dog-the-wrong-trousers-gutterfly-flavours/",
+    "dateUnix": 1757095200000
   },
   {
     "title": "KVLL COLONISERS: FLORALIS ALBUM RELEASE",
     "date": "Sat, 6 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/floralis-album-release-show/",
-    "dateUnix": 1757116800000
+    "dateUnix": 1757113200000
   },
   {
     "title": "It Is Still 1985",
     "date": "Sat, 6 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985/",
-    "dateUnix": 1757116800000
+    "dateUnix": 1757113200000
   },
   {
     "title": "Fleetwood Bac",
     "date": "06 SEP 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/fleetwood-bac/event/8owp7",
-    "dateUnix": 1757116800000
+    "dateUnix": 1757113200000
   },
   {
     "title": "Throwing Muses",
     "date": "06 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/throwing-muses-2025-tour/event/qzfd",
-    "dateUnix": 1757116800000
+    "dateUnix": 1757113200000
   },
   {
     "title": "Picky New Promotions present SWALLOWTAIL",
     "date": "Saturday 6th September, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/666663",
-    "dateUnix": 1757116800000
+    "dateUnix": 1757113200000
+  },
+  {
+    "title": "really big really clever + jar of blind flies + prom + had sandy",
+    "date": "6th September 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/really-big-really-clever/",
+    "dateUnix": 1757183400000
   },
   {
     "title": "Dutch Interior",
     "date": "Sun, 7 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/dutch-interior/",
-    "dateUnix": 1757203200000
+    "dateUnix": 1757199600000
   },
   {
     "title": "Fun Lovin' Criminals",
     "date": "07 SEP 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/fun-lovin-criminals-a-matter-of-time-tour-2025/event/zco7",
-    "dateUnix": 1757203200000
+    "dateUnix": 1757199600000
   },
   {
     "title": "Daddy Long Legs",
     "date": "07 SEP 2025",
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/daddy-long-legs-ukie-tour-2025/event/8on98",
-    "dateUnix": 1757203200000
+    "dateUnix": 1757199600000
   },
   {
     "title": "Night Verses",
     "date": "08 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/night-verses-europe-and-uk-headline-tour-2025/event/zski",
-    "dateUnix": 1757289600000
+    "dateUnix": 1757286000000
   },
   {
     "title": "Food House",
     "date": "Tue, 9 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/food-house/",
-    "dateUnix": 1757376000000
+    "dateUnix": 1757372400000
   },
   {
     "title": "Flyte",
     "date": "10 SEP 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/flyte-between-you-and-me-tour/event/8oomp",
-    "dateUnix": 1757462400000
+    "dateUnix": 1757458800000
   },
   {
     "title": "Blondshell",
     "date": "10 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/blondshell-if-you-asked-for-a-tour/event/z64r",
-    "dateUnix": 1757462400000
+    "dateUnix": 1757458800000
+  },
+  {
+    "title": "Japanese Television + Radio Anorak + MAGDA + more",
+    "date": "10th September 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/japanese-television-radio-anorak-magda-more/",
+    "dateUnix": 1757529000000
   },
   {
     "title": "Genitorturers",
     "date": "11 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/genitorturers-scars-and-stripes-tour/event/8ovhv",
-    "dateUnix": 1757548800000
+    "dateUnix": 1757545200000
+  },
+  {
+    "title": "ACOPIA + Support",
+    "date": "11th September 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/acopia-support/",
+    "dateUnix": 1757617200000
   },
   {
     "title": "Telecom",
     "date": "Fri, 12 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/telecom/",
-    "dateUnix": 1757635200000
+    "dateUnix": 1757631600000
   },
   {
     "title": "i f***ing h8 clubbing",
     "date": "Fri, 12 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing/",
-    "dateUnix": 1757635200000
+    "dateUnix": 1757631600000
   },
   {
     "title": "Emo Fest",
     "date": "12 SEP 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/emo-fest/event/zx3i",
-    "dateUnix": 1757635200000
+    "dateUnix": 1757631600000
   },
   {
     "title": "The Kopycat Killers",
     "date": "12 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-kopycat-killers/event/zxwy",
-    "dateUnix": 1757635200000
+    "dateUnix": 1757631600000
   },
   {
     "title": "Omega Tribe",
     "date": "Friday 12th September, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/671176",
-    "dateUnix": 1757635200000
+    "dateUnix": 1757631600000
+  },
+  {
+    "title": "Fortitude Valley + Support",
+    "date": "12th September 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/fortitude-valley-support/",
+    "dateUnix": 1757701800000
   },
   {
     "title": "*LOW TICKETS* Far Caspian",
     "date": "Sat, 13 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/far-caspian/",
-    "dateUnix": 1757721600000
+    "dateUnix": 1757718000000
   },
   {
     "title": "Armor For Sleep",
     "date": "13 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/armor-for-sleep-what-to-do-when-you-are-dead/event/8ohd4",
-    "dateUnix": 1757721600000
+    "dateUnix": 1757718000000
+  },
+  {
+    "title": "Senser *SOLD OUT*",
+    "date": "13th September 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/senser/",
+    "dateUnix": 1757788200000
+  },
+  {
+    "title": "Dance Myth",
+    "date": "14th September 2025 at 6:45 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/dance-myth/",
+    "dateUnix": 1757871900000
+  },
+  {
+    "title": "Placeholder – Poetry Night",
+    "date": "15th September 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/placeholder-poetry-night-12/",
+    "dateUnix": 1757961000000
   },
   {
     "title": "Lowkey",
     "date": "16 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/lowkey-soundtrack-to-the-struggle-3-tour-september-2/event/zxcw",
-    "dateUnix": 1757980800000
+    "dateUnix": 1757977200000
   },
   {
     "title": "SHAKE SOME ACTON #113.( Brighton Edition). TEO WISE, FAMILY OF STRANGERS,FEROX FUCKING FEROX.",
     "date": "Tuesday 16th September, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/671423",
-    "dateUnix": 1757980800000
+    "dateUnix": 1757977200000
+  },
+  {
+    "title": "Ziggy Alberts",
+    "date": "17 SEP 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton/ziggy-alberts-new-love-tour/event/zfda",
+    "dateUnix": 1758063600000
   },
   {
     "title": "Filkin's Drift",
     "date": "Thursday 18th September, 2025",
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/656465",
-    "dateUnix": 1758153600000
+    "dateUnix": 1758150000000
   },
   {
     "title": "One Night in Nashville",
     "date": "19 SEP 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/one-night-in-nashville/event/zx3j",
-    "dateUnix": 1758240000000
+    "dateUnix": 1758236400000
   },
   {
     "title": "PINS",
     "date": "19 SEP 2025",
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/pins-10th-anniversary-tour-2025/event/z3kt",
-    "dateUnix": 1758240000000
+    "dateUnix": 1758236400000
+  },
+  {
+    "title": "Ramona Marx",
+    "date": "19th September 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/ramona-marx/",
+    "dateUnix": 1758306600000
   },
   {
     "title": "The Guns N Roses Experience",
     "date": "20 SEP 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-guns-n-roses-experience/event/zx3n",
-    "dateUnix": 1758326400000
+    "dateUnix": 1758322800000
+  },
+  {
+    "title": "First Time Flyers + Support",
+    "date": "20th September 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/first-time-flyers-support/",
+    "dateUnix": 1758393000000
+  },
+  {
+    "title": "Gloma + Mashed + Seethe + Sunlifter *FREE ENTRY*",
+    "date": "21st September 2025 at 6:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/gloma-mashed-seethe-sunlifter-free-entry/",
+    "dateUnix": 1758474000000
   },
   {
     "title": "Nathan O'Regan",
     "date": "23 SEP 2025",
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nathan-oregan-the-olive-branch-tour/event/z3xk",
-    "dateUnix": 1758585600000
+    "dateUnix": 1758582000000
+  },
+  {
+    "title": "Whitney K",
+    "date": "23rd September 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/whitney-k/",
+    "dateUnix": 1758652200000
   },
   {
     "title": "Sleeper",
     "date": "24 SEP 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sleeper-inbetweener-tour-2025/event/zeyz",
-    "dateUnix": 1758672000000
+    "dateUnix": 1758668400000
+  },
+  {
+    "title": "Dez Dare + Lunar Dirt + Lipworms",
+    "date": "24th September 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/dez-dare-lunar-dirt/",
+    "dateUnix": 1758738600000
   },
   {
     "title": "Florence Black",
     "date": "25 SEP 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/florence-black-uk-and-ireland-headline-tour/event/zrrp",
-    "dateUnix": 1758758400000
+    "dateUnix": 1758754800000
+  },
+  {
+    "title": "LA Witch",
+    "date": "25th September 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/la-witch/",
+    "dateUnix": 1758825000000
+  },
+  {
+    "title": "Daffodils + Dura Mater + Divorce Attorney + Nel Blu",
+    "date": "26th September 2025 at 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/daffodils-dura-mater-divorce-attorney-nel-blu/",
+    "dateUnix": 1758909600000
   },
   {
     "title": "Dirty DC",
     "date": "27 SEP 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/dirty-dc/event/zx3h",
-    "dateUnix": 1758931200000
+    "dateUnix": 1758927600000
   },
   {
     "title": "The Beths",
     "date": "27 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-beths-uk-and-eu-and-north-america-tour/event/8opxp",
-    "dateUnix": 1758931200000
+    "dateUnix": 1758927600000
   },
   {
     "title": "Absinthe Green",
     "date": "Saturday 27th September, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/658459",
-    "dateUnix": 1758931200000
+    "dateUnix": 1758927600000
+  },
+  {
+    "title": "Harker + Regal Cheer + mydiary.",
+    "date": "27th September 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/harker-regal-cheer-mydiary/",
+    "dateUnix": 1758999600000
   },
   {
     "title": "Billy Nomates",
     "date": "28 SEP 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/billy-nomates-2025-uk-tour/event/8oord",
-    "dateUnix": 1759017600000
+    "dateUnix": 1759014000000
+  },
+  {
+    "title": "Vestia + Support",
+    "date": "28th September 2025 at 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/vestia-support/",
+    "dateUnix": 1759082400000
+  },
+  {
+    "title": "The Monday Smile + Moth + Sunlifter + Insectus",
+    "date": "29th September 2025 at 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-monday-smile-moth-sunlifter-insectus/",
+    "dateUnix": 1759168800000
+  },
+  {
+    "title": "The Stealers *FREE ENTRY*",
+    "date": "30th September 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-stealers-free-entry/",
+    "dateUnix": 1759258800000
   },
   {
     "title": "Overpass",
     "date": "02 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/overpass-uk-and-eu-tour-2025/event/8op9y",
-    "dateUnix": 1759363200000
+    "dateUnix": 1759359600000
   },
   {
     "title": "Theatre of Hate",
     "date": "02 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/theatre-of-hate-25-45th-anniversary-tour/event/qagx",
-    "dateUnix": 1759363200000
+    "dateUnix": 1759359600000
+  },
+  {
+    "title": "14 Iced Bears",
+    "date": "3rd October 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/14-iced-bears/",
+    "dateUnix": 1759516200000
   },
   {
     "title": "Mass of the Fermenting Dregs",
     "date": "04 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/mass-of-the-fermenting-dregs-2025-europe-tour/event/zwot",
-    "dateUnix": 1759536000000
+    "dateUnix": 1759532400000
+  },
+  {
+    "title": "Midnight Rodeo",
+    "date": "4th October 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/midnight-rodeo/",
+    "dateUnix": 1759604400000
+  },
+  {
+    "title": "Psudoku + Call Me Franco + Gurf",
+    "date": "5th October 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/psudoku-call-me-franco-gurf/",
+    "dateUnix": 1759690800000
   },
   {
     "title": "JoJo Siwa",
     "date": "06 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/jojo-siwa-infinity-heart-tour/event/8ocf9",
-    "dateUnix": 1759708800000
+    "dateUnix": 1759705200000
+  },
+  {
+    "title": "CM Wolf and The Backbones",
+    "date": "7th October 2025 at 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/cm-wolf-and-the-backbones/",
+    "dateUnix": 1759860000000
   },
   {
     "title": "Red Rum Club",
     "date": "08 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/red-rum-club-buck-uk-tour/event/8o68s",
-    "dateUnix": 1759881600000
+    "dateUnix": 1759878000000
   },
   {
     "title": "British Birds",
     "date": "08 OCT 2025",
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/british-birds-uk-tour-2025/event/8oe8b",
-    "dateUnix": 1759881600000
+    "dateUnix": 1759878000000
+  },
+  {
+    "title": "Dirty Nice",
+    "date": "8th October 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/dirty-nice/",
+    "dateUnix": 1759948200000
   },
   {
     "title": "The New Eves",
     "date": "09 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-new-eves-the-new-eve-is-rising-uk-tour/event/8omsy",
-    "dateUnix": 1759968000000
+    "dateUnix": 1759964400000
+  },
+  {
+    "title": "Art D’ecco",
+    "date": "9th October 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/art-decco/",
+    "dateUnix": 1760036400000
   },
   {
     "title": "Panic Shack",
     "date": "10 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/panic-shack-ukeu-debut-album-tour-2025/event/8oixn",
-    "dateUnix": 1760054400000
+    "dateUnix": 1760050800000
   },
   {
     "title": "SHAKE SOME ACTON #118. POWER APES , CLUB BRAT , GLITTERBOMBS",
     "date": "Friday 10th October, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/671648",
-    "dateUnix": 1760054400000
+    "dateUnix": 1760050800000
   },
   {
     "title": "Nirvana UK",
     "date": "11 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nirvana-uk/event/zx3y",
-    "dateUnix": 1760140800000
+    "dateUnix": 1760137200000
   },
   {
     "title": "SYML",
     "date": "11 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/syml-the-nobody-lives-here-tour/event/zf9f",
-    "dateUnix": 1760140800000
+    "dateUnix": 1760137200000
   },
   {
     "title": "End Times Present: Nagasaki Dog • Claw Machine • Your Majesty",
     "date": "Saturday 11th October, 2025",
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/673840",
-    "dateUnix": 1760140800000
+    "dateUnix": 1760137200000
   },
   {
     "title": "Gina Larner",
     "date": "11 OCT 2025",
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/gina-larner-on-tour-2025/event/8o3ub",
-    "dateUnix": 1760140800000
+    "dateUnix": 1760137200000
   },
   {
     "title": "DakhaBrakha",
     "date": "12 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/dakhabrakha/event/zxwv",
-    "dateUnix": 1760227200000
+    "dateUnix": 1760223600000
   },
   {
     "title": "The K's",
     "date": "13 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-ks-pretty-on-the-internet-tour/event/8owdc",
-    "dateUnix": 1760313600000
+    "dateUnix": 1760310000000
   },
   {
     "title": "Welly",
     "date": "13 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/welly-2025-uk-tour/event/8o8ty",
-    "dateUnix": 1760313600000
+    "dateUnix": 1760310000000
   },
   {
     "title": "New Model Army",
     "date": "14 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/new-model-army-2025-uk-tour/event/qov3",
-    "dateUnix": 1760400000000
+    "dateUnix": 1760396400000
   },
   {
     "title": "JME",
     "date": "15 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/jme/event/8owf6",
-    "dateUnix": 1760486400000
+    "dateUnix": 1760482800000
+  },
+  {
+    "title": "Long Fling",
+    "date": "15th October 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/long-fling/",
+    "dateUnix": 1760554800000
   },
   {
     "title": "The Royston Club",
     "date": "16 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-royston-club-songs-for-the-spine-tour/event/8onuh",
-    "dateUnix": 1760572800000
+    "dateUnix": 1760569200000
   },
   {
     "title": "Echobelly",
     "date": "17 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/echobelly-on-30th-anniversary-tour/event/zeou",
-    "dateUnix": 1760659200000
+    "dateUnix": 1760655600000
   },
   {
     "title": "Taylor More Swiftly at The Pipeline, Brighton!",
     "date": "Friday 17th October, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/661386",
-    "dateUnix": 1760659200000
+    "dateUnix": 1760655600000
+  },
+  {
+    "title": "Utopia Strong",
+    "date": "17th October 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/utopia-strong/",
+    "dateUnix": 1760727600000
   },
   {
     "title": "Sleeper",
     "date": "18 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sleeper-inbetweener-tour-2025/event/zy2s",
-    "dateUnix": 1760745600000
+    "dateUnix": 1760742000000
   },
   {
     "title": "The Bluetones",
     "date": "18 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-bluetones-uk-tour-2025/event/z3bu",
-    "dateUnix": 1760745600000
+    "dateUnix": 1760742000000
   },
   {
     "title": "Kid Kapichi",
     "date": "19 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/kid-kapichi-uk-underplay-tour/event/8ocfy",
-    "dateUnix": 1760832000000
+    "dateUnix": 1760828400000
   },
   {
     "title": "ADMT",
     "date": "19 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/admt-uk-tour-2025/event/8obit",
-    "dateUnix": 1760832000000
+    "dateUnix": 1760828400000
   },
   {
     "title": "DAIISTAR",
     "date": "19 OCT 2025",
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/daiistar-tour-2025/event/8orgx",
-    "dateUnix": 1760832000000
+    "dateUnix": 1760828400000
+  },
+  {
+    "title": "GLOIN + Support",
+    "date": "19th October 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/gloin-support/",
+    "dateUnix": 1760898600000
   },
   {
     "title": "Pale Waves",
     "date": "20 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/pale-waves-still-smitten-tour/event/8og48",
-    "dateUnix": 1760918400000
+    "dateUnix": 1760914800000
   },
   {
     "title": "Los Fastidios",
     "date": "20 OCT 2025",
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/los-fastidios/event/zjh6",
-    "dateUnix": 1760918400000
+    "dateUnix": 1760914800000
+  },
+  {
+    "title": "Michael Aldag",
+    "date": "20th October 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/michael-aldag/",
+    "dateUnix": 1760985000000
+  },
+  {
+    "title": "Michael Aldag + Support",
+    "date": "20th October 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/michael-aldag-support/",
+    "dateUnix": 1760985000000
   },
   {
     "title": "Heavy Lungs",
     "date": "22 OCT 2025",
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/heavy-lungs-2025-tour/event/8o6x5",
-    "dateUnix": 1761091200000
+    "dateUnix": 1761087600000
+  },
+  {
+    "title": "Aqualine",
+    "date": "22nd October 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/aqualine/",
+    "dateUnix": 1761157800000
+  },
+  {
+    "title": "Holysseus Fly",
+    "date": "23rd October 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/holysseus-fly/",
+    "dateUnix": 1761244200000
   },
   {
     "title": "Letz Zep",
     "date": "24 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/letz-zep/event/zx35",
-    "dateUnix": 1761264000000
+    "dateUnix": 1761260400000
   },
   {
     "title": "Gogol Bordello",
     "date": "24 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/gogol-bordello-fall-2025-european-tour/event/z38g",
-    "dateUnix": 1761264000000
+    "dateUnix": 1761260400000
+  },
+  {
+    "title": "Phinius Gage",
+    "date": "24th October 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/phinius-gage/",
+    "dateUnix": 1761330600000
   },
   {
     "title": "Stone Foundation",
     "date": "25 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/stone-foundation-2025-tour/event/zyjh",
-    "dateUnix": 1761350400000
+    "dateUnix": 1761346800000
   },
   {
     "title": "Men I Trust",
     "date": "25 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/men-i-trust-equus-tour/event/ztiq",
-    "dateUnix": 1761350400000
+    "dateUnix": 1761346800000
   },
   {
     "title": "Orange Skies",
     "date": "Saturday 25th October, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/673726",
-    "dateUnix": 1761350400000
+    "dateUnix": 1761346800000
+  },
+  {
+    "title": "LollapaGOOza 3",
+    "date": "25th October 2025 at 1:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/lollapagooza-3/",
+    "dateUnix": 1761393600000
   },
   {
     "title": "The Lovely Eggs",
     "date": "26 OCT 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-lovely-eggs-20th-anniversary-tour/event/8onvg",
-    "dateUnix": 1761436800000
+    "dateUnix": 1761433200000
   },
   {
     "title": "NewDad",
     "date": "26 OCT 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/newdad-ireland-and-uk-tour-2025/event/8ovwu",
-    "dateUnix": 1761436800000
+    "dateUnix": 1761433200000
   },
   {
     "title": "Cardinal Black",
@@ -553,6 +798,13 @@
     "dateUnix": 1761696000000
   },
   {
+    "title": "The Now",
+    "date": "29th October 2025 at 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-now/",
+    "dateUnix": 1761764400000
+  },
+  {
     "title": "Sonique",
     "date": "01 NOV 2025",
     "venue": "Chalk",
@@ -565,6 +817,13 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/674274",
     "dateUnix": 1761955200000
+  },
+  {
+    "title": "Scott Lavene + LC Pumpkin",
+    "date": "1st November 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/scott-lavene-mc-pumpkin/",
+    "dateUnix": 1762027200000
   },
   {
     "title": "Amenra",
@@ -595,11 +854,25 @@
     "dateUnix": 1762300800000
   },
   {
+    "title": "The Cinelli Brothers",
+    "date": "5th November 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-cinelli-brothers/",
+    "dateUnix": 1762371000000
+  },
+  {
     "title": "The Lost Trades",
     "date": "Thursday 6th November, 2025",
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/657354",
     "dateUnix": 1762387200000
+  },
+  {
+    "title": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+    "date": "6th November 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-world-is-a-beautiful-place-i-am-no-longer-afraid-to-die/",
+    "dateUnix": 1762459200000
   },
   {
     "title": "Pop Will Eat Itself",
@@ -609,11 +882,25 @@
     "dateUnix": 1762473600000
   },
   {
+    "title": "Mutations Festival 2025 – Friday",
+    "date": "7th November 2025 at 5:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/mutations-festival-2025-friday/",
+    "dateUnix": 1762534800000
+  },
+  {
     "title": "Metallica Reloaded",
     "date": "08 NOV 2025",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/metallica-reloaded/event/zx3f",
     "dateUnix": 1762560000000
+  },
+  {
+    "title": "Mutations Festival 2025 – Saturday",
+    "date": "8th November 2025 at 5:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/mutations-festival-2025-saturday/",
+    "dateUnix": 1762621200000
   },
   {
     "title": "Vigilantes",
@@ -635,6 +922,13 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/hamilton-leithauser-this-side-of-the-island-tour-2025/event/8obz8",
     "dateUnix": 1762819200000
+  },
+  {
+    "title": "GAG + INGROWN + Plastics",
+    "date": "11th November 2025 at 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/gag-ingrown-plastics/",
+    "dateUnix": 1762887600000
   },
   {
     "title": "Chameleons",
@@ -663,6 +957,13 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/turin-brakes-spacehopper-tour/event/zxvm",
     "dateUnix": 1763078400000
+  },
+  {
+    "title": "ANNA PHOEBE + Special Guests",
+    "date": "14th November 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/anna-phoebe-special-guests/",
+    "dateUnix": 1763150400000
   },
   {
     "title": "Emma-Jean Thackray",
@@ -728,6 +1029,13 @@
     "dateUnix": 1763769600000
   },
   {
+    "title": "Poly-Math",
+    "date": "22nd November 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/poly-math/",
+    "dateUnix": 1763841600000
+  },
+  {
     "title": "The Horrors",
     "date": "23 NOV 2025",
     "venue": "Chalk",
@@ -756,6 +1064,13 @@
     "dateUnix": 1764028800000
   },
   {
+    "title": "Kean Kavanagh",
+    "date": "25th November 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/kean-kavanagh/",
+    "dateUnix": 1764099000000
+  },
+  {
     "title": "Nouvelle Vague",
     "date": "26 NOV 2025",
     "venue": "Chalk",
@@ -770,11 +1085,32 @@
     "dateUnix": 1764201600000
   },
   {
+    "title": "Hotel Lux",
+    "date": "28th November 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hotel-lux/",
+    "dateUnix": 1764358200000
+  },
+  {
     "title": "Lacuna Coil",
     "date": "29 NOV 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/lacuna-coil-sleepless-empire-tour-2025/event/zxwt",
     "dateUnix": 1764374400000
+  },
+  {
+    "title": "The Arsenics",
+    "date": "Saturday 29th November, 2025",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/674896",
+    "dateUnix": 1764374400000
+  },
+  {
+    "title": "Good Health Good Wealth",
+    "date": "30th November 2025 at 7:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/good-health-good-wealth/",
+    "dateUnix": 1764529200000
   },
   {
     "title": "Dub Pistols",
@@ -826,6 +1162,13 @@
     "dateUnix": 1765411200000
   },
   {
+    "title": "Two Promoters, 1 Pod",
+    "date": "11th December 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/two-promoters-1-pod/",
+    "dateUnix": 1765483200000
+  },
+  {
     "title": "Black Grape",
     "date": "12 DEC 2025",
     "venue": "Chalk",
@@ -840,11 +1183,25 @@
     "dateUnix": 1765497600000
   },
   {
+    "title": "David Devant & His Spirit Wife",
+    "date": "12th December 2025 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/david-devant-his-spirit-wife-3/",
+    "dateUnix": 1765567800000
+  },
+  {
     "title": "Million Dead",
     "date": "13 DEC 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/million-dead-uk-tour-december-2025/event/8ojdy",
     "dateUnix": 1765584000000
+  },
+  {
+    "title": "Bones Ate Arfa",
+    "date": "13th December 2025 at 8:00 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/bones-ate-arfa/",
+    "dateUnix": 1765656000000
   },
   {
     "title": "Crobot",
@@ -896,11 +1253,25 @@
     "dateUnix": 1769472000000
   },
   {
+    "title": "Xana *NEW VENUE*",
+    "date": "27th January 2026 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/xana/",
+    "dateUnix": 1769542200000
+  },
+  {
     "title": "The Skids",
     "date": "31 JAN 2026",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton/the-skids-the-absolute-game-tour/event/8ocv2",
     "dateUnix": 1769817600000
+  },
+  {
+    "title": "Saturdays at Your Place",
+    "date": "31st January 2026 at 7:30 pm",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/saturdays-at-your-place/",
+    "dateUnix": 1769887800000
   },
   {
     "title": "VUKOVI",
@@ -956,370 +1327,6 @@
     "date": "01 MAY 2026",
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/love-revisited-uk-tour-2026/event/8otrr",
-    "dateUnix": 1777593600000
-  },
-  {
-    "title": "ONES 2 WATCH: WINDOWHEAD + CARNE + IVEBEENEATINGFRUIT",
-    "date": "4th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/ones-2-watch-windowhead-carne-ivebeeneatingfruit/",
-    "dateUnix": null
-  },
-  {
-    "title": "Nagasaki Dog + The Wrong Trousers + Gutterfly + Flavours",
-    "date": "5th September 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/nagasaki-dog-the-wrong-trousers-gutterfly-flavours/",
-    "dateUnix": null
-  },
-  {
-    "title": "really big really clever + jar of blind flies + prom + had sandy",
-    "date": "6th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/really-big-really-clever/",
-    "dateUnix": null
-  },
-  {
-    "title": "Japanese Television + Radio Anorak + MAGDA + more",
-    "date": "10th September 2025 at 10:00 am",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/japanese-television-radio-anorak-magda-more/",
-    "dateUnix": null
-  },
-  {
-    "title": "ACOPIA + Support",
-    "date": "11th September 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/acopia-support/",
-    "dateUnix": null
-  },
-  {
-    "title": "Fortitude Valley + Support",
-    "date": "12th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/fortitude-valley-support/",
-    "dateUnix": null
-  },
-  {
-    "title": "Senser *SOLD OUT*",
-    "date": "13th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/senser/",
-    "dateUnix": null
-  },
-  {
-    "title": "Dance Myth",
-    "date": "14th September 2025 at 6:45 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dance-myth/",
-    "dateUnix": null
-  },
-  {
-    "title": "Placeholder – Poetry Night",
-    "date": "15th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/placeholder-poetry-night-12/",
-    "dateUnix": null
-  },
-  {
-    "title": "Ramona Marx",
-    "date": "19th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/ramona-marx/",
-    "dateUnix": null
-  },
-  {
-    "title": "First Time Flyers + Support",
-    "date": "20th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/first-time-flyers-support/",
-    "dateUnix": null
-  },
-  {
-    "title": "Gloma + Mashed + Seethe + Sunlifter *FREE ENTRY*",
-    "date": "21st September 2025 at 6:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/gloma-mashed-seethe-sunlifter-free-entry/",
-    "dateUnix": null
-  },
-  {
-    "title": "Whitney K",
-    "date": "23rd September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/whitney-k/",
-    "dateUnix": null
-  },
-  {
-    "title": "Dez Dare + Lunar Dirt + Lipworms",
-    "date": "24th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dez-dare-lunar-dirt/",
-    "dateUnix": null
-  },
-  {
-    "title": "LA Witch",
-    "date": "25th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/la-witch/",
-    "dateUnix": null
-  },
-  {
-    "title": "Daffodils + Dura Mater + Divorce Attorney + Nel Blu",
-    "date": "26th September 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/daffodils-dura-mater-divorce-attorney-nel-blu/",
-    "dateUnix": null
-  },
-  {
-    "title": "Harker + Regal Cheer + mydiary.",
-    "date": "27th September 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/harker-regal-cheer-mydiary/",
-    "dateUnix": null
-  },
-  {
-    "title": "Vestia + Support",
-    "date": "28th September 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/vestia-support/",
-    "dateUnix": null
-  },
-  {
-    "title": "The Monday Smile + Moth + Sunlifter + Insectus",
-    "date": "29th September 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-monday-smile-moth-sunlifter-insectus/",
-    "dateUnix": null
-  },
-  {
-    "title": "The Stealers *FREE ENTRY*",
-    "date": "30th September 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-stealers-free-entry/",
-    "dateUnix": null
-  },
-  {
-    "title": "14 Iced Bears",
-    "date": "3rd October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/14-iced-bears/",
-    "dateUnix": null
-  },
-  {
-    "title": "Midnight Rodeo",
-    "date": "4th October 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/midnight-rodeo/",
-    "dateUnix": null
-  },
-  {
-    "title": "Psudoku + Call Me Franco + Gurf",
-    "date": "5th October 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/psudoku-call-me-franco-gurf/",
-    "dateUnix": null
-  },
-  {
-    "title": "CM Wolf and The Backbones",
-    "date": "7th October 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/cm-wolf-and-the-backbones/",
-    "dateUnix": null
-  },
-  {
-    "title": "Dirty Nice",
-    "date": "8th October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dirty-nice/",
-    "dateUnix": null
-  },
-  {
-    "title": "Art D’ecco",
-    "date": "9th October 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/art-decco/",
-    "dateUnix": null
-  },
-  {
-    "title": "Long Fling",
-    "date": "15th October 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/long-fling/",
-    "dateUnix": null
-  },
-  {
-    "title": "Utopia Strong",
-    "date": "17th October 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/utopia-strong/",
-    "dateUnix": null
-  },
-  {
-    "title": "GLOIN + Support",
-    "date": "19th October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/gloin-support/",
-    "dateUnix": null
-  },
-  {
-    "title": "Michael Aldag",
-    "date": "20th October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/michael-aldag/",
-    "dateUnix": null
-  },
-  {
-    "title": "Michael Aldag + Support",
-    "date": "20th October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/michael-aldag-support/",
-    "dateUnix": null
-  },
-  {
-    "title": "Aqualine",
-    "date": "22nd October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/aqualine/",
-    "dateUnix": null
-  },
-  {
-    "title": "Holysseus Fly",
-    "date": "23rd October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/holysseus-fly/",
-    "dateUnix": null
-  },
-  {
-    "title": "Phinius Gage",
-    "date": "24th October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/phinius-gage/",
-    "dateUnix": null
-  },
-  {
-    "title": "LollapaGOOza 3",
-    "date": "25th October 2025 at 1:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/lollapagooza-3/",
-    "dateUnix": null
-  },
-  {
-    "title": "The Now",
-    "date": "29th October 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-now/",
-    "dateUnix": null
-  },
-  {
-    "title": "Scott Lavene + LC Pumpkin",
-    "date": "1st November 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/scott-lavene-mc-pumpkin/",
-    "dateUnix": null
-  },
-  {
-    "title": "The Cinelli Brothers",
-    "date": "5th November 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-cinelli-brothers/",
-    "dateUnix": null
-  },
-  {
-    "title": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
-    "date": "6th November 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-world-is-a-beautiful-place-i-am-no-longer-afraid-to-die/",
-    "dateUnix": null
-  },
-  {
-    "title": "Mutations Festival 2025 – Friday",
-    "date": "7th November 2025 at 5:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/mutations-festival-2025-friday/",
-    "dateUnix": null
-  },
-  {
-    "title": "Mutations Festival 2025 – Saturday",
-    "date": "8th November 2025 at 5:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/mutations-festival-2025-saturday/",
-    "dateUnix": null
-  },
-  {
-    "title": "GAG + INGROWN + Plastics",
-    "date": "11th November 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/gag-ingrown-plastics/",
-    "dateUnix": null
-  },
-  {
-    "title": "ANNA PHOEBE + Special Guests",
-    "date": "14th November 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/anna-phoebe-special-guests/",
-    "dateUnix": null
-  },
-  {
-    "title": "Poly-Math",
-    "date": "22nd November 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/poly-math/",
-    "dateUnix": null
-  },
-  {
-    "title": "Kean Kavanagh",
-    "date": "25th November 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/kean-kavanagh/",
-    "dateUnix": null
-  },
-  {
-    "title": "Hotel Lux",
-    "date": "28th November 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hotel-lux/",
-    "dateUnix": null
-  },
-  {
-    "title": "Good Health Good Wealth",
-    "date": "30th November 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/good-health-good-wealth/",
-    "dateUnix": null
-  },
-  {
-    "title": "Two Promoters, 1 Pod",
-    "date": "11th December 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/two-promoters-1-pod/",
-    "dateUnix": null
-  },
-  {
-    "title": "David Devant & His Spirit Wife",
-    "date": "12th December 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/david-devant-his-spirit-wife-3/",
-    "dateUnix": null
-  },
-  {
-    "title": "Bones Ate Arfa",
-    "date": "13th December 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/bones-ate-arfa/",
-    "dateUnix": null
-  },
-  {
-    "title": "Xana *NEW VENUE*",
-    "date": "27th January 2026 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/xana/",
-    "dateUnix": null
-  },
-  {
-    "title": "Saturdays at Your Place",
-    "date": "31st January 2026 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/saturdays-at-your-place/",
-    "dateUnix": null
+    "dateUnix": 1777590000000
   }
 ]

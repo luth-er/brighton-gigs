@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-09-01T21:34:30.618Z",
+  "totalEvents": 190,
+  "nullDates": 0,
+  "successful": 7,
+  "failed": 0,
+  "venues": {
+    "Hope & Ruin": {
+      "status": "success",
+      "events": 52,
+      "invalidEvents": 0,
+      "rawEvents": 52,
+      "validationErrors": {}
+    },
+    "Green Door Store": {
+      "status": "success",
+      "events": 12,
+      "invalidEvents": 0,
+      "rawEvents": 12,
+      "validationErrors": {}
+    },
+    "Concorde 2": {
+      "status": "success",
+      "events": 48,
+      "invalidEvents": 0,
+      "rawEvents": 48,
+      "validationErrors": {}
+    },
+    "Chalk": {
+      "status": "success",
+      "events": 50,
+      "invalidEvents": 0,
+      "rawEvents": 50,
+      "validationErrors": {}
+    },
+    "Folklore Rooms": {
+      "status": "success",
+      "events": 4,
+      "invalidEvents": 0,
+      "rawEvents": 4,
+      "validationErrors": {}
+    },
+    "Prince Albert": {
+      "status": "success",
+      "events": 12,
+      "invalidEvents": 0,
+      "rawEvents": 12,
+      "validationErrors": {}
+    },
+    "Pipeline": {
+      "status": "success",
+      "events": 12,
+      "invalidEvents": 0,
+      "rawEvents": 12,
+      "validationErrors": {}
+    }
+  }
+}
