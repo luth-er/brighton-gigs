@@ -11,13 +11,155 @@
 		</script>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="Brighton's comprehensive gig guide - discover live music events across the city's best venues">
-		<title>Brighton Gigs — Live Music Events</title>
+		<meta name="description" content="Find tonight's best gigs in Brighton UK. Live music at Hope & Ruin, Green Door Store, Chalk & more. Updated daily.">
+		<title>Brighton Gigs | Live Music Events & Concerts Tonight</title>
+		
+		<!-- Canonical URL -->
+		<link rel="canonical" href="https://brightongigs.uk/">
+		
+		<!-- Open Graph Meta Tags -->
+		<meta property="og:title" content="Brighton Gigs | Live Music Events & Concerts Tonight">
+		<meta property="og:description" content="Find tonight's best gigs in Brighton UK. Live music at Hope & Ruin, Green Door Store, Chalk & more. Updated daily.">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://brightongigs.uk/">
+		<meta property="og:site_name" content="Brighton Gigs">
+		<meta property="og:locale" content="en_GB">
+		<meta property="og:image" content="https://brightongigs.uk/assets/brighton-gigs-og-image.jpg">
+		<meta property="og:image:width" content="1200">
+		<meta property="og:image:height" content="630">
+		<meta property="og:image:alt" content="Brighton Gigs - Live Music Events Tonight">
+		
+		<!-- Social Media Meta Tags -->
+		<meta property="og:image" content="https://brightongigs.uk/assets/brighton-gigs-social-image.jpg">
+		<meta property="og:image:alt" content="Brighton Gigs - Live Music Events Tonight">
+		<meta name="instagram:site" content="@brighton.gigs">
+		
+		<!-- Additional SEO Meta Tags -->
+		<meta name="robots" content="index, follow, max-image-preview:large">
+		<meta name="googlebot" content="index, follow">
+		<meta name="keywords" content="Brighton gigs, Brighton concerts, live music Brighton, Brighton venues, tonight's gigs Brighton, Hope and Ruin, Green Door Store, Chalk Brighton">
+		<meta name="author" content="Brighton Gigs">
+		<meta name="geo.region" content="GB-BNH">
+		<meta name="geo.placename" content="Brighton, UK">
+		<meta name="geo.position" content="50.8225;-0.1372">
+		<meta name="ICBM" content="50.8225, -0.1372">
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="src/css/styles.css">
-	</head>
+		
+		<!-- Structured Data Schema Markup -->
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@graph": [
+				{
+					"@type": "WebSite",
+					"@id": "https://brightongigs.uk/#website",
+					"url": "https://brightongigs.uk/",
+					"name": "Brighton Gigs",
+					"description": "Find tonight's best gigs in Brighton UK. Live music at Hope & Ruin, Green Door Store, Chalk & more. Updated daily.",
+					"publisher": {
+						"@id": "https://brightongigs.uk/#organization"
+					},
+					"potentialAction": {
+						"@type": "SearchAction",
+						"target": {
+							"@type": "EntryPoint",
+							"urlTemplate": "https://brightongigs.uk/?search={search_term_string}"
+						},
+						"query-input": "required name=search_term_string"
+					},
+					"inLanguage": "en-GB"
+				},
+				{
+					"@type": "Organization",
+					"@id": "https://brightongigs.uk/#organization",
+					"name": "Brighton Gigs",
+					"alternateName": "Brighton Gigs Guide",
+					"url": "https://brightongigs.uk/",
+					"logo": {
+						"@type": "ImageObject",
+						"@id": "https://brightongigs.uk/#logo",
+						"url": "https://brightongigs.uk/assets/brighton-gigs-logo.png",
+						"width": 600,
+						"height": 60
+					},
+					"image": {
+						"@id": "https://brightongigs.uk/#logo"
+					},
+					"description": "Brighton's premier live music events guide, providing comprehensive listings of concerts and gigs across Brighton's best venues.",
+					"sameAs": [
+						"https://instagram.com/brighton.gigs"
+					],
+					"contactPoint": {
+						"@type": "ContactPoint",
+						"contactType": "customer service",
+						"email": "brighton.gigs@luther.uk",
+						"areaServed": "Brighton, UK",
+						"availableLanguage": "English"
+					}
+				},
+				{
+					"@type": "LocalBusiness",
+					"@id": "https://brightongigs.uk/#localbusiness",
+					"name": "Brighton Gigs",
+					"description": "Brighton's comprehensive live music events guide covering all major venues and concerts in Brighton & Hove.",
+					"url": "https://brightongigs.uk/",
+					"email": "brighton.gigs@luther.uk",
+					"address": {
+						"@type": "PostalAddress",
+						"streetAddress": "177 Elm Grove",
+						"addressLocality": "Brighton",
+						"addressRegion": "East Sussex",
+						"postalCode": "BN2 3ES",
+						"addressCountry": "GB"
+					},
+					"geo": {
+						"@type": "GeoCoordinates",
+						"latitude": 50.8225,
+						"longitude": -0.1372
+					},
+					"areaServed": {
+						"@type": "City",
+						"name": "Brighton and Hove",
+						"sameAs": "https://en.wikipedia.org/wiki/Brighton_and_Hove"
+					},
+					"openingHoursSpecification": {
+						"@type": "OpeningHoursSpecification",
+						"dayOfWeek": [
+							"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+						],
+						"opens": "00:00",
+						"closes": "23:59"
+					},
+					"priceRange": "Free - ££££",
+					"currenciesAccepted": "GBP",
+					"paymentAccepted": "Cash, Credit Card, Online Payment",
+					"category": "Entertainment Service",
+					"serviceType": "Live Music Events Listing"
+				},
+				{
+					"@type": "BreadcrumbList",
+					"@id": "https://brightongigs.uk/#breadcrumbs",
+					"itemListElement": [
+						{
+							"@type": "ListItem",
+							"position": 1,
+							"name": "Home",
+							"item": "https://brightongigs.uk/"
+						},
+						{
+							"@type": "ListItem",
+							"position": 2,
+							"name": "Brighton Gigs Tonight",
+							"item": "https://brightongigs.uk/#events"
+						}
+					]
+				}
+			]
+		}
+		</script>	</head>
 	<body>
 		<header class="site-header">
 			<h1>Brighton Gigs</h1>
