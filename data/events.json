@@ -1,12 +1,5 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 30 Aug 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-9/",
-    "dateUnix": 1756512000000
-  },
-  {
     "title": "Greg Freeman",
     "date": "01 SEP 2025",
     "venue": "Prince Albert",
@@ -187,6 +180,13 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/671176",
     "dateUnix": 1757635200000
+  },
+  {
+    "title": "*LOW TICKETS* Far Caspian",
+    "date": "Sat, 13 Sep 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/far-caspian/",
+    "dateUnix": 1757721600000
   },
   {
     "title": "Armor For Sleep",
@@ -957,13 +957,6 @@
     "venue": "Concorde 2",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/love-revisited-uk-tour-2026/event/8otrr",
     "dateUnix": 1777593600000
-  },
-  {
-    "title": "HELLRIDE RECORDS LAUNCH PARTY",
-    "date": "31st August 2025 at 6:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/hellride-records-launch-party/",
-    "dateUnix": null
   },
   {
     "title": "ONES 2 WATCH: WINDOWHEAD + CARNE + IVEBEENEATINGFRUIT",
