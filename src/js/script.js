@@ -1,24 +1,16 @@
-// Date formatting functions
-const getOrdinalSuffix = (day) => {
-    if (day > 3 && day < 21) return 'th';
-    switch (day % 10) {
-        case 1: return 'st';
-        case 2: return 'nd';
-        case 3: return 'rd';
-        default: return 'th';
-    }
-};
-
+// Date formatting function - Swiss style
 const formatDate = (unixTimestamp) => {
     const date = new Date(unixTimestamp);
     const day = date.getDate();
     const months = [
-        'January', 'February', 'March', 'April', 'May', 'June',
-        'July', 'August', 'September', 'October', 'November', 'December'
+        'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+        'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
     ];
     const month = months[date.getMonth()];
     const year = date.getFullYear();
-    return `${day}${getOrdinalSuffix(day)} ${month} ${year}`;
+    
+    // Swiss style: abbreviated, uppercase
+    return `${day} ${month} ${year}`.toUpperCase();
 };
 
 let allEvents = [];
@@ -89,23 +81,22 @@ const displayEvents = (events) => {
     const eventsList = document.getElementById('events-list');
     
     if (events.length === 0) {
-        eventsList.innerHTML = '<p>No events found matching your criteria.</p>';
+        eventsList.innerHTML = '<div class="no-events">No events found matching your criteria.</div>';
         return;
     }
     
-    let eventsHTML = '<ul>';
+    let eventsHTML = '';
     events.forEach(event => {
         eventsHTML += `
-            <li>
-                <div class="event-title">
-                    <a href="${event.link}" target="_blank">${event.title}</a>
-                </div>
-                <span class="event-date">${formatDate(event.dateUnix)}</span>
-                <div class="venue">${event.venue}</div>
-            </li>
+            <article class="event-item" role="listitem">
+                <div class="event-date">${formatDate(event.dateUnix)}</div>
+                <h2 class="event-title">
+                    <a href="${event.link}" target="_blank" rel="noopener">${event.title}</a>
+                </h2>
+                <div class="event-venue">${event.venue}</div>
+            </article>
         `;
     });
-    eventsHTML += '</ul>';
     
     eventsList.innerHTML = eventsHTML;
 };
@@ -126,35 +117,46 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('clear-filters').addEventListener('click', clearFilters);
 });
 
-// Fetch events from JSON file
-fetch('data/events.json')
-    .then(response => {
-        if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        return response.json();
-    })
-    .then(events => {
-        // Store all events
-        allEvents = events.sort((a, b) => a.dateUnix - b.dateUnix);
-        filteredEvents = [...allEvents];
-        
-        // Populate filters
-        const uniqueVenues = getUniqueVenues(allEvents);
-        populateVenueFilter(uniqueVenues);
-        
-        // Set date range hints
-        const dateRange = getDateRange(allEvents);
-        document.getElementById('date-from').min = formatDateForInput(dateRange.min);
-        document.getElementById('date-from').max = formatDateForInput(dateRange.max);
-        document.getElementById('date-to').min = formatDateForInput(dateRange.min);
-        document.getElementById('date-to').max = formatDateForInput(dateRange.max);
-        
-        // Display all events initially
-        displayEvents(filteredEvents);
-        
-        console.log(`Loaded ${allEvents.length} events from ${uniqueVenues.length} venues`);
-    })
-    .catch(error => {
-        console.error('Error:', error);
-    });
+// Initialize the application
+const initApp = () => {
+    // Show loading state
+    const eventsList = document.getElementById('events-list');
+    eventsList.innerHTML = '<div class="events-loading">Loading events...</div>';
+    
+    // Fetch events from JSON file
+    fetch('data/events.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Failed to load events: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(events => {
+            // Store all events
+            allEvents = events.sort((a, b) => a.dateUnix - b.dateUnix);
+            filteredEvents = [...allEvents];
+            
+            // Populate filters
+            const uniqueVenues = getUniqueVenues(allEvents);
+            populateVenueFilter(uniqueVenues);
+            
+            // Set date range hints
+            const dateRange = getDateRange(allEvents);
+            document.getElementById('date-from').min = formatDateForInput(dateRange.min);
+            document.getElementById('date-from').max = formatDateForInput(dateRange.max);
+            document.getElementById('date-to').min = formatDateForInput(dateRange.min);
+            document.getElementById('date-to').max = formatDateForInput(dateRange.max);
+            
+            // Display all events initially
+            displayEvents(filteredEvents);
+            
+            console.log(`✓ Loaded ${allEvents.length} events from ${uniqueVenues.length} venues`);
+        })
+        .catch(error => {
+            console.error('✗ Error loading events:', error);
+            eventsList.innerHTML = '<div class="no-events">Failed to load events. Please refresh the page.</div>';
+        });
+};
+
+// Start the application when DOM is ready
+document.addEventListener('DOMContentLoaded', initApp);

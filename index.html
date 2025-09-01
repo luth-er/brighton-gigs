@@ -11,29 +11,44 @@
 		</script>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Brighton Gigs</title>
+		<meta name="description" content="Brighton's comprehensive gig guide - discover live music events across the city's best venues">
+		<title>Brighton Gigs — Live Music Events</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="src/css/styles.css">
 	</head>
 	<body>
-		<h1>Brighton Gigs</h1>
-		<div id="filters">
-			<div class="filter-group">
-				<label for="venue-filter">Filter by Venue:</label>
-				<select id="venue-filter">
-					<option value="">All Venues</option>
-				</select>
-			</div>
-			<div class="filter-group">
-				<label for="date-from">From Date:</label>
-				<input type="date" id="date-from">
-			</div>
-			<div class="filter-group">
-				<label for="date-to">To Date:</label>
-				<input type="date" id="date-to">
-			</div>
-			<button id="clear-filters">Clear Filters</button>
-		</div>
-		<div id="events-list"></div>
+		<header class="site-header">
+			<h1>Brighton Gigs</h1>
+		</header>
+		
+		<main class="main-content">
+			<section class="filters-section" aria-label="Event filters">
+				<div class="filters-container">
+					<div class="filter-item">
+						<label for="venue-filter">Venue</label>
+						<select id="venue-filter" aria-describedby="venue-help">
+							<option value="">All Venues</option>
+						</select>
+					</div>
+					<div class="filter-item">
+						<label for="date-from">From</label>
+						<input type="date" id="date-from" aria-describedby="date-help">
+					</div>
+					<div class="filter-item">
+						<label for="date-to">To</label>
+						<input type="date" id="date-to" aria-describedby="date-help">
+					</div>
+					<button id="clear-filters" type="button" class="clear-btn">Clear</button>
+				</div>
+			</section>
+			
+			<section class="events-section" aria-label="Live music events">
+				<div id="events-list" role="list"></div>
+			</section>
+		</main>
+		
 		<script src="src/js/script.js"></script>
 	</body>
 </html>
