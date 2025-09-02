@@ -85,9 +85,8 @@ const displayEvents = () => {
     
     if (filteredEvents.length === 0) {
         eventsContainer.innerHTML = `
-            <div class="no-events">
-                <h3>No events found for ${currentVenue}</h3>
-                <p>Try adjusting your date filters or check back later for new events.</p>
+            <div class="no-events" role="status" aria-live="polite">
+                No events found matching your criteria. Try adjusting your filters.
             </div>
         `;
         return;
@@ -97,23 +96,14 @@ const displayEvents = () => {
     const sortedEvents = [...filteredEvents].sort((a, b) => a.dateUnix - b.dateUnix);
     
     eventsContainer.innerHTML = sortedEvents.map(event => `
-        <article class="event-card" role="listitem">
-            <div class="event-date">
-                <span class="date-display">${formatDate(event.dateUnix)}</span>
-            </div>
-            <div class="event-details">
-                <h3 class="event-title">
-                    <a href="${event.link}" target="_blank" rel="noopener noreferrer">
-                        ${event.title}
-                    </a>
-                </h3>
-                <div class="event-venue">${event.venue}</div>
-            </div>
-            <div class="event-actions">
-                <a href="${event.link}" target="_blank" rel="noopener noreferrer" class="event-link">
-                    View Event
+        <article class="event-item" role="listitem">
+            <div class="event-date">${formatDate(event.dateUnix)}</div>
+            <h2 class="event-title">
+                <a href="${event.link}" target="_blank" rel="noopener noreferrer">
+                    ${event.title}
                 </a>
-            </div>
+            </h2>
+            <div class="event-venue">${event.venue}</div>
         </article>
     `).join('');
 };
@@ -153,147 +143,7 @@ const setupEventListeners = () => {
     if (clearButton) clearButton.addEventListener('click', clearFilters);
 };
 
-// CSS additions for venue pages
-const addVenueStyles = () => {
-    const style = document.createElement('style');
-    style.textContent = `
-        /* Venue Navigation Styles */
-        .venue-nav {
-            margin-top: 16px;
-            padding-top: 16px;
-            border-top: 1px solid #666;
-            font-size: 14px;
-            font-weight: 500;
-        }
-        
-        .nav-link {
-            color: #666;
-            text-decoration: none;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-        }
-        
-        .nav-link:hover {
-            color: #000;
-        }
-        
-        .nav-current {
-            color: #FF0000;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-        }
-        
-        .nav-separator {
-            color: #666;
-            margin: 0 12px;
-        }
-        
-        /* Venue Hero Section */
-        .venue-hero {
-            margin-bottom: 48px;
-            padding-bottom: 32px;
-            border-bottom: 1px solid #666;
-        }
-        
-        .venue-title {
-            font-size: 48px;
-            font-weight: 700;
-            line-height: 1.1;
-            letter-spacing: -0.02em;
-            color: #000;
-            margin: 0 0 16px 0;
-        }
-        
-        .venue-description {
-            font-size: 18px;
-            line-height: 1.6;
-            color: #666;
-            margin: 0 0 16px 0;
-            max-width: 600px;
-        }
-        
-        .venue-details {
-            font-size: 14px;
-            color: #666;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-        }
-        
-        .venue-location {
-            font-weight: 500;
-        }
-        
-        .venue-separator {
-            margin: 0 8px;
-        }
-        
-        .event-count {
-            color: #FF0000;
-            font-weight: 600;
-        }
-        
-        /* No events state */
-        .no-events {
-            text-align: center;
-            padding: 64px 0;
-            color: #666;
-        }
-        
-        .no-events h3 {
-            font-size: 24px;
-            font-weight: 600;
-            margin-bottom: 16px;
-            color: #000;
-        }
-        
-        .no-events p {
-            font-size: 16px;
-            line-height: 1.5;
-        }
-        
-        /* Mobile responsive */
-        @media (max-width: 768px) {
-            .venue-title {
-                font-size: 36px;
-            }
-            
-            .venue-nav {
-                font-size: 12px;
-            }
-            
-            .nav-separator {
-                margin: 0 8px;
-            }
-            
-            .venue-details {
-                font-size: 12px;
-            }
-        }
-        
-        @media (max-width: 480px) {
-            .venue-nav {
-                display: flex;
-                flex-wrap: wrap;
-                gap: 8px;
-            }
-            
-            .nav-separator {
-                display: none;
-            }
-            
-            .venue-details {
-                display: flex;
-                flex-direction: column;
-                gap: 4px;
-            }
-            
-            .venue-separator {
-                display: none;
-            }
-        }
-    `;
-    document.head.appendChild(style);
-};
+// No hardcoded CSS - using design system from styles.css
 
 // Load and initialize
 const loadEvents = async () => {
@@ -342,12 +192,10 @@ const loadEvents = async () => {
 // Initialize when DOM is ready
 if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', () => {
-        addVenueStyles();
         setupEventListeners();
         loadEvents();
     });
 } else {
-    addVenueStyles();
     setupEventListeners();
     loadEvents();
 }
