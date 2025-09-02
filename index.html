@@ -161,11 +161,19 @@
 		}
 		</script>	</head>
 	<body>
+		<a href="#main-content" class="skip-link">Skip to main content</a>
 		<header class="site-header">
 			<h1>Brighton Gigs</h1>
+			<nav class="main-nav">
+				<a href="venues/hope-and-ruin.html" class="nav-link">Hope & Ruin</a>
+				<span class="nav-separator">|</span>
+				<a href="venues/chalk.html" class="nav-link">Chalk</a>
+				<span class="nav-separator">|</span>
+				<a href="venues/concorde-2.html" class="nav-link">Concorde 2</a>
+			</nav>
 		</header>
 		
-		<main class="main-content">
+		<main class="main-content" id="main-content">
 			<section class="filters-section" aria-label="Event filters">
 				<div class="filters-container">
 					<div class="filter-item">
@@ -191,6 +199,17 @@
 			</section>
 		</main>
 		
-		<script src="src/js/script.js"></script>
+		<script src="src/js/seo-dynamic.js"></script>
+		<script type="module" src="src/js/script.js"></script>
+		<script>
+			// Initialize dynamic SEO for main page
+			document.addEventListener('DOMContentLoaded', () => {
+				setTimeout(() => {
+					if (window.dynamicSEO) {
+						window.dynamicSEO.init();
+					}
+				}, 100);
+			});
+		</script>
 	</body>
 </html>

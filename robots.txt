@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://brightongigs.uk/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Block access to admin areas (if any exist in future)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+
+# Allow access to CSS and JS for rendering
+Allow: /src/css/
+Allow: /src/js/
+Allow: /data/
+
+# Block access to config and test files
+Disallow: /config/
+Disallow: /tests/
+Disallow: /node_modules/
+Disallow: /.git/

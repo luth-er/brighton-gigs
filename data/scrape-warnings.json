@@ -1,0 +1,53 @@
+[
+  {
+    "index": 40,
+    "event": {
+      "title": "Mutations Festival 2025 – Saturday",
+      "date": "8th November 2025 at 5:00 pm",
+      "venue": "Hope & Ruin",
+      "link": "https://www.hope.pub/event/mutations-festival-2025-saturday/",
+      "dateUnix": 1762621200000,
+      "scrapedAt": "2025-09-02T16:40:34.688Z",
+      "scraper": "HopeRuinScraper"
+    },
+    "warnings": [
+      {
+        "type": "potential_duplicate",
+        "message": "Event title similar to existing events",
+        "field": "title",
+        "value": "Mutations Festival 2025 – Saturday",
+        "similarTitles": [
+          "Mutations Festival 2025 – Friday"
+        ],
+        "context": {
+          "venue": "Hope & Ruin",
+          "scraper": "HopeRuinScraper",
+          "timestamp": "2025-09-02T16:40:36.826Z",
+          "originalData": {
+            "title": "Mutations Festival 2025 – Saturday",
+            "date": "8th November 2025 at 5:00 pm",
+            "venue": "Hope & Ruin",
+            "link": "https://www.hope.pub/event/mutations-festival-2025-saturday/",
+            "dateUnix": 1762621200000,
+            "scrapedAt": "2025-09-02T16:40:34.688Z",
+            "scraper": "HopeRuinScraper"
+          }
+        }
+      }
+    ],
+    "context": {
+      "venue": "Hope & Ruin",
+      "scraper": "HopeRuinScraper",
+      "timestamp": "2025-09-02T16:40:36.826Z",
+      "originalData": {
+        "title": "Mutations Festival 2025 – Saturday",
+        "date": "8th November 2025 at 5:00 pm",
+        "venue": "Hope & Ruin",
+        "link": "https://www.hope.pub/event/mutations-festival-2025-saturday/",
+        "dateUnix": 1762621200000,
+        "scrapedAt": "2025-09-02T16:40:34.688Z",
+        "scraper": "HopeRuinScraper"
+      }
+    }
+  }
+]

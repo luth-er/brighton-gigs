@@ -12,7 +12,12 @@ export default [
         fetch: 'readonly',
         document: 'readonly',
         window: 'readonly',
-        URL: 'readonly'
+        URL: 'readonly',
+        performance: 'readonly',
+        navigator: 'readonly',
+        setTimeout: 'readonly',
+        clearTimeout: 'readonly',
+        module: 'readonly'
       }
     },
     rules: {

@@ -1,58 +1,132 @@
 {
-  "timestamp": "2025-09-01T21:34:30.618Z",
+  "timestamp": "2025-09-02T16:40:36.840Z",
   "totalEvents": 190,
   "nullDates": 0,
+  "totalErrors": 0,
+  "totalWarnings": 1,
   "successful": 7,
   "failed": 0,
+  "warnings": 1,
   "venues": {
     "Hope & Ruin": {
       "status": "success",
       "events": 52,
       "invalidEvents": 0,
+      "warnings": 1,
       "rawEvents": 52,
-      "validationErrors": {}
+      "validationErrors": {},
+      "warningTypes": {
+        "potential_duplicate": 1
+      },
+      "executionTime": 1561,
+      "scraper": "HopeRuinScraper"
     },
     "Green Door Store": {
       "status": "success",
       "events": 12,
       "invalidEvents": 0,
+      "warnings": 0,
       "rawEvents": 12,
-      "validationErrors": {}
+      "validationErrors": {},
+      "warningTypes": {},
+      "executionTime": 3667,
+      "scraper": "GreenDoorScraper"
     },
     "Concorde 2": {
       "status": "success",
       "events": 48,
       "invalidEvents": 0,
+      "warnings": 0,
       "rawEvents": 48,
-      "validationErrors": {}
+      "validationErrors": {},
+      "warningTypes": {},
+      "executionTime": 816,
+      "scraper": "ConcordeTwoScraper"
     },
     "Chalk": {
       "status": "success",
       "events": 50,
       "invalidEvents": 0,
+      "warnings": 0,
       "rawEvents": 50,
-      "validationErrors": {}
+      "validationErrors": {},
+      "warningTypes": {},
+      "executionTime": 1448,
+      "scraper": "ChalkScraper"
     },
     "Folklore Rooms": {
       "status": "success",
       "events": 4,
       "invalidEvents": 0,
+      "warnings": 0,
       "rawEvents": 4,
-      "validationErrors": {}
+      "validationErrors": {},
+      "warningTypes": {},
+      "executionTime": 2170,
+      "scraper": "FolkloreRoomsScraper"
     },
     "Prince Albert": {
       "status": "success",
       "events": 12,
       "invalidEvents": 0,
+      "warnings": 0,
       "rawEvents": 12,
-      "validationErrors": {}
+      "validationErrors": {},
+      "warningTypes": {},
+      "executionTime": 2150,
+      "scraper": "PrinceAlbertScraper"
     },
     "Pipeline": {
       "status": "success",
       "events": 12,
       "invalidEvents": 0,
+      "warnings": 0,
       "rawEvents": 12,
-      "validationErrors": {}
+      "validationErrors": {},
+      "warningTypes": {},
+      "executionTime": 2851,
+      "scraper": "PipelineScraper"
     }
-  }
+  },
+  "rateLimiter": {
+    "activeRequests": 0,
+    "queueLength": 0,
+    "consecutiveErrors": 0,
+    "lastRequestTime": 1756831235801,
+    "domains": {
+      "gigseekr.com": {
+        "requests": 3,
+        "successes": 3,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1756831235280,
+        "successRate": "100.00%"
+      },
+      "hope.pub": {
+        "requests": 1,
+        "successes": 1,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1756831234689,
+        "successRate": "100.00%"
+      },
+      "wegottickets.com": {
+        "requests": 2,
+        "successes": 2,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1756831235980,
+        "successRate": "100.00%"
+      },
+      "thegreendoorstore.co.uk": {
+        "requests": 1,
+        "successes": 1,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1756831236797,
+        "successRate": "100.00%"
+      }
+    }
+  },
+  "executionTime": 3710
 }

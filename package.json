@@ -14,6 +14,8 @@
     "lint:css": "stylelint \"src/css/**/*.css\"",
     "lint:html": "htmlhint *.html",
     "lint:fix": "eslint src/**/*.js --config config/eslint.config.js --fix && stylelint \"src/css/**/*.css\" --fix",
+    "sitemap": "node src/js/sitemap-generator.cjs",
+    "seo:build": "npm run sitemap",
     "prepare": "husky"
   },
   "dependencies": {
