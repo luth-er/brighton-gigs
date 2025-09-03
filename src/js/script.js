@@ -174,7 +174,7 @@ class BrightonGigsApp {
         venues.forEach(venue => {
             const option = document.createElement('option');
             option.value = venue;
-            option.textContent = escapeHtml(venue);
+            option.textContent = venue;
             venueSelect.appendChild(option);
         });
     }
