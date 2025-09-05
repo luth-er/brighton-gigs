@@ -96,4 +96,75 @@ describe('Date Parser', () => {
       expect(result).toBe(expected);
     });
   });
+
+  describe('DD/MM/YY HH:MMam/pm formats', () => {
+    it('should parse basic DD/MM/YY format with PM time', () => {
+      const result = toUnixTimestamp('05/09/25 7:30pm');
+      const expected = new Date(2025, 8, 5, 19, 30, 0, 0).getTime(); // Sept 5, 2025 7:30 PM
+      expect(result).toBe(expected);
+    });
+
+    it('should parse DD/MM/YY format with AM time', () => {
+      const result = toUnixTimestamp('15/12/24 11:45am');
+      const expected = new Date(2024, 11, 15, 11, 45, 0, 0).getTime(); // Dec 15, 2024 11:45 AM
+      expect(result).toBe(expected);
+    });
+
+    it('should handle 12 PM (noon)', () => {
+      const result = toUnixTimestamp('01/01/25 12:00pm');
+      const expected = new Date(2025, 0, 1, 12, 0, 0, 0).getTime(); // Jan 1, 2025 12:00 PM
+      expect(result).toBe(expected);
+    });
+
+    it('should handle 12 AM (midnight)', () => {
+      const result = toUnixTimestamp('01/01/25 12:00am');
+      const expected = new Date(2025, 0, 1, 0, 0, 0, 0).getTime(); // Jan 1, 2025 12:00 AM
+      expect(result).toBe(expected);
+    });
+
+    it('should handle single digit day and month', () => {
+      const result = toUnixTimestamp('1/3/25 9:15pm');
+      const expected = new Date(2025, 2, 1, 21, 15, 0, 0).getTime(); // Mar 1, 2025 9:15 PM
+      expect(result).toBe(expected);
+    });
+
+    it('should handle case insensitive meridiem', () => {
+      const result1 = toUnixTimestamp('05/09/25 7:30PM');
+      const result2 = toUnixTimestamp('05/09/25 7:30Am');
+      const expected1 = new Date(2025, 8, 5, 19, 30, 0, 0).getTime();
+      const expected2 = new Date(2025, 8, 5, 7, 30, 0, 0).getTime();
+      expect(result1).toBe(expected1);
+      expect(result2).toBe(expected2);
+    });
+
+    it('should handle leap year correctly', () => {
+      const result = toUnixTimestamp('29/02/24 3:45pm'); // 2024 is a leap year
+      const expected = new Date(2024, 1, 29, 15, 45, 0, 0).getTime();
+      expect(result).toBe(expected);
+    });
+
+    it('should reject invalid dates gracefully', () => {
+      // These should not match the pattern and fall through to error
+      expect(() => toUnixTimestamp('32/01/25 7:30pm')).toThrow('Invalid date format'); // Invalid day
+      expect(() => toUnixTimestamp('15/13/25 7:30pm')).toThrow('Invalid date format'); // Invalid month
+      expect(() => toUnixTimestamp('29/02/25 7:30pm')).toThrow('Invalid date format'); // Invalid leap year date
+      expect(() => toUnixTimestamp('31/04/25 7:30pm')).toThrow('Invalid date format'); // April only has 30 days
+    });
+
+    it('should handle edge cases with spacing', () => {
+      const result1 = toUnixTimestamp('05/09/25  7:30pm'); // Extra space
+      const result2 = toUnixTimestamp('05/09/25 7:30 pm'); // Space before meridiem
+      const expected = new Date(2025, 8, 5, 19, 30, 0, 0).getTime();
+      expect(result1).toBe(expected);
+      expect(result2).toBe(expected);
+    });
+
+    it('should reject formats that do not match exactly', () => {
+      // These should not match our specific pattern
+      expect(() => toUnixTimestamp('05-09-25 7:30pm')).toThrow('Invalid date format'); // Wrong separators
+      expect(() => toUnixTimestamp('05/09/2025 7:30pm')).toThrow('Invalid date format'); // 4-digit year
+      expect(() => toUnixTimestamp('05/09/25 7pm')).toThrow('Invalid date format'); // Missing minutes
+      expect(() => toUnixTimestamp('5/9/25 25:30pm')).toThrow('Invalid date format'); // Invalid hour
+    });
+  });
 });

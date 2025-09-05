@@ -23,8 +23,43 @@ const toUnixTimestamp = (input) => {
       // Clean up input
       input = input.trim().replace(/\s+/g, ' ');
       
+      // ---- PATTERN 7: DD/MM/YY HH:MMam/pm FORMAT (PRIORITY) ----
+      // Example: "05/09/25 7:30pm", "15/12/24 11:45am", "05/09/25  7:30pm" (double space)
+      // Place before standard parsing to ensure DD/MM/YY interpretation (UK format)
+      const ddmmyyTimePattern = /^(?<day>\d{1,2})\/(?<month>\d{1,2})\/(?<shortYear>\d{2})\s+(?<hour>\d{1,2}):(?<minute>\d{2})\s*(?<meridiem>am|pm)$/i;
+      const ddmmyyTimeMatch = input.match(ddmmyyTimePattern);
+      if (ddmmyyTimeMatch) {
+        const day = parseInt(ddmmyyTimeMatch.groups.day);
+        const month = parseInt(ddmmyyTimeMatch.groups.month);
+        const year = parseInt('20' + ddmmyyTimeMatch.groups.shortYear);
+        let hour = parseInt(ddmmyyTimeMatch.groups.hour);
+        const minute = parseInt(ddmmyyTimeMatch.groups.minute);
+        const isPM = ddmmyyTimeMatch.groups.meridiem?.toLowerCase() === 'pm';
+        
+        // Validate day and month ranges
+        if (day < 1 || day > 31 || month < 1 || month > 12) {
+          // Continue to next patterns, these will eventually throw if no match
+          // Don't return null here as we want the error to be thrown at the end
+        } else {
+          // Handle 12-hour to 24-hour conversion
+          if (isPM && hour !== 12) hour += 12;
+          if (!isPM && hour === 12) hour = 0;
+          
+          // Create date and validate it (handles leap years, month lengths)
+          const date = new Date(year, month - 1, day, hour, minute, 0, 0);
+          
+          // Check if the date is valid (e.g., Feb 30th would be invalid)
+          if (date.getFullYear() === year && 
+              date.getMonth() === month - 1 && 
+              date.getDate() === day) {
+            return date.getTime();
+          }
+          // If date validation failed, continue to next patterns
+        }
+      }
+
       // ---- QUICK CHECK FOR STANDARD FORMATS ----
-      // Try standard JavaScript date parsing first
+      // Try standard JavaScript date parsing (after our specific patterns)
       const standardDate = new Date(input);
       if (!isNaN(standardDate.getTime())) {
         return standardDate.getTime();
@@ -151,6 +186,7 @@ const toUnixTimestamp = (input) => {
         const result = parseResult(shortDateTimeMatch, shortDateTimeMatch.groups.monthName);
         if (result) return result;
       }
+      
       
       // ---- SPECIAL CASES ----
       

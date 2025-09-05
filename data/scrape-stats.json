@@ -1,24 +1,24 @@
 {
-  "timestamp": "2025-09-03T09:43:03.111Z",
-  "totalEvents": 191,
+  "timestamp": "2025-09-05T08:55:42.041Z",
+  "totalEvents": 152,
   "nullDates": 0,
   "totalErrors": 0,
   "totalWarnings": 1,
-  "successful": 7,
-  "failed": 0,
+  "successful": 5,
+  "failed": 2,
   "warnings": 1,
   "venues": {
     "Hope & Ruin": {
       "status": "success",
-      "events": 53,
+      "events": 52,
       "invalidEvents": 0,
       "warnings": 1,
-      "rawEvents": 53,
+      "rawEvents": 52,
       "validationErrors": {},
       "warningTypes": {
         "potential_duplicate": 1
       },
-      "executionTime": 960,
+      "executionTime": 929,
       "scraper": "HopeRuinScraper"
     },
     "Green Door Store": {
@@ -29,51 +29,61 @@
       "rawEvents": 12,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 3034,
+      "executionTime": 20491,
       "scraper": "GreenDoorScraper"
     },
     "Concorde 2": {
       "status": "success",
-      "events": 48,
+      "events": 71,
       "invalidEvents": 0,
       "warnings": 0,
-      "rawEvents": 48,
+      "rawEvents": 71,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 835,
+      "executionTime": 883,
       "scraper": "ConcordeTwoScraper"
     },
     "Chalk": {
-      "status": "success",
-      "events": 50,
-      "invalidEvents": 0,
-      "warnings": 0,
-      "rawEvents": 50,
-      "validationErrors": {},
-      "warningTypes": {},
-      "executionTime": 1433,
+      "status": "error",
+      "error": "Chalk scraping failed - HTTP 404",
+      "errorContext": {
+        "venue": "Chalk",
+        "url": "https://www.gigseekr.com/uk/en/brighton/chalk/venue/8kq",
+        "attempt": 3,
+        "timestamp": "2025-09-05T08:55:26.208Z",
+        "originalError": "Request failed with status code 404",
+        "errorType": "http_error",
+        "statusCode": 404
+      },
+      "events": 0,
+      "executionTime": 4692,
       "scraper": "ChalkScraper"
     },
     "Folklore Rooms": {
       "status": "success",
-      "events": 4,
+      "events": 5,
       "invalidEvents": 0,
       "warnings": 0,
-      "rawEvents": 4,
+      "rawEvents": 5,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 1979,
+      "executionTime": 1670,
       "scraper": "FolkloreRoomsScraper"
     },
     "Prince Albert": {
-      "status": "success",
-      "events": 12,
-      "invalidEvents": 0,
-      "warnings": 0,
-      "rawEvents": 12,
-      "validationErrors": {},
-      "warningTypes": {},
-      "executionTime": 2008,
+      "status": "error",
+      "error": "Prince Albert scraping failed - HTTP 404",
+      "errorContext": {
+        "venue": "Prince Albert",
+        "url": "https://www.gigseekr.com/uk/en/brighton/the-prince-albert/venue/6a",
+        "attempt": 3,
+        "timestamp": "2025-09-05T08:55:26.834Z",
+        "originalError": "Request failed with status code 404",
+        "errorType": "http_error",
+        "statusCode": 404
+      },
+      "events": 0,
+      "executionTime": 5318,
       "scraper": "PrinceAlbertScraper"
     },
     "Pipeline": {
@@ -84,7 +94,7 @@
       "rawEvents": 12,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 2965,
+      "executionTime": 5408,
       "scraper": "PipelineScraper"
     }
   },
@@ -92,14 +102,14 @@
     "activeRequests": 0,
     "queueLength": 0,
     "consecutiveErrors": 0,
-    "lastRequestTime": 1756892582528,
+    "lastRequestTime": 1757062526721,
     "domains": {
-      "gigseekr.com": {
-        "requests": 3,
-        "successes": 3,
+      "concorde2.co.uk": {
+        "requests": 1,
+        "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1756892582045,
+        "lastRequestTime": 1757062522398,
         "successRate": "100.00%"
       },
       "hope.pub": {
@@ -107,7 +117,7 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1756892580995,
+        "lastRequestTime": 1757062522444,
         "successRate": "100.00%"
       },
       "wegottickets.com": {
@@ -115,18 +125,26 @@
         "successes": 2,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1756892583002,
+        "lastRequestTime": 1757062526924,
         "successRate": "100.00%"
+      },
+      "gigseekr.com": {
+        "requests": 2,
+        "successes": 0,
+        "errors": 2,
+        "consecutiveErrors": 2,
+        "lastRequestTime": 1757062526834,
+        "successRate": "0.00%"
       },
       "thegreendoorstore.co.uk": {
         "requests": 1,
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1756892583069,
+        "lastRequestTime": 1757062542007,
         "successRate": "100.00%"
       }
     }
   },
-  "executionTime": 3075
+  "executionTime": 20525
 }

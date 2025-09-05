@@ -1,0 +1,3552 @@
+[
+  {
+    "index": 0,
+    "event": {
+      "title": "808 State - Live",
+      "date": "05/09/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/808-state-live",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.913Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"05/09/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "05/09/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.427Z",
+          "originalData": {
+            "title": "808 State - Live",
+            "date": "05/09/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/808-state-live",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.913Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.427Z",
+      "originalData": {
+        "title": "808 State - Live",
+        "date": "05/09/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/808-state-live",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.913Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 1,
+    "event": {
+      "title": "Fleetwood Bac",
+      "date": "06/09/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/fleetwood-bac",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.917Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"06/09/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "06/09/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.427Z",
+          "originalData": {
+            "title": "Fleetwood Bac",
+            "date": "06/09/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/fleetwood-bac",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.917Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.427Z",
+      "originalData": {
+        "title": "Fleetwood Bac",
+        "date": "06/09/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/fleetwood-bac",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.917Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 2,
+    "event": {
+      "title": "Fun Lovin' Criminals",
+      "date": "07/09/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/fun-lovin-criminals",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.919Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"07/09/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "07/09/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.427Z",
+          "originalData": {
+            "title": "Fun Lovin' Criminals",
+            "date": "07/09/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/fun-lovin-criminals",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.919Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.427Z",
+      "originalData": {
+        "title": "Fun Lovin' Criminals",
+        "date": "07/09/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/fun-lovin-criminals",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.919Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 3,
+    "event": {
+      "title": "Flyte",
+      "date": "10/09/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/flyte",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.919Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"10/09/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "10/09/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.427Z",
+          "originalData": {
+            "title": "Flyte",
+            "date": "10/09/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/flyte",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.919Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.427Z",
+      "originalData": {
+        "title": "Flyte",
+        "date": "10/09/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/flyte",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.919Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 4,
+    "event": {
+      "title": "Emo Fest",
+      "date": "12/09/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/emo-fest",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.920Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"12/09/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "12/09/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.427Z",
+          "originalData": {
+            "title": "Emo Fest",
+            "date": "12/09/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/emo-fest",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.920Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.427Z",
+      "originalData": {
+        "title": "Emo Fest",
+        "date": "12/09/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/emo-fest",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.920Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 5,
+    "event": {
+      "title": "Incognito",
+      "date": "16/09/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/incognito",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.920Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"16/09/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "16/09/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.427Z",
+          "originalData": {
+            "title": "Incognito",
+            "date": "16/09/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/incognito",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.920Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.427Z",
+      "originalData": {
+        "title": "Incognito",
+        "date": "16/09/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/incognito",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.920Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 6,
+    "event": {
+      "title": "Skindred",
+      "date": "18/09/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/skindred",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.920Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"18/09/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "18/09/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.427Z",
+          "originalData": {
+            "title": "Skindred",
+            "date": "18/09/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/skindred",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.920Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.427Z",
+      "originalData": {
+        "title": "Skindred",
+        "date": "18/09/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/skindred",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.920Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 7,
+    "event": {
+      "title": "One Night In Nashville",
+      "date": "19/09/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/one-night-in-nashville",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.920Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"19/09/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "19/09/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.427Z",
+          "originalData": {
+            "title": "One Night In Nashville",
+            "date": "19/09/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/one-night-in-nashville",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.920Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.427Z",
+      "originalData": {
+        "title": "One Night In Nashville",
+        "date": "19/09/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/one-night-in-nashville",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.920Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 8,
+    "event": {
+      "title": "Guns N Roses Experience",
+      "date": "20/09/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/guns-n-roses-experience",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.920Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"20/09/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "20/09/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.427Z",
+          "originalData": {
+            "title": "Guns N Roses Experience",
+            "date": "20/09/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/guns-n-roses-experience",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.920Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.427Z",
+      "originalData": {
+        "title": "Guns N Roses Experience",
+        "date": "20/09/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/guns-n-roses-experience",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.920Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 9,
+    "event": {
+      "title": "Sleeper",
+      "date": "24/09/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/sleeper-2",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.921Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"24/09/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "24/09/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "Sleeper",
+            "date": "24/09/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/sleeper-2",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.921Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "Sleeper",
+        "date": "24/09/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/sleeper-2",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.921Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 10,
+    "event": {
+      "title": "Florence Black",
+      "date": "25/09/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/florence-black",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.921Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"25/09/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "25/09/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "Florence Black",
+            "date": "25/09/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/florence-black",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.921Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "Florence Black",
+        "date": "25/09/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/florence-black",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.921Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 11,
+    "event": {
+      "title": "Sambroso Allstas",
+      "date": "26/09/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/sambroso-allstas",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.921Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"26/09/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "26/09/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "Sambroso Allstas",
+            "date": "26/09/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/sambroso-allstas",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.921Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "Sambroso Allstas",
+        "date": "26/09/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/sambroso-allstas",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.921Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 12,
+    "event": {
+      "title": "Dirty DC",
+      "date": "27/09/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/dirty-dc",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.921Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"27/09/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "27/09/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "Dirty DC",
+            "date": "27/09/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/dirty-dc",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.921Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "Dirty DC",
+        "date": "27/09/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/dirty-dc",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.921Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 13,
+    "event": {
+      "title": "Overpass",
+      "date": "02/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/overpass",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"02/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "02/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "Overpass",
+            "date": "02/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/overpass",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "Overpass",
+        "date": "02/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/overpass",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 14,
+    "event": {
+      "title": "Mass Of The Fermenting Dregs",
+      "date": "04/10/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/mass-of-the-fermenting-dregs",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"04/10/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "04/10/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "Mass Of The Fermenting Dregs",
+            "date": "04/10/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/mass-of-the-fermenting-dregs",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "Mass Of The Fermenting Dregs",
+        "date": "04/10/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/mass-of-the-fermenting-dregs",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 15,
+    "event": {
+      "title": "JoJo Siwa",
+      "date": "06/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/jojo-siwa",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"06/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "06/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "JoJo Siwa",
+            "date": "06/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/jojo-siwa",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "JoJo Siwa",
+        "date": "06/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/jojo-siwa",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 16,
+    "event": {
+      "title": "Red Rum Club",
+      "date": "08/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/red-rum-club",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"08/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "08/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "Red Rum Club",
+            "date": "08/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/red-rum-club",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "Red Rum Club",
+        "date": "08/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/red-rum-club",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 17,
+    "event": {
+      "title": "The New Eves",
+      "date": "09/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/the-new-eves",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"09/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "09/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "The New Eves",
+            "date": "09/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/the-new-eves",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "The New Eves",
+        "date": "09/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/the-new-eves",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 18,
+    "event": {
+      "title": "Nirvana UK",
+      "date": "11/10/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/nirvana-uk",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"11/10/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "11/10/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "Nirvana UK",
+            "date": "11/10/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/nirvana-uk",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "Nirvana UK",
+        "date": "11/10/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/nirvana-uk",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 19,
+    "event": {
+      "title": "The K's",
+      "date": "13/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/the-ks",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"13/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "13/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "The K's",
+            "date": "13/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/the-ks",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "The K's",
+        "date": "13/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/the-ks",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 20,
+    "event": {
+      "title": "JME",
+      "date": "15/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/jme",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"15/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "15/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "JME",
+            "date": "15/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/jme",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "JME",
+        "date": "15/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/jme",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 21,
+    "event": {
+      "title": "The Royston Club",
+      "date": "16/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/the-royston-club",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"16/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "16/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "The Royston Club",
+            "date": "16/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/the-royston-club",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "The Royston Club",
+        "date": "16/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/the-royston-club",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 22,
+    "event": {
+      "title": "Of Monsters And Men",
+      "date": "17/10/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/of-monsters-and-men",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"17/10/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "17/10/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "Of Monsters And Men",
+            "date": "17/10/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/of-monsters-and-men",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "Of Monsters And Men",
+        "date": "17/10/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/of-monsters-and-men",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 23,
+    "event": {
+      "title": "Sleeper",
+      "date": "18/10/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/sleeper",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"18/10/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "18/10/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "Sleeper",
+            "date": "18/10/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/sleeper",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "Sleeper",
+        "date": "18/10/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/sleeper",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 24,
+    "event": {
+      "title": "Kid Kapichi",
+      "date": "19/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/kid-kapichi",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"19/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "19/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "Kid Kapichi",
+            "date": "19/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/kid-kapichi",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "Kid Kapichi",
+        "date": "19/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/kid-kapichi",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 25,
+    "event": {
+      "title": "L1nkn P4rk - Linkin Park Experience",
+      "date": "22/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/l1nkn-p4rk-linkin-park-experience",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"22/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "22/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.428Z",
+          "originalData": {
+            "title": "L1nkn P4rk - Linkin Park Experience",
+            "date": "22/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/l1nkn-p4rk-linkin-park-experience",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.428Z",
+      "originalData": {
+        "title": "L1nkn P4rk - Linkin Park Experience",
+        "date": "22/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/l1nkn-p4rk-linkin-park-experience",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 26,
+    "event": {
+      "title": "The Herbaliser Band",
+      "date": "23/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/the-herbaliser-band",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"23/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "23/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.430Z",
+          "originalData": {
+            "title": "The Herbaliser Band",
+            "date": "23/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/the-herbaliser-band",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.430Z",
+      "originalData": {
+        "title": "The Herbaliser Band",
+        "date": "23/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/the-herbaliser-band",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 27,
+    "event": {
+      "title": "Letz Zep",
+      "date": "24/10/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/letz-zep",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"24/10/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "24/10/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.430Z",
+          "originalData": {
+            "title": "Letz Zep",
+            "date": "24/10/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/letz-zep",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.430Z",
+      "originalData": {
+        "title": "Letz Zep",
+        "date": "24/10/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/letz-zep",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 28,
+    "event": {
+      "title": "Stone Foundation",
+      "date": "25/10/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/stone-foundation",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"25/10/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "25/10/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.430Z",
+          "originalData": {
+            "title": "Stone Foundation",
+            "date": "25/10/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/stone-foundation",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.430Z",
+      "originalData": {
+        "title": "Stone Foundation",
+        "date": "25/10/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/stone-foundation",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 29,
+    "event": {
+      "title": "The Lovely Eggs",
+      "date": "26/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/the-lovely-eggs",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"26/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "26/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.430Z",
+          "originalData": {
+            "title": "The Lovely Eggs",
+            "date": "26/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/the-lovely-eggs",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.430Z",
+      "originalData": {
+        "title": "The Lovely Eggs",
+        "date": "26/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/the-lovely-eggs",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 30,
+    "event": {
+      "title": "Cardinal Black",
+      "date": "28/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/cardinal-black",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.922Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"28/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "28/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.430Z",
+          "originalData": {
+            "title": "Cardinal Black",
+            "date": "28/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/cardinal-black",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.922Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.430Z",
+      "originalData": {
+        "title": "Cardinal Black",
+        "date": "28/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/cardinal-black",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.922Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 31,
+    "event": {
+      "title": "Kerrbang!",
+      "date": "29/10/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/kerrbang",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"29/10/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "29/10/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "Kerrbang!",
+            "date": "29/10/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/kerrbang",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "Kerrbang!",
+        "date": "29/10/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/kerrbang",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 32,
+    "event": {
+      "title": "Misty In Roots",
+      "date": "30/10/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/misty-in-roots",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"30/10/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "30/10/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "Misty In Roots",
+            "date": "30/10/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/misty-in-roots",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "Misty In Roots",
+        "date": "30/10/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/misty-in-roots",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 33,
+    "event": {
+      "title": "Valve",
+      "date": "31/10/25  9:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/valve",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"31/10/25  9:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "31/10/25  9:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "Valve",
+            "date": "31/10/25  9:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/valve",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "Valve",
+        "date": "31/10/25  9:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/valve",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 34,
+    "event": {
+      "title": "Castle Rat",
+      "date": "04/11/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/castle-rat",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"04/11/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "04/11/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "Castle Rat",
+            "date": "04/11/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/castle-rat",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "Castle Rat",
+        "date": "04/11/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/castle-rat",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 35,
+    "event": {
+      "title": "Mono",
+      "date": "05/11/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/mono",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"05/11/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "05/11/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "Mono",
+            "date": "05/11/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/mono",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "Mono",
+        "date": "05/11/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/mono",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 36,
+    "event": {
+      "title": "Pop Will Eat Itself",
+      "date": "07/11/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/pop-will-eat-itself",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"07/11/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "07/11/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "Pop Will Eat Itself",
+            "date": "07/11/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/pop-will-eat-itself",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "Pop Will Eat Itself",
+        "date": "07/11/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/pop-will-eat-itself",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 37,
+    "event": {
+      "title": "Metallica Reloaded",
+      "date": "08/11/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/metallica-reloaded",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"08/11/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "08/11/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "Metallica Reloaded",
+            "date": "08/11/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/metallica-reloaded",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "Metallica Reloaded",
+        "date": "08/11/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/metallica-reloaded",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 38,
+    "event": {
+      "title": "Willie J Healey",
+      "date": "10/11/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/willie-j-healey",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"10/11/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "10/11/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "Willie J Healey",
+            "date": "10/11/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/willie-j-healey",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "Willie J Healey",
+        "date": "10/11/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/willie-j-healey",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 39,
+    "event": {
+      "title": "Chameleons",
+      "date": "12/11/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/chameleons",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"12/11/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "12/11/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "Chameleons",
+            "date": "12/11/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/chameleons",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "Chameleons",
+        "date": "12/11/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/chameleons",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 40,
+    "event": {
+      "title": "The Crazy World Of Arthur Brown",
+      "date": "13/11/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/crazy-world-of-arthur-brown",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"13/11/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "13/11/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "The Crazy World Of Arthur Brown",
+            "date": "13/11/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/crazy-world-of-arthur-brown",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "The Crazy World Of Arthur Brown",
+        "date": "13/11/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/crazy-world-of-arthur-brown",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 41,
+    "event": {
+      "title": "Turin Brakes",
+      "date": "14/11/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/turin-brakes",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"14/11/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "14/11/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "Turin Brakes",
+            "date": "14/11/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/turin-brakes",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "Turin Brakes",
+        "date": "14/11/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/turin-brakes",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 42,
+    "event": {
+      "title": "Hugh Cornwell & Guests The Couretttes",
+      "date": "16/11/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/hugh-cornwell",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"16/11/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "16/11/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.431Z",
+          "originalData": {
+            "title": "Hugh Cornwell & Guests The Couretttes",
+            "date": "16/11/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/hugh-cornwell",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.431Z",
+      "originalData": {
+        "title": "Hugh Cornwell & Guests The Couretttes",
+        "date": "16/11/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/hugh-cornwell",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 43,
+    "event": {
+      "title": "The Pains Of Being Pure At Heart",
+      "date": "21/11/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/the-pains-of-being-pure-at-heart",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"21/11/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "21/11/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.432Z",
+          "originalData": {
+            "title": "The Pains Of Being Pure At Heart",
+            "date": "21/11/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/the-pains-of-being-pure-at-heart",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.432Z",
+      "originalData": {
+        "title": "The Pains Of Being Pure At Heart",
+        "date": "21/11/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/the-pains-of-being-pure-at-heart",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 44,
+    "event": {
+      "title": "UK Foo Fighters",
+      "date": "22/11/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/uk-foo-fighters",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"22/11/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "22/11/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.432Z",
+          "originalData": {
+            "title": "UK Foo Fighters",
+            "date": "22/11/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/uk-foo-fighters",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.432Z",
+      "originalData": {
+        "title": "UK Foo Fighters",
+        "date": "22/11/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/uk-foo-fighters",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 45,
+    "event": {
+      "title": "Conan",
+      "date": "24/11/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/conan",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"24/11/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "24/11/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.432Z",
+          "originalData": {
+            "title": "Conan",
+            "date": "24/11/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/conan",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.432Z",
+      "originalData": {
+        "title": "Conan",
+        "date": "24/11/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/conan",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 46,
+    "event": {
+      "title": "The Brand New Heavies",
+      "date": "26/11/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/the-brand-new-heavies",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"26/11/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "26/11/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.432Z",
+          "originalData": {
+            "title": "The Brand New Heavies",
+            "date": "26/11/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/the-brand-new-heavies",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.432Z",
+      "originalData": {
+        "title": "The Brand New Heavies",
+        "date": "26/11/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/the-brand-new-heavies",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 47,
+    "event": {
+      "title": "Warmduscher",
+      "date": "27/11/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/warmduscher",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"27/11/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "27/11/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.432Z",
+          "originalData": {
+            "title": "Warmduscher",
+            "date": "27/11/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/warmduscher",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.432Z",
+      "originalData": {
+        "title": "Warmduscher",
+        "date": "27/11/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/warmduscher",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 48,
+    "event": {
+      "title": "Ozric Tentacles & System 7",
+      "date": "28/11/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/ozric-tentacles-system-7",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.923Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"28/11/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "28/11/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.432Z",
+          "originalData": {
+            "title": "Ozric Tentacles & System 7",
+            "date": "28/11/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/ozric-tentacles-system-7",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.923Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.432Z",
+      "originalData": {
+        "title": "Ozric Tentacles & System 7",
+        "date": "28/11/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/ozric-tentacles-system-7",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.923Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 49,
+    "event": {
+      "title": "Oh My God! It's The Church",
+      "date": "02/12/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/oh-my-god-its-the-church",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"02/12/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "02/12/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.433Z",
+          "originalData": {
+            "title": "Oh My God! It's The Church",
+            "date": "02/12/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/oh-my-god-its-the-church",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.433Z",
+      "originalData": {
+        "title": "Oh My God! It's The Church",
+        "date": "02/12/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/oh-my-god-its-the-church",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 50,
+    "event": {
+      "title": "Dub Pistols",
+      "date": "05/12/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/dub-pistols",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"05/12/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "05/12/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.433Z",
+          "originalData": {
+            "title": "Dub Pistols",
+            "date": "05/12/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/dub-pistols",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.433Z",
+      "originalData": {
+        "title": "Dub Pistols",
+        "date": "05/12/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/dub-pistols",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 51,
+    "event": {
+      "title": "Electric Six",
+      "date": "07/12/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/electric-six",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"07/12/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "07/12/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.433Z",
+          "originalData": {
+            "title": "Electric Six",
+            "date": "07/12/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/electric-six",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.433Z",
+      "originalData": {
+        "title": "Electric Six",
+        "date": "07/12/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/electric-six",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 52,
+    "event": {
+      "title": "Rhythm Of The 90s",
+      "date": "12/12/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/rhythm-of-the-90s",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"12/12/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "12/12/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.433Z",
+          "originalData": {
+            "title": "Rhythm Of The 90s",
+            "date": "12/12/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/rhythm-of-the-90s",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.433Z",
+      "originalData": {
+        "title": "Rhythm Of The 90s",
+        "date": "12/12/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/rhythm-of-the-90s",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 53,
+    "event": {
+      "title": "UK Queen",
+      "date": "13/12/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/uk-queen",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"13/12/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "13/12/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.433Z",
+          "originalData": {
+            "title": "UK Queen",
+            "date": "13/12/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/uk-queen",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.433Z",
+      "originalData": {
+        "title": "UK Queen",
+        "date": "13/12/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/uk-queen",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 54,
+    "event": {
+      "title": "Cash",
+      "date": "14/12/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/cash",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"14/12/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "14/12/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.433Z",
+          "originalData": {
+            "title": "Cash",
+            "date": "14/12/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/cash",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.433Z",
+      "originalData": {
+        "title": "Cash",
+        "date": "14/12/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/cash",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 55,
+    "event": {
+      "title": "Absolute Bowie",
+      "date": "19/12/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/absolute-bowie",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"19/12/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "19/12/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.433Z",
+          "originalData": {
+            "title": "Absolute Bowie",
+            "date": "19/12/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/absolute-bowie",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.433Z",
+      "originalData": {
+        "title": "Absolute Bowie",
+        "date": "19/12/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/absolute-bowie",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 56,
+    "event": {
+      "title": "80s Hifi Christmas Special",
+      "date": "20/12/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/80s-hifi-christmas-special",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"20/12/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "20/12/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.433Z",
+          "originalData": {
+            "title": "80s Hifi Christmas Special",
+            "date": "20/12/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/80s-hifi-christmas-special",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.433Z",
+      "originalData": {
+        "title": "80s Hifi Christmas Special",
+        "date": "20/12/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/80s-hifi-christmas-special",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 57,
+    "event": {
+      "title": "BAD MANNERS",
+      "date": "21/12/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/bad-manners",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"21/12/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "21/12/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.434Z",
+          "originalData": {
+            "title": "BAD MANNERS",
+            "date": "21/12/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/bad-manners",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.434Z",
+      "originalData": {
+        "title": "BAD MANNERS",
+        "date": "21/12/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/bad-manners",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 58,
+    "event": {
+      "title": "The Marley Experience",
+      "date": "23/12/25  7:30pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/the-marley-experience",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"23/12/25  7:30pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "23/12/25  7:30pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.434Z",
+          "originalData": {
+            "title": "The Marley Experience",
+            "date": "23/12/25  7:30pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/the-marley-experience",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.434Z",
+      "originalData": {
+        "title": "The Marley Experience",
+        "date": "23/12/25  7:30pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/the-marley-experience",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 59,
+    "event": {
+      "title": "Special Kinda Madness",
+      "date": "27/12/25  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/special-kinda-madness",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"27/12/25  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "27/12/25  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.434Z",
+          "originalData": {
+            "title": "Special Kinda Madness",
+            "date": "27/12/25  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/special-kinda-madness",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.434Z",
+      "originalData": {
+        "title": "Special Kinda Madness",
+        "date": "27/12/25  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/special-kinda-madness",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 60,
+    "event": {
+      "title": "Motorheadache",
+      "date": "24/01/26  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/motorheadache",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"24/01/26  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "24/01/26  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.434Z",
+          "originalData": {
+            "title": "Motorheadache",
+            "date": "24/01/26  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/motorheadache",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.434Z",
+      "originalData": {
+        "title": "Motorheadache",
+        "date": "24/01/26  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/motorheadache",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 61,
+    "event": {
+      "title": "The Cureheads + Siouxsie & The Budgiees",
+      "date": "13/02/26  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/the-cureheads-siouxsie-the-budgiees",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"13/02/26  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "13/02/26  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.434Z",
+          "originalData": {
+            "title": "The Cureheads + Siouxsie & The Budgiees",
+            "date": "13/02/26  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/the-cureheads-siouxsie-the-budgiees",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.434Z",
+      "originalData": {
+        "title": "The Cureheads + Siouxsie & The Budgiees",
+        "date": "13/02/26  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/the-cureheads-siouxsie-the-budgiees",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 62,
+    "event": {
+      "title": "Coach Party",
+      "date": "20/02/26  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/coach-party",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"20/02/26  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "20/02/26  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.435Z",
+          "originalData": {
+            "title": "Coach Party",
+            "date": "20/02/26  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/coach-party",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.435Z",
+      "originalData": {
+        "title": "Coach Party",
+        "date": "20/02/26  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/coach-party",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 63,
+    "event": {
+      "title": "Ultimate Rnb",
+      "date": "21/02/26  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/ultimate-rnb",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"21/02/26  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "21/02/26  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.435Z",
+          "originalData": {
+            "title": "Ultimate Rnb",
+            "date": "21/02/26  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/ultimate-rnb",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.435Z",
+      "originalData": {
+        "title": "Ultimate Rnb",
+        "date": "21/02/26  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/ultimate-rnb",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 64,
+    "event": {
+      "title": "Sex Pistols Expose & Six Little Fingers",
+      "date": "28/02/26  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/sex-pistols-expose-six-little-fingers",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"28/02/26  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "28/02/26  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.435Z",
+          "originalData": {
+            "title": "Sex Pistols Expose & Six Little Fingers",
+            "date": "28/02/26  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/sex-pistols-expose-six-little-fingers",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.435Z",
+      "originalData": {
+        "title": "Sex Pistols Expose & Six Little Fingers",
+        "date": "28/02/26  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/sex-pistols-expose-six-little-fingers",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 65,
+    "event": {
+      "title": "Daft Funk",
+      "date": "07/03/26  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/daft-funk",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"07/03/26  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "07/03/26  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.435Z",
+          "originalData": {
+            "title": "Daft Funk",
+            "date": "07/03/26  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/daft-funk",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.435Z",
+      "originalData": {
+        "title": "Daft Funk",
+        "date": "07/03/26  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/daft-funk",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 66,
+    "event": {
+      "title": "Arctic Numpties",
+      "date": "14/03/26  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/arctic-numpties",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"14/03/26  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "14/03/26  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.435Z",
+          "originalData": {
+            "title": "Arctic Numpties",
+            "date": "14/03/26  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/arctic-numpties",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.435Z",
+      "originalData": {
+        "title": "Arctic Numpties",
+        "date": "14/03/26  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/arctic-numpties",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 67,
+    "event": {
+      "title": "The Cribs",
+      "date": "28/03/26  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/the-cribs",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"28/03/26  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "28/03/26  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.436Z",
+          "originalData": {
+            "title": "The Cribs",
+            "date": "28/03/26  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/the-cribs",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.436Z",
+      "originalData": {
+        "title": "The Cribs",
+        "date": "28/03/26  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/the-cribs",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 68,
+    "event": {
+      "title": "A Tribute To Amy",
+      "date": "18/04/26  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/a-tribute-to-amy",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.924Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"18/04/26  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "18/04/26  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.436Z",
+          "originalData": {
+            "title": "A Tribute To Amy",
+            "date": "18/04/26  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/a-tribute-to-amy",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.924Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.436Z",
+      "originalData": {
+        "title": "A Tribute To Amy",
+        "date": "18/04/26  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/a-tribute-to-amy",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.924Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 69,
+    "event": {
+      "title": "Love",
+      "date": "01/05/26  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/love",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.925Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"01/05/26  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "01/05/26  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.436Z",
+          "originalData": {
+            "title": "Love",
+            "date": "01/05/26  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/love",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.925Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.436Z",
+      "originalData": {
+        "title": "Love",
+        "date": "01/05/26  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/love",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.925Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 70,
+    "event": {
+      "title": "A Night Of Jagged Little Pill",
+      "date": "22/05/26  7:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/a-night-of-jagged-little-pill",
+      "dateUnix": null,
+      "scrapedAt": "2025-09-05T08:39:23.925Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "errors": [
+      {
+        "type": "date_parsing_failed",
+        "message": "Date parsing failed for: \"22/05/26  7:00pm\"",
+        "field": "dateUnix",
+        "value": null,
+        "originalDate": "22/05/26  7:00pm",
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2025-09-05T08:39:28.436Z",
+          "originalData": {
+            "title": "A Night Of Jagged Little Pill",
+            "date": "22/05/26  7:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/a-night-of-jagged-little-pill",
+            "dateUnix": null,
+            "scrapedAt": "2025-09-05T08:39:23.925Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "warnings": [],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2025-09-05T08:39:28.436Z",
+      "originalData": {
+        "title": "A Night Of Jagged Little Pill",
+        "date": "22/05/26  7:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/a-night-of-jagged-little-pill",
+        "dateUnix": null,
+        "scrapedAt": "2025-09-05T08:39:23.925Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  }
+]

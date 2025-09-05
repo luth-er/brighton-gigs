@@ -48,25 +48,22 @@ class GreenDoorScraper extends BaseScraper {
 
 class ConcordeTwoScraper extends BaseScraper {
   constructor() {
-    super('Concorde 2', 'https://www.gigseekr.com/uk/en/brighton/concorde-2/venue/jk');
+    super('Concorde 2', 'https://www.concorde2.co.uk/whats-on?type=live');
   }
 
   async scrape() {
     return globalRateLimiter.execute(async () => {
       const $ = await this.fetchAndParseHTML(this.baseUrl);
       
-      return $('.event-container .basic-event').map((_, element) => {
-        const day = $(element).find('.date-container .day').text().trim();
-        const month = $(element).find('.date-container .month').text().trim();
-        const year = $(element).find('.date-container .year').text().trim();
-        const title = $(element).find('.details h3 a').text().trim();
-        const date = `${day} ${month} ${year}`;
-        const link = 'https://www.gigseekr.com' + $(element).find('.details h3 a').attr('href');
+      return $('a.block.group').map((_, element) => {
+        const title = $(element).find('h3').text().trim();
+        const date = $(element).find('datetime').text().trim();
+        const link = $(element).attr('href');
         const dateUnix = this.parseEventDate(date, title);
         
         return this.createEvent({ title, date, link, dateUnix });
       }).get();
-    }, { domain: 'gigseekr.com', priority: 1 });
+    }, { domain: 'concorde2.co.uk', priority: 1 });
   }
 }
 
