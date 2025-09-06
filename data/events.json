@@ -1,47 +1,20 @@
 [
   {
-    "title": "HIRS",
-    "date": "Fri, 5 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/hirs/",
-    "dateUnix": 1757026800000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
     "title": "90s vs 00s",
     "date": "Fri, 5 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s/",
-    "dateUnix": 1757026800000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
+    "dateUnix": 1757030400000,
+    "scrapedAt": "2025-09-06T03:13:09.588Z",
     "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Nagasaki Dog + The Wrong Trousers + Gutterfly + Flavours",
-    "date": "5th September 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/nagasaki-dog-the-wrong-trousers-gutterfly-flavours/",
-    "dateUnix": 1757095200000,
-    "scrapedAt": "2025-09-05T08:55:22.440Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "808 State - Live",
-    "date": "05/09/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/808-state-live",
-    "dateUnix": 1757097000000,
-    "scrapedAt": "2025-09-05T08:55:22.390Z",
-    "scraper": "ConcordeTwoScraper"
   },
   {
     "title": "KVLL COLONISERS: FLORALIS ALBUM RELEASE",
     "date": "Sat, 6 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/floralis-album-release-show/",
-    "dateUnix": 1757113200000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
+    "dateUnix": 1757116800000,
+    "scrapedAt": "2025-09-06T03:13:09.588Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -49,8 +22,8 @@
     "date": "Sat, 6 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985/",
-    "dateUnix": 1757113200000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
+    "dateUnix": 1757116800000,
+    "scrapedAt": "2025-09-06T03:13:09.589Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -58,8 +31,8 @@
     "date": "Saturday 6th September, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/waiting-list/666663",
-    "dateUnix": 1757113200000,
-    "scrapedAt": "2025-09-05T08:55:26.922Z",
+    "dateUnix": 1757116800000,
+    "scrapedAt": "2025-09-06T03:13:11.107Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -67,8 +40,8 @@
     "date": "06/09/25  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/fleetwood-bac",
-    "dateUnix": 1757181600000,
-    "scrapedAt": "2025-09-05T08:55:22.392Z",
+    "dateUnix": 1757185200000,
+    "scrapedAt": "2025-09-06T03:13:08.354Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -76,8 +49,8 @@
     "date": "6th September 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/really-big-really-clever/",
-    "dateUnix": 1757183400000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
+    "dateUnix": 1757187000000,
+    "scrapedAt": "2025-09-06T03:13:09.265Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -85,8 +58,8 @@
     "date": "Sun, 7 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/dutch-interior/",
-    "dateUnix": 1757199600000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
+    "dateUnix": 1757203200000,
+    "scrapedAt": "2025-09-06T03:13:09.589Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -94,8 +67,8 @@
     "date": "07/09/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/fun-lovin-criminals",
-    "dateUnix": 1757269800000,
-    "scrapedAt": "2025-09-05T08:55:22.393Z",
+    "dateUnix": 1757273400000,
+    "scrapedAt": "2025-09-06T03:13:08.355Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -103,8 +76,17 @@
     "date": "Tue, 9 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/food-house/",
-    "dateUnix": 1757372400000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
+    "dateUnix": 1757376000000,
+    "scrapedAt": "2025-09-06T03:13:09.589Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "Ruckus",
+    "date": "Wed, 10 Sep 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/ruckus/",
+    "dateUnix": 1757462400000,
+    "scrapedAt": "2025-09-06T03:13:09.589Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -112,8 +94,8 @@
     "date": "10th September 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/japanese-television-radio-anorak-magda-more/",
-    "dateUnix": 1757529000000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
+    "dateUnix": 1757532600000,
+    "scrapedAt": "2025-09-06T03:13:09.265Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -121,8 +103,8 @@
     "date": "10/09/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/flyte",
-    "dateUnix": 1757529000000,
-    "scrapedAt": "2025-09-05T08:55:22.394Z",
+    "dateUnix": 1757532600000,
+    "scrapedAt": "2025-09-06T03:13:08.355Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -130,8 +112,8 @@
     "date": "Thu, 11 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/ragdoll/",
-    "dateUnix": 1757545200000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
+    "dateUnix": 1757548800000,
+    "scrapedAt": "2025-09-06T03:13:09.589Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -139,8 +121,8 @@
     "date": "11th September 2025 at 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/acopia-support/",
-    "dateUnix": 1757617200000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
+    "dateUnix": 1757620800000,
+    "scrapedAt": "2025-09-06T03:13:09.265Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -148,8 +130,8 @@
     "date": "Fri, 12 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/telecom/",
-    "dateUnix": 1757631600000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
+    "dateUnix": 1757635200000,
+    "scrapedAt": "2025-09-06T03:13:09.590Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -157,8 +139,8 @@
     "date": "Fri, 12 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing/",
-    "dateUnix": 1757631600000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
+    "dateUnix": 1757635200000,
+    "scrapedAt": "2025-09-06T03:13:09.590Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -166,8 +148,8 @@
     "date": "Friday 12th September, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/671176",
-    "dateUnix": 1757631600000,
-    "scrapedAt": "2025-09-05T08:55:26.922Z",
+    "dateUnix": 1757635200000,
+    "scrapedAt": "2025-09-06T03:13:11.107Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -175,8 +157,8 @@
     "date": "12/09/25  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/emo-fest",
-    "dateUnix": 1757700000000,
-    "scrapedAt": "2025-09-05T08:55:22.394Z",
+    "dateUnix": 1757703600000,
+    "scrapedAt": "2025-09-06T03:13:08.355Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -184,8 +166,8 @@
     "date": "12th September 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/fortitude-valley-support/",
-    "dateUnix": 1757701800000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
+    "dateUnix": 1757705400000,
+    "scrapedAt": "2025-09-06T03:13:09.265Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -193,8 +175,8 @@
     "date": "Sat, 13 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/far-caspian/",
-    "dateUnix": 1757718000000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
+    "dateUnix": 1757721600000,
+    "scrapedAt": "2025-09-06T03:13:09.590Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -202,8 +184,8 @@
     "date": "Sat, 13 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/",
-    "dateUnix": 1757718000000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
+    "dateUnix": 1757721600000,
+    "scrapedAt": "2025-09-06T03:13:09.590Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -211,8 +193,8 @@
     "date": "13th September 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/senser/",
-    "dateUnix": 1757788200000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
+    "dateUnix": 1757791800000,
+    "scrapedAt": "2025-09-06T03:13:09.266Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -220,8 +202,8 @@
     "date": "14th September 2025 at 6:45 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/dance-myth/",
-    "dateUnix": 1757871900000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
+    "dateUnix": 1757875500000,
+    "scrapedAt": "2025-09-06T03:13:09.266Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -229,8 +211,8 @@
     "date": "15th September 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/placeholder-poetry-night-12/",
-    "dateUnix": 1757961000000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
+    "dateUnix": 1757964600000,
+    "scrapedAt": "2025-09-06T03:13:09.266Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -238,8 +220,8 @@
     "date": "Tue, 16 Sep 2025",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/thredd-slow-cooked/",
-    "dateUnix": 1757977200000,
-    "scrapedAt": "2025-09-05T08:55:42.007Z",
+    "dateUnix": 1757980800000,
+    "scrapedAt": "2025-09-06T03:13:09.590Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -247,8 +229,8 @@
     "date": "Tuesday 16th September, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/671423",
-    "dateUnix": 1757977200000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
+    "dateUnix": 1757980800000,
+    "scrapedAt": "2025-09-06T03:13:11.107Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -256,8 +238,8 @@
     "date": "16/09/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/incognito",
-    "dateUnix": 1758047400000,
-    "scrapedAt": "2025-09-05T08:55:22.394Z",
+    "dateUnix": 1758051000000,
+    "scrapedAt": "2025-09-06T03:13:08.355Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -265,8 +247,8 @@
     "date": "Thursday 18th September, 2025",
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/656465",
-    "dateUnix": 1758150000000,
-    "scrapedAt": "2025-09-05T08:55:23.184Z",
+    "dateUnix": 1758153600000,
+    "scrapedAt": "2025-09-06T03:13:10.114Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -274,8 +256,8 @@
     "date": "18th September 2025 at 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/d-i-e-fest-ii-pre-show/",
-    "dateUnix": 1758218400000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
+    "dateUnix": 1758222000000,
+    "scrapedAt": "2025-09-06T03:13:09.266Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -283,8 +265,8 @@
     "date": "18/09/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/skindred",
-    "dateUnix": 1758220200000,
-    "scrapedAt": "2025-09-05T08:55:22.394Z",
+    "dateUnix": 1758223800000,
+    "scrapedAt": "2025-09-06T03:13:08.356Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -292,8 +274,8 @@
     "date": "19th September 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/ramona-marx/",
-    "dateUnix": 1758306600000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
+    "dateUnix": 1758310200000,
+    "scrapedAt": "2025-09-06T03:13:09.266Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -301,8 +283,8 @@
     "date": "19/09/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/one-night-in-nashville",
-    "dateUnix": 1758306600000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
+    "dateUnix": 1758310200000,
+    "scrapedAt": "2025-09-06T03:13:08.356Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -310,8 +292,8 @@
     "date": "20/09/25  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/guns-n-roses-experience",
-    "dateUnix": 1758391200000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
+    "dateUnix": 1758394800000,
+    "scrapedAt": "2025-09-06T03:13:08.356Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -319,8 +301,8 @@
     "date": "20th September 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/first-time-flyers-support/",
-    "dateUnix": 1758393000000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
+    "dateUnix": 1758396600000,
+    "scrapedAt": "2025-09-06T03:13:09.266Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -328,8 +310,8 @@
     "date": "21st September 2025 at 6:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/gloma-mashed-seethe-sunlifter-free-entry/",
-    "dateUnix": 1758474000000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
+    "dateUnix": 1758477600000,
+    "scrapedAt": "2025-09-06T03:13:09.266Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -337,8 +319,8 @@
     "date": "23rd September 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/whitney-k/",
-    "dateUnix": 1758652200000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
+    "dateUnix": 1758655800000,
+    "scrapedAt": "2025-09-06T03:13:09.266Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -346,8 +328,8 @@
     "date": "24th September 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/dez-dare-lunar-dirt/",
-    "dateUnix": 1758738600000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
+    "dateUnix": 1758742200000,
+    "scrapedAt": "2025-09-06T03:13:09.267Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -355,8 +337,8 @@
     "date": "24/09/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/sleeper-2",
-    "dateUnix": 1758738600000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
+    "dateUnix": 1758742200000,
+    "scrapedAt": "2025-09-06T03:13:08.356Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -364,8 +346,8 @@
     "date": "25th September 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/la-witch/",
-    "dateUnix": 1758825000000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
+    "dateUnix": 1758828600000,
+    "scrapedAt": "2025-09-06T03:13:09.267Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -373,8 +355,8 @@
     "date": "25/09/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/florence-black",
-    "dateUnix": 1758825000000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
+    "dateUnix": 1758828600000,
+    "scrapedAt": "2025-09-06T03:13:08.356Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -382,8 +364,8 @@
     "date": "26th September 2025 at 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/daffodils-dura-mater-divorce-attorney-nel-blu/",
-    "dateUnix": 1758909600000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
+    "dateUnix": 1758913200000,
+    "scrapedAt": "2025-09-06T03:13:09.267Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -391,8 +373,8 @@
     "date": "26/09/25  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/sambroso-allstas",
-    "dateUnix": 1758909600000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
+    "dateUnix": 1758913200000,
+    "scrapedAt": "2025-09-06T03:13:08.357Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -400,8 +382,8 @@
     "date": "Saturday 27th September, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/658459",
-    "dateUnix": 1758927600000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
+    "dateUnix": 1758931200000,
+    "scrapedAt": "2025-09-06T03:13:11.107Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -409,8 +391,8 @@
     "date": "27/09/25  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/dirty-dc",
-    "dateUnix": 1758996000000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
+    "dateUnix": 1758999600000,
+    "scrapedAt": "2025-09-06T03:13:08.357Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -418,8 +400,8 @@
     "date": "27th September 2025 at 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/harker-regal-cheer-mydiary/",
-    "dateUnix": 1758999600000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
+    "dateUnix": 1759003200000,
+    "scrapedAt": "2025-09-06T03:13:09.267Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -427,8 +409,8 @@
     "date": "28th September 2025 at 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/vestia-support/",
-    "dateUnix": 1759082400000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
+    "dateUnix": 1759086000000,
+    "scrapedAt": "2025-09-06T03:13:09.267Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -436,8 +418,8 @@
     "date": "29th September 2025 at 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-monday-smile-moth-sunlifter-insectus/",
-    "dateUnix": 1759168800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1759172400000,
+    "scrapedAt": "2025-09-06T03:13:09.267Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -445,8 +427,8 @@
     "date": "30th September 2025 at 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-stealers-free-entry/",
-    "dateUnix": 1759258800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1759262400000,
+    "scrapedAt": "2025-09-06T03:13:09.267Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -454,8 +436,8 @@
     "date": "02/10/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/overpass",
-    "dateUnix": 1759429800000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
+    "dateUnix": 1759433400000,
+    "scrapedAt": "2025-09-06T03:13:08.357Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -463,8 +445,8 @@
     "date": "3rd October 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/14-iced-bears/",
-    "dateUnix": 1759516200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1759519800000,
+    "scrapedAt": "2025-09-06T03:13:09.267Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -472,8 +454,8 @@
     "date": "04/10/25  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/mass-of-the-fermenting-dregs",
-    "dateUnix": 1759600800000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
+    "dateUnix": 1759604400000,
+    "scrapedAt": "2025-09-06T03:13:08.357Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -481,8 +463,8 @@
     "date": "4th October 2025 at 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/midnight-rodeo/",
-    "dateUnix": 1759604400000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1759608000000,
+    "scrapedAt": "2025-09-06T03:13:09.267Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -490,8 +472,8 @@
     "date": "5th October 2025 at 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/psudoku-call-me-franco-gurf/",
-    "dateUnix": 1759690800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1759694400000,
+    "scrapedAt": "2025-09-06T03:13:09.267Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -499,8 +481,8 @@
     "date": "06/10/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/jojo-siwa",
-    "dateUnix": 1759775400000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
+    "dateUnix": 1759779000000,
+    "scrapedAt": "2025-09-06T03:13:08.357Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -508,8 +490,8 @@
     "date": "7th October 2025 at 7:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/cm-wolf-and-the-backbones/",
-    "dateUnix": 1759860000000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1759863600000,
+    "scrapedAt": "2025-09-06T03:13:09.267Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -517,8 +499,8 @@
     "date": "8th October 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/dirty-nice/",
-    "dateUnix": 1759948200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1759951800000,
+    "scrapedAt": "2025-09-06T03:13:09.268Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -526,8 +508,8 @@
     "date": "08/10/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/red-rum-club",
-    "dateUnix": 1759948200000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
+    "dateUnix": 1759951800000,
+    "scrapedAt": "2025-09-06T03:13:08.357Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -535,8 +517,8 @@
     "date": "09/10/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-new-eves",
-    "dateUnix": 1760034600000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
+    "dateUnix": 1760038200000,
+    "scrapedAt": "2025-09-06T03:13:08.357Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -544,8 +526,8 @@
     "date": "9th October 2025 at 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/art-decco/",
-    "dateUnix": 1760036400000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1760040000000,
+    "scrapedAt": "2025-09-06T03:13:09.268Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -553,8 +535,8 @@
     "date": "Friday 10th October, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/671648",
-    "dateUnix": 1760050800000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
+    "dateUnix": 1760054400000,
+    "scrapedAt": "2025-09-06T03:13:11.107Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -562,8 +544,8 @@
     "date": "Saturday 11th October, 2025",
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/673840",
-    "dateUnix": 1760137200000,
-    "scrapedAt": "2025-09-05T08:55:23.185Z",
+    "dateUnix": 1760140800000,
+    "scrapedAt": "2025-09-06T03:13:10.114Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -571,8 +553,8 @@
     "date": "11/10/25  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/nirvana-uk",
-    "dateUnix": 1760205600000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
+    "dateUnix": 1760209200000,
+    "scrapedAt": "2025-09-06T03:13:08.358Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -580,8 +562,8 @@
     "date": "13/10/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-ks",
-    "dateUnix": 1760380200000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
+    "dateUnix": 1760383800000,
+    "scrapedAt": "2025-09-06T03:13:08.358Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -589,8 +571,8 @@
     "date": "15/10/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/jme",
-    "dateUnix": 1760553000000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
+    "dateUnix": 1760556600000,
+    "scrapedAt": "2025-09-06T03:13:08.358Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -598,8 +580,8 @@
     "date": "15th October 2025 at 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/long-fling/",
-    "dateUnix": 1760554800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1760558400000,
+    "scrapedAt": "2025-09-06T03:13:09.268Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -607,8 +589,8 @@
     "date": "16/10/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-royston-club",
-    "dateUnix": 1760639400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "dateUnix": 1760643000000,
+    "scrapedAt": "2025-09-06T03:13:08.358Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -616,8 +598,8 @@
     "date": "Friday 17th October, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/661386",
-    "dateUnix": 1760655600000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
+    "dateUnix": 1760659200000,
+    "scrapedAt": "2025-09-06T03:13:11.107Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -625,8 +607,8 @@
     "date": "17/10/25  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/of-monsters-and-men",
-    "dateUnix": 1760724000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "dateUnix": 1760727600000,
+    "scrapedAt": "2025-09-06T03:13:08.358Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -634,8 +616,8 @@
     "date": "17th October 2025 at 8:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/utopia-strong/",
-    "dateUnix": 1760727600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1760731200000,
+    "scrapedAt": "2025-09-06T03:13:09.268Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -643,8 +625,8 @@
     "date": "18/10/25  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/sleeper",
-    "dateUnix": 1760810400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "dateUnix": 1760814000000,
+    "scrapedAt": "2025-09-06T03:13:08.358Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -652,8 +634,8 @@
     "date": "19th October 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/gloin-support/",
-    "dateUnix": 1760898600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1760902200000,
+    "scrapedAt": "2025-09-06T03:13:09.268Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -661,8 +643,8 @@
     "date": "19/10/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/kid-kapichi",
-    "dateUnix": 1760898600000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "dateUnix": 1760902200000,
+    "scrapedAt": "2025-09-06T03:13:08.358Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -670,8 +652,8 @@
     "date": "20th October 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/michael-aldag/",
-    "dateUnix": 1760985000000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1760988600000,
+    "scrapedAt": "2025-09-06T03:13:09.268Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -679,8 +661,8 @@
     "date": "20th October 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/michael-aldag-support/",
-    "dateUnix": 1760985000000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1760988600000,
+    "scrapedAt": "2025-09-06T03:13:09.268Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -688,8 +670,8 @@
     "date": "22nd October 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/aqualine/",
-    "dateUnix": 1761157800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1761161400000,
+    "scrapedAt": "2025-09-06T03:13:09.268Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -697,8 +679,8 @@
     "date": "22/10/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/l1nkn-p4rk-linkin-park-experience",
-    "dateUnix": 1761157800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "dateUnix": 1761161400000,
+    "scrapedAt": "2025-09-06T03:13:08.358Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -706,8 +688,8 @@
     "date": "23rd October 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/holysseus-fly/",
-    "dateUnix": 1761244200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1761247800000,
+    "scrapedAt": "2025-09-06T03:13:09.268Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -715,8 +697,8 @@
     "date": "23/10/25  7:30pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-herbaliser-band",
-    "dateUnix": 1761244200000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "dateUnix": 1761247800000,
+    "scrapedAt": "2025-09-06T03:13:08.359Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -724,8 +706,8 @@
     "date": "24/10/25  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/letz-zep",
-    "dateUnix": 1761328800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "dateUnix": 1761332400000,
+    "scrapedAt": "2025-09-06T03:13:08.359Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -733,8 +715,8 @@
     "date": "24th October 2025 at 7:30 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/phinius-gage/",
-    "dateUnix": 1761330600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1761334200000,
+    "scrapedAt": "2025-09-06T03:13:09.268Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -742,8 +724,8 @@
     "date": "Saturday 25th October, 2025",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/673726",
-    "dateUnix": 1761346800000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
+    "dateUnix": 1761350400000,
+    "scrapedAt": "2025-09-06T03:13:11.108Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -751,8 +733,8 @@
     "date": "25th October 2025 at 1:00 pm",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/lollapagooza-3/",
-    "dateUnix": 1761393600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "dateUnix": 1761397200000,
+    "scrapedAt": "2025-09-06T03:13:09.268Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -760,8 +742,8 @@
     "date": "25/10/25  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/stone-foundation",
-    "dateUnix": 1761415200000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "dateUnix": 1761418800000,
+    "scrapedAt": "2025-09-06T03:13:08.359Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -770,7 +752,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-lovely-eggs",
     "dateUnix": 1761507000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.359Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -779,7 +761,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/cardinal-black",
     "dateUnix": 1761679800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.359Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -788,7 +770,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-now/",
     "dateUnix": 1761764400000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.269Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -797,7 +779,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/kerrbang",
     "dateUnix": 1761766200000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.359Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -806,7 +788,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/misty-in-roots",
     "dateUnix": 1761850800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.359Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -815,7 +797,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/valve",
     "dateUnix": 1761944400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.359Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -824,7 +806,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/674274",
     "dateUnix": 1761955200000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
+    "scrapedAt": "2025-09-06T03:13:11.108Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -833,7 +815,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/scott-lavene-mc-pumpkin/",
     "dateUnix": 1762027200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.269Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -842,7 +824,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/castle-rat",
     "dateUnix": 1762284600000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.359Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -851,7 +833,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-cinelli-brothers/",
     "dateUnix": 1762371000000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.269Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -860,7 +842,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/mono",
     "dateUnix": 1762371000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.359Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -869,7 +851,7 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/657354",
     "dateUnix": 1762387200000,
-    "scrapedAt": "2025-09-05T08:55:23.185Z",
+    "scrapedAt": "2025-09-06T03:13:10.115Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -878,7 +860,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-world-is-a-beautiful-place-i-am-no-longer-afraid-to-die/",
     "dateUnix": 1762459200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.269Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -887,7 +869,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/mutations-festival-2025-friday/",
     "dateUnix": 1762534800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.269Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -896,7 +878,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/pop-will-eat-itself",
     "dateUnix": 1762542000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.360Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -905,7 +887,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/mutations-festival-2025-saturday/",
     "dateUnix": 1762621200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.269Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -914,7 +896,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/metallica-reloaded",
     "dateUnix": 1762628400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.360Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -923,7 +905,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/willie-j-healey",
     "dateUnix": 1762803000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.360Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -932,7 +914,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/gag-ingrown-plastics/",
     "dateUnix": 1762887600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.269Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -941,7 +923,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/chameleons",
     "dateUnix": 1762975800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.360Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -950,7 +932,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/crazy-world-of-arthur-brown",
     "dateUnix": 1763062200000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.360Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -959,7 +941,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/turin-brakes",
     "dateUnix": 1763146800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.360Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -968,7 +950,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/anna-phoebe-special-guests/",
     "dateUnix": 1763150400000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.269Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -977,7 +959,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/hugh-cornwell",
     "dateUnix": 1763321400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.360Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -986,7 +968,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-pains-of-being-pure-at-heart",
     "dateUnix": 1763751600000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.360Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -995,7 +977,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/674513",
     "dateUnix": 1763769600000,
-    "scrapedAt": "2025-09-05T08:55:26.924Z",
+    "scrapedAt": "2025-09-06T03:13:11.108Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -1004,7 +986,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/uk-foo-fighters",
     "dateUnix": 1763838000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.360Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1013,7 +995,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/poly-math/",
     "dateUnix": 1763841600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.269Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1022,7 +1004,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/conan",
     "dateUnix": 1764012600000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.360Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1031,7 +1013,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/kean-kavanagh/",
     "dateUnix": 1764099000000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.269Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1040,7 +1022,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-brand-new-heavies",
     "dateUnix": 1764185400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.360Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1049,7 +1031,7 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/675446",
     "dateUnix": 1764201600000,
-    "scrapedAt": "2025-09-05T08:55:23.186Z",
+    "scrapedAt": "2025-09-06T03:13:10.115Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -1058,7 +1040,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/warmduscher",
     "dateUnix": 1764271800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.363Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1067,7 +1049,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/ozric-tentacles-system-7",
     "dateUnix": 1764356400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.363Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1076,7 +1058,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hotel-lux/",
     "dateUnix": 1764358200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.269Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1085,7 +1067,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/674896",
     "dateUnix": 1764374400000,
-    "scrapedAt": "2025-09-05T08:55:26.924Z",
+    "scrapedAt": "2025-09-06T03:13:11.108Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -1094,7 +1076,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/good-health-good-wealth/",
     "dateUnix": 1764529200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-09-06T03:13:09.270Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1103,7 +1085,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/oh-my-god-its-the-church",
     "dateUnix": 1764703800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.364Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1112,7 +1094,7 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/674190",
     "dateUnix": 1764892800000,
-    "scrapedAt": "2025-09-05T08:55:23.186Z",
+    "scrapedAt": "2025-09-06T03:13:10.115Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -1121,7 +1103,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/dub-pistols",
     "dateUnix": 1764961200000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-09-06T03:13:08.364Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1130,7 +1112,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/673289",
     "dateUnix": 1764979200000,
-    "scrapedAt": "2025-09-05T08:55:26.924Z",
+    "scrapedAt": "2025-09-06T03:13:11.108Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -1139,7 +1121,16 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/electric-six",
     "dateUnix": 1765135800000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.364Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "The Wildhearts",
+    "date": "10/12/25  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/the-wildhearts",
+    "dateUnix": 1765395000000,
+    "scrapedAt": "2025-09-06T03:13:08.364Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1148,7 +1139,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/two-promoters-1-pod/",
     "dateUnix": 1765483200000,
-    "scrapedAt": "2025-09-05T08:55:22.444Z",
+    "scrapedAt": "2025-09-06T03:13:09.270Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1157,7 +1148,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/672272",
     "dateUnix": 1765497600000,
-    "scrapedAt": "2025-09-05T08:55:26.924Z",
+    "scrapedAt": "2025-09-06T03:13:11.109Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -1166,7 +1157,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/rhythm-of-the-90s",
     "dateUnix": 1765566000000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.364Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1175,7 +1166,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/david-devant-his-spirit-wife-3/",
     "dateUnix": 1765567800000,
-    "scrapedAt": "2025-09-05T08:55:22.444Z",
+    "scrapedAt": "2025-09-06T03:13:09.270Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1184,7 +1175,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/uk-queen",
     "dateUnix": 1765652400000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.364Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1193,7 +1184,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/bones-ate-arfa/",
     "dateUnix": 1765656000000,
-    "scrapedAt": "2025-09-05T08:55:22.444Z",
+    "scrapedAt": "2025-09-06T03:13:09.270Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1202,7 +1193,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/cash",
     "dateUnix": 1765740600000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.364Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1211,7 +1202,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/absolute-bowie",
     "dateUnix": 1766170800000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.364Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1220,7 +1211,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/80s-hifi-christmas-special",
     "dateUnix": 1766257200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.364Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1229,7 +1220,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/bad-manners",
     "dateUnix": 1766345400000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.364Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1238,7 +1229,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-marley-experience",
     "dateUnix": 1766518200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.364Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1247,7 +1238,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/special-kinda-madness",
     "dateUnix": 1766862000000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.365Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1256,7 +1247,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/motorheadache",
     "dateUnix": 1769281200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.365Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1265,7 +1256,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/xana/",
     "dateUnix": 1769542200000,
-    "scrapedAt": "2025-09-05T08:55:22.444Z",
+    "scrapedAt": "2025-09-06T03:13:09.270Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1274,7 +1265,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/saturdays-at-your-place/",
     "dateUnix": 1769887800000,
-    "scrapedAt": "2025-09-05T08:55:22.444Z",
+    "scrapedAt": "2025-09-06T03:13:09.270Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1283,7 +1274,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-cureheads-siouxsie-the-budgiees",
     "dateUnix": 1771009200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.365Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1292,7 +1283,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/coach-party",
     "dateUnix": 1771614000000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.365Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1301,7 +1292,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/ultimate-rnb",
     "dateUnix": 1771700400000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.365Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1310,8 +1301,17 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/sex-pistols-expose-six-little-fingers",
     "dateUnix": 1772305200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.365Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Verses + Support",
+    "date": "7th March 2026 at 8:00 am",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/verses-support/",
+    "dateUnix": 1772870400000,
+    "scrapedAt": "2025-09-06T03:13:09.270Z",
+    "scraper": "HopeRuinScraper"
   },
   {
     "title": "Daft Funk",
@@ -1319,7 +1319,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/daft-funk",
     "dateUnix": 1772910000000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.365Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1328,7 +1328,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/arctic-numpties",
     "dateUnix": 1773514800000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.365Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1337,7 +1337,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-cribs",
     "dateUnix": 1774724400000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-09-06T03:13:08.366Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1345,8 +1345,8 @@
     "date": "18/04/26  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/a-tribute-to-amy",
-    "dateUnix": 1776535200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "dateUnix": 1776538800000,
+    "scrapedAt": "2025-09-06T03:13:08.366Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1354,8 +1354,8 @@
     "date": "01/05/26  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/love",
-    "dateUnix": 1777658400000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "dateUnix": 1777662000000,
+    "scrapedAt": "2025-09-06T03:13:08.366Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1363,8 +1363,8 @@
     "date": "22/05/26  7:00pm",
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/a-night-of-jagged-little-pill",
-    "dateUnix": 1779472800000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "dateUnix": 1779476400000,
+    "scrapedAt": "2025-09-06T03:13:08.366Z",
     "scraper": "ConcordeTwoScraper"
   }
 ]
