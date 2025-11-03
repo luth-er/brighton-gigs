@@ -1,38 +1,11 @@
 [
   {
-    "title": "It Is Still 1985",
-    "date": "Sat, 1 Nov 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-11/",
-    "dateUnix": 1761955200000,
-    "scrapedAt": "2025-11-02T03:26:27.574Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Litany",
-    "date": "Sun, 2 Nov 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/litany/",
-    "dateUnix": 1762041600000,
-    "scrapedAt": "2025-11-02T03:26:27.574Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Donae'o",
-    "date": "02 NOV 2025",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/donaeo-spectrum-worldwide-tour/event/88kqw",
-    "dateUnix": 1762041600000,
-    "scrapedAt": "2025-11-02T03:26:27.797Z",
-    "scraper": "ChalkScraper"
-  },
-  {
     "title": "Amenra",
     "date": "03 NOV 2025",
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/amenra-november-tour-2025/event/8oyzh",
     "dateUnix": 1762128000000,
-    "scrapedAt": "2025-11-02T03:26:27.798Z",
+    "scrapedAt": "2025-11-03T03:28:56.221Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -41,7 +14,7 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/ead-wood-the-cash-mountain-tour/event/88jrs",
     "dateUnix": 1762128000000,
-    "scrapedAt": "2025-11-02T03:26:28.501Z",
+    "scrapedAt": "2025-11-03T03:28:56.981Z",
     "scraper": "PrinceAlbertScraper"
   },
   {
@@ -50,7 +23,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/unwound-euuk-tour-2025/event/z28w",
     "dateUnix": 1762214400000,
-    "scrapedAt": "2025-11-02T03:26:27.798Z",
+    "scrapedAt": "2025-11-03T03:28:56.222Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -59,7 +32,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/castle-rat",
     "dateUnix": 1762284600000,
-    "scrapedAt": "2025-11-02T03:26:26.621Z",
+    "scrapedAt": "2025-11-03T03:28:55.050Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -68,7 +41,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/rois/",
     "dateUnix": 1762300800000,
-    "scrapedAt": "2025-11-02T03:26:27.574Z",
+    "scrapedAt": "2025-11-03T03:28:55.680Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -77,7 +50,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/autechre-twentytwentyfive/event/zeor",
     "dateUnix": 1762300800000,
-    "scrapedAt": "2025-11-02T03:26:27.798Z",
+    "scrapedAt": "2025-11-03T03:28:56.222Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -86,7 +59,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/mono",
     "dateUnix": 1762371000000,
-    "scrapedAt": "2025-11-02T03:26:26.621Z",
+    "scrapedAt": "2025-11-03T03:28:55.051Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -95,7 +68,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/sunbeam/",
     "dateUnix": 1762387200000,
-    "scrapedAt": "2025-11-02T03:26:27.574Z",
+    "scrapedAt": "2025-11-03T03:28:55.680Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -104,7 +77,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sananda-maitreya-uk-tour-2025/event/88kzo",
     "dateUnix": 1762387200000,
-    "scrapedAt": "2025-11-02T03:26:27.798Z",
+    "scrapedAt": "2025-11-03T03:28:56.222Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -113,7 +86,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/secret-discotheque-decades-of-pop/event/88m9i",
     "dateUnix": 1762387200000,
-    "scrapedAt": "2025-11-02T03:26:27.799Z",
+    "scrapedAt": "2025-11-03T03:28:56.222Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -122,7 +95,7 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/657354",
     "dateUnix": 1762387200000,
-    "scrapedAt": "2025-11-02T03:26:27.469Z",
+    "scrapedAt": "2025-11-03T03:28:56.497Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -131,7 +104,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/mutations-festival/",
     "dateUnix": 1762473600000,
-    "scrapedAt": "2025-11-02T03:26:27.574Z",
+    "scrapedAt": "2025-11-03T03:28:55.680Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -140,7 +113,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s-3/",
     "dateUnix": 1762473600000,
-    "scrapedAt": "2025-11-02T03:26:27.574Z",
+    "scrapedAt": "2025-11-03T03:28:55.680Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -149,7 +122,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/fridaze/event/88m9u",
     "dateUnix": 1762473600000,
-    "scrapedAt": "2025-11-02T03:26:27.799Z",
+    "scrapedAt": "2025-11-03T03:28:56.222Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -158,7 +131,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/pop-will-eat-itself",
     "dateUnix": 1762542000000,
-    "scrapedAt": "2025-11-02T03:26:26.622Z",
+    "scrapedAt": "2025-11-03T03:28:55.051Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -167,7 +140,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/mutations-festival-2/",
     "dateUnix": 1762560000000,
-    "scrapedAt": "2025-11-02T03:26:27.574Z",
+    "scrapedAt": "2025-11-03T03:28:55.680Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -176,7 +149,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-12/",
     "dateUnix": 1762560000000,
-    "scrapedAt": "2025-11-02T03:26:27.574Z",
+    "scrapedAt": "2025-11-03T03:28:55.681Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -185,7 +158,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lets-kill-disco-decades-of-party-anthems/event/88m9j",
     "dateUnix": 1762560000000,
-    "scrapedAt": "2025-11-02T03:26:27.799Z",
+    "scrapedAt": "2025-11-03T03:28:56.223Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -194,7 +167,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/metallica-reloaded",
     "dateUnix": 1762628400000,
-    "scrapedAt": "2025-11-02T03:26:26.622Z",
+    "scrapedAt": "2025-11-03T03:28:55.051Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -203,7 +176,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/portrayal-of-guilt/",
     "dateUnix": 1762646400000,
-    "scrapedAt": "2025-11-02T03:26:27.575Z",
+    "scrapedAt": "2025-11-03T03:28:55.681Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -212,7 +185,7 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/vigilantes-golden-record-tour/event/88ovf",
     "dateUnix": 1762646400000,
-    "scrapedAt": "2025-11-02T03:26:28.501Z",
+    "scrapedAt": "2025-11-03T03:28:56.981Z",
     "scraper": "PrinceAlbertScraper"
   },
   {
@@ -221,7 +194,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/gareth-dunlop/",
     "dateUnix": 1762732800000,
-    "scrapedAt": "2025-11-02T03:26:27.575Z",
+    "scrapedAt": "2025-11-03T03:28:55.681Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -230,7 +203,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/willie-j-healey",
     "dateUnix": 1762803000000,
-    "scrapedAt": "2025-11-02T03:26:26.622Z",
+    "scrapedAt": "2025-11-03T03:28:55.052Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -239,7 +212,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/fletchr-fletchr/",
     "dateUnix": 1762819200000,
-    "scrapedAt": "2025-11-02T03:26:27.575Z",
+    "scrapedAt": "2025-11-03T03:28:55.681Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -248,7 +221,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/hamilton-leithauser-this-side-of-the-island-tour-2025/event/8obz8",
     "dateUnix": 1762819200000,
-    "scrapedAt": "2025-11-02T03:26:27.799Z",
+    "scrapedAt": "2025-11-03T03:28:56.223Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -257,7 +230,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/glasshouse-red-spider-mite-sunglasz-vendor/",
     "dateUnix": 1762905600000,
-    "scrapedAt": "2025-11-02T03:26:27.575Z",
+    "scrapedAt": "2025-11-03T03:28:55.681Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -266,7 +239,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/maruja-pain-to-power-tour/event/8omtn",
     "dateUnix": 1762905600000,
-    "scrapedAt": "2025-11-02T03:26:27.800Z",
+    "scrapedAt": "2025-11-03T03:28:56.223Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -275,8 +248,17 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/chameleons",
     "dateUnix": 1762975800000,
-    "scrapedAt": "2025-11-02T03:26:26.622Z",
+    "scrapedAt": "2025-11-03T03:28:55.052Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Mickey Callisto",
+    "date": "Thu, 13 Nov 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/mickey-callisto/",
+    "dateUnix": 1762992000000,
+    "scrapedAt": "2025-11-03T03:28:55.681Z",
+    "scraper": "GreenDoorScraper"
   },
   {
     "title": "Secret Discotheque",
@@ -284,7 +266,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/secret-discotheque-decades-of-pop/event/88m9n",
     "dateUnix": 1762992000000,
-    "scrapedAt": "2025-11-02T03:26:27.800Z",
+    "scrapedAt": "2025-11-03T03:28:56.223Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -293,8 +275,17 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/crazy-world-of-arthur-brown",
     "dateUnix": 1763062200000,
-    "scrapedAt": "2025-11-02T03:26:26.622Z",
+    "scrapedAt": "2025-11-03T03:28:55.052Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "*SOLD OUT* Deep Sea Diver",
+    "date": "Fri, 14 Nov 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/deep-sea-diver/",
+    "dateUnix": 1763078400000,
+    "scrapedAt": "2025-11-03T03:28:55.681Z",
+    "scraper": "GreenDoorScraper"
   },
   {
     "title": "FRIDAZE",
@@ -302,7 +293,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/fridaze/event/88m95",
     "dateUnix": 1763078400000,
-    "scrapedAt": "2025-11-02T03:26:27.800Z",
+    "scrapedAt": "2025-11-03T03:28:56.223Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -311,7 +302,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/turin-brakes",
     "dateUnix": 1763146800000,
-    "scrapedAt": "2025-11-02T03:26:26.622Z",
+    "scrapedAt": "2025-11-03T03:28:55.052Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -320,7 +311,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/emma-jean-thackray-weirdo-euro-tour-2025/event/8opvb",
     "dateUnix": 1763164800000,
-    "scrapedAt": "2025-11-02T03:26:27.800Z",
+    "scrapedAt": "2025-11-03T03:28:56.224Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -329,7 +320,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lets-kill-disco-decades-of-party-anthems/event/88m9v",
     "dateUnix": 1763164800000,
-    "scrapedAt": "2025-11-02T03:26:27.801Z",
+    "scrapedAt": "2025-11-03T03:28:56.224Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -338,7 +329,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/bear-ghost",
     "dateUnix": 1763233200000,
-    "scrapedAt": "2025-11-02T03:26:26.622Z",
+    "scrapedAt": "2025-11-03T03:28:55.053Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -347,7 +338,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/cupcakke-live-2025-europe-and-ireland-tour/event/88kz9",
     "dateUnix": 1763251200000,
-    "scrapedAt": "2025-11-02T03:26:27.801Z",
+    "scrapedAt": "2025-11-03T03:28:56.224Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -356,7 +347,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/hugh-cornwell",
     "dateUnix": 1763321400000,
-    "scrapedAt": "2025-11-02T03:26:26.622Z",
+    "scrapedAt": "2025-11-03T03:28:55.053Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -365,7 +356,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/slum-village/event/88kzu",
     "dateUnix": 1763424000000,
-    "scrapedAt": "2025-11-02T03:26:27.801Z",
+    "scrapedAt": "2025-11-03T03:28:56.224Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -374,7 +365,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/shame-massive-monster-2025-tour/event/8oyuv",
     "dateUnix": 1763510400000,
-    "scrapedAt": "2025-11-02T03:26:27.801Z",
+    "scrapedAt": "2025-11-03T03:28:56.224Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -383,7 +374,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/dutty-moonshine-big-band-blood-sweat-and-tears-tour-2025/event/zrge",
     "dateUnix": 1763596800000,
-    "scrapedAt": "2025-11-02T03:26:27.802Z",
+    "scrapedAt": "2025-11-03T03:28:56.225Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -392,7 +383,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/secret-discotheque-decades-of-pop/event/88m9t",
     "dateUnix": 1763596800000,
-    "scrapedAt": "2025-11-02T03:26:27.802Z",
+    "scrapedAt": "2025-11-03T03:28:56.225Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -401,7 +392,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/peep-show-quiz",
     "dateUnix": 1763667000000,
-    "scrapedAt": "2025-11-02T03:26:26.622Z",
+    "scrapedAt": "2025-11-03T03:28:55.053Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -410,7 +401,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/dutty-moonshine-big-band-blood-sweat-and-tears-tour-2025/event/zrg3",
     "dateUnix": 1763683200000,
-    "scrapedAt": "2025-11-02T03:26:27.802Z",
+    "scrapedAt": "2025-11-03T03:28:56.225Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -419,7 +410,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/fridaze/event/88m93",
     "dateUnix": 1763683200000,
-    "scrapedAt": "2025-11-02T03:26:27.803Z",
+    "scrapedAt": "2025-11-03T03:28:56.225Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -428,7 +419,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-pains-of-being-pure-at-heart",
     "dateUnix": 1763751600000,
-    "scrapedAt": "2025-11-02T03:26:26.623Z",
+    "scrapedAt": "2025-11-03T03:28:55.053Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -437,7 +428,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/drowning-pool-spineshank-uk-and-ireland-tour-2025/event/zanj",
     "dateUnix": 1763769600000,
-    "scrapedAt": "2025-11-02T03:26:27.803Z",
+    "scrapedAt": "2025-11-03T03:28:56.225Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -446,7 +437,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lets-kill-disco-decades-of-party-anthems/event/88m9w",
     "dateUnix": 1763769600000,
-    "scrapedAt": "2025-11-02T03:26:27.803Z",
+    "scrapedAt": "2025-11-03T03:28:56.226Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -455,7 +446,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/674513",
     "dateUnix": 1763769600000,
-    "scrapedAt": "2025-11-02T03:26:28.328Z",
+    "scrapedAt": "2025-11-03T03:28:56.966Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -464,7 +455,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/uk-foo-fighters",
     "dateUnix": 1763838000000,
-    "scrapedAt": "2025-11-02T03:26:26.623Z",
+    "scrapedAt": "2025-11-03T03:28:55.053Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -473,7 +464,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-horrors-night-life-tour-2025/event/zwk9",
     "dateUnix": 1763856000000,
-    "scrapedAt": "2025-11-02T03:26:27.803Z",
+    "scrapedAt": "2025-11-03T03:28:56.226Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -482,7 +473,7 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/marathon-debut-album-release-tour/event/8ogkj",
     "dateUnix": 1763856000000,
-    "scrapedAt": "2025-11-02T03:26:28.501Z",
+    "scrapedAt": "2025-11-03T03:28:56.981Z",
     "scraper": "PrinceAlbertScraper"
   },
   {
@@ -491,7 +482,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/conan",
     "dateUnix": 1764012600000,
-    "scrapedAt": "2025-11-02T03:26:26.623Z",
+    "scrapedAt": "2025-11-03T03:28:55.053Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -500,7 +491,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/arthur-hill-stella-artour/event/zrki",
     "dateUnix": 1764028800000,
-    "scrapedAt": "2025-11-02T03:26:27.804Z",
+    "scrapedAt": "2025-11-03T03:28:56.226Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -509,7 +500,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nouvelle-vague-2025-uk-tour/event/qaqw",
     "dateUnix": 1764115200000,
-    "scrapedAt": "2025-11-02T03:26:27.804Z",
+    "scrapedAt": "2025-11-03T03:28:56.226Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -518,7 +509,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-brand-new-heavies",
     "dateUnix": 1764185400000,
-    "scrapedAt": "2025-11-02T03:26:26.623Z",
+    "scrapedAt": "2025-11-03T03:28:55.053Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -527,7 +518,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/secret-discotheque-decades-of-pop/event/88m92",
     "dateUnix": 1764201600000,
-    "scrapedAt": "2025-11-02T03:26:27.804Z",
+    "scrapedAt": "2025-11-03T03:28:56.226Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -536,7 +527,7 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/675446",
     "dateUnix": 1764201600000,
-    "scrapedAt": "2025-11-02T03:26:27.470Z",
+    "scrapedAt": "2025-11-03T03:28:56.497Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -545,7 +536,7 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/pete-fij/event/88jd4",
     "dateUnix": 1764201600000,
-    "scrapedAt": "2025-11-02T03:26:28.502Z",
+    "scrapedAt": "2025-11-03T03:28:56.981Z",
     "scraper": "PrinceAlbertScraper"
   },
   {
@@ -554,7 +545,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/warmduscher",
     "dateUnix": 1764271800000,
-    "scrapedAt": "2025-11-02T03:26:26.623Z",
+    "scrapedAt": "2025-11-03T03:28:55.054Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -563,7 +554,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/mclusky/event/88kzz",
     "dateUnix": 1764288000000,
-    "scrapedAt": "2025-11-02T03:26:27.804Z",
+    "scrapedAt": "2025-11-03T03:28:56.227Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -572,7 +563,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/notorious/event/88m9q",
     "dateUnix": 1764288000000,
-    "scrapedAt": "2025-11-02T03:26:27.804Z",
+    "scrapedAt": "2025-11-03T03:28:56.227Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -581,7 +572,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/ozric-tentacles-system-7",
     "dateUnix": 1764356400000,
-    "scrapedAt": "2025-11-02T03:26:26.623Z",
+    "scrapedAt": "2025-11-03T03:28:55.054Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -590,7 +581,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lacuna-coil-sleepless-empire-tour-2025/event/zxwt",
     "dateUnix": 1764374400000,
-    "scrapedAt": "2025-11-02T03:26:27.805Z",
+    "scrapedAt": "2025-11-03T03:28:56.227Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -599,7 +590,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lets-kill-disco-decades-of-party-anthems/event/88m9z",
     "dateUnix": 1764374400000,
-    "scrapedAt": "2025-11-02T03:26:27.805Z",
+    "scrapedAt": "2025-11-03T03:28:56.227Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -608,7 +599,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/674896",
     "dateUnix": 1764374400000,
-    "scrapedAt": "2025-11-02T03:26:28.329Z",
+    "scrapedAt": "2025-11-03T03:28:56.967Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -617,7 +608,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-sabres-of-paradise",
     "dateUnix": 1764531000000,
-    "scrapedAt": "2025-11-02T03:26:26.623Z",
+    "scrapedAt": "2025-11-03T03:28:55.054Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -626,7 +617,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/oh-my-god-its-the-church",
     "dateUnix": 1764703800000,
-    "scrapedAt": "2025-11-02T03:26:26.623Z",
+    "scrapedAt": "2025-11-03T03:28:55.054Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -635,7 +626,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/dizzee-rascal",
     "dateUnix": 1764790200000,
-    "scrapedAt": "2025-11-02T03:26:26.623Z",
+    "scrapedAt": "2025-11-03T03:28:55.054Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -644,7 +635,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/dizzee-rascal-2",
     "dateUnix": 1764876600000,
-    "scrapedAt": "2025-11-02T03:26:26.623Z",
+    "scrapedAt": "2025-11-03T03:28:55.054Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -653,7 +644,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-liminanas-faded-tour-2025uk/event/8otrs",
     "dateUnix": 1764892800000,
-    "scrapedAt": "2025-11-02T03:26:27.805Z",
+    "scrapedAt": "2025-11-03T03:28:56.227Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -662,7 +653,7 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/674190",
     "dateUnix": 1764892800000,
-    "scrapedAt": "2025-11-02T03:26:27.470Z",
+    "scrapedAt": "2025-11-03T03:28:56.497Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -671,7 +662,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/dub-pistols",
     "dateUnix": 1764961200000,
-    "scrapedAt": "2025-11-02T03:26:26.624Z",
+    "scrapedAt": "2025-11-03T03:28:55.055Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -680,7 +671,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/wheatus-2025-tour/event/8o8jr",
     "dateUnix": 1764979200000,
-    "scrapedAt": "2025-11-02T03:26:27.805Z",
+    "scrapedAt": "2025-11-03T03:28:56.228Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -689,7 +680,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lets-kill-disco-christmas-party/event/88mio",
     "dateUnix": 1764979200000,
-    "scrapedAt": "2025-11-02T03:26:27.806Z",
+    "scrapedAt": "2025-11-03T03:28:56.228Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -698,7 +689,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/673289",
     "dateUnix": 1764979200000,
-    "scrapedAt": "2025-11-02T03:26:28.329Z",
+    "scrapedAt": "2025-11-03T03:28:56.967Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -707,7 +698,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/electric-six",
     "dateUnix": 1765135800000,
-    "scrapedAt": "2025-11-02T03:26:26.624Z",
+    "scrapedAt": "2025-11-03T03:28:55.055Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -716,7 +707,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/matt-berninger",
     "dateUnix": 1765308600000,
-    "scrapedAt": "2025-11-02T03:26:26.624Z",
+    "scrapedAt": "2025-11-03T03:28:55.055Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -725,7 +716,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-wildhearts",
     "dateUnix": 1765395000000,
-    "scrapedAt": "2025-11-02T03:26:26.624Z",
+    "scrapedAt": "2025-11-03T03:28:55.055Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -734,7 +725,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/duckwrth-all-american-freak-show-tour/event/8ok6r",
     "dateUnix": 1765411200000,
-    "scrapedAt": "2025-11-02T03:26:27.806Z",
+    "scrapedAt": "2025-11-03T03:28:56.228Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -743,7 +734,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/black-grape-its-great-when-youre-straightyeah-tour/event/zyxk",
     "dateUnix": 1765497600000,
-    "scrapedAt": "2025-11-02T03:26:27.806Z",
+    "scrapedAt": "2025-11-03T03:28:56.228Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -752,7 +743,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/672272",
     "dateUnix": 1765497600000,
-    "scrapedAt": "2025-11-02T03:26:28.329Z",
+    "scrapedAt": "2025-11-03T03:28:56.967Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -761,7 +752,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/rhythm-of-the-90s",
     "dateUnix": 1765566000000,
-    "scrapedAt": "2025-11-02T03:26:26.624Z",
+    "scrapedAt": "2025-11-03T03:28:55.055Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -770,7 +761,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/million-dead-uk-tour-december-2025/event/8ojdy",
     "dateUnix": 1765584000000,
-    "scrapedAt": "2025-11-02T03:26:27.806Z",
+    "scrapedAt": "2025-11-03T03:28:56.228Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -779,7 +770,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/uk-queen",
     "dateUnix": 1765652400000,
-    "scrapedAt": "2025-11-02T03:26:26.624Z",
+    "scrapedAt": "2025-11-03T03:28:55.055Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -788,7 +779,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/crobot-chasin-death-tour-uk-2025/event/8ot2x",
     "dateUnix": 1765670400000,
-    "scrapedAt": "2025-11-02T03:26:27.806Z",
+    "scrapedAt": "2025-11-03T03:28:56.229Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -797,7 +788,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/cash",
     "dateUnix": 1765740600000,
-    "scrapedAt": "2025-11-02T03:26:26.624Z",
+    "scrapedAt": "2025-11-03T03:28:55.055Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -806,7 +797,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/absolute-bowie",
     "dateUnix": 1766170800000,
-    "scrapedAt": "2025-11-02T03:26:26.624Z",
+    "scrapedAt": "2025-11-03T03:28:55.055Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -815,7 +806,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/80s-hifi-christmas-special",
     "dateUnix": 1766257200000,
-    "scrapedAt": "2025-11-02T03:26:26.624Z",
+    "scrapedAt": "2025-11-03T03:28:55.055Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -824,7 +815,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/bad-manners",
     "dateUnix": 1766345400000,
-    "scrapedAt": "2025-11-02T03:26:26.624Z",
+    "scrapedAt": "2025-11-03T03:28:55.055Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -833,7 +824,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-marley-experience",
     "dateUnix": 1766518200000,
-    "scrapedAt": "2025-11-02T03:26:26.624Z",
+    "scrapedAt": "2025-11-03T03:28:55.055Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -842,7 +833,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/special-kinda-madness",
     "dateUnix": 1766862000000,
-    "scrapedAt": "2025-11-02T03:26:26.625Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -851,7 +842,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-james-hunter-six",
     "dateUnix": 1768678200000,
-    "scrapedAt": "2025-11-02T03:26:26.625Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -860,7 +851,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/machine-girl-euuk-tour/event/88kwd",
     "dateUnix": 1769212800000,
-    "scrapedAt": "2025-11-02T03:26:27.807Z",
+    "scrapedAt": "2025-11-03T03:28:56.229Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -869,7 +860,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/motorheadache",
     "dateUnix": 1769281200000,
-    "scrapedAt": "2025-11-02T03:26:26.625Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -878,7 +869,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/xana-until-it-wasnt-tour-202526/event/8op4d",
     "dateUnix": 1769472000000,
-    "scrapedAt": "2025-11-02T03:26:27.807Z",
+    "scrapedAt": "2025-11-03T03:28:56.229Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -887,7 +878,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/680338",
     "dateUnix": 1769731200000,
-    "scrapedAt": "2025-11-02T03:26:28.329Z",
+    "scrapedAt": "2025-11-03T03:28:56.967Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -896,7 +887,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-skids-the-absolute-game-tour/event/8ocv2",
     "dateUnix": 1769817600000,
-    "scrapedAt": "2025-11-02T03:26:27.807Z",
+    "scrapedAt": "2025-11-03T03:28:56.229Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -905,7 +896,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/vukovi-mghgag-tour-part-2/event/8888v",
     "dateUnix": 1770163200000,
-    "scrapedAt": "2025-11-02T03:26:27.807Z",
+    "scrapedAt": "2025-11-03T03:28:56.229Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -914,7 +905,7 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/paige-kennedy-debut-uk-headline-tour/event/886hf",
     "dateUnix": 1770163200000,
-    "scrapedAt": "2025-11-02T03:26:28.502Z",
+    "scrapedAt": "2025-11-03T03:28:56.982Z",
     "scraper": "PrinceAlbertScraper"
   },
   {
@@ -923,7 +914,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/fozzy-2026-uk-tour/event/8ot57",
     "dateUnix": 1770336000000,
-    "scrapedAt": "2025-11-02T03:26:27.808Z",
+    "scrapedAt": "2025-11-03T03:28:56.230Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -932,7 +923,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/midlake-climb-upon-a-bridge-to-far/event/88kwv",
     "dateUnix": 1770422400000,
-    "scrapedAt": "2025-11-02T03:26:27.808Z",
+    "scrapedAt": "2025-11-03T03:28:56.230Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -941,7 +932,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/676768",
     "dateUnix": 1770422400000,
-    "scrapedAt": "2025-11-02T03:26:28.329Z",
+    "scrapedAt": "2025-11-03T03:28:56.968Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -950,7 +941,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/kula-shaker",
     "dateUnix": 1770490800000,
-    "scrapedAt": "2025-11-02T03:26:26.625Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -959,7 +950,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/beardyman",
     "dateUnix": 1770924600000,
-    "scrapedAt": "2025-11-02T03:26:26.625Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -968,7 +959,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/hotwax-hot-shock-tour/event/885s4",
     "dateUnix": 1770940800000,
-    "scrapedAt": "2025-11-02T03:26:27.808Z",
+    "scrapedAt": "2025-11-03T03:28:56.230Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -977,7 +968,7 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/thousand-yard-stare/event/qq8a",
     "dateUnix": 1770940800000,
-    "scrapedAt": "2025-11-02T03:26:28.502Z",
+    "scrapedAt": "2025-11-03T03:28:56.982Z",
     "scraper": "PrinceAlbertScraper"
   },
   {
@@ -986,7 +977,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-cureheads-siouxsie-the-budgiees",
     "dateUnix": 1771009200000,
-    "scrapedAt": "2025-11-02T03:26:26.625Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -995,7 +986,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/677886",
     "dateUnix": 1771027200000,
-    "scrapedAt": "2025-11-02T03:26:28.329Z",
+    "scrapedAt": "2025-11-03T03:28:56.968Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -1004,7 +995,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/caroline-uk-tour-2026/event/88pa3",
     "dateUnix": 1771286400000,
-    "scrapedAt": "2025-11-02T03:26:27.808Z",
+    "scrapedAt": "2025-11-03T03:28:56.230Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1013,7 +1004,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/good-neighbours-uk-and-eu-tour-2026/event/889m2",
     "dateUnix": 1771372800000,
-    "scrapedAt": "2025-11-02T03:26:27.808Z",
+    "scrapedAt": "2025-11-03T03:28:56.230Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1022,7 +1013,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/coach-party",
     "dateUnix": 1771614000000,
-    "scrapedAt": "2025-11-02T03:26:26.625Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1031,7 +1022,7 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/676076",
     "dateUnix": 1771632000000,
-    "scrapedAt": "2025-11-02T03:26:27.470Z",
+    "scrapedAt": "2025-11-03T03:28:56.498Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -1040,7 +1031,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/ultimate-rnb",
     "dateUnix": 1771700400000,
-    "scrapedAt": "2025-11-02T03:26:26.625Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1049,7 +1040,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/courtney-marie-andrews-2026-tour/event/88moy",
     "dateUnix": 1772236800000,
-    "scrapedAt": "2025-11-02T03:26:27.809Z",
+    "scrapedAt": "2025-11-03T03:28:56.231Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1058,7 +1049,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/sex-pistols-expose-six-little-fingers",
     "dateUnix": 1772305200000,
-    "scrapedAt": "2025-11-02T03:26:26.625Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1067,7 +1058,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/boy-and-bear-tripping-over-time/event/88yq4",
     "dateUnix": 1772668800000,
-    "scrapedAt": "2025-11-02T03:26:27.809Z",
+    "scrapedAt": "2025-11-03T03:28:56.231Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1076,7 +1067,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/plug-in-maybe",
     "dateUnix": 1772825400000,
-    "scrapedAt": "2025-11-02T03:26:26.625Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1085,7 +1076,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/daft-funk",
     "dateUnix": 1772910000000,
-    "scrapedAt": "2025-11-02T03:26:26.626Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1094,7 +1085,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/buckcherry-michael-monroe-co-headline-uk-tour-2026/event/8878r",
     "dateUnix": 1772928000000,
-    "scrapedAt": "2025-11-02T03:26:27.809Z",
+    "scrapedAt": "2025-11-03T03:28:56.231Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1103,7 +1094,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/stiff-little-fingers",
     "dateUnix": 1773171000000,
-    "scrapedAt": "2025-11-02T03:26:26.626Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1112,8 +1103,17 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/678173",
     "dateUnix": 1773360000000,
-    "scrapedAt": "2025-11-02T03:26:28.330Z",
+    "scrapedAt": "2025-11-03T03:28:56.968Z",
     "scraper": "PipelineScraper"
+  },
+  {
+    "title": "The Feeling",
+    "date": "14 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-feeling-twelve-stops-and-home-anniversary-tour/event/8otsn",
+    "dateUnix": 1773446400000,
+    "scrapedAt": "2025-11-03T03:28:56.231Z",
+    "scraper": "ChalkScraper"
   },
   {
     "title": "Arctic Numpties",
@@ -1121,7 +1121,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/arctic-numpties",
     "dateUnix": 1773514800000,
-    "scrapedAt": "2025-11-02T03:26:26.626Z",
+    "scrapedAt": "2025-11-03T03:28:55.056Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1130,7 +1130,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/del-water-gap",
     "dateUnix": 1773948600000,
-    "scrapedAt": "2025-11-02T03:26:26.626Z",
+    "scrapedAt": "2025-11-03T03:28:55.057Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1139,7 +1139,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/beans-on-toast",
     "dateUnix": 1774033200000,
-    "scrapedAt": "2025-11-02T03:26:26.626Z",
+    "scrapedAt": "2025-11-03T03:28:55.057Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1148,7 +1148,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-cribs-2",
     "dateUnix": 1774638000000,
-    "scrapedAt": "2025-11-02T03:26:26.626Z",
+    "scrapedAt": "2025-11-03T03:28:55.057Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1157,7 +1157,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-cribs",
     "dateUnix": 1774724400000,
-    "scrapedAt": "2025-11-02T03:26:26.626Z",
+    "scrapedAt": "2025-11-03T03:28:55.057Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1166,7 +1166,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/infected-rain",
     "dateUnix": 1775071800000,
-    "scrapedAt": "2025-11-02T03:26:26.626Z",
+    "scrapedAt": "2025-11-03T03:28:55.057Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1175,7 +1175,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/noasis",
     "dateUnix": 1776452400000,
-    "scrapedAt": "2025-11-02T03:26:26.626Z",
+    "scrapedAt": "2025-11-03T03:28:55.057Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1184,7 +1184,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/a-tribute-to-amy",
     "dateUnix": 1776538800000,
-    "scrapedAt": "2025-11-02T03:26:26.626Z",
+    "scrapedAt": "2025-11-03T03:28:55.057Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1193,7 +1193,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/love",
     "dateUnix": 1777662000000,
-    "scrapedAt": "2025-11-02T03:26:26.626Z",
+    "scrapedAt": "2025-11-03T03:28:55.057Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1202,7 +1202,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/barrioke",
     "dateUnix": 1777748400000,
-    "scrapedAt": "2025-11-02T03:26:26.627Z",
+    "scrapedAt": "2025-11-03T03:28:55.057Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1211,7 +1211,7 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/680844",
     "dateUnix": 1777766400000,
-    "scrapedAt": "2025-11-02T03:26:27.471Z",
+    "scrapedAt": "2025-11-03T03:28:56.498Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -1220,7 +1220,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/a-night-of-jagged-little-pill",
     "dateUnix": 1779476400000,
-    "scrapedAt": "2025-11-02T03:26:26.627Z",
+    "scrapedAt": "2025-11-03T03:28:55.057Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1229,7 +1229,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-jamd",
     "dateUnix": 1787936400000,
-    "scrapedAt": "2025-11-02T03:26:26.627Z",
+    "scrapedAt": "2025-11-03T03:28:55.058Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1238,7 +1238,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/guns-n-roses-experience",
     "dateUnix": 1789758000000,
-    "scrapedAt": "2025-11-02T03:26:26.627Z",
+    "scrapedAt": "2025-11-03T03:28:55.058Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1247,7 +1247,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/sanctum-sanctorium-the-dark-s",
     "dateUnix": 1789844400000,
-    "scrapedAt": "2025-11-02T03:26:26.627Z",
+    "scrapedAt": "2025-11-03T03:28:55.058Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1256,7 +1256,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/just-radiohead",
     "dateUnix": 1790362800000,
-    "scrapedAt": "2025-11-02T03:26:26.627Z",
+    "scrapedAt": "2025-11-03T03:28:55.058Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1265,7 +1265,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/nirvana-uk",
     "dateUnix": 1791658800000,
-    "scrapedAt": "2025-11-02T03:26:26.627Z",
+    "scrapedAt": "2025-11-03T03:28:55.058Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1274,7 +1274,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/morgan-wallen-tribute-uk",
     "dateUnix": 1792782000000,
-    "scrapedAt": "2025-11-02T03:26:26.627Z",
+    "scrapedAt": "2025-11-03T03:28:55.058Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1283,7 +1283,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-smyths",
     "dateUnix": 1797795000000,
-    "scrapedAt": "2025-11-02T03:26:26.627Z",
+    "scrapedAt": "2025-11-03T03:28:55.058Z",
     "scraper": "ConcordeTwoScraper"
   }
 ]
