@@ -46,13 +46,19 @@ class SitemapGenerator {
         // Handle specific venue mappings first
         const venueMap = {
             'Hope & Ruin': 'hope-and-ruin',
-            'Concorde 2': 'concorde-2'
+            'Concorde 2': 'concorde-2',
+            'Green Door Store': 'green-door-store',
+            'Folklore Rooms': 'folklore-rooms',
+            'Prince Albert': 'prince-albert',
+            'The Rose Hill': 'the-rose-hill',
+            'Brighton Dome': 'brighton-dome',
+            'Rossi Bar': 'rossi-bar'
         };
-        
+
         if (venueMap[venueName]) {
             return venueMap[venueName];
         }
-        
+
         return venueName
             .toLowerCase()
             .replace(/\s+/g, '-')
@@ -88,74 +94,27 @@ class SitemapGenerator {
     }
 
     generateVenueUrls(venueStats) {
-        const topVenues = ['Hope & Ruin', 'Chalk', 'Concorde 2'];
         const urls = [];
 
-        // Main venue pages for top venues
-        topVenues.forEach(venue => {
-            if (venueStats[venue]) {
-                const slug = this.getVenueSlug(venue);
-                urls.push({
-                    loc: `${this.baseUrl}/venues/${slug}/`,
-                    lastmod: this.currentDate,
-                    changefreq: 'daily',
-                    priority: '0.9',
-                    mobile: true,
-                    hreflang: 'en-gb'
-                });
-            }
-        });
-
-        // Genre-specific venue pages for SEO long-tail targeting
-        const genrePages = [
-            { venue: 'Hope & Ruin', genre: 'electronic' },
-            { venue: 'Hope & Ruin', genre: 'indie' },
-            { venue: 'Chalk', genre: 'rock' },
-            { venue: 'Chalk', genre: 'punk' },
-            { venue: 'Concorde 2', genre: 'concerts' }
-        ];
-
-        genrePages.forEach(({ venue, genre }) => {
-            if (venueStats[venue]) {
-                const slug = this.getVenueSlug(venue);
-                urls.push({
-                    loc: `${this.baseUrl}/venues/${slug}/?genre=${genre}`,
-                    lastmod: this.currentDate,
-                    changefreq: 'weekly',
-                    priority: '0.6',
-                    mobile: true
-                });
-            }
+        // Main venue pages for all venues
+        Object.keys(venueStats).forEach(venue => {
+            const slug = this.getVenueSlug(venue);
+            urls.push({
+                loc: `${this.baseUrl}/venues/${slug}/`,
+                lastmod: this.currentDate,
+                changefreq: 'daily',
+                priority: '0.9',
+                mobile: true,
+                hreflang: 'en-gb'
+            });
         });
 
         return urls;
     }
 
     generateEventUrls() {
-        // Dynamic event category pages for SEO
-        return [
-            {
-                loc: `${this.baseUrl}/events/tonight/`,
-                lastmod: this.currentDate,
-                changefreq: 'daily',
-                priority: '0.8',
-                mobile: true
-            },
-            {
-                loc: `${this.baseUrl}/events/this-week/`,
-                lastmod: this.currentDate,
-                changefreq: 'daily',
-                priority: '0.7',
-                mobile: true
-            },
-            {
-                loc: `${this.baseUrl}/events/this-weekend/`,
-                lastmod: this.currentDate,
-                changefreq: 'daily',
-                priority: '0.8',
-                mobile: true
-            }
-        ];
+        // No dynamic event category pages currently implemented
+        return [];
     }
 
     generateXmlUrl(urlData) {

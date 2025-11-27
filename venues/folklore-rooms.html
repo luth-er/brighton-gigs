@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-C44K29KQXR"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-C44K29KQXR');
+		</script>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="Folklore Rooms Brighton events tonight. Cozy venue specializing in folk, acoustic, and singer-songwriter acts. Updated daily with upcoming gigs.">
+		<title>Folklore Rooms Events Brighton | Live Music & Gigs Tonight</title>
+
+		<!-- Canonical URL -->
+		<link rel="canonical" href="https://brightongigs.uk/venues/folklore-rooms/">
+
+		<!-- Open Graph Meta Tags -->
+		<meta property="og:title" content="Folklore Rooms Events Brighton | Live Music & Gigs Tonight">
+		<meta property="og:description" content="Folklore Rooms Brighton events tonight. Cozy venue for folk, acoustic, and singer-songwriter performances.">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://brightongigs.uk/venues/folklore-rooms/">
+		<meta property="og:site_name" content="Brighton Gigs">
+		<meta property="og:locale" content="en_GB">
+
+		<!-- Additional SEO Meta Tags -->
+		<meta name="robots" content="index, follow, max-image-preview:large">
+		<meta name="googlebot" content="index, follow">
+		<meta name="keywords" content="Folklore Rooms Brighton, Folklore Rooms events, folk music Brighton, acoustic music Brighton, singer-songwriter Brighton, Brighton live music">
+		<meta name="author" content="Brighton Gigs">
+		<meta name="geo.region" content="GB-BNH">
+		<meta name="geo.placename" content="Brighton, UK">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="../src/css/styles.css">
+
+		<!-- Structured Data Schema Markup -->
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@graph": [
+				{
+					"@type": "LocalBusiness",
+					"@id": "https://brightongigs.uk/venues/folklore-rooms/#venue",
+					"name": "Folklore Rooms",
+					"description": "Intimate Brighton venue specializing in folk, acoustic, and singer-songwriter performances in a cozy atmosphere.",
+					"url": "https://wegottickets.com/location/23904",
+					"address": {
+						"@type": "PostalAddress",
+						"addressLocality": "Brighton",
+						"addressRegion": "East Sussex",
+						"addressCountry": "GB"
+					},
+					"priceRange": "£8-£20",
+					"currenciesAccepted": "GBP",
+					"paymentAccepted": "Cash, Credit Card, Online Payment",
+					"category": "Music Venue",
+					"additionalType": "https://schema.org/MusicVenue"
+				},
+				{
+					"@type": "WebPage",
+					"@id": "https://brightongigs.uk/venues/folklore-rooms/#webpage",
+					"url": "https://brightongigs.uk/venues/folklore-rooms/",
+					"name": "Folklore Rooms Events Brighton | Live Music & Gigs Tonight",
+					"isPartOf": {
+						"@id": "https://brightongigs.uk/#website"
+					},
+					"about": {
+						"@id": "https://brightongigs.uk/venues/folklore-rooms/#venue"
+					},
+					"description": "Complete listing of Folklore Rooms Brighton events. Cozy venue for folk, acoustic, and singer-songwriter music.",
+					"breadcrumb": {
+						"@id": "https://brightongigs.uk/venues/folklore-rooms/#breadcrumbs"
+					},
+					"inLanguage": "en-GB"
+				},
+				{
+					"@type": "BreadcrumbList",
+					"@id": "https://brightongigs.uk/venues/folklore-rooms/#breadcrumbs",
+					"itemListElement": [
+						{
+							"@type": "ListItem",
+							"position": 1,
+							"name": "Home",
+							"item": "https://brightongigs.uk/"
+						},
+						{
+							"@type": "ListItem",
+							"position": 2,
+							"name": "Venues",
+							"item": "https://brightongigs.uk/venues/"
+						},
+						{
+							"@type": "ListItem",
+							"position": 3,
+							"name": "Folklore Rooms",
+							"item": "https://brightongigs.uk/venues/folklore-rooms/"
+						}
+					]
+				}
+			]
+		}
+		</script>
+	</head>
+	<body>
+		<header class="site-header">
+			<h1><a href="../" style="color: inherit; text-decoration: none;">Brighton Gigs</a></h1>
+			<nav class="venue-nav">
+				<a href="../" class="nav-link">All Events</a>
+				<span class="nav-separator">|</span>
+				<span class="nav-current">Folklore Rooms</span>
+			</nav>
+		</header>
+
+		<main class="main-content">
+			<section class="venue-hero">
+				<h2 class="venue-title">Folklore Rooms Events</h2>
+				<div class="venue-info">
+					<p class="venue-description">Cozy venue specializing in folk, acoustic, and singer-songwriter acts in an intimate Brighton setting.</p>
+					<div class="venue-details">
+						<span class="venue-location">Brighton</span>
+						<span class="venue-separator">•</span>
+						<span class="event-count" id="event-count">Loading events...</span>
+					</div>
+				</div>
+			</section>
+
+			<section class="filters-section" aria-label="Event filters">
+				<div class="filters-container">
+					<div class="filter-item">
+						<label for="date-from">From</label>
+						<input type="date" id="date-from" aria-describedby="date-help">
+					</div>
+					<div class="filter-item">
+						<label for="date-to">To</label>
+						<input type="date" id="date-to" aria-describedby="date-help">
+					</div>
+					<button id="clear-filters" type="button" class="clear-btn">Clear</button>
+				</div>
+			</section>
+
+			<section class="events-section" aria-label="Folklore Rooms live music events">
+				<div id="events-list" role="list"></div>
+			</section>
+		</main>
+
+		<script src="../src/js/venue-script.js" data-venue="Folklore Rooms"></script>
+	</body>
+</html>

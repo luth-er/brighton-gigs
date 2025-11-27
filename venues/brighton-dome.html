@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-C44K29KQXR"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-C44K29KQXR');
+		</script>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="Brighton Dome events tonight. Historic concert hall and arts venue hosting major international touring artists and orchestral performances. Updated daily with upcoming shows.">
+		<title>Brighton Dome Events | Live Music & Concerts Tonight</title>
+
+		<!-- Canonical URL -->
+		<link rel="canonical" href="https://brightongigs.uk/venues/brighton-dome/">
+
+		<!-- Open Graph Meta Tags -->
+		<meta property="og:title" content="Brighton Dome Events | Live Music & Concerts Tonight">
+		<meta property="og:description" content="Brighton Dome events tonight. Historic concert hall hosting major international touring artists and orchestral performances.">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://brightongigs.uk/venues/brighton-dome/">
+		<meta property="og:site_name" content="Brighton Gigs">
+		<meta property="og:locale" content="en_GB">
+
+		<!-- Additional SEO Meta Tags -->
+		<meta name="robots" content="index, follow, max-image-preview:large">
+		<meta name="googlebot" content="index, follow">
+		<meta name="keywords" content="Brighton Dome, Brighton Dome concerts, Brighton Dome events, Brighton Dome gigs, Brighton concerts, classical music Brighton, Brighton theatre">
+		<meta name="author" content="Brighton Gigs">
+		<meta name="geo.region" content="GB-BNH">
+		<meta name="geo.placename" content="Brighton, UK">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="../src/css/styles.css">
+
+		<!-- Structured Data Schema Markup -->
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@graph": [
+				{
+					"@type": "LocalBusiness",
+					"@id": "https://brightongigs.uk/venues/brighton-dome/#venue",
+					"name": "Brighton Dome",
+					"description": "Historic Grade I listed concert hall and arts venue hosting major international touring artists, orchestral performances, and cultural events.",
+					"url": "https://brightondome.org/",
+					"address": {
+						"@type": "PostalAddress",
+						"streetAddress": "29 New Road",
+						"addressLocality": "Brighton",
+						"addressRegion": "East Sussex",
+						"postalCode": "BN1 1UG",
+						"addressCountry": "GB"
+					},
+					"priceRange": "£15-£50",
+					"currenciesAccepted": "GBP",
+					"paymentAccepted": "Cash, Credit Card, Online Payment",
+					"category": "Concert Hall",
+					"additionalType": "https://schema.org/MusicVenue",
+					"sameAs": [
+						"https://brightondome.org/"
+					]
+				},
+				{
+					"@type": "WebPage",
+					"@id": "https://brightongigs.uk/venues/brighton-dome/#webpage",
+					"url": "https://brightongigs.uk/venues/brighton-dome/",
+					"name": "Brighton Dome Events | Live Music & Concerts Tonight",
+					"isPartOf": {
+						"@id": "https://brightongigs.uk/#website"
+					},
+					"about": {
+						"@id": "https://brightongigs.uk/venues/brighton-dome/#venue"
+					},
+					"description": "Complete listing of Brighton Dome events. Historic concert hall for major touring artists and orchestral performances.",
+					"breadcrumb": {
+						"@id": "https://brightongigs.uk/venues/brighton-dome/#breadcrumbs"
+					},
+					"inLanguage": "en-GB"
+				},
+				{
+					"@type": "BreadcrumbList",
+					"@id": "https://brightongigs.uk/venues/brighton-dome/#breadcrumbs",
+					"itemListElement": [
+						{
+							"@type": "ListItem",
+							"position": 1,
+							"name": "Home",
+							"item": "https://brightongigs.uk/"
+						},
+						{
+							"@type": "ListItem",
+							"position": 2,
+							"name": "Venues",
+							"item": "https://brightongigs.uk/venues/"
+						},
+						{
+							"@type": "ListItem",
+							"position": 3,
+							"name": "Brighton Dome",
+							"item": "https://brightongigs.uk/venues/brighton-dome/"
+						}
+					]
+				}
+			]
+		}
+		</script>
+	</head>
+	<body>
+		<header class="site-header">
+			<h1><a href="../" style="color: inherit; text-decoration: none;">Brighton Gigs</a></h1>
+			<nav class="venue-nav">
+				<a href="../" class="nav-link">All Events</a>
+				<span class="nav-separator">|</span>
+				<span class="nav-current">Brighton Dome</span>
+			</nav>
+		</header>
+
+		<main class="main-content">
+			<section class="venue-hero">
+				<h2 class="venue-title">Brighton Dome Events</h2>
+				<div class="venue-info">
+					<p class="venue-description">Historic concert hall and arts venue hosting major international touring artists and orchestral performances.</p>
+					<div class="venue-details">
+						<span class="venue-location">29 New Road, Brighton BN1 1UG</span>
+						<span class="venue-separator">•</span>
+						<span class="event-count" id="event-count">Loading events...</span>
+					</div>
+				</div>
+			</section>
+
+			<section class="filters-section" aria-label="Event filters">
+				<div class="filters-container">
+					<div class="filter-item">
+						<label for="date-from">From</label>
+						<input type="date" id="date-from" aria-describedby="date-help">
+					</div>
+					<div class="filter-item">
+						<label for="date-to">To</label>
+						<input type="date" id="date-to" aria-describedby="date-help">
+					</div>
+					<button id="clear-filters" type="button" class="clear-btn">Clear</button>
+				</div>
+			</section>
+
+			<section class="events-section" aria-label="Brighton Dome live music events">
+				<div id="events-list" role="list"></div>
+			</section>
+		</main>
+
+		<script src="../src/js/venue-script.js" data-venue="Brighton Dome"></script>
+	</body>
+</html>
