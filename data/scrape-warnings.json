@@ -1,52 +1,101 @@
 [
   {
-    "index": 40,
+    "index": 1,
     "event": {
-      "title": "Mutations Festival 2025 – Saturday",
-      "date": "8th November 2025 at 5:00 pm",
-      "venue": "Hope & Ruin",
-      "link": "https://www.hope.pub/event/mutations-festival-2025-saturday/",
-      "dateUnix": 1762621200000,
-      "scrapedAt": "2025-09-05T08:55:22.443Z",
-      "scraper": "HopeRuinScraper"
+      "title": "Non Canon, Jacob Glew, B-Sydes @ Folklore Rooms, Brighton (pals link)",
+      "date": "2025-11-27T19:30:00+00:00",
+      "venue": "Folklore Rooms",
+      "link": "https://wegottickets.com/event/680641",
+      "dateUnix": 1764271800000,
+      "scrapedAt": "2025-11-27T16:24:44.028Z",
+      "scraper": "FolkloreRoomsScraper"
     },
     "warnings": [
       {
         "type": "potential_duplicate",
         "message": "Event title similar to existing events",
         "field": "title",
-        "value": "Mutations Festival 2025 – Saturday",
+        "value": "Non Canon, Jacob Glew, B-Sydes @ Folklore Rooms, Brighton (pals link)",
         "similarTitles": [
-          "Mutations Festival 2025 – Friday"
+          "Non Canon, Jacob Glew, B-Sydes @ Folklore Rooms, Brighton"
         ],
         "context": {
-          "venue": "Hope & Ruin",
-          "scraper": "HopeRuinScraper",
-          "timestamp": "2025-09-05T08:55:42.028Z",
+          "venue": "Folklore Rooms",
+          "scraper": "FolkloreRoomsScraper",
+          "timestamp": "2025-11-27T16:24:46.998Z",
           "originalData": {
-            "title": "Mutations Festival 2025 – Saturday",
-            "date": "8th November 2025 at 5:00 pm",
-            "venue": "Hope & Ruin",
-            "link": "https://www.hope.pub/event/mutations-festival-2025-saturday/",
-            "dateUnix": 1762621200000,
-            "scrapedAt": "2025-09-05T08:55:22.443Z",
-            "scraper": "HopeRuinScraper"
+            "title": "Non Canon, Jacob Glew, B-Sydes @ Folklore Rooms, Brighton (pals link)",
+            "date": "2025-11-27T19:30:00+00:00",
+            "venue": "Folklore Rooms",
+            "link": "https://wegottickets.com/event/680641",
+            "dateUnix": 1764271800000,
+            "scrapedAt": "2025-11-27T16:24:44.028Z",
+            "scraper": "FolkloreRoomsScraper"
           }
         }
       }
     ],
     "context": {
-      "venue": "Hope & Ruin",
-      "scraper": "HopeRuinScraper",
-      "timestamp": "2025-09-05T08:55:42.028Z",
+      "venue": "Folklore Rooms",
+      "scraper": "FolkloreRoomsScraper",
+      "timestamp": "2025-11-27T16:24:46.998Z",
       "originalData": {
-        "title": "Mutations Festival 2025 – Saturday",
-        "date": "8th November 2025 at 5:00 pm",
-        "venue": "Hope & Ruin",
-        "link": "https://www.hope.pub/event/mutations-festival-2025-saturday/",
-        "dateUnix": 1762621200000,
-        "scrapedAt": "2025-09-05T08:55:22.443Z",
-        "scraper": "HopeRuinScraper"
+        "title": "Non Canon, Jacob Glew, B-Sydes @ Folklore Rooms, Brighton (pals link)",
+        "date": "2025-11-27T19:30:00+00:00",
+        "venue": "Folklore Rooms",
+        "link": "https://wegottickets.com/event/680641",
+        "dateUnix": 1764271800000,
+        "scrapedAt": "2025-11-27T16:24:44.028Z",
+        "scraper": "FolkloreRoomsScraper"
+      }
+    }
+  },
+  {
+    "index": 0,
+    "event": {
+      "title": "<span>Brighton Dome Backstage Tours</span>",
+      "date": "Sat 8 Nov 2025 - Sat 21 Feb 2026",
+      "venue": "Brighton Dome",
+      "link": "https://brightondome.org/whats-on/Lol-brighton-dome-backstage-tours/",
+      "dateUnix": 1762599600000,
+      "scrapedAt": "2025-11-27T16:24:45.440Z",
+      "scraper": "BrightonDomeScraper"
+    },
+    "warnings": [
+      {
+        "type": "past_event",
+        "message": "Event is 19 days in the past",
+        "field": "dateUnix",
+        "value": 1762599600000,
+        "daysPast": 19,
+        "context": {
+          "venue": "Brighton Dome",
+          "scraper": "BrightonDomeScraper",
+          "timestamp": "2025-11-27T16:24:47.005Z",
+          "originalData": {
+            "title": "<span>Brighton Dome Backstage Tours</span>",
+            "date": "Sat 8 Nov 2025 - Sat 21 Feb 2026",
+            "venue": "Brighton Dome",
+            "link": "https://brightondome.org/whats-on/Lol-brighton-dome-backstage-tours/",
+            "dateUnix": 1762599600000,
+            "scrapedAt": "2025-11-27T16:24:45.440Z",
+            "scraper": "BrightonDomeScraper"
+          }
+        }
+      }
+    ],
+    "context": {
+      "venue": "Brighton Dome",
+      "scraper": "BrightonDomeScraper",
+      "timestamp": "2025-11-27T16:24:47.005Z",
+      "originalData": {
+        "title": "<span>Brighton Dome Backstage Tours</span>",
+        "date": "Sat 8 Nov 2025 - Sat 21 Feb 2026",
+        "venue": "Brighton Dome",
+        "link": "https://brightondome.org/whats-on/Lol-brighton-dome-backstage-tours/",
+        "dateUnix": 1762599600000,
+        "scrapedAt": "2025-11-27T16:24:45.440Z",
+        "scraper": "BrightonDomeScraper"
       }
     }
   }

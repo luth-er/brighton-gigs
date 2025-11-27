@@ -1,24 +1,22 @@
 {
-  "timestamp": "2025-09-05T08:55:42.041Z",
-  "totalEvents": 152,
+  "timestamp": "2025-11-27T16:24:47.008Z",
+  "totalEvents": 240,
   "nullDates": 0,
   "totalErrors": 0,
-  "totalWarnings": 1,
-  "successful": 5,
-  "failed": 2,
-  "warnings": 1,
+  "totalWarnings": 2,
+  "successful": 11,
+  "failed": 0,
+  "warnings": 2,
   "venues": {
     "Hope & Ruin": {
       "status": "success",
-      "events": 52,
+      "events": 55,
       "invalidEvents": 0,
-      "warnings": 1,
-      "rawEvents": 52,
+      "warnings": 0,
+      "rawEvents": 55,
       "validationErrors": {},
-      "warningTypes": {
-        "potential_duplicate": 1
-      },
-      "executionTime": 929,
+      "warningTypes": {},
+      "executionTime": 794,
       "scraper": "HopeRuinScraper"
     },
     "Green Door Store": {
@@ -29,87 +27,125 @@
       "rawEvents": 12,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 20491,
+      "executionTime": 1599,
       "scraper": "GreenDoorScraper"
     },
     "Concorde 2": {
       "status": "success",
-      "events": 71,
+      "events": 53,
       "invalidEvents": 0,
       "warnings": 0,
-      "rawEvents": 71,
+      "rawEvents": 53,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 883,
+      "executionTime": 749,
       "scraper": "ConcordeTwoScraper"
     },
     "Chalk": {
-      "status": "error",
-      "error": "Chalk scraping failed - HTTP 404",
-      "errorContext": {
-        "venue": "Chalk",
-        "url": "https://www.gigseekr.com/uk/en/brighton/chalk/venue/8kq",
-        "attempt": 3,
-        "timestamp": "2025-09-05T08:55:26.208Z",
-        "originalError": "Request failed with status code 404",
-        "errorType": "http_error",
-        "statusCode": 404
-      },
-      "events": 0,
-      "executionTime": 4692,
+      "status": "success",
+      "events": 42,
+      "invalidEvents": 0,
+      "warnings": 0,
+      "rawEvents": 42,
+      "validationErrors": {},
+      "warningTypes": {},
+      "executionTime": 1433,
       "scraper": "ChalkScraper"
     },
     "Folklore Rooms": {
       "status": "success",
       "events": 5,
       "invalidEvents": 0,
-      "warnings": 0,
+      "warnings": 1,
       "rawEvents": 5,
       "validationErrors": {},
-      "warningTypes": {},
-      "executionTime": 1670,
+      "warningTypes": {
+        "potential_duplicate": 1
+      },
+      "executionTime": 1453,
       "scraper": "FolkloreRoomsScraper"
     },
     "Prince Albert": {
-      "status": "error",
-      "error": "Prince Albert scraping failed - HTTP 404",
-      "errorContext": {
-        "venue": "Prince Albert",
-        "url": "https://www.gigseekr.com/uk/en/brighton/the-prince-albert/venue/6a",
-        "attempt": 3,
-        "timestamp": "2025-09-05T08:55:26.834Z",
-        "originalError": "Request failed with status code 404",
-        "errorType": "http_error",
-        "statusCode": 404
-      },
-      "events": 0,
-      "executionTime": 5318,
+      "status": "success",
+      "events": 6,
+      "invalidEvents": 0,
+      "warnings": 0,
+      "rawEvents": 6,
+      "validationErrors": {},
+      "warningTypes": {},
+      "executionTime": 1979,
       "scraper": "PrinceAlbertScraper"
     },
     "Pipeline": {
       "status": "success",
-      "events": 12,
+      "events": 8,
       "invalidEvents": 0,
       "warnings": 0,
-      "rawEvents": 12,
+      "rawEvents": 8,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 5408,
+      "executionTime": 2106,
       "scraper": "PipelineScraper"
+    },
+    "Quarters": {
+      "status": "success",
+      "events": 21,
+      "invalidEvents": 0,
+      "warnings": 0,
+      "rawEvents": 21,
+      "validationErrors": {},
+      "warningTypes": {},
+      "executionTime": 2220,
+      "scraper": "QuartersScraper"
+    },
+    "Rossi Bar": {
+      "status": "success",
+      "events": 10,
+      "invalidEvents": 0,
+      "warnings": 0,
+      "rawEvents": 10,
+      "validationErrors": {},
+      "warningTypes": {},
+      "executionTime": 4369,
+      "scraper": "RossiBarScraper"
+    },
+    "The Rose Hill": {
+      "status": "success",
+      "events": 16,
+      "invalidEvents": 0,
+      "warnings": 0,
+      "rawEvents": 16,
+      "validationErrors": {},
+      "warningTypes": {},
+      "executionTime": 2727,
+      "scraper": "RoseHillScraper"
+    },
+    "Brighton Dome": {
+      "status": "success",
+      "events": 12,
+      "invalidEvents": 0,
+      "warnings": 1,
+      "rawEvents": 12,
+      "validationErrors": {},
+      "warningTypes": {
+        "past_event": 1
+      },
+      "executionTime": 2865,
+      "scraper": "BrightonDomeScraper"
     }
   },
   "rateLimiter": {
     "activeRequests": 0,
     "queueLength": 0,
     "consecutiveErrors": 0,
-    "lastRequestTime": 1757062526721,
+    "lastRequestTime": 1764260685306,
     "domains": {
       "concorde2.co.uk": {
         "requests": 1,
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1757062522398,
+        "lastRequestTime": 1764260683324,
         "successRate": "100.00%"
       },
       "hope.pub": {
@@ -117,7 +153,15 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1757062522444,
+        "lastRequestTime": 1764260683367,
+        "successRate": "100.00%"
+      },
+      "gigseekr.com": {
+        "requests": 2,
+        "successes": 2,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1764260684554,
         "successRate": "100.00%"
       },
       "wegottickets.com": {
@@ -125,26 +169,50 @@
         "successes": 2,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1757062526924,
+        "lastRequestTime": 1764260684681,
         "successRate": "100.00%"
-      },
-      "gigseekr.com": {
-        "requests": 2,
-        "successes": 0,
-        "errors": 2,
-        "consecutiveErrors": 2,
-        "lastRequestTime": 1757062526834,
-        "successRate": "0.00%"
       },
       "thegreendoorstore.co.uk": {
         "requests": 1,
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1757062542007,
+        "lastRequestTime": 1764260684174,
+        "successRate": "100.00%"
+      },
+      "quartersbrighton.co.uk": {
+        "requests": 1,
+        "successes": 1,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1764260684795,
+        "successRate": "100.00%"
+      },
+      "therosehill.co.uk": {
+        "requests": 1,
+        "successes": 1,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1764260685302,
+        "successRate": "100.00%"
+      },
+      "brightondome.org": {
+        "requests": 1,
+        "successes": 1,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1764260685442,
+        "successRate": "100.00%"
+      },
+      "therossibar.co.uk": {
+        "requests": 1,
+        "successes": 1,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1764260686945,
         "successRate": "100.00%"
       }
     }
   },
-  "executionTime": 20525
+  "executionTime": 4434
 }

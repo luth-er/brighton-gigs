@@ -6,21 +6,45 @@ import { globalRateLimiter } from './utils/rate-limiter.js';
 // Individual venue scraper classes extending BaseScraper
 class HopeRuinScraper extends BaseScraper {
   constructor() {
-    super('Hope & Ruin', 'https://www.hope.pub/events/');
+    super('Hope & Ruin', 'https://www.hope.pub/gigs-in-the-venue/');
   }
 
   async scrape() {
     return globalRateLimiter.execute(async () => {
       const $ = await this.fetchAndParseHTML(this.baseUrl);
-      
-      return $('.events-list-alternate__card').map((_, element) => {
-        const title = $(element).find('.heading-link').text().trim();
-        const date = $(element).find('.meta--date').text().trim();
-        const link = $(element).find('.card__button').attr('href');
-        const dateUnix = this.parseEventDate(date, title);
-        
-        return this.createEvent({ title, date, link, dateUnix });
-      }).get();
+
+      // Extract JSON-LD structured data from script tags
+      const events = [];
+      $('script[type="application/ld+json"]').each((_, element) => {
+        try {
+          const jsonData = JSON.parse($(element).html());
+
+          // Handle both single event and array of events
+          const eventData = Array.isArray(jsonData) ? jsonData : [jsonData];
+
+          eventData.forEach(data => {
+            if (data['@type'] === 'Event') {
+              const title = data.name?.trim() || '';
+              const startDate = data.startDate || '';
+              const link = data.url || '';
+
+              // Parse ISO 8601 date format (YYYY-MM-DDTHH:MM)
+              const dateUnix = this.parseEventDate(startDate, title);
+
+              events.push(this.createEvent({
+                title,
+                date: startDate,
+                link,
+                dateUnix
+              }));
+            }
+          });
+        } catch (error) {
+          console.warn(`Hope & Ruin - Failed to parse JSON-LD: ${error.message}`);
+        }
+      });
+
+      return events;
     }, { domain: 'hope.pub', priority: 1 });
   }
 }
@@ -99,15 +123,39 @@ class FolkloreRoomsScraper extends BaseScraper {
   async scrape() {
     return globalRateLimiter.execute(async () => {
       const $ = await this.fetchAndParseHTML(this.baseUrl);
-      
-      return $('.content.block-group.chatterbox-margin').map((_, element) => {
-        const title = $(element).find('h2 a').text().trim();
-        const date = $(element).find('.venue-details tr:nth-child(1) td').text().trim();
-        const link = $(element).find('.button').attr('href');
-        const dateUnix = this.parseEventDate(date, title);
-        
-        return this.createEvent({ title, date, link, dateUnix });
-      }).get();
+
+      // Extract JSON-LD structured data from script tags
+      const events = [];
+      $('script[type="application/ld+json"]').each((_, element) => {
+        try {
+          const jsonData = JSON.parse($(element).html());
+
+          // Handle both single event and array of events
+          const eventData = Array.isArray(jsonData) ? jsonData : [jsonData];
+
+          eventData.forEach(data => {
+            if (data['@type'] === 'MusicEvent') {
+              const title = data.name?.trim() || '';
+              const startDate = data.startDate || '';
+              const link = data.url || '';
+
+              // Parse ISO 8601 date format
+              const dateUnix = this.parseEventDate(startDate, title);
+
+              events.push(this.createEvent({
+                title,
+                date: startDate,
+                link,
+                dateUnix
+              }));
+            }
+          });
+        } catch (error) {
+          console.warn(`Folklore Rooms - Failed to parse JSON-LD: ${error.message}`);
+        }
+      });
+
+      return events;
     }, { domain: 'wegottickets.com', priority: 1 });
   }
 }
@@ -144,16 +192,192 @@ class PipelineScraper extends BaseScraper {
   async scrape() {
     return globalRateLimiter.execute(async () => {
       const $ = await this.fetchAndParseHTML(this.baseUrl);
-      
-      return $('.content.block-group.chatterbox-margin').map((_, element) => {
-        const title = $(element).find('h2 a').text().trim();
-        const date = $(element).find('.venue-details tr:nth-child(1) td').text().trim();
-        const link = $(element).find('.button').attr('href');
-        const dateUnix = this.parseEventDate(date, title);
-        
-        return this.createEvent({ title, date, link, dateUnix });
-      }).get();
+
+      // Extract JSON-LD structured data from script tags
+      const events = [];
+      $('script[type="application/ld+json"]').each((_, element) => {
+        try {
+          const jsonData = JSON.parse($(element).html());
+
+          // Handle both single event and array of events
+          const eventData = Array.isArray(jsonData) ? jsonData : [jsonData];
+
+          eventData.forEach(data => {
+            if (data['@type'] === 'MusicEvent') {
+              const title = data.name?.trim() || '';
+              const startDate = data.startDate || '';
+              const link = data.url || '';
+
+              // Parse ISO 8601 date format
+              const dateUnix = this.parseEventDate(startDate, title);
+
+              events.push(this.createEvent({
+                title,
+                date: startDate,
+                link,
+                dateUnix
+              }));
+            }
+          });
+        } catch (error) {
+          console.warn(`Pipeline - Failed to parse JSON-LD: ${error.message}`);
+        }
+      });
+
+      return events;
     }, { domain: 'wegottickets.com', priority: 1 });
+  }
+}
+
+class QuartersScraper extends BaseScraper {
+  constructor() {
+    super('Quarters', 'https://quartersbrighton.co.uk/whatson');
+  }
+
+  async scrape() {
+    return globalRateLimiter.execute(async () => {
+      const $ = await this.fetchAndParseHTML(this.baseUrl);
+
+      const events = [];
+      $('.w-dyn-item').each((_, element) => {
+        const title = $(element).find('h5').text().trim();
+        const link = $(element).find('a').first().attr('href');
+
+        // Get all text content and find date pattern
+        const allText = $(element).text();
+        const dateMatch = allText.match(/(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}/);
+        const dateText = dateMatch ? dateMatch[0] : '';
+
+        const fullLink = link?.startsWith('http') ? link : `https://quartersbrighton.co.uk${link}`;
+
+        if (title && dateText) {
+          const dateUnix = this.parseEventDate(dateText, title);
+          events.push(this.createEvent({ title, date: dateText, link: fullLink, dateUnix }));
+        }
+      });
+
+      return events;
+    }, { domain: 'quartersbrighton.co.uk', priority: 1 });
+  }
+}
+
+class RossiBarScraper extends BaseScraper {
+  constructor() {
+    super('Rossi Bar', 'https://therossibar.co.uk/events/');
+  }
+
+  async scrape() {
+    return globalRateLimiter.execute(async () => {
+      const $ = await this.fetchAndParseHTML(this.baseUrl);
+
+      const events = [];
+      $('h3').each((_, element) => {
+        const title = $(element).text().trim();
+        // Date is typically in the next sibling or nearby text
+        const dateText = $(element).parent().text().replace(title, '').trim().split('\n')[0];
+        const link = $(element).parent().find('a[href*="/events/"]').attr('href');
+        const fullLink = link?.startsWith('http') ? link : `https://therossibar.co.uk${link}`;
+
+        if (title && dateText) {
+          const dateUnix = this.parseEventDate(dateText, title);
+          events.push(this.createEvent({ title, date: dateText, link: fullLink, dateUnix }));
+        }
+      });
+
+      return events;
+    }, { domain: 'therossibar.co.uk', priority: 1 });
+  }
+}
+
+class RoseHillScraper extends BaseScraper {
+  constructor() {
+    super('The Rose Hill', 'https://therosehill.co.uk/events/?event-type=gig');
+  }
+
+  async scrape() {
+    return globalRateLimiter.execute(async () => {
+      const $ = await this.fetchAndParseHTML(this.baseUrl);
+
+      const events = [];
+      $('a[href*="/event/"]').each((_, element) => {
+        const title = $(element).find('h2, h3').first().text().trim();
+        const fullText = $(element).text();
+        // Extract date pattern like "Thu 27th Nov"
+        const dateMatch = fullText.match(/([A-Za-z]{3})\s+(\d{1,2}(?:st|nd|rd|th))\s+([A-Za-z]{3})/);
+        const dateText = dateMatch ? dateMatch[0] : '';
+        const link = $(element).attr('href');
+        const fullLink = link?.startsWith('http') ? link : `https://therosehill.co.uk${link}`;
+
+        if (title && dateText) {
+          const dateUnix = this.parseEventDate(dateText, title);
+          events.push(this.createEvent({ title, date: dateText, link: fullLink, dateUnix }));
+        }
+      });
+
+      return events;
+    }, { domain: 'therosehill.co.uk', priority: 1 });
+  }
+}
+
+class BrightonDomeScraper extends BaseScraper {
+  constructor() {
+    super('Brighton Dome', 'https://brightondome.org/whats-on/#genre=85&calendar=false,false&top_filter=all&page=1&view=list');
+  }
+
+  async scrape() {
+    return globalRateLimiter.execute(async () => {
+      const $ = await this.fetchAndParseHTML(this.baseUrl);
+
+      const events = [];
+      // Extract JavaScript _filter_data.push() statements from script tags
+      $('script').each((_, element) => {
+        const scriptContent = $(element).html();
+        if (scriptContent && scriptContent.includes('_filter_data.push')) {
+          try {
+            // Extract all _filter_data.push({...}) statements
+            const pushMatches = scriptContent.matchAll(/_filter_data\.push\(\s*(\{[\s\S]*?\})\s*\);/g);
+
+            for (const match of pushMatches) {
+              try {
+                // Clean up the JavaScript to be valid JSON
+                const jsonString = match[1]
+                  .replace(/\/\*/g, '')  // Remove /*
+                  .replace(/\*\//g, '')  // Remove */
+                  .replace(/,(\s*[}\]])/g, '$1'); // Remove trailing commas
+
+                const event = JSON.parse(jsonString);
+
+                const title = event.title || event.name || '';
+                const dateFormatted = event.date_formatted || '';
+                const link = event.url || '';
+                const fullLink = link?.startsWith('http') ? link : `https://brightondome.org${link}`;
+
+                // Use Unix timestamp if available, otherwise parse formatted date
+                let dateUnix;
+                if (event.start_date) {
+                  dateUnix = event.start_date * 1000; // Convert seconds to milliseconds
+                } else {
+                  dateUnix = this.parseEventDate(dateFormatted, title);
+                }
+
+                events.push(this.createEvent({
+                  title,
+                  date: dateFormatted,
+                  link: fullLink,
+                  dateUnix
+                }));
+              } catch (parseError) {
+                console.warn(`Brighton Dome - Failed to parse individual event: ${parseError.message}`);
+              }
+            }
+          } catch (error) {
+            console.warn(`Brighton Dome - Failed to extract _filter_data: ${error.message}`);
+          }
+        }
+      });
+
+      return events;
+    }, { domain: 'brightondome.org', priority: 1 });
   }
 }
 
@@ -180,7 +404,11 @@ const scrapeSites = async () => {
     new ChalkScraper(),
     new FolkloreRoomsScraper(),
     new PrinceAlbertScraper(),
-    new PipelineScraper()
+    new PipelineScraper(),
+    new QuartersScraper(),
+    new RossiBarScraper(),
+    new RoseHillScraper(),
+    new BrightonDomeScraper()
   ];
 
   console.log(`=== Starting Parallel Scraping (${scrapers.length} venues) ===`);

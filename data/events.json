@@ -1,1056 +1,84 @@
 [
   {
-    "title": "HIRS",
-    "date": "Fri, 5 Sep 2025",
+    "title": "<span>Brighton Dome Backstage Tours</span>",
+    "date": "Sat 8 Nov 2025 - Sat 21 Feb 2026",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/Lol-brighton-dome-backstage-tours/",
+    "dateUnix": 1762599600000,
+    "scrapedAt": "2025-11-27T16:24:45.440Z",
+    "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "Hollowpoint – EP Release Show",
+    "date": "Thu, 27 Nov 2025",
     "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/hirs/",
-    "dateUnix": 1757026800000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "90s vs 00s",
-    "date": "Fri, 5 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s/",
-    "dateUnix": 1757026800000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Nagasaki Dog + The Wrong Trousers + Gutterfly + Flavours",
-    "date": "5th September 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/nagasaki-dog-the-wrong-trousers-gutterfly-flavours/",
-    "dateUnix": 1757095200000,
-    "scrapedAt": "2025-09-05T08:55:22.440Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "808 State - Live",
-    "date": "05/09/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/808-state-live",
-    "dateUnix": 1757097000000,
-    "scrapedAt": "2025-09-05T08:55:22.390Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "KVLL COLONISERS: FLORALIS ALBUM RELEASE",
-    "date": "Sat, 6 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/floralis-album-release-show/",
-    "dateUnix": 1757113200000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "It Is Still 1985",
-    "date": "Sat, 6 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985/",
-    "dateUnix": 1757113200000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Picky New Promotions present SWALLOWTAIL",
-    "date": "Saturday 6th September, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/waiting-list/666663",
-    "dateUnix": 1757113200000,
-    "scrapedAt": "2025-09-05T08:55:26.922Z",
-    "scraper": "PipelineScraper"
-  },
-  {
-    "title": "Fleetwood Bac",
-    "date": "06/09/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/fleetwood-bac",
-    "dateUnix": 1757181600000,
-    "scrapedAt": "2025-09-05T08:55:22.392Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "really big really clever + jar of blind flies + prom + had sandy",
-    "date": "6th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/really-big-really-clever/",
-    "dateUnix": 1757183400000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Dutch Interior",
-    "date": "Sun, 7 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/dutch-interior/",
-    "dateUnix": 1757199600000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Fun Lovin' Criminals",
-    "date": "07/09/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/fun-lovin-criminals",
-    "dateUnix": 1757269800000,
-    "scrapedAt": "2025-09-05T08:55:22.393Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Food House",
-    "date": "Tue, 9 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/food-house/",
-    "dateUnix": 1757372400000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Japanese Television + Radio Anorak + MAGDA + more",
-    "date": "10th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/japanese-television-radio-anorak-magda-more/",
-    "dateUnix": 1757529000000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Flyte",
-    "date": "10/09/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/flyte",
-    "dateUnix": 1757529000000,
-    "scrapedAt": "2025-09-05T08:55:22.394Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Ragdoll",
-    "date": "Thu, 11 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/ragdoll/",
-    "dateUnix": 1757545200000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "ACOPIA + Support",
-    "date": "11th September 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/acopia-support/",
-    "dateUnix": 1757617200000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Telecom",
-    "date": "Fri, 12 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/telecom/",
-    "dateUnix": 1757631600000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "i f***ing h8 clubbing",
-    "date": "Fri, 12 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/i-fing-h8-clubbing/",
-    "dateUnix": 1757631600000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Omega Tribe",
-    "date": "Friday 12th September, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/671176",
-    "dateUnix": 1757631600000,
-    "scrapedAt": "2025-09-05T08:55:26.922Z",
-    "scraper": "PipelineScraper"
-  },
-  {
-    "title": "Emo Fest",
-    "date": "12/09/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/emo-fest",
-    "dateUnix": 1757700000000,
-    "scrapedAt": "2025-09-05T08:55:22.394Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Fortitude Valley + Support",
-    "date": "12th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/fortitude-valley-support/",
-    "dateUnix": 1757701800000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "*LOW TICKETS* Far Caspian",
-    "date": "Sat, 13 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/far-caspian/",
-    "dateUnix": 1757718000000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "It Is Still 1985",
-    "date": "Sat, 13 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-2/",
-    "dateUnix": 1757718000000,
-    "scrapedAt": "2025-09-05T08:55:42.006Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Senser *SOLD OUT*",
-    "date": "13th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/senser/",
-    "dateUnix": 1757788200000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Dance Myth",
-    "date": "14th September 2025 at 6:45 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dance-myth/",
-    "dateUnix": 1757871900000,
-    "scrapedAt": "2025-09-05T08:55:22.441Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Placeholder – Poetry Night",
-    "date": "15th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/placeholder-poetry-night-12/",
-    "dateUnix": 1757961000000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "thredd + Slow Cooked",
-    "date": "Tue, 16 Sep 2025",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/thredd-slow-cooked/",
-    "dateUnix": 1757977200000,
-    "scrapedAt": "2025-09-05T08:55:42.007Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "SHAKE SOME ACTON #113.( Brighton Edition). TEO WISE, FAMILY OF STRANGERS,FEROX FUCKING FEROX.",
-    "date": "Tuesday 16th September, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/671423",
-    "dateUnix": 1757977200000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
-    "scraper": "PipelineScraper"
-  },
-  {
-    "title": "Incognito",
-    "date": "16/09/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/incognito",
-    "dateUnix": 1758047400000,
-    "scrapedAt": "2025-09-05T08:55:22.394Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Filkin's Drift",
-    "date": "Thursday 18th September, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/656465",
-    "dateUnix": 1758150000000,
-    "scrapedAt": "2025-09-05T08:55:23.184Z",
-    "scraper": "FolkloreRoomsScraper"
-  },
-  {
-    "title": "D.I.E. Fest II Pre-Show",
-    "date": "18th September 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/d-i-e-fest-ii-pre-show/",
-    "dateUnix": 1758218400000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Skindred",
-    "date": "18/09/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/skindred",
-    "dateUnix": 1758220200000,
-    "scrapedAt": "2025-09-05T08:55:22.394Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Ramona Marx",
-    "date": "19th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/ramona-marx/",
-    "dateUnix": 1758306600000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "One Night In Nashville",
-    "date": "19/09/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/one-night-in-nashville",
-    "dateUnix": 1758306600000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Guns N Roses Experience",
-    "date": "20/09/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/guns-n-roses-experience",
-    "dateUnix": 1758391200000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "First Time Flyers + Support",
-    "date": "20th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/first-time-flyers-support/",
-    "dateUnix": 1758393000000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Gloma + Mashed + Seethe + Sunlifter *FREE ENTRY*",
-    "date": "21st September 2025 at 6:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/gloma-mashed-seethe-sunlifter-free-entry/",
-    "dateUnix": 1758474000000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Whitney K",
-    "date": "23rd September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/whitney-k/",
-    "dateUnix": 1758652200000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Dez Dare + Lunar Dirt + Lipworms",
-    "date": "24th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dez-dare-lunar-dirt/",
-    "dateUnix": 1758738600000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Sleeper",
-    "date": "24/09/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/sleeper-2",
-    "dateUnix": 1758738600000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "LA Witch",
-    "date": "25th September 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/la-witch/",
-    "dateUnix": 1758825000000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Florence Black",
-    "date": "25/09/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/florence-black",
-    "dateUnix": 1758825000000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Daffodils + Dura Mater + Divorce Attorney + Nel Blu",
-    "date": "26th September 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/daffodils-dura-mater-divorce-attorney-nel-blu/",
-    "dateUnix": 1758909600000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Sambroso Allstas",
-    "date": "26/09/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/sambroso-allstas",
-    "dateUnix": 1758909600000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Absinthe Green",
-    "date": "Saturday 27th September, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/658459",
-    "dateUnix": 1758927600000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
-    "scraper": "PipelineScraper"
-  },
-  {
-    "title": "Dirty DC",
-    "date": "27/09/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/dirty-dc",
-    "dateUnix": 1758996000000,
-    "scrapedAt": "2025-09-05T08:55:22.395Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Harker + Regal Cheer + mydiary.",
-    "date": "27th September 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/harker-regal-cheer-mydiary/",
-    "dateUnix": 1758999600000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Vestia + Support",
-    "date": "28th September 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/vestia-support/",
-    "dateUnix": 1759082400000,
-    "scrapedAt": "2025-09-05T08:55:22.442Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "The Monday Smile + Moth + Sunlifter + Insectus",
-    "date": "29th September 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-monday-smile-moth-sunlifter-insectus/",
-    "dateUnix": 1759168800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "The Stealers *FREE ENTRY*",
-    "date": "30th September 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-stealers-free-entry/",
-    "dateUnix": 1759258800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Overpass",
-    "date": "02/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/overpass",
-    "dateUnix": 1759429800000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "14 Iced Bears",
-    "date": "3rd October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/14-iced-bears/",
-    "dateUnix": 1759516200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Mass Of The Fermenting Dregs",
-    "date": "04/10/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/mass-of-the-fermenting-dregs",
-    "dateUnix": 1759600800000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Midnight Rodeo",
-    "date": "4th October 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/midnight-rodeo/",
-    "dateUnix": 1759604400000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Psudoku + Call Me Franco + Gurf",
-    "date": "5th October 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/psudoku-call-me-franco-gurf/",
-    "dateUnix": 1759690800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "JoJo Siwa",
-    "date": "06/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/jojo-siwa",
-    "dateUnix": 1759775400000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "CM Wolf and The Backbones",
-    "date": "7th October 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/cm-wolf-and-the-backbones/",
-    "dateUnix": 1759860000000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Dirty Nice",
-    "date": "8th October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/dirty-nice/",
-    "dateUnix": 1759948200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Red Rum Club",
-    "date": "08/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/red-rum-club",
-    "dateUnix": 1759948200000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "The New Eves",
-    "date": "09/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/the-new-eves",
-    "dateUnix": 1760034600000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Art D’ecco",
-    "date": "9th October 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/art-decco/",
-    "dateUnix": 1760036400000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "SHAKE SOME ACTON #118. POWER APES , CLUB BRAT , GLITTERBOMBS",
-    "date": "Friday 10th October, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/671648",
-    "dateUnix": 1760050800000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
-    "scraper": "PipelineScraper"
-  },
-  {
-    "title": "End Times Present: Nagasaki Dog • Claw Machine • Your Majesty",
-    "date": "Saturday 11th October, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/673840",
-    "dateUnix": 1760137200000,
-    "scrapedAt": "2025-09-05T08:55:23.185Z",
-    "scraper": "FolkloreRoomsScraper"
-  },
-  {
-    "title": "Nirvana UK",
-    "date": "11/10/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/nirvana-uk",
-    "dateUnix": 1760205600000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "The K's",
-    "date": "13/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/the-ks",
-    "dateUnix": 1760380200000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "JME",
-    "date": "15/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/jme",
-    "dateUnix": 1760553000000,
-    "scrapedAt": "2025-09-05T08:55:22.396Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Long Fling",
-    "date": "15th October 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/long-fling/",
-    "dateUnix": 1760554800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "The Royston Club",
-    "date": "16/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/the-royston-club",
-    "dateUnix": 1760639400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Taylor More Swiftly at The Pipeline, Brighton!",
-    "date": "Friday 17th October, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/661386",
-    "dateUnix": 1760655600000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
-    "scraper": "PipelineScraper"
-  },
-  {
-    "title": "Of Monsters And Men",
-    "date": "17/10/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/of-monsters-and-men",
-    "dateUnix": 1760724000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Utopia Strong",
-    "date": "17th October 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/utopia-strong/",
-    "dateUnix": 1760727600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Sleeper",
-    "date": "18/10/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/sleeper",
-    "dateUnix": 1760810400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "GLOIN + Support",
-    "date": "19th October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/gloin-support/",
-    "dateUnix": 1760898600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Kid Kapichi",
-    "date": "19/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/kid-kapichi",
-    "dateUnix": 1760898600000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Michael Aldag",
-    "date": "20th October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/michael-aldag/",
-    "dateUnix": 1760985000000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Michael Aldag + Support",
-    "date": "20th October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/michael-aldag-support/",
-    "dateUnix": 1760985000000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Aqualine",
-    "date": "22nd October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/aqualine/",
-    "dateUnix": 1761157800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "L1nkn P4rk - Linkin Park Experience",
-    "date": "22/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/l1nkn-p4rk-linkin-park-experience",
-    "dateUnix": 1761157800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Holysseus Fly",
-    "date": "23rd October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/holysseus-fly/",
-    "dateUnix": 1761244200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "The Herbaliser Band",
-    "date": "23/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/the-herbaliser-band",
-    "dateUnix": 1761244200000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Letz Zep",
-    "date": "24/10/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/letz-zep",
-    "dateUnix": 1761328800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Phinius Gage",
-    "date": "24th October 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/phinius-gage/",
-    "dateUnix": 1761330600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Orange Skies",
-    "date": "Saturday 25th October, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/673726",
-    "dateUnix": 1761346800000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
-    "scraper": "PipelineScraper"
-  },
-  {
-    "title": "LollapaGOOza 3",
-    "date": "25th October 2025 at 1:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/lollapagooza-3/",
-    "dateUnix": 1761393600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Stone Foundation",
-    "date": "25/10/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/stone-foundation",
-    "dateUnix": 1761415200000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "The Lovely Eggs",
-    "date": "26/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/the-lovely-eggs",
-    "dateUnix": 1761507000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Cardinal Black",
-    "date": "28/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/cardinal-black",
-    "dateUnix": 1761679800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "The Now",
-    "date": "29th October 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-now/",
-    "dateUnix": 1761764400000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Kerrbang!",
-    "date": "29/10/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/kerrbang",
-    "dateUnix": 1761766200000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Misty In Roots",
-    "date": "30/10/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/misty-in-roots",
-    "dateUnix": 1761850800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Valve",
-    "date": "31/10/25  9:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/valve",
-    "dateUnix": 1761944400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Capsula",
-    "date": "Saturday 1st November, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/674274",
-    "dateUnix": 1761955200000,
-    "scrapedAt": "2025-09-05T08:55:26.923Z",
-    "scraper": "PipelineScraper"
-  },
-  {
-    "title": "Scott Lavene + LC Pumpkin",
-    "date": "1st November 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/scott-lavene-mc-pumpkin/",
-    "dateUnix": 1762027200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Castle Rat",
-    "date": "04/11/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/castle-rat",
-    "dateUnix": 1762284600000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "The Cinelli Brothers",
-    "date": "5th November 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-cinelli-brothers/",
-    "dateUnix": 1762371000000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Mono",
-    "date": "05/11/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/mono",
-    "dateUnix": 1762371000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "The Lost Trades",
-    "date": "Thursday 6th November, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/657354",
-    "dateUnix": 1762387200000,
-    "scrapedAt": "2025-09-05T08:55:23.185Z",
-    "scraper": "FolkloreRoomsScraper"
-  },
-  {
-    "title": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
-    "date": "6th November 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/the-world-is-a-beautiful-place-i-am-no-longer-afraid-to-die/",
-    "dateUnix": 1762459200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Mutations Festival 2025 – Friday",
-    "date": "7th November 2025 at 5:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/mutations-festival-2025-friday/",
-    "dateUnix": 1762534800000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Pop Will Eat Itself",
-    "date": "07/11/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/pop-will-eat-itself",
-    "dateUnix": 1762542000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Mutations Festival 2025 – Saturday",
-    "date": "8th November 2025 at 5:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/mutations-festival-2025-saturday/",
-    "dateUnix": 1762621200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Metallica Reloaded",
-    "date": "08/11/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/metallica-reloaded",
-    "dateUnix": 1762628400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Willie J Healey",
-    "date": "10/11/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/willie-j-healey",
-    "dateUnix": 1762803000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "GAG + INGROWN + Plastics",
-    "date": "11th November 2025 at 7:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/gag-ingrown-plastics/",
-    "dateUnix": 1762887600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Chameleons",
-    "date": "12/11/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/chameleons",
-    "dateUnix": 1762975800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "The Crazy World Of Arthur Brown",
-    "date": "13/11/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/crazy-world-of-arthur-brown",
-    "dateUnix": 1763062200000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Turin Brakes",
-    "date": "14/11/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/turin-brakes",
-    "dateUnix": 1763146800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "ANNA PHOEBE + Special Guests",
-    "date": "14th November 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/anna-phoebe-special-guests/",
-    "dateUnix": 1763150400000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Hugh Cornwell & Guests The Couretttes",
-    "date": "16/11/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/hugh-cornwell",
-    "dateUnix": 1763321400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "The Pains Of Being Pure At Heart",
-    "date": "21/11/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/the-pains-of-being-pure-at-heart",
-    "dateUnix": 1763751600000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "The Roz Bruce Infusion",
-    "date": "Saturday 22nd November, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/674513",
-    "dateUnix": 1763769600000,
-    "scrapedAt": "2025-09-05T08:55:26.924Z",
-    "scraper": "PipelineScraper"
-  },
-  {
-    "title": "UK Foo Fighters",
-    "date": "22/11/25  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/uk-foo-fighters",
-    "dateUnix": 1763838000000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Poly-Math",
-    "date": "22nd November 2025 at 8:00 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/poly-math/",
-    "dateUnix": 1763841600000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "Conan",
-    "date": "24/11/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/conan",
-    "dateUnix": 1764012600000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Kean Kavanagh",
-    "date": "25th November 2025 at 7:30 pm",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/kean-kavanagh/",
-    "dateUnix": 1764099000000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "The Brand New Heavies",
-    "date": "26/11/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/the-brand-new-heavies",
-    "dateUnix": 1764185400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Non Canon, Jacob Glew, B-Sydes @ Folklore Rooms, Brighton",
-    "date": "Thursday 27th November, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/675446",
+    "link": "https://thegreendoorstore.co.uk/events/hollowpoint-ep-release-show/",
     "dateUnix": 1764201600000,
-    "scrapedAt": "2025-09-05T08:55:23.186Z",
-    "scraper": "FolkloreRoomsScraper"
+    "scrapedAt": "2025-11-27T16:24:44.173Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "Secret Discotheque",
+    "date": "27 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/secret-discotheque-decades-of-pop/event/88m92",
+    "dateUnix": 1764201600000,
+    "scrapedAt": "2025-11-27T16:24:44.000Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Pete Fij",
+    "date": "27 NOV 2025",
+    "venue": "Prince Albert",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/pete-fij/event/88jd4",
+    "dateUnix": 1764201600000,
+    "scrapedAt": "2025-11-27T16:24:44.554Z",
+    "scraper": "PrinceAlbertScraper"
+  },
+  {
+    "title": "The Sherlocks",
+    "date": "November 27, 2025",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/the-sherlocks",
+    "dateUnix": 1764201600000,
+    "scrapedAt": "2025-11-27T16:24:44.793Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Gifthorse",
+    "date": "Thu, 27 Nov 2025",
+    "venue": "Rossi Bar",
+    "link": "https://therossibar.co.uk/events/gifthorse/",
+    "dateUnix": 1764201600000,
+    "scrapedAt": "2025-11-27T16:24:46.943Z",
+    "scraper": "RossiBarScraper"
+  },
+  {
+    "title": "<span>Scriptwriting/Reading Workshop</span>",
+    "date": "Thu 27 Nov",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/LQu-scriptwritingreading-workshop/",
+    "dateUnix": 1764252000000,
+    "scrapedAt": "2025-11-27T16:24:45.440Z",
+    "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "The Skinner Brothers *SOLD OUT*",
+    "date": "2025-11-27T19:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-skinner-brothers-sold-out/",
+    "dateUnix": 1764270000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "<span>Alessi Rose</span>",
+    "date": "Thu 27 Nov",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/LyG-alessi-rose/",
+    "dateUnix": 1764270000000,
+    "scrapedAt": "2025-11-27T16:24:45.441Z",
+    "scraper": "BrightonDomeScraper"
   },
   {
     "title": "Warmduscher",
@@ -1058,8 +86,80 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/warmduscher",
     "dateUnix": 1764271800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-11-27T16:24:43.313Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Non Canon, Jacob Glew, B-Sydes @ Folklore Rooms, Brighton",
+    "date": "2025-11-27T19:30:00+00:00",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/675446",
+    "dateUnix": 1764271800000,
+    "scrapedAt": "2025-11-27T16:24:44.028Z",
+    "scraper": "FolkloreRoomsScraper"
+  },
+  {
+    "title": "Non Canon, Jacob Glew, B-Sydes @ Folklore Rooms, Brighton (pals link)",
+    "date": "2025-11-27T19:30:00+00:00",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/680641",
+    "dateUnix": 1764271800000,
+    "scrapedAt": "2025-11-27T16:24:44.028Z",
+    "scraper": "FolkloreRoomsScraper"
+  },
+  {
+    "title": "that’s f***ing rubbish: the strokes vs sabrina carpenter",
+    "date": "Fri, 28 Nov 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-the-strokes-vs-sabrina-carpenter/",
+    "dateUnix": 1764288000000,
+    "scrapedAt": "2025-11-27T16:24:44.174Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "mclusky",
+    "date": "28 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/mclusky/event/88kzz",
+    "dateUnix": 1764288000000,
+    "scrapedAt": "2025-11-27T16:24:44.001Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "NOTORIOUS",
+    "date": "28 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/notorious/event/88m9q",
+    "dateUnix": 1764288000000,
+    "scrapedAt": "2025-11-27T16:24:44.001Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Emily Makis presents Outsiders",
+    "date": "November 28, 2025",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/emily-makis-presents-outsiders",
+    "dateUnix": 1764288000000,
+    "scrapedAt": "2025-11-27T16:24:44.793Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "The Flex- Hi Nrg / Italo Disco",
+    "date": "Fri, 28 Nov 2025",
+    "venue": "Rossi Bar",
+    "link": "https://therossibar.co.uk/events/the-flex-hi-nrg-italo-disco/",
+    "dateUnix": 1764288000000,
+    "scrapedAt": "2025-11-27T16:24:46.943Z",
+    "scraper": "RossiBarScraper"
+  },
+  {
+    "title": "<span>Life Drawing Workshops</span>",
+    "date": "Fri 28 Nov - Wed 3 Dec",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/LlM-life-drawing-workshops/",
+    "dateUnix": 1764293400000,
+    "scrapedAt": "2025-11-27T16:24:45.441Z",
+    "scraper": "BrightonDomeScraper"
   },
   {
     "title": "Ozric Tentacles & System 7",
@@ -1067,53 +167,305 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/ozric-tentacles-system-7",
     "dateUnix": 1764356400000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-11-27T16:24:43.316Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
-    "title": "Hotel Lux",
-    "date": "28th November 2025 at 7:30 pm",
+    "title": "<span>Ross Noble: Cranium of Curiosities</span>",
+    "date": "Fri 28 Nov",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/VB9-ross-noble-cranium-of-curiosities/",
+    "dateUnix": 1764356400000,
+    "scrapedAt": "2025-11-27T16:24:45.441Z",
+    "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "Hotel Lux + The Stealers + Lebanese Blonde",
+    "date": "2025-11-28T19:30",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hotel-lux/",
     "dateUnix": 1764358200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "<span>The Legends Of Them</span>",
+    "date": "Fri 28 & Sat 29 Nov",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/Luz-the-legends-of-them/",
+    "dateUnix": 1764358200000,
+    "scrapedAt": "2025-11-27T16:24:45.441Z",
+    "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "L’Eclair",
+    "date": "Sat, 29 Nov 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/leclair/",
+    "dateUnix": 1764374400000,
+    "scrapedAt": "2025-11-27T16:24:44.174Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 29 Nov 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-15/",
+    "dateUnix": 1764374400000,
+    "scrapedAt": "2025-11-27T16:24:44.174Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "Lacuna Coil",
+    "date": "29 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lacuna-coil-sleepless-empire-tour-2025/event/zxwt",
+    "dateUnix": 1764374400000,
+    "scrapedAt": "2025-11-27T16:24:44.001Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Let's Kill Disco",
+    "date": "29 NOV 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lets-kill-disco-decades-of-party-anthems/event/88m9z",
+    "dateUnix": 1764374400000,
+    "scrapedAt": "2025-11-27T16:24:44.001Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Swimming Paul",
+    "date": "November 29, 2025",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/swimming-paul",
+    "dateUnix": 1764374400000,
+    "scrapedAt": "2025-11-27T16:24:44.793Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Avalanche Kaito + Special Guests",
+    "date": "Sat 29th Nov",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/avalanche-kaito-special-guests/",
+    "dateUnix": 1764374400000,
+    "scrapedAt": "2025-11-27T16:24:45.301Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "<span>Sara Pascoe: I Am A Strange Gloop</span>",
+    "date": "Sat 29 Nov",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/VF1-sara-pascoe-i-am-a-strange-gloop/",
+    "dateUnix": 1764442800000,
+    "scrapedAt": "2025-11-27T16:24:45.442Z",
+    "scraper": "BrightonDomeScraper"
   },
   {
     "title": "The Arsenics",
-    "date": "Saturday 29th November, 2025",
+    "date": "2025-11-29T19:30:00+00:00",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/674896",
-    "dateUnix": 1764374400000,
-    "scrapedAt": "2025-09-05T08:55:26.924Z",
+    "dateUnix": 1764444600000,
+    "scrapedAt": "2025-11-27T16:24:44.681Z",
     "scraper": "PipelineScraper"
   },
   {
-    "title": "Good Health Good Wealth",
-    "date": "30th November 2025 at 7:00 pm",
+    "title": "Ahsoka EP Release Show + prom + Wrench",
+    "date": "2025-11-29T20:00",
     "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/good-health-good-wealth/",
-    "dateUnix": 1764529200000,
-    "scrapedAt": "2025-09-05T08:55:22.443Z",
+    "link": "https://www.hope.pub/event/ahsoka-ep-release-show-prom-wrench/",
+    "dateUnix": 1764446400000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
     "scraper": "HopeRuinScraper"
   },
   {
-    "title": "Oh My God! It's The Church",
-    "date": "02/12/25  7:30pm",
+    "title": "Glass Bridges x Kite Thief (co-headline tour)",
+    "date": "Sun, 30 Nov 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/glass-bridges-x-kite-thief-co-headline-tour/",
+    "dateUnix": 1764460800000,
+    "scrapedAt": "2025-11-27T16:24:44.174Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "<span>Rob Brydon & His Fabulous Band: A Festive Night of Songs & Laughter</span>",
+    "date": "Sun 30 Nov",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/L43-rob-brydon-his-fabulous-band-a-festive-night-of-songs-laughter/",
+    "dateUnix": 1764525600000,
+    "scrapedAt": "2025-11-27T16:24:45.442Z",
+    "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "Good Health Good Wealth",
+    "date": "2025-11-30T19:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/good-health-good-wealth/",
+    "dateUnix": 1764529200000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "The Sabres Of Paradise",
+    "date": "30/11/25  7:30pm",
     "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/oh-my-god-its-the-church",
-    "dateUnix": 1764703800000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "link": "https://www.concorde2.co.uk/event/the-sabres-of-paradise",
+    "dateUnix": 1764531000000,
+    "scrapedAt": "2025-11-27T16:24:43.317Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
-    "title": "Andy Crofts live in Brighton",
-    "date": "Friday 5th December, 2025",
-    "venue": "Folklore Rooms",
-    "link": "https://wegottickets.com/event/674190",
+    "title": "Soft Loft",
+    "date": "Tue, 2 Dec 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/soft-loft/",
+    "dateUnix": 1764633600000,
+    "scrapedAt": "2025-11-27T16:24:44.174Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "<span>One Voice 2025: Create Music</span>",
+    "date": "Tue 2 & Wed 3 Dec",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/Lmx-one-voice-2025-create-music/",
+    "dateUnix": 1764696600000,
+    "scrapedAt": "2025-11-27T16:24:45.442Z",
+    "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "Oreglo *Rescheduling*",
+    "date": "2025-12-02T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/oreglo/",
+    "dateUnix": 1764703800000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Old Mervs",
+    "date": "Wed, 3 Dec 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/old-mervs/",
+    "dateUnix": 1764720000000,
+    "scrapedAt": "2025-11-27T16:24:44.174Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "Sextape",
+    "date": "Wed, 3 Dec 2025",
+    "venue": "Rossi Bar",
+    "link": "https://therossibar.co.uk/events/sextape/",
+    "dateUnix": 1764720000000,
+    "scrapedAt": "2025-11-27T16:24:46.943Z",
+    "scraper": "RossiBarScraper"
+  },
+  {
+    "title": "Orions Belte",
+    "date": "2025-12-03T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/orions-belte/",
+    "dateUnix": 1764790200000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Dizzee Rascal",
+    "date": "03/12/25  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/dizzee-rascal",
+    "dateUnix": 1764790200000,
+    "scrapedAt": "2025-11-27T16:24:43.317Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Currls – Album Fundraiser",
+    "date": "Thu, 4 Dec 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/currls-album-fundraiser/",
+    "dateUnix": 1764806400000,
+    "scrapedAt": "2025-11-27T16:24:44.174Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "Spirit of Gravity – Experimental Music Night",
+    "date": "Thu, 4 Dec 2025",
+    "venue": "Rossi Bar",
+    "link": "https://therossibar.co.uk/events/spirit-of-gravity-experimental-music-night/",
+    "dateUnix": 1764806400000,
+    "scrapedAt": "2025-11-27T16:24:46.943Z",
+    "scraper": "RossiBarScraper"
+  },
+  {
+    "title": "The Return Of The Not A Band Jingle Ball, feat Professor Elemental",
+    "date": "Thu 4th Dec",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/the-return-of-the-not-a-band-jingle-ball-feat-professor-elemental/",
+    "dateUnix": 1764806400000,
+    "scrapedAt": "2025-11-27T16:24:45.301Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Oddhippo Single Launch Show",
+    "date": "2025-12-04T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/oddhippo-single-launch-show/",
+    "dateUnix": 1764876600000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Dizzee Rascal",
+    "date": "04/12/25  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/dizzee-rascal-2",
+    "dateUnix": 1764876600000,
+    "scrapedAt": "2025-11-27T16:24:43.318Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "*LOW TICKETS* Pet Needs",
+    "date": "Fri, 5 Dec 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/pet-needs/",
     "dateUnix": 1764892800000,
-    "scrapedAt": "2025-09-05T08:55:23.186Z",
-    "scraper": "FolkloreRoomsScraper"
+    "scrapedAt": "2025-11-27T16:24:44.174Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "90s vs 00s",
+    "date": "Fri, 5 Dec 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s-4/",
+    "dateUnix": 1764892800000,
+    "scrapedAt": "2025-11-27T16:24:44.174Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "The Limiñanas",
+    "date": "05 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-liminanas-faded-tour-2025uk/event/8otrs",
+    "dateUnix": 1764892800000,
+    "scrapedAt": "2025-11-27T16:24:44.002Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Andy C",
+    "date": "December 5, 2025",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/andy-c",
+    "dateUnix": 1764892800000,
+    "scrapedAt": "2025-11-27T16:24:44.793Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "<span>Stereolab</span>",
+    "date": "Fri 5 Dec",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/L4r-stereolab/",
+    "dateUnix": 1764957600000,
+    "scrapedAt": "2025-11-27T16:24:45.442Z",
+    "scraper": "BrightonDomeScraper"
   },
   {
     "title": "Dub Pistols",
@@ -1121,17 +473,125 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/dub-pistols",
     "dateUnix": 1764961200000,
-    "scrapedAt": "2025-09-05T08:55:22.397Z",
+    "scrapedAt": "2025-11-27T16:24:43.318Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
+    "title": "Andy Crofts live in Brighton",
+    "date": "2025-12-05T19:00:00+00:00",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/684456",
+    "dateUnix": 1764961200000,
+    "scrapedAt": "2025-11-27T16:24:44.028Z",
+    "scraper": "FolkloreRoomsScraper"
+  },
+  {
+    "title": "<span>Dara Ó Briain: Re:Creation</span>",
+    "date": "Fri 5 & Sat 6 Dec",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/VM9-dara-briain-recreation/",
+    "dateUnix": 1764964800000,
+    "scrapedAt": "2025-11-27T16:24:45.442Z",
+    "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "Wrex",
+    "date": "Sat, 6 Dec 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/wrex/",
+    "dateUnix": 1764979200000,
+    "scrapedAt": "2025-11-27T16:24:44.174Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "It Is Still 1985",
+    "date": "Sat, 6 Dec 2025",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-16/",
+    "dateUnix": 1764979200000,
+    "scrapedAt": "2025-11-27T16:24:44.174Z",
+    "scraper": "GreenDoorScraper"
+  },
+  {
+    "title": "Wheatus",
+    "date": "06 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/wheatus-2025-tour/event/8o8jr",
+    "dateUnix": 1764979200000,
+    "scrapedAt": "2025-11-27T16:24:44.002Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Let's Kill Disco",
+    "date": "06 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lets-kill-disco-christmas-party/event/88mio",
+    "dateUnix": 1764979200000,
+    "scrapedAt": "2025-11-27T16:24:44.002Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "The Ghost",
+    "date": "December 6, 2025",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/the-ghost",
+    "dateUnix": 1764979200000,
+    "scrapedAt": "2025-11-27T16:24:44.794Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Just Lust",
+    "date": "Sat, 6 Dec 2025",
+    "venue": "Rossi Bar",
+    "link": "https://therossibar.co.uk/events/just-lust/",
+    "dateUnix": 1764979200000,
+    "scrapedAt": "2025-11-27T16:24:46.943Z",
+    "scraper": "RossiBarScraper"
+  },
+  {
+    "title": "<span>Etsy Christmas Fair</span>",
+    "date": "Sat 6 Dec",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/Lo0-etsy-christmas-fair/",
+    "dateUnix": 1765015200000,
+    "scrapedAt": "2025-11-27T16:24:45.442Z",
+    "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "Razorlight",
+    "date": "06/12/25  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/razorlight",
+    "dateUnix": 1765047600000,
+    "scrapedAt": "2025-11-27T16:24:43.318Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "My Life Story",
+    "date": "2025-12-06T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/my-life-story/",
+    "dateUnix": 1765049400000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
     "title": "Zombie Met Girl",
-    "date": "Saturday 6th December, 2025",
+    "date": "2025-12-06T20:00:00+00:00",
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/673289",
-    "dateUnix": 1764979200000,
-    "scrapedAt": "2025-09-05T08:55:26.924Z",
+    "dateUnix": 1765051200000,
+    "scrapedAt": "2025-11-27T16:24:44.681Z",
     "scraper": "PipelineScraper"
+  },
+  {
+    "title": "Black Groove + Droop + Wrench",
+    "date": "2025-12-07T19:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/black-groove-droop-wrench/",
+    "dateUnix": 1765134000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
   },
   {
     "title": "Electric Six",
@@ -1139,26 +599,116 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/electric-six",
     "dateUnix": 1765135800000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.318Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
-    "title": "Two Promoters, 1 Pod",
-    "date": "11th December 2025 at 8:00 pm",
+    "title": "Mehfil Xmas Special: Muslim Shaggan",
+    "date": "Tue 9th Dec",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/mehfil-xmas-special-muslim-shaggan/",
+    "dateUnix": 1765238400000,
+    "scrapedAt": "2025-11-27T16:24:45.301Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Dr. Robert and Matt Deighton",
+    "date": "2025-12-09T19:30",
     "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/two-promoters-1-pod/",
-    "dateUnix": 1765483200000,
-    "scrapedAt": "2025-09-05T08:55:22.444Z",
+    "link": "https://www.hope.pub/event/dr-robert-and-matt-deighton/",
+    "dateUnix": 1765308600000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
     "scraper": "HopeRuinScraper"
   },
   {
-    "title": "Bugeye",
-    "date": "Friday 12th December, 2025",
-    "venue": "Pipeline",
-    "link": "https://wegottickets.com/event/672272",
+    "title": "Matt Berninger",
+    "date": "09/12/25  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/matt-berninger",
+    "dateUnix": 1765308600000,
+    "scrapedAt": "2025-11-27T16:24:43.318Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Gold & Green",
+    "date": "Wed, 10 Dec 2025",
+    "venue": "Rossi Bar",
+    "link": "https://therossibar.co.uk/events/gold-green/",
+    "dateUnix": 1765324800000,
+    "scrapedAt": "2025-11-27T16:24:46.944Z",
+    "scraper": "RossiBarScraper"
+  },
+  {
+    "title": "Hidden Herd Presents: Winter Gardens + Big Fear + GIFTHORSE + Snowy Mountain",
+    "date": "2025-12-10T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hidden-herd-presents-winter-gardens-big-fear-gifthorse-snowy-mountain/",
+    "dateUnix": 1765395000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "The Wildhearts",
+    "date": "10/12/25  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/the-wildhearts",
+    "dateUnix": 1765395000000,
+    "scrapedAt": "2025-11-27T16:24:43.319Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Duckwrth",
+    "date": "11 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/duckwrth-all-american-freak-show-tour/event/8ok6r",
+    "dateUnix": 1765411200000,
+    "scrapedAt": "2025-11-27T16:24:44.002Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Real Life Goblin",
+    "date": "Thu, 11 Dec 2025",
+    "venue": "Rossi Bar",
+    "link": "https://therossibar.co.uk/events/real-life-goblin/",
+    "dateUnix": 1765411200000,
+    "scrapedAt": "2025-11-27T16:24:46.944Z",
+    "scraper": "RossiBarScraper"
+  },
+  {
+    "title": "Monomania: Alien Alarms / Nanonic / Lewis Clay",
+    "date": "Thu 11th Dec",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/monomania-alien-alarms-nanonic-lewis-clay/",
+    "dateUnix": 1765411200000,
+    "scrapedAt": "2025-11-27T16:24:45.301Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Two Promoters, 1 Pod",
+    "date": "2025-12-11T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/two-promoters-1-pod/",
+    "dateUnix": 1765483200000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Black Grape",
+    "date": "12 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/black-grape-its-great-when-youre-straightyeah-tour/event/zyxk",
     "dateUnix": 1765497600000,
-    "scrapedAt": "2025-09-05T08:55:26.924Z",
-    "scraper": "PipelineScraper"
+    "scrapedAt": "2025-11-27T16:24:44.003Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Michael Mwenso and The Shakes + DJ Dee Love + DJ G Sowerby",
+    "date": "Fri 12th Dec",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/michael-mwenso-and-the-shapes-dj-dee-love-dj-g-sowerby/",
+    "dateUnix": 1765497600000,
+    "scrapedAt": "2025-11-27T16:24:45.302Z",
+    "scraper": "RoseHillScraper"
   },
   {
     "title": "Rhythm Of The 90s",
@@ -1166,17 +716,44 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/rhythm-of-the-90s",
     "dateUnix": 1765566000000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.320Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
-    "title": "David Devant & His Spirit Wife",
-    "date": "12th December 2025 at 7:30 pm",
+    "title": "David Devant &#038; His Spirit Wife",
+    "date": "2025-12-12T19:30",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/david-devant-his-spirit-wife-3/",
     "dateUnix": 1765567800000,
-    "scrapedAt": "2025-09-05T08:55:22.444Z",
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Bugeye",
+    "date": "2025-12-12T19:30:00+00:00",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/672272",
+    "dateUnix": 1765567800000,
+    "scrapedAt": "2025-11-27T16:24:44.681Z",
+    "scraper": "PipelineScraper"
+  },
+  {
+    "title": "Million Dead",
+    "date": "13 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/million-dead-uk-tour-december-2025/event/8ojdy",
+    "dateUnix": 1765584000000,
+    "scrapedAt": "2025-11-27T16:24:44.003Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Mumfest 2025",
+    "date": "Sat, 13 Dec 2025",
+    "venue": "Rossi Bar",
+    "link": "https://therossibar.co.uk/events/mumfest-2025/",
+    "dateUnix": 1765584000000,
+    "scrapedAt": "2025-11-27T16:24:46.944Z",
+    "scraper": "RossiBarScraper"
   },
   {
     "title": "UK Queen",
@@ -1184,26 +761,80 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/uk-queen",
     "dateUnix": 1765652400000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.320Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
     "title": "Bones Ate Arfa",
-    "date": "13th December 2025 at 8:00 pm",
+    "date": "2025-12-13T20:00",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/bones-ate-arfa/",
     "dateUnix": 1765656000000,
-    "scrapedAt": "2025-09-05T08:55:22.444Z",
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
     "scraper": "HopeRuinScraper"
   },
   {
-    "title": "Cash",
-    "date": "14/12/25  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/cash",
-    "dateUnix": 1765740600000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
-    "scraper": "ConcordeTwoScraper"
+    "title": "Crobot",
+    "date": "14 DEC 2025",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/crobot-chasin-death-tour-uk-2025/event/8ot2x",
+    "dateUnix": 1765670400000,
+    "scrapedAt": "2025-11-27T16:24:44.003Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Hard Skin",
+    "date": "2025-12-14T19:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hard-skin/",
+    "dateUnix": 1765738800000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "The Food Bank Ball featuring Cutflowers + Fat Lloyd + Aquatic Ape Theory",
+    "date": "2025-12-15T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-food-bank-ball-featuring-cutflowers-fat-lloyd-aquatic-ape-theory/",
+    "dateUnix": 1765827000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "House/Garage DJ evening with Charlie Bureau",
+    "date": "Wed, 17 Dec 2025",
+    "venue": "Rossi Bar",
+    "link": "https://therossibar.co.uk/events/house-garage-dj-evening-with-charlie-bureau/",
+    "dateUnix": 1765929600000,
+    "scrapedAt": "2025-11-27T16:24:46.944Z",
+    "scraper": "RossiBarScraper"
+  },
+  {
+    "title": "REVOLT Presents: CHUB + Kitchen Lover + Brainface + Numskull",
+    "date": "2025-12-17T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/revolt-presents-chub-kitchen-lover-brainface-numskull/",
+    "dateUnix": 1765999800000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Hill Collective",
+    "date": "Thu 18th Dec",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/safehouse-presents-hill-collective/",
+    "dateUnix": 1766016000000,
+    "scrapedAt": "2025-11-27T16:24:45.302Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Pollito Boogaloo Special",
+    "date": "Fri 19th Dec",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/pollito-boogaloo-special-december-2025/",
+    "dateUnix": 1766102400000,
+    "scrapedAt": "2025-11-27T16:24:45.302Z",
+    "scraper": "RoseHillScraper"
   },
   {
     "title": "Absolute Bowie",
@@ -1211,8 +842,17 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/absolute-bowie",
     "dateUnix": 1766170800000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.320Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Crazy P",
+    "date": "December 20, 2025",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/crazy-p",
+    "dateUnix": 1766188800000,
+    "scrapedAt": "2025-11-27T16:24:44.794Z",
+    "scraper": "QuartersScraper"
   },
   {
     "title": "80s Hifi Christmas Special",
@@ -1220,8 +860,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/80s-hifi-christmas-special",
     "dateUnix": 1766257200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.320Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Fractured",
+    "date": "2025-12-20T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/fractured/",
+    "dateUnix": 1766259000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Hissy and the Fits, Mowfy, K Maybe",
+    "date": "2025-12-20T19:30:00+00:00",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/682686",
+    "dateUnix": 1766259000000,
+    "scrapedAt": "2025-11-27T16:24:44.028Z",
+    "scraper": "FolkloreRoomsScraper"
   },
   {
     "title": "BAD MANNERS",
@@ -1229,7 +887,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/bad-manners",
     "dateUnix": 1766345400000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.320Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1238,7 +896,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-marley-experience",
     "dateUnix": 1766518200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.320Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1247,8 +905,116 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/special-kinda-madness",
     "dateUnix": 1766862000000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.320Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "NYE - Fleur Shore",
+    "date": "December 31, 2025",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/nye",
+    "dateUnix": 1767139200000,
+    "scrapedAt": "2025-11-27T16:24:44.794Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Slady",
+    "date": "2026-01-03T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/slady/",
+    "dateUnix": 1767468600000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Daraa Tribes",
+    "date": "Fri 9th Jan",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/daraa-tribes/",
+    "dateUnix": 1767916800000,
+    "scrapedAt": "2025-11-27T16:24:45.302Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Fust",
+    "date": "2026-01-15T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/fust/",
+    "dateUnix": 1768507200000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Paulie Boy Blues (and the Yorkshire Puddings)",
+    "date": "2026-01-16T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/paulie-boy-blues-and-the-yorkshire-puddings/",
+    "dateUnix": 1768593600000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Marcus Hamblett / a basic fault / Ceremonial Laptop DJ’s",
+    "date": "Sat 17th Jan",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/marcus-hamblett-a-basic-fault-ceremonial-laptop-djs/",
+    "dateUnix": 1768608000000,
+    "scrapedAt": "2025-11-27T16:24:45.302Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "The James Hunter Six",
+    "date": "17/01/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/the-james-hunter-six",
+    "dateUnix": 1768678200000,
+    "scrapedAt": "2025-11-27T16:24:43.320Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Jeffrey Martin",
+    "date": "2026-01-20T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/jeffrey-martin/",
+    "dateUnix": 1768937400000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "High Fade",
+    "date": "2026-01-21T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/high-fade/",
+    "dateUnix": 1769023800000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Melting Vinyl presents Dominie Hooper",
+    "date": "Thu 22nd Jan",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/melting-vinyl-presents-dominie-hooper/",
+    "dateUnix": 1769040000000,
+    "scrapedAt": "2025-11-27T16:24:45.302Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Dust",
+    "date": "2026-01-23T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/dust/",
+    "dateUnix": 1769198400000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Machine Girl",
+    "date": "24 JAN 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/machine-girl-euuk-tour/event/88kwd",
+    "dateUnix": 1769212800000,
+    "scrapedAt": "2025-11-27T16:24:44.003Z",
+    "scraper": "ChalkScraper"
   },
   {
     "title": "Motorheadache",
@@ -1256,26 +1022,287 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/motorheadache",
     "dateUnix": 1769281200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.321Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
+    "title": "Groovy Arts Club Night at The Pipeline featuring three bands",
+    "date": "2026-01-24T19:30:00+00:00",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/681781",
+    "dateUnix": 1769283000000,
+    "scrapedAt": "2025-11-27T16:24:44.681Z",
+    "scraper": "PipelineScraper"
+  },
+  {
+    "title": "Xana",
+    "date": "27 JAN 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/xana-until-it-wasnt-tour-202526/event/8op4d",
+    "dateUnix": 1769472000000,
+    "scrapedAt": "2025-11-27T16:24:44.003Z",
+    "scraper": "ChalkScraper"
+  },
+  {
     "title": "Xana *NEW VENUE*",
-    "date": "27th January 2026 at 7:30 pm",
+    "date": "2026-01-27T19:30",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/xana/",
     "dateUnix": 1769542200000,
-    "scrapedAt": "2025-09-05T08:55:22.444Z",
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
     "scraper": "HopeRuinScraper"
   },
   {
-    "title": "Saturdays at Your Place",
-    "date": "31st January 2026 at 7:30 pm",
+    "title": "Insecure Men",
+    "date": "2026-01-27T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/insecure-men/",
+    "dateUnix": 1769544000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "THE SEASONAL SPRING [Winter]: The Vernon Spring with Quinn Oulton + Yoshika Colwell",
+    "date": "Thu 29th Jan",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/the-seasonal-spring-winter-the-vernon-spring-with-quinn-oulton-yoshika-colwell/",
+    "dateUnix": 1769644800000,
+    "scrapedAt": "2025-11-27T16:24:45.302Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "HH Presents: Tummyache + Human Interest + Not Richard &#038; Her Madjesty + ism",
+    "date": "2026-01-29T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hh-presents-tummyache-human-interest-not-richard-her-madjesty-ism/",
+    "dateUnix": 1769715000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "DBD Presents: Efti’s Project + AnKnee + Agwain",
+    "date": "Fri 30th Jan",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/dbd-presents-eftis-project-anknee-agwain/",
+    "dateUnix": 1769731200000,
+    "scrapedAt": "2025-11-27T16:24:45.302Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Quinn Bailey",
+    "date": "2026-01-30T19:30:00+00:00",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/680338",
+    "dateUnix": 1769801400000,
+    "scrapedAt": "2025-11-27T16:24:44.681Z",
+    "scraper": "PipelineScraper"
+  },
+  {
+    "title": "The Skids",
+    "date": "31 JAN 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-skids-the-absolute-game-tour/event/8ocv2",
+    "dateUnix": 1769817600000,
+    "scrapedAt": "2025-11-27T16:24:44.003Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Traumer (All Night Long)",
+    "date": "January 31, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/traumer-all-night-long",
+    "dateUnix": 1769817600000,
+    "scrapedAt": "2025-11-27T16:24:44.794Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Saturdays at Your Place + Carly Cosgrove *SOLD OUT*",
+    "date": "2026-01-31T19:30",
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/saturdays-at-your-place/",
     "dateUnix": 1769887800000,
-    "scrapedAt": "2025-09-05T08:55:22.444Z",
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "COMBUST + Imposter + Speedway &#038; more",
+    "date": "2026-02-03T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/combust-imposter-speedway-more/",
+    "dateUnix": 1770148800000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "VUKOVI",
+    "date": "04 FEB 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/vukovi-mghgag-tour-part-2/event/8888v",
+    "dateUnix": 1770163200000,
+    "scrapedAt": "2025-11-27T16:24:44.003Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Paige Kennedy",
+    "date": "04 FEB 2026",
+    "venue": "Prince Albert",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/paige-kennedy-debut-uk-headline-tour/event/886hf",
+    "dateUnix": 1770163200000,
+    "scrapedAt": "2025-11-27T16:24:44.554Z",
+    "scraper": "PrinceAlbertScraper"
+  },
+  {
+    "title": "Meryl Streek",
+    "date": "2026-02-04T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/meryl-streek-3/",
+    "dateUnix": 1770235200000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Death of Guitar Pop",
+    "date": "February 5, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/death-of-guitar-pop",
+    "dateUnix": 1770249600000,
+    "scrapedAt": "2025-11-27T16:24:44.794Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Better Than The Book presents: Ten Years On, with Special Guests Look What Happened &#038; LUVD",
+    "date": "2026-02-05T19:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/better-than-the-book-presents-ten-years-on-with-special-guests-look-what-happened-luvd/",
+    "dateUnix": 1770318000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Fozzy",
+    "date": "06 FEB 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/fozzy-2026-uk-tour/event/8ot57",
+    "dateUnix": 1770336000000,
+    "scrapedAt": "2025-11-27T16:24:44.003Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Friction presents Synergy",
+    "date": "February 6, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/friction",
+    "dateUnix": 1770336000000,
+    "scrapedAt": "2025-11-27T16:24:44.794Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Midlake",
+    "date": "07 FEB 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/midlake-climb-upon-a-bridge-to-far/event/88kwv",
+    "dateUnix": 1770422400000,
+    "scrapedAt": "2025-11-27T16:24:44.003Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Silva Bumpa",
+    "date": "February 7, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/silva-bumpa",
+    "dateUnix": 1770422400000,
+    "scrapedAt": "2025-11-27T16:24:44.795Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Kula Shaker",
+    "date": "07/02/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/kula-shaker",
+    "dateUnix": 1770490800000,
+    "scrapedAt": "2025-11-27T16:24:43.321Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Battery Acid",
+    "date": "2026-02-07T19:30:00+00:00",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/676768",
+    "dateUnix": 1770492600000,
+    "scrapedAt": "2025-11-27T16:24:44.681Z",
+    "scraper": "PipelineScraper"
+  },
+  {
+    "title": "Westside Cowboy",
+    "date": "2026-02-07T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/westside-cowboy/",
+    "dateUnix": 1770494400000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "SUDS + Soot Sprite + More",
+    "date": "2026-02-08T19:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/suds-soot-sprite-more/",
+    "dateUnix": 1770577200000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "STARCAT (feat. Slim Jim Phantom)",
+    "date": "2026-02-10T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/starcat-feat-slim-jim-phantom/",
+    "dateUnix": 1770751800000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Rum Jungle",
+    "date": "2026-02-11T19:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/rum-jungle/",
+    "dateUnix": 1770836400000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Beardyman",
+    "date": "12/02/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/beardyman",
+    "dateUnix": 1770924600000,
+    "scrapedAt": "2025-11-27T16:24:43.321Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Hotel Mira",
+    "date": "2026-02-12T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hotel-mira/",
+    "dateUnix": 1770926400000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "HotWax",
+    "date": "13 FEB 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/hotwax-hot-shock-tour/event/885s4",
+    "dateUnix": 1770940800000,
+    "scrapedAt": "2025-11-27T16:24:44.003Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Thousand Yard Stare",
+    "date": "13 FEB 2026",
+    "venue": "Prince Albert",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/thousand-yard-stare/event/qq8a",
+    "dateUnix": 1770940800000,
+    "scrapedAt": "2025-11-27T16:24:44.554Z",
+    "scraper": "PrinceAlbertScraper"
   },
   {
     "title": "The Cureheads + Siouxsie & The Budgiees",
@@ -1283,8 +1310,62 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-cureheads-siouxsie-the-budgiees",
     "dateUnix": 1771009200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.321Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "GBH + Support",
+    "date": "2026-02-13T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/gbh-support/",
+    "dateUnix": 1771012800000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "The Anti-Valentines Day Massacre",
+    "date": "2026-02-14T17:30:00+00:00",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/677886",
+    "dateUnix": 1771090200000,
+    "scrapedAt": "2025-11-27T16:24:44.681Z",
+    "scraper": "PipelineScraper"
+  },
+  {
+    "title": "The Rosadocs",
+    "date": "2026-02-15T19:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/the-rosadocs/",
+    "dateUnix": 1771182000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "caroline",
+    "date": "17 FEB 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/caroline-uk-tour-2026/event/88pa3",
+    "dateUnix": 1771286400000,
+    "scrapedAt": "2025-11-27T16:24:44.003Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Good Neighbours",
+    "date": "18 FEB 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/good-neighbours-uk-and-eu-tour-2026/event/889m2",
+    "dateUnix": 1771372800000,
+    "scrapedAt": "2025-11-27T16:24:44.004Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "The Callous Daoboys",
+    "date": "February 20, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/the-callous-daoboys",
+    "dateUnix": 1771545600000,
+    "scrapedAt": "2025-11-27T16:24:44.795Z",
+    "scraper": "QuartersScraper"
   },
   {
     "title": "Coach Party",
@@ -1292,8 +1373,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/coach-party",
     "dateUnix": 1771614000000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.321Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Franky Wah",
+    "date": "February 21, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/franky-wah",
+    "dateUnix": 1771632000000,
+    "scrapedAt": "2025-11-27T16:24:44.795Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Bears In Trees *MATINEE*",
+    "date": "2026-02-21T15:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/bears-in-trees-matinee/",
+    "dateUnix": 1771686000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
   },
   {
     "title": "Ultimate Rnb",
@@ -1301,8 +1400,62 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/ultimate-rnb",
     "dateUnix": 1771700400000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Bears In Trees *SOLD OUT*",
+    "date": "2026-02-21T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/bears-in-trees/",
+    "dateUnix": 1771704000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Casual Smart + Support",
+    "date": "2026-02-24T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/casual-smart-support/",
+    "dateUnix": 1771963200000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "HH: The Youth Play + The Slow Country + HIGHDRIVE + Batmilk",
+    "date": "2026-02-26T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/hh-the-youth-play-the-slow-country-highdrive-batmilk/",
+    "dateUnix": 1772134200000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Bakey Curates",
+    "date": "February 27, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/bakey-curates",
+    "dateUnix": 1772150400000,
+    "scrapedAt": "2025-11-27T16:24:44.795Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Courtney Marie Andrews",
+    "date": "28 FEB 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/courtney-marie-andrews-2026-tour/event/88moy",
+    "dateUnix": 1772236800000,
+    "scrapedAt": "2025-11-27T16:24:44.004Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "SOSA",
+    "date": "February 28, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/sosa",
+    "dateUnix": 1772236800000,
+    "scrapedAt": "2025-11-27T16:24:44.795Z",
+    "scraper": "QuartersScraper"
   },
   {
     "title": "Sex Pistols Expose & Six Little Fingers",
@@ -1310,8 +1463,53 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/sex-pistols-expose-six-little-fingers",
     "dateUnix": 1772305200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Special Friend",
+    "date": "Wed, 4 Mar 2026",
+    "venue": "Rossi Bar",
+    "link": "https://therossibar.co.uk/events/special-friend/",
+    "dateUnix": 1772582400000,
+    "scrapedAt": "2025-11-27T16:24:46.945Z",
+    "scraper": "RossiBarScraper"
+  },
+  {
+    "title": "Boy & Bear",
+    "date": "05 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/boy-and-bear-tripping-over-time/event/88yq4",
+    "dateUnix": 1772668800000,
+    "scrapedAt": "2025-11-27T16:24:44.004Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "CHINCHILLA",
+    "date": "06 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/chinchilla-the-bigger-rooms-tour/event/884bj",
+    "dateUnix": 1772755200000,
+    "scrapedAt": "2025-11-27T16:24:44.004Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Plug In Maybe",
+    "date": "06/03/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/plug-in-maybe",
+    "dateUnix": 1772825400000,
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Plantoid + Support",
+    "date": "2026-03-06T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/plantoid-support/",
+    "dateUnix": 1772827200000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
   },
   {
     "title": "Daft Funk",
@@ -1319,8 +1517,107 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/daft-funk",
     "dateUnix": 1772910000000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Verses *SOLD OUT*",
+    "date": "2026-03-07T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/verses-support/",
+    "dateUnix": 1772911800000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Buckcherry & Michael Monroe",
+    "date": "08 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/buckcherry-michael-monroe-co-headline-uk-tour-2026/event/8878r",
+    "dateUnix": 1772928000000,
+    "scrapedAt": "2025-11-27T16:24:44.004Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Verses &#8211; All Ages Early Evening Show",
+    "date": "2026-03-08T16:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/verses-all-ages-early-evening-show/",
+    "dateUnix": 1772987400000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Leith Ross",
+    "date": "08/03/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/leith-ross",
+    "dateUnix": 1772998200000,
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Stiff Little Fingers",
+    "date": "10/03/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/stiff-little-fingers",
+    "dateUnix": 1773171000000,
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "TVAM",
+    "date": "2026-03-10T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/tvam/",
+    "dateUnix": 1773172800000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Mould",
+    "date": "12 MAR 2026",
+    "venue": "Prince Albert",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/mould-uk-tour-march-2026/event/88xib",
+    "dateUnix": 1773273600000,
+    "scrapedAt": "2025-11-27T16:24:44.554Z",
+    "scraper": "PrinceAlbertScraper"
+  },
+  {
+    "title": "Nova Twins",
+    "date": "13 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nova-twins-parasites-and-butterflies-tour/event/88rpi",
+    "dateUnix": 1773360000000,
+    "scrapedAt": "2025-11-27T16:24:44.004Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Remember Sports + Fortitude Valley",
+    "date": "2026-03-13T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/remember-sports-fortitude-valley/",
+    "dateUnix": 1773430200000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Christmas",
+    "date": "2026-03-13T20:00:00+00:00",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/678173",
+    "dateUnix": 1773432000000,
+    "scrapedAt": "2025-11-27T16:24:44.681Z",
+    "scraper": "PipelineScraper"
+  },
+  {
+    "title": "The Feeling",
+    "date": "14 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-feeling-twelve-stops-and-home-anniversary-tour/event/8otsn",
+    "dateUnix": 1773446400000,
+    "scrapedAt": "2025-11-27T16:24:44.004Z",
+    "scraper": "ChalkScraper"
   },
   {
     "title": "Arctic Numpties",
@@ -1328,8 +1625,125 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/arctic-numpties",
     "dateUnix": 1773514800000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Mr Scruff",
+    "date": "March 15, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/mr-scruff",
+    "dateUnix": 1773532800000,
+    "scrapedAt": "2025-11-27T16:24:44.795Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Ebbb",
+    "date": "2026-03-17T19:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/ebbb/",
+    "dateUnix": 1773775800000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "The Snuts",
+    "date": "18 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-snuts-2026-uk-tour/event/88chj",
+    "dateUnix": 1773792000000,
+    "scrapedAt": "2025-11-27T16:24:44.004Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Gong & HENGE",
+    "date": "19 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/gong-henge-sounds-of-the-cosmos-tour/event/88mob",
+    "dateUnix": 1773878400000,
+    "scrapedAt": "2025-11-27T16:24:44.004Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Del Water Gap",
+    "date": "19/03/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/del-water-gap",
+    "dateUnix": 1773948600000,
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "TIDETIED",
+    "date": "20 MAR 2026",
+    "venue": "Prince Albert",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/tidetied-2026-uk-tour/event/88t2y",
+    "dateUnix": 1773964800000,
+    "scrapedAt": "2025-11-27T16:24:44.554Z",
+    "scraper": "PrinceAlbertScraper"
+  },
+  {
+    "title": "Beans On Toast",
+    "date": "20/03/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/beans-on-toast",
+    "dateUnix": 1774033200000,
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Heavenly + Sassyhiya",
+    "date": "2026-03-26T19:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/heavenly-sassyhiya/",
+    "dateUnix": 1774551600000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Lo Fidelity Allstars",
+    "date": "27 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lo-fidelity-allstars/event/88mog",
+    "dateUnix": 1774569600000,
+    "scrapedAt": "2025-11-27T16:24:44.005Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Gridiron",
+    "date": "2026-03-27T19:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/gridiron/",
+    "dateUnix": 1774638000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "The Cribs",
+    "date": "27/03/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/the-cribs-2",
+    "dateUnix": 1774638000000,
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Hollie Cook",
+    "date": "28 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/hollie-cook-shy-girl-tour-2026/event/88rds",
+    "dateUnix": 1774656000000,
+    "scrapedAt": "2025-11-27T16:24:44.005Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Modeselektor",
+    "date": "March 28, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/modeselektor",
+    "dateUnix": 1774656000000,
+    "scrapedAt": "2025-11-27T16:24:44.795Z",
+    "scraper": "QuartersScraper"
   },
   {
     "title": "The Cribs",
@@ -1337,7 +1751,88 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-cribs",
     "dateUnix": 1774724400000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Kofi Stone",
+    "date": "29 MAR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/kofi-stone-all-the-flowers-have-bloomed-tour/event/883ph",
+    "dateUnix": 1774742400000,
+    "scrapedAt": "2025-11-27T16:24:44.005Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Infected Rain",
+    "date": "01/04/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/infected-rain",
+    "dateUnix": 1775068200000,
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Bibi Club",
+    "date": "07 APR 2026",
+    "venue": "Prince Albert",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/bibi-club-2026-tour/event/88efo",
+    "dateUnix": 1775516400000,
+    "scrapedAt": "2025-11-27T16:24:44.554Z",
+    "scraper": "PrinceAlbertScraper"
+  },
+  {
+    "title": "Bruce Foxton",
+    "date": "10 APR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/bruce-foxton-2026-tour/event/88moe",
+    "dateUnix": 1775775600000,
+    "scrapedAt": "2025-11-27T16:24:44.005Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Nordic Giants",
+    "date": "April 11, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/nordic-giants",
+    "dateUnix": 1775862000000,
+    "scrapedAt": "2025-11-27T16:24:44.795Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Joshua Idehen",
+    "date": "14 APR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/joshua-idehen-april-uk-tour-2026/event/886n9",
+    "dateUnix": 1776121200000,
+    "scrapedAt": "2025-11-27T16:24:44.005Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Jordan Ward",
+    "date": "16 APR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/jordan-ward-the-apartment-tour/event/884aa",
+    "dateUnix": 1776294000000,
+    "scrapedAt": "2025-11-27T16:24:44.005Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Frank Turner",
+    "date": "17 APR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/frank-turner-campfire-punkrock-twenty-tour/event/88bon",
+    "dateUnix": 1776380400000,
+    "scrapedAt": "2025-11-27T16:24:44.006Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Noasis",
+    "date": "17/04/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/noasis",
+    "dateUnix": 1776448800000,
+    "scrapedAt": "2025-11-27T16:24:43.322Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1346,8 +1841,62 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/a-tribute-to-amy",
     "dateUnix": 1776535200000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Knats",
+    "date": "2026-04-22T18:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/knats/",
+    "dateUnix": 1776879000000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Jair-Rohm Parker Wells – Resonance: Improvisation, Innovation, and the Legacy of Eberhard Weber",
+    "date": "Thu 23rd Apr",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/jair-rohm-parker-wells-resonance-improvisation-innovation-and-the-legacy-of-eberhard-weber/",
+    "dateUnix": 1776898800000,
+    "scrapedAt": "2025-11-27T16:24:45.302Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Imagine Lennon",
+    "date": "24/04/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/imagine-lennon",
+    "dateUnix": 1777053600000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "IST IST",
+    "date": "April 25, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/ist-ist",
+    "dateUnix": 1777071600000,
+    "scrapedAt": "2025-11-27T16:24:44.795Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Billy Gillies presents FRQNC",
+    "date": "April 25, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/billy-gillies-presents-frqnc",
+    "dateUnix": 1777071600000,
+    "scrapedAt": "2025-11-27T16:24:44.795Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Just Mustard",
+    "date": "28 APR 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/just-mustard-uk-and-europe-2026/event/88yan",
+    "dateUnix": 1777330800000,
+    "scrapedAt": "2025-11-27T16:24:44.006Z",
+    "scraper": "ChalkScraper"
   },
   {
     "title": "Love",
@@ -1355,8 +1904,53 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/love",
     "dateUnix": 1777658400000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Barrioke",
+    "date": "02/05/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/barrioke",
+    "dateUnix": 1777744800000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Danni Nicholls",
+    "date": "2026-05-03T19:30:00+01:00",
+    "venue": "Folklore Rooms",
+    "link": "https://wegottickets.com/event/680844",
+    "dateUnix": 1777833000000,
+    "scrapedAt": "2025-11-27T16:24:44.028Z",
+    "scraper": "FolkloreRoomsScraper"
+  },
+  {
+    "title": "Lorelle Meets The Obsolete",
+    "date": "2026-05-05T18:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/lorelle-meets-the-obsolete/",
+    "dateUnix": 1778002200000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Interrobang &#038; Molly Vulpyne Band",
+    "date": "2026-05-08T18:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/interrobang-molly-vulpyne-band/",
+    "dateUnix": 1778261400000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Toots and the Maytals feat Leba Hibbert",
+    "date": "09 MAY 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/toots-and-the-maytals-feat-leba-hibbert/event/88mo3",
+    "dateUnix": 1778281200000,
+    "scrapedAt": "2025-11-27T16:24:44.006Z",
+    "scraper": "ChalkScraper"
   },
   {
     "title": "A Night Of Jagged Little Pill",
@@ -1364,7 +1958,205 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/a-night-of-jagged-little-pill",
     "dateUnix": 1779472800000,
-    "scrapedAt": "2025-09-05T08:55:22.398Z",
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Dodgy",
+    "date": "May 23, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/dodgy",
+    "dateUnix": 1779490800000,
+    "scrapedAt": "2025-11-27T16:24:44.795Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Barbara",
+    "date": "2026-05-23T18:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/barbara/",
+    "dateUnix": 1779557400000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Puma Blue",
+    "date": "26 MAY 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/puma-blue-croak-dream-tour/event/8854i",
+    "dateUnix": 1779750000000,
+    "scrapedAt": "2025-11-27T16:24:44.008Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "La Cozna + Mary Hampton",
+    "date": "Thu 28th May",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/la-cozna-mary-hampton-may-2026/",
+    "dateUnix": 1779922800000,
+    "scrapedAt": "2025-11-27T16:24:45.302Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Biird",
+    "date": "31/05/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/biird",
+    "dateUnix": 1780252200000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Bat Sabbath",
+    "date": "21/07/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/bat-sabbath",
+    "dateUnix": 1784658600000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Merauder",
+    "date": "2026-08-04T18:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/merauder/",
+    "dateUnix": 1785862800000,
+    "scrapedAt": "2025-11-27T16:24:43.367Z",
+    "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Fleetwood Bac",
+    "date": "22/08/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/fleetwood-bac",
+    "dateUnix": 1787421600000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "The Jam'd",
+    "date": "28/08/26  5:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/the-jamd",
+    "dateUnix": 1787932800000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Indiepalooza",
+    "date": "11 SEP 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/indiepalooza-the-indie-tribute-festival/event/88m8h",
+    "dateUnix": 1789081200000,
+    "scrapedAt": "2025-11-27T16:24:44.008Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "China Crisis",
+    "date": "11/09/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/china-crisis",
+    "dateUnix": 1789151400000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Guns N' Roses Experience",
+    "date": "18/09/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/guns-n-roses-experience",
+    "dateUnix": 1789754400000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Sanctum Sanctorium - The Dark Side Of The 80s",
+    "date": "19/09/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/sanctum-sanctorium-the-dark-s",
+    "dateUnix": 1789840800000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Tom Bailey",
+    "date": "20 SEP 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/tom-bailey-greatest-hits-uk-tour/event/88ufn",
+    "dateUnix": 1789858800000,
+    "scrapedAt": "2025-11-27T16:24:44.008Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Just Radiohead",
+    "date": "25/09/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/just-radiohead",
+    "dateUnix": 1790359200000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Nirvana UK",
+    "date": "10/10/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/nirvana-uk",
+    "dateUnix": 1791655200000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Morgan Wallen Tribute UK",
+    "date": "23/10/26  7:00pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/morgan-wallen-tribute-uk",
+    "dateUnix": 1792778400000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Soil",
+    "date": "30 OCT 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/soil-uk-tour-2026/event/88323",
+    "dateUnix": 1793318400000,
+    "scrapedAt": "2025-11-27T16:24:44.008Z",
+    "scraper": "ChalkScraper"
+  },
+  {
+    "title": "Oh My God! It's The Church",
+    "date": "18/11/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/oh-my-god-its-the-church",
+    "dateUnix": 1795030200000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
+    "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Firelight Trio",
+    "date": "Thu 27th Nov",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/firelight-trio/",
+    "dateUnix": 1795737600000,
+    "scrapedAt": "2025-11-27T16:24:45.299Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Scatterfon / Geoff Hearn / Effective Word Order",
+    "date": "Thu 27th Nov",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/scatterfon-geoff-hearn-effective-word-order/",
+    "dateUnix": 1795737600000,
+    "scrapedAt": "2025-11-27T16:24:45.301Z",
+    "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "The Smyths",
+    "date": "20/12/26  7:30pm",
+    "venue": "Concorde 2",
+    "link": "https://www.concorde2.co.uk/event/the-smyths",
+    "dateUnix": 1797795000000,
+    "scrapedAt": "2025-11-27T16:24:43.323Z",
     "scraper": "ConcordeTwoScraper"
   }
 ]

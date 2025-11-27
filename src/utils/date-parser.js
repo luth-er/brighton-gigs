@@ -83,31 +83,52 @@ const toUnixTimestamp = (input) => {
       
       // ---- HANDLE COMMON DATE/TIME PATTERNS ----
       
+      // Helper function to infer year when not provided
+      // If the resulting date is in the past, assume next year
+      const inferYear = (month, day) => {
+        const currentYear = new Date().getFullYear();
+        const now = new Date();
+        const testDate = new Date(currentYear, month, day);
+
+        // If the date is in the past (before today), use next year
+        if (testDate < now) {
+          return currentYear + 1;
+        }
+        return currentYear;
+      };
+
       // For date parsing functions
-      const parseResult = (match, monthStr, setTime = true) => {
+      const parseResult = (match, monthStr, setTime = true, inferYearIfMissing = false) => {
         if (!match) return null;
-        
+
         const day = parseInt(match.groups.day);
         const month = months[monthStr.toLowerCase()];
-        
+
         if (month === undefined) return null;
-        
-        const year = match.groups.year 
-          ? parseInt(match.groups.year) 
-          : (match.groups.shortYear ? parseInt('20' + match.groups.shortYear) : new Date().getFullYear());
-        
+
+        let year;
+        if (match.groups.year) {
+          year = parseInt(match.groups.year);
+        } else if (match.groups.shortYear) {
+          year = parseInt('20' + match.groups.shortYear);
+        } else if (inferYearIfMissing) {
+          year = inferYear(month, day);
+        } else {
+          year = new Date().getFullYear();
+        }
+
         const date = new Date(year, month, day);
-        
+
         // Set time if available in the format
         if (setTime && match.groups.hour) {
           let hour = parseInt(match.groups.hour);
           const isPM = match.groups.meridiem?.toLowerCase() === 'pm';
-          
+
           if (isPM && hour !== 12) hour += 12;
           if (!isPM && hour === 12) hour = 0;
-          
+
           date.setHours(
-            hour, 
+            hour,
             match.groups.minute ? parseInt(match.groups.minute) : 0,
             0, 0
           );
@@ -115,7 +136,7 @@ const toUnixTimestamp = (input) => {
           // Set to start of day if no time provided
           date.setHours(0, 0, 0, 0);
         }
-        
+
         return date.getTime();
       };
       
@@ -210,7 +231,7 @@ const toUnixTimestamp = (input) => {
         const amount = relativeMatch.groups.amount ? parseInt(relativeMatch.groups.amount) : 1;
         const unit = relativeMatch.groups.unit.toLowerCase();
         const now = new Date();
-        
+
         const timeUnits = {
           second: 1000,
           minute: 60 * 1000,
@@ -220,11 +241,31 @@ const toUnixTimestamp = (input) => {
           month: 30 * 24 * 60 * 60 * 1000,
           year: 365 * 24 * 60 * 60 * 1000
         };
-  
+
         return now.getTime() - (amount * timeUnits[unit]);
       }
+
+      // ---- PATTERN 8: ISO 8601 FORMAT ----
+      // Examples: "2025-11-27T19:00", "2025-11-27T19:00:00", "2025-11-27"
+      const iso8601Pattern = /^\d{4}-\d{2}-\d{2}(T\d{2}:\d{2}(:\d{2})?)?$/;
+      if (iso8601Pattern.test(input)) {
+        const date = new Date(input);
+        if (!isNaN(date.getTime())) {
+          return date.getTime();
+        }
+      }
+
+      // ---- PATTERN 9: DATE WITH ORDINAL BUT NO YEAR ----
+      // Examples: "Thu 27th Nov", "Sat 29th Nov", "Fri 12th Dec"
+      // Infers year: if month has passed, uses next year
+      const ordinalNoYearPattern = /^(?:[A-Za-z]+)\s+(?<day>\d{1,2})(?:st|nd|rd|th)\s+(?<monthName>[A-Za-z]+)$/i;
+      const ordinalNoYearMatch = input.match(ordinalNoYearPattern);
+      if (ordinalNoYearMatch) {
+        const result = parseResult(ordinalNoYearMatch, ordinalNoYearMatch.groups.monthName, false, true);
+        if (result) return result;
+      }
     }
-  
+
     throw new Error('Invalid date format');
   };
   
