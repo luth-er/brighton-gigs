@@ -784,3 +784,98 @@ select {
 		display: none;
 	}
 }
+
+/* ===== HOMEPAGE CONTENT SECTIONS ===== */
+
+.intro-section {
+	max-width: var(--container-max-width);
+	margin: 0 auto var(--space-xl);
+	padding: 0 var(--container-padding-mobile);
+	text-align: center;
+}
+
+.intro-section .lead {
+	font-size: var(--font-size-lg);
+	line-height: var(--line-height-relaxed);
+	color: var(--color-text-primary);
+	margin: 0;
+}
+
+.about-section {
+	max-width: var(--container-max-width);
+	margin: var(--space-3xl) auto 0;
+	padding: var(--space-2xl) var(--container-padding-mobile);
+	background-color: var(--color-surface);
+	border-top: 1px solid var(--color-border);
+}
+
+.about-section h2 {
+	font-size: var(--font-size-2xl);
+	font-weight: var(--font-weight-bold);
+	line-height: var(--line-height-tight);
+	margin: 0 0 var(--space-lg);
+	color: var(--color-text-primary);
+}
+
+.about-section h3 {
+	font-size: var(--font-size-xl);
+	font-weight: var(--font-weight-semibold);
+	line-height: var(--line-height-tight);
+	margin: var(--space-2xl) 0 var(--space-base);
+	color: var(--color-text-primary);
+}
+
+.about-section p {
+	font-size: var(--font-size-base);
+	line-height: var(--line-height-relaxed);
+	margin-bottom: var(--space-lg);
+	color: var(--color-text-primary);
+}
+
+.about-section ul {
+	margin-bottom: var(--space-xl);
+	padding-left: var(--space-xl);
+}
+
+.about-section ul li {
+	font-size: var(--font-size-base);
+	line-height: var(--line-height-relaxed);
+	margin-bottom: var(--space-base);
+	color: var(--color-text-primary);
+}
+
+.about-section ul.venue-list li {
+	margin-bottom: var(--space-lg);
+}
+
+.about-section a {
+	color: var(--color-text-primary);
+	text-decoration: underline;
+	transition: color var(--transition-fast);
+}
+
+.about-section a:hover,
+.about-section a:focus {
+	color: var(--color-accent);
+	text-decoration: underline;
+}
+
+.about-section a:focus {
+	outline: var(--focus-ring-width) solid var(--focus-ring-color);
+	outline-offset: var(--focus-ring-offset);
+}
+
+/* Responsive adjustments */
+@media (min-width: 48rem) {
+	.intro-section {
+		padding: 0 var(--container-padding);
+	}
+
+	.intro-section .lead {
+		font-size: var(--font-size-xl);
+	}
+
+	.about-section {
+		padding: var(--space-3xl) var(--container-padding);
+	}
+}

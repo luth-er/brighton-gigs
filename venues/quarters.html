@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-C44K29KQXR"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-C44K29KQXR');
+		</script>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="Quarters Brighton events tonight. Multi-level venue mixing club nights with live music across electronic, indie, and alternative genres. Updated daily with upcoming gigs.">
+		<title>Quarters Events Brighton | Live Music & Gigs Tonight</title>
+
+		<!-- Canonical URL -->
+		<link rel="canonical" href="https://brightongigs.uk/venues/quarters/">
+
+		<!-- Open Graph Meta Tags -->
+		<meta property="og:title" content="Quarters Brighton Events | Live Music & Gigs Tonight">
+		<meta property="og:description" content="Quarters Brighton events tonight. Multi-level venue for electronic, indie, and alternative live music.">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://brightongigs.uk/venues/quarters/">
+		<meta property="og:site_name" content="Brighton Gigs">
+		<meta property="og:locale" content="en_GB">
+
+		<!-- Additional SEO Meta Tags -->
+		<meta name="robots" content="index, follow, max-image-preview:large">
+		<meta name="googlebot" content="index, follow">
+		<meta name="keywords" content="Quarters Brighton, Quarters events, Quarters gigs, Brighton live music, Brighton nightclub, electronic music Brighton, indie Brighton">
+		<meta name="author" content="Brighton Gigs">
+		<meta name="geo.region" content="GB-BNH">
+		<meta name="geo.placename" content="Brighton, UK">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="../src/css/styles.css">
+
+		<!-- Structured Data Schema Markup -->
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@graph": [
+				{
+					"@type": "LocalBusiness",
+					"@id": "https://brightongigs.uk/venues/quarters/#venue",
+					"name": "Quarters",
+					"description": "Multi-level Brighton venue combining club nights with live music. Features electronic, indie, and alternative acts across multiple rooms.",
+					"url": "https://quartersbrighton.co.uk/",
+					"address": {
+						"@type": "PostalAddress",
+						"streetAddress": "10-11 Marine Parade",
+						"addressLocality": "Brighton",
+						"addressRegion": "East Sussex",
+						"postalCode": "BN2 1TL",
+						"addressCountry": "GB"
+					},
+					"priceRange": "£10-£30",
+					"currenciesAccepted": "GBP",
+					"paymentAccepted": "Cash, Credit Card, Online Payment",
+					"category": "Music Venue",
+					"additionalType": "https://schema.org/MusicVenue",
+					"sameAs": [
+						"https://quartersbrighton.co.uk/"
+					]
+				},
+				{
+					"@type": "WebPage",
+					"@id": "https://brightongigs.uk/venues/quarters/#webpage",
+					"url": "https://brightongigs.uk/venues/quarters/",
+					"name": "Quarters Events Brighton | Live Music & Gigs Tonight",
+					"isPartOf": {
+						"@id": "https://brightongigs.uk/#website"
+					},
+					"about": {
+						"@id": "https://brightongigs.uk/venues/quarters/#venue"
+					},
+					"description": "Complete listing of Quarters Brighton events. Multi-level venue for live music and club nights.",
+					"breadcrumb": {
+						"@id": "https://brightongigs.uk/venues/quarters/#breadcrumbs"
+					},
+					"inLanguage": "en-GB"
+				},
+				{
+					"@type": "BreadcrumbList",
+					"@id": "https://brightongigs.uk/venues/quarters/#breadcrumbs",
+					"itemListElement": [
+						{
+							"@type": "ListItem",
+							"position": 1,
+							"name": "Home",
+							"item": "https://brightongigs.uk/"
+						},
+						{
+							"@type": "ListItem",
+							"position": 2,
+							"name": "Venues",
+							"item": "https://brightongigs.uk/venues/"
+						},
+						{
+							"@type": "ListItem",
+							"position": 3,
+							"name": "Quarters",
+							"item": "https://brightongigs.uk/venues/quarters/"
+						}
+					]
+				}
+			]
+		}
+		</script>
+	</head>
+	<body>
+		<header class="site-header">
+			<h1><a href="../" style="color: inherit; text-decoration: none;">Brighton Gigs</a></h1>
+			<nav class="venue-nav">
+				<a href="../" class="nav-link">All Events</a>
+				<span class="nav-separator">|</span>
+				<span class="nav-current">Quarters</span>
+			</nav>
+		</header>
+
+		<main class="main-content">
+			<section class="venue-hero">
+				<h2 class="venue-title">Quarters Events</h2>
+				<div class="venue-info">
+					<p class="venue-description">Multi-level venue mixing club nights with live music across electronic, indie, and alternative genres.</p>
+					<div class="venue-details">
+						<span class="venue-location">10-11 Marine Parade, Brighton BN2 1TL</span>
+						<span class="venue-separator">•</span>
+						<span class="event-count" id="event-count">Loading events...</span>
+					</div>
+				</div>
+			</section>
+
+			<section class="filters-section" aria-label="Event filters">
+				<div class="filters-container">
+					<div class="filter-item">
+						<label for="date-from">From</label>
+						<input type="date" id="date-from" aria-describedby="date-help">
+					</div>
+					<div class="filter-item">
+						<label for="date-to">To</label>
+						<input type="date" id="date-to" aria-describedby="date-help">
+					</div>
+					<button id="clear-filters" type="button" class="clear-btn">Clear</button>
+				</div>
+			</section>
+
+			<section class="events-section" aria-label="Quarters live music events">
+				<div id="events-list" role="list"></div>
+			</section>
+		</main>
+
+		<script src="../src/js/venue-script.js" data-venue="Quarters"></script>
+	</body>
+</html>
