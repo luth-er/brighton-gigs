@@ -15,14 +15,6 @@
     </url>
 
     <url>
-        <loc>https://brightongigs.uk/venues/</loc>
-        <lastmod>2025-11-27T22:12:54.001Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <mobile:mobile/>
-    </url>
-
-    <url>
         <loc>https://brightongigs.uk/robots.txt</loc>
         <lastmod>2025-11-27T22:12:54.001Z</lastmod>
         <changefreq>monthly</changefreq>
