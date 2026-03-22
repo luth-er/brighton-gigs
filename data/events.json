@@ -1,66 +1,12 @@
 [
   {
-    "title": "Blazed & Confused",
-    "date": "Fri, 20 Mar 2026",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/blazed-confused-2/",
-    "dateUnix": 1773964800000,
-    "scrapedAt": "2026-03-21T03:46:07.339Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Annie Mac Before Midnight",
-    "date": "March 20, 2026",
-    "venue": "Quarters",
-    "link": "https://quartersbrighton.co.uk/whatson/annie-mac-before-midnight",
-    "dateUnix": 1773964800000,
-    "scrapedAt": "2026-03-21T03:46:08.464Z",
-    "scraper": "QuartersScraper"
-  },
-  {
-    "title": "Mii Maker – Mii Channel 5 Clubnight",
-    "date": "Fri, 20 Mar 2026",
-    "venue": "Rossi Bar",
-    "link": "https://therossibar.co.uk/events/mii-maker-mii-channel-5-clubnight/",
-    "dateUnix": 1773964800000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
-    "scraper": "RossiBarScraper"
-  },
-  {
-    "title": "Beans On Toast",
-    "date": "20/03/26  7:00pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/beans-on-toast",
-    "dateUnix": 1774033200000,
-    "scrapedAt": "2026-03-21T03:46:05.961Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "Polite Bureaux",
-    "date": "Sat, 21 Mar 2026",
-    "venue": "Green Door Store",
-    "link": "https://thegreendoorstore.co.uk/events/polite-bureaux/",
-    "dateUnix": 1774051200000,
-    "scrapedAt": "2026-03-21T03:46:07.339Z",
-    "scraper": "GreenDoorScraper"
-  },
-  {
     "title": "It Is Still 1985",
     "date": "Sat, 21 Mar 2026",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-10/",
     "dateUnix": 1774051200000,
-    "scrapedAt": "2026-03-21T03:46:07.339Z",
+    "scrapedAt": "2026-03-22T03:51:16.635Z",
     "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Let's Kill Disco",
-    "date": "21 MAR 2026",
-    "venue": "Chalk",
-    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lets-kill-disco-decades-of-pop/event/8phs5",
-    "dateUnix": 1774051200000,
-    "scrapedAt": "2026-03-21T03:46:07.301Z",
-    "scraper": "ChalkScraper"
   },
   {
     "title": "Sidney Charles",
@@ -68,53 +14,8 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/sidney-charles",
     "dateUnix": 1774051200000,
-    "scrapedAt": "2026-03-21T03:46:08.464Z",
+    "scrapedAt": "2026-03-22T03:51:17.206Z",
     "scraper": "QuartersScraper"
-  },
-  {
-    "title": "Goblin Pit (Chicago Footwork Special)",
-    "date": "Sat, 21 Mar 2026",
-    "venue": "Rossi Bar",
-    "link": "https://therossibar.co.uk/events/goblin-pit-chicago-footwork-special/",
-    "dateUnix": 1774051200000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
-    "scraper": "RossiBarScraper"
-  },
-  {
-    "title": "Kerrbang!",
-    "date": "21/03/26  1:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/kerrbang",
-    "dateUnix": 1774099800000,
-    "scrapedAt": "2026-03-21T03:46:05.962Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "<span>Spring Concert: Brighton & Hove Music Centre</span>",
-    "date": "Sat 21 Mar",
-    "venue": "Brighton Dome",
-    "link": "https://brightondome.org/whats-on/L2T-spring-concert-brighton-hove-music-centre/",
-    "dateUnix": 1774117800000,
-    "scrapedAt": "2026-03-21T03:46:10.070Z",
-    "scraper": "BrightonDomeScraper"
-  },
-  {
-    "title": "<span>Dorothy Stringer Dance Show 2026</span>",
-    "date": "Sat 21 Mar",
-    "venue": "Brighton Dome",
-    "link": "https://brightondome.org/whats-on/LqX-dorothy-stringer-dance-show-2026/",
-    "dateUnix": 1774119600000,
-    "scrapedAt": "2026-03-21T03:46:10.071Z",
-    "scraper": "BrightonDomeScraper"
-  },
-  {
-    "title": "Brutalligators &#8211; Had Sandy &#8211; Chasm &#8211; Mulch",
-    "date": "2026-03-21T19:30",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/brutalligators-secret-set-chasm-mulch/",
-    "dateUnix": 1774121400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
-    "scraper": "HopeRuinScraper"
   },
   {
     "title": "Psychedelic Sundae",
@@ -122,17 +23,8 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/psychedelic-sundae/",
     "dateUnix": 1774137600000,
-    "scrapedAt": "2026-03-21T03:46:07.339Z",
+    "scrapedAt": "2026-03-22T03:51:16.635Z",
     "scraper": "GreenDoorScraper"
-  },
-  {
-    "title": "Diz Undone (formerly Dizraeli) solo",
-    "date": "Sun 22nd Mar",
-    "venue": "The Rose Hill",
-    "link": "https://therosehill.co.uk/event/diz-undone-formerly-dizraeli-solo/",
-    "dateUnix": 1774137600000,
-    "scrapedAt": "2026-03-21T03:46:09.646Z",
-    "scraper": "RoseHillScraper"
   },
   {
     "title": "UOB Textiles Fundraiser for New Designers",
@@ -140,7 +32,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/uob-textiles-fundraiser-for-new-designers/",
     "dateUnix": 1774206000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -149,7 +41,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/Lsz-michelle-de-swarte-the-afters-extra-date-added/",
     "dateUnix": 1774209600000,
-    "scrapedAt": "2026-03-21T03:46:10.071Z",
+    "scrapedAt": "2026-03-22T03:51:18.491Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -158,7 +50,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/scooby-doo-night-live-music-drag/",
     "dateUnix": 1774224000000,
-    "scrapedAt": "2026-03-21T03:46:07.339Z",
+    "scrapedAt": "2026-03-22T03:51:16.635Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -167,7 +59,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/james-blake-a-homecoming-series-of-intimate-shows/event/8phwz",
     "dateUnix": 1774224000000,
-    "scrapedAt": "2026-03-21T03:46:07.301Z",
+    "scrapedAt": "2026-03-22T03:51:16.163Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -176,7 +68,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/fat-poppadaddys-white-lies-party/event/8phsq",
     "dateUnix": 1774224000000,
-    "scrapedAt": "2026-03-21T03:46:07.301Z",
+    "scrapedAt": "2026-03-22T03:51:16.163Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -185,7 +77,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/Ltp-sounds-from-the-city5/",
     "dateUnix": 1774290600000,
-    "scrapedAt": "2026-03-21T03:46:10.071Z",
+    "scrapedAt": "2026-03-22T03:51:18.492Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -194,7 +86,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/sam-blasucci/",
     "dateUnix": 1774296000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -203,7 +95,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/not-richard-her-majesty/",
     "dateUnix": 1774310400000,
-    "scrapedAt": "2026-03-21T03:46:07.339Z",
+    "scrapedAt": "2026-03-22T03:51:16.635Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -212,7 +104,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/mosquito-nights-die-twice-residency-2/",
     "dateUnix": 1774310400000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
+    "scrapedAt": "2026-03-22T03:51:19.790Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -221,7 +113,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-murder-burgers-chub-had-sandy/",
     "dateUnix": 1774380600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -230,7 +122,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/yard/",
     "dateUnix": 1774396800000,
-    "scrapedAt": "2026-03-21T03:46:07.339Z",
+    "scrapedAt": "2026-03-22T03:51:16.635Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -239,7 +131,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/holly-humberstone-uk-outstore-tour/event/8pkbw",
     "dateUnix": 1774396800000,
-    "scrapedAt": "2026-03-21T03:46:07.301Z",
+    "scrapedAt": "2026-03-22T03:51:16.164Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -248,7 +140,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/heart-of-the-scene-vol-1-henry/",
     "dateUnix": 1774396800000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
+    "scrapedAt": "2026-03-22T03:51:19.790Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -257,7 +149,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hh-presents-whitelands-helen-ganya-swallowtail-dirtsharks/",
     "dateUnix": 1774467000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -266,7 +158,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/gaye-bikers-on-acid/",
     "dateUnix": 1774483200000,
-    "scrapedAt": "2026-03-21T03:46:07.339Z",
+    "scrapedAt": "2026-03-22T03:51:16.635Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -275,7 +167,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/secret-discotheque-soundtracks/event/8phw9",
     "dateUnix": 1774483200000,
-    "scrapedAt": "2026-03-21T03:46:07.302Z",
+    "scrapedAt": "2026-03-22T03:51:16.164Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -284,7 +176,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/wildernesses/",
     "dateUnix": 1774483200000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
+    "scrapedAt": "2026-03-22T03:51:19.790Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -293,7 +185,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/heavenly-sassyhiya/",
     "dateUnix": 1774553400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -302,7 +194,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/ninajirachi",
     "dateUnix": 1774553400000,
-    "scrapedAt": "2026-03-21T03:46:05.962Z",
+    "scrapedAt": "2026-03-22T03:51:15.137Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -311,7 +203,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/lucy-kruger-the-lost-boys/",
     "dateUnix": 1774569600000,
-    "scrapedAt": "2026-03-21T03:46:07.340Z",
+    "scrapedAt": "2026-03-22T03:51:16.635Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -320,7 +212,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-2/",
     "dateUnix": 1774569600000,
-    "scrapedAt": "2026-03-21T03:46:07.340Z",
+    "scrapedAt": "2026-03-22T03:51:16.635Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -329,7 +221,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lo-fidelity-allstars/event/88mog",
     "dateUnix": 1774569600000,
-    "scrapedAt": "2026-03-21T03:46:07.302Z",
+    "scrapedAt": "2026-03-22T03:51:16.164Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -338,7 +230,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/notorious-end-of-term/event/8phwk",
     "dateUnix": 1774569600000,
-    "scrapedAt": "2026-03-21T03:46:07.302Z",
+    "scrapedAt": "2026-03-22T03:51:16.165Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -347,7 +239,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/sexy-lady-massive-silva-snipa",
     "dateUnix": 1774569600000,
-    "scrapedAt": "2026-03-21T03:46:08.464Z",
+    "scrapedAt": "2026-03-22T03:51:17.206Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -356,7 +248,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/the-flex-italo-disco-hi-nrg-club-night/",
     "dateUnix": 1774569600000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
+    "scrapedAt": "2026-03-22T03:51:19.790Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -365,7 +257,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/hannah-moule-jo-burke/",
     "dateUnix": 1774569600000,
-    "scrapedAt": "2026-03-21T03:46:09.646Z",
+    "scrapedAt": "2026-03-22T03:51:18.091Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -374,7 +266,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/gridiron/",
     "dateUnix": 1774638000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -383,7 +275,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-cribs-2",
     "dateUnix": 1774638000000,
-    "scrapedAt": "2026-03-21T03:46:05.962Z",
+    "scrapedAt": "2026-03-22T03:51:15.137Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -392,7 +284,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/688149",
     "dateUnix": 1774639800000,
-    "scrapedAt": "2026-03-21T03:46:08.095Z",
+    "scrapedAt": "2026-03-22T03:51:17.060Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -401,7 +293,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/L5H-garth-marenghi-this-bursted-earth-book-tour/",
     "dateUnix": 1774639800000,
-    "scrapedAt": "2026-03-21T03:46:10.072Z",
+    "scrapedAt": "2026-03-22T03:51:18.492Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -410,7 +302,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/tatty-seaside-all-dayer/",
     "dateUnix": 1774656000000,
-    "scrapedAt": "2026-03-21T03:46:07.340Z",
+    "scrapedAt": "2026-03-22T03:51:16.636Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -419,7 +311,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-11/",
     "dateUnix": 1774656000000,
-    "scrapedAt": "2026-03-21T03:46:07.340Z",
+    "scrapedAt": "2026-03-22T03:51:16.636Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -428,7 +320,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/hollie-cook-shy-girl-tour-2026/event/88rds",
     "dateUnix": 1774656000000,
-    "scrapedAt": "2026-03-21T03:46:07.303Z",
+    "scrapedAt": "2026-03-22T03:51:16.165Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -437,7 +329,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lets-kill-disco-decades-of-pop/event/8phsb",
     "dateUnix": 1774656000000,
-    "scrapedAt": "2026-03-21T03:46:07.303Z",
+    "scrapedAt": "2026-03-22T03:51:16.165Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -446,7 +338,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/echo",
     "dateUnix": 1774656000000,
-    "scrapedAt": "2026-03-21T03:46:08.464Z",
+    "scrapedAt": "2026-03-22T03:51:17.206Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -455,7 +347,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/fzn",
     "dateUnix": 1774656000000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.206Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -464,7 +356,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/big-trousers/",
     "dateUnix": 1774656000000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
+    "scrapedAt": "2026-03-22T03:51:19.790Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -473,7 +365,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-cribs",
     "dateUnix": 1774724400000,
-    "scrapedAt": "2026-03-21T03:46:05.963Z",
+    "scrapedAt": "2026-03-22T03:51:15.138Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -482,7 +374,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/LhH-oska-bright-film-festival-opening-night-feature/",
     "dateUnix": 1774724400000,
-    "scrapedAt": "2026-03-21T03:46:10.072Z",
+    "scrapedAt": "2026-03-22T03:51:18.492Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -491,7 +383,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/LT1-live-at-brighton-dome/",
     "dateUnix": 1774726200000,
-    "scrapedAt": "2026-03-21T03:46:10.072Z",
+    "scrapedAt": "2026-03-22T03:51:18.492Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -500,8 +392,17 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/bishopskin/",
     "dateUnix": 1774728000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Bedroomer – ‘Club Music’ Album Release Show",
+    "date": "Sun, 29 Mar 2026",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/bedroomer-club-music-album-release-show/",
+    "dateUnix": 1774742400000,
+    "scrapedAt": "2026-03-22T03:51:16.636Z",
+    "scraper": "GreenDoorScraper"
   },
   {
     "title": "Kofi Stone",
@@ -509,7 +410,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/kofi-stone-all-the-flowers-have-bloomed-tour/event/883ph",
     "dateUnix": 1774742400000,
-    "scrapedAt": "2026-03-21T03:46:07.304Z",
+    "scrapedAt": "2026-03-22T03:51:16.166Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -518,7 +419,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/colour-out-of-space-presents-astral-social-club-sharon-gal-the-piss-superstition-and-more/",
     "dateUnix": 1774742400000,
-    "scrapedAt": "2026-03-21T03:46:09.646Z",
+    "scrapedAt": "2026-03-22T03:51:18.092Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -527,7 +428,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/LRK-the-protecting-veil-guy-johnston-plays-tavener-max-richtervivaldi-vaughan-williams/",
     "dateUnix": 1774791900000,
-    "scrapedAt": "2026-03-21T03:46:10.072Z",
+    "scrapedAt": "2026-03-22T03:51:18.492Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -536,7 +437,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/Lhp-oska-bright-film-festival-family-values/",
     "dateUnix": 1774796400000,
-    "scrapedAt": "2026-03-21T03:46:10.072Z",
+    "scrapedAt": "2026-03-22T03:51:18.493Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -545,8 +446,17 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/LhO-oska-bright-film-festival-documentary/",
     "dateUnix": 1774807200000,
-    "scrapedAt": "2026-03-21T03:46:10.073Z",
+    "scrapedAt": "2026-03-22T03:51:18.493Z",
     "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "Collective Action Brighton & Hove Palestine Fundraiser",
+    "date": "Mon, 30 Mar 2026",
+    "venue": "Green Door Store",
+    "link": "https://thegreendoorstore.co.uk/events/collective-action-brighton-hove-palestine-fundraiser/",
+    "dateUnix": 1774828800000,
+    "scrapedAt": "2026-03-22T03:51:16.636Z",
+    "scraper": "GreenDoorScraper"
   },
   {
     "title": "Fat Poppadaddy's",
@@ -554,7 +464,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/fat-poppadaddys-indie-vs-emo/event/8phsz",
     "dateUnix": 1774828800000,
-    "scrapedAt": "2026-03-21T03:46:07.304Z",
+    "scrapedAt": "2026-03-22T03:51:16.166Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -563,7 +473,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/Lhe-creative-holiday-club/",
     "dateUnix": 1774858500000,
-    "scrapedAt": "2026-03-21T03:46:10.073Z",
+    "scrapedAt": "2026-03-22T03:51:18.493Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -572,7 +482,25 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/LhU-oska-brighton-film-festival-emerging-talent/",
     "dateUnix": 1774864800000,
-    "scrapedAt": "2026-03-21T03:46:10.073Z",
+    "scrapedAt": "2026-03-22T03:51:18.493Z",
+    "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "<span>Oska Bright Film Festival | Animation</span>",
+    "date": "Mon 30 Mar",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/LhF-oska-bright-film-festival-animation/",
+    "dateUnix": 1774873800000,
+    "scrapedAt": "2026-03-22T03:51:18.493Z",
+    "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "<span>Oksa Bright Film Festival | Experimental</span>",
+    "date": "Mon 30 Mar",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/LhJ-oksa-bright-film-festival-experimental/",
+    "dateUnix": 1774888200000,
+    "scrapedAt": "2026-03-22T03:51:18.494Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -581,7 +509,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/1054/",
     "dateUnix": 1774915200000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
+    "scrapedAt": "2026-03-22T03:51:19.790Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -590,7 +518,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/melting-vinyl-presents-pillow-ceann-capaill-31-march-2026/",
     "dateUnix": 1774915200000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.092Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -599,7 +527,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/searows-death-in-the-business-of-whaling-tour/event/88sse",
     "dateUnix": 1775001600000,
-    "scrapedAt": "2026-03-21T03:46:07.304Z",
+    "scrapedAt": "2026-03-22T03:51:16.166Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -608,7 +536,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/sam-grassie/",
     "dateUnix": 1775001600000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
+    "scrapedAt": "2026-03-22T03:51:19.790Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -617,7 +545,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hidden-herd-presents-fuzz-lightyear-kitchen-lover-chitchat-nagasaki-dog/",
     "dateUnix": 1775068200000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -626,7 +554,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/infected-rain",
     "dateUnix": 1775071800000,
-    "scrapedAt": "2026-03-21T03:46:05.963Z",
+    "scrapedAt": "2026-03-22T03:51:15.138Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -635,7 +563,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/secret-discotheque-easter-weekend-warm-up/event/8phwi",
     "dateUnix": 1775088000000,
-    "scrapedAt": "2026-03-21T03:46:07.305Z",
+    "scrapedAt": "2026-03-22T03:51:16.167Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -644,7 +572,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/holdtight-presents-bsearl",
     "dateUnix": 1775088000000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -653,7 +581,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/lost-property-presents-the-leaf-library-minor-dents-april-2026/",
     "dateUnix": 1775088000000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.092Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -662,7 +590,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-miserable-rich-2/",
     "dateUnix": 1775156400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -671,7 +599,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/dirty-talk/event/8phw3",
     "dateUnix": 1775174400000,
-    "scrapedAt": "2026-03-21T03:46:07.305Z",
+    "scrapedAt": "2026-03-22T03:51:16.167Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -680,7 +608,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/born-on-road",
     "dateUnix": 1775174400000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -689,7 +617,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/girls-of-the-internet/",
     "dateUnix": 1775239200000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -698,7 +626,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lets-kill-disco-easter-weekend/event/8phsr",
     "dateUnix": 1775260800000,
-    "scrapedAt": "2026-03-21T03:46:07.305Z",
+    "scrapedAt": "2026-03-22T03:51:16.167Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -707,7 +635,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/norman-jay",
     "dateUnix": 1775260800000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -716,7 +644,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/salter-cane-the-equitorial-group-skyscrapers/",
     "dateUnix": 1775327400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -725,7 +653,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/dr-banana-b2b-gene-on-earth",
     "dateUnix": 1775347200000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -734,7 +662,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/lightyear-slow-gherkin-early-evening-show/",
     "dateUnix": 1775401200000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -743,7 +671,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-beat-ft-ranking-junior/event/8ph2k",
     "dateUnix": 1775433600000,
-    "scrapedAt": "2026-03-21T03:46:07.305Z",
+    "scrapedAt": "2026-03-22T03:51:16.167Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -752,7 +680,7 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/bibi-club-2026-tour/event/88efo",
     "dateUnix": 1775520000000,
-    "scrapedAt": "2026-03-21T03:46:08.620Z",
+    "scrapedAt": "2026-03-22T03:51:17.123Z",
     "scraper": "PrinceAlbertScraper"
   },
   {
@@ -761,7 +689,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/divorce-attorney-ragdoll-m-woodroe/",
     "dateUnix": 1775586600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -770,7 +698,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/ria-rua-support/",
     "dateUnix": 1775673000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -779,7 +707,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/idlewild",
     "dateUnix": 1775676600000,
-    "scrapedAt": "2026-03-21T03:46:05.963Z",
+    "scrapedAt": "2026-03-22T03:51:15.138Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -788,7 +716,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/arlo-parks-ambiguous-desire-intimate-record-store-shows/event/8ph26",
     "dateUnix": 1775692800000,
-    "scrapedAt": "2026-03-21T03:46:07.306Z",
+    "scrapedAt": "2026-03-22T03:51:16.168Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -797,7 +725,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/the-xlnts/",
     "dateUnix": 1775692800000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
+    "scrapedAt": "2026-03-22T03:51:19.790Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -806,7 +734,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/ischio-romantico-co-the-bohman-brothers-special-guest-hag-landscape/",
     "dateUnix": 1775692800000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.092Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -815,7 +743,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/aku-misgendered-true-intent-splitting-gums/",
     "dateUnix": 1775759400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -824,7 +752,7 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/691395",
     "dateUnix": 1775759400000,
-    "scrapedAt": "2026-03-21T03:46:07.685Z",
+    "scrapedAt": "2026-03-22T03:51:16.341Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -833,7 +761,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/bruce-foxton-2026-tour/event/88moe",
     "dateUnix": 1775779200000,
-    "scrapedAt": "2026-03-21T03:46:07.306Z",
+    "scrapedAt": "2026-03-22T03:51:16.168Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -842,7 +770,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/free-the-bass",
     "dateUnix": 1775779200000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -851,7 +779,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/chega-mais-presents-worldwide-funk-soul-disco-club-night/",
     "dateUnix": 1775779200000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
+    "scrapedAt": "2026-03-22T03:51:19.790Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -860,7 +788,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/umut-adan-turkish-psych-rock/",
     "dateUnix": 1775779200000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.092Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -869,7 +797,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/emo-fest",
     "dateUnix": 1775844000000,
-    "scrapedAt": "2026-03-21T03:46:05.963Z",
+    "scrapedAt": "2026-03-22T03:51:15.138Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -878,7 +806,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/twat-union-playing-alice/",
     "dateUnix": 1775847600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -887,7 +815,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/nordic-giants",
     "dateUnix": 1775865600000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -896,7 +824,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/4am-kru",
     "dateUnix": 1775865600000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -905,7 +833,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/homegrown-festival-2026/",
     "dateUnix": 1775914200000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -914,7 +842,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/creeper-the-sangui-tour-2026/event/88ab3",
     "dateUnix": 1775952000000,
-    "scrapedAt": "2026-03-21T03:46:07.306Z",
+    "scrapedAt": "2026-03-22T03:51:16.168Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -923,7 +851,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/693743",
     "dateUnix": 1776009600000,
-    "scrapedAt": "2026-03-21T03:46:08.095Z",
+    "scrapedAt": "2026-03-22T03:51:17.060Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -932,7 +860,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/joshua-idehen-april-uk-tour-2026/event/886n9",
     "dateUnix": 1776124800000,
-    "scrapedAt": "2026-03-21T03:46:07.306Z",
+    "scrapedAt": "2026-03-22T03:51:16.168Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -941,7 +869,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/blame-mary-benji-greens-rubber-band-black-light-arcade-jack-keane/",
     "dateUnix": 1776191400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -950,7 +878,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/stand-or-fall-the-remarkable-rise-of-brighton-and-hove-albion",
     "dateUnix": 1776276000000,
-    "scrapedAt": "2026-03-21T03:46:05.963Z",
+    "scrapedAt": "2026-03-22T03:51:15.139Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -959,7 +887,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-rolling-people/",
     "dateUnix": 1776277800000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -968,7 +896,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/jordan-ward-the-apartment-tour/event/884aa",
     "dateUnix": 1776297600000,
-    "scrapedAt": "2026-03-21T03:46:07.307Z",
+    "scrapedAt": "2026-03-22T03:51:16.169Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -977,7 +905,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/adam-bushell-paul-khimasia-morgan-album-launch-steve-beresford-faradina-afifi/",
     "dateUnix": 1776297600000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.092Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -986,7 +914,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/slowburn-and-now-were-all-doomed-the-emc-more/",
     "dateUnix": 1776364200000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -995,7 +923,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/ogrepalooza",
     "dateUnix": 1776367800000,
-    "scrapedAt": "2026-03-21T03:46:05.963Z",
+    "scrapedAt": "2026-03-22T03:51:15.139Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1004,7 +932,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/frank-turner-campfire-punkrock-twenty-tour/event/88bon",
     "dateUnix": 1776384000000,
-    "scrapedAt": "2026-03-21T03:46:07.307Z",
+    "scrapedAt": "2026-03-22T03:51:16.169Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1013,7 +941,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/roundabout-presents-laidlaw",
     "dateUnix": 1776384000000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1022,7 +950,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/brown-horse-2/",
     "dateUnix": 1776452400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1031,7 +959,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/noasis",
     "dateUnix": 1776452400000,
-    "scrapedAt": "2026-03-21T03:46:05.964Z",
+    "scrapedAt": "2026-03-22T03:51:15.139Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1040,7 +968,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/rnb-mania-indoor-rb-festival/event/8ph2n",
     "dateUnix": 1776470400000,
-    "scrapedAt": "2026-03-21T03:46:07.307Z",
+    "scrapedAt": "2026-03-22T03:51:16.169Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1049,7 +977,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/the-funk-phenomenon",
     "dateUnix": 1776470400000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1058,7 +986,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/dot-events-presents-oden-fatzo",
     "dateUnix": 1776470400000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1067,7 +995,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/let-spin-april-2026/",
     "dateUnix": 1776470400000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.092Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -1076,7 +1004,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/blight-fest-volume-i-saturday/",
     "dateUnix": 1776528000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1085,7 +1013,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/a-tribute-to-amy",
     "dateUnix": 1776538800000,
-    "scrapedAt": "2026-03-21T03:46:05.964Z",
+    "scrapedAt": "2026-03-22T03:51:15.139Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1094,7 +1022,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/blight-fest-volume-i-sunday/",
     "dateUnix": 1776618000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1103,7 +1031,7 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lande-hekt-lucky-now-tour/event/8pue4",
     "dateUnix": 1776643200000,
-    "scrapedAt": "2026-03-21T03:46:08.621Z",
+    "scrapedAt": "2026-03-22T03:51:17.123Z",
     "scraper": "PrinceAlbertScraper"
   },
   {
@@ -1112,7 +1040,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/design-fault/",
     "dateUnix": 1776729600000,
-    "scrapedAt": "2026-03-21T03:46:10.838Z",
+    "scrapedAt": "2026-03-22T03:51:19.790Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -1121,7 +1049,7 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/oslo-twins-2026-tour/event/8p6pc",
     "dateUnix": 1776816000000,
-    "scrapedAt": "2026-03-21T03:46:08.621Z",
+    "scrapedAt": "2026-03-22T03:51:17.123Z",
     "scraper": "PrinceAlbertScraper"
   },
   {
@@ -1130,7 +1058,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/knats/",
     "dateUnix": 1776882600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1139,7 +1067,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/jair-rohm-parker-wells-resonance-improvisation-innovation-and-the-legacy-of-eberhard-weber/",
     "dateUnix": 1776902400000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.092Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -1148,7 +1076,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/book-of-churches/",
     "dateUnix": 1776970800000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1157,7 +1085,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/demob-happy",
     "dateUnix": 1776972600000,
-    "scrapedAt": "2026-03-21T03:46:05.964Z",
+    "scrapedAt": "2026-03-22T03:51:15.139Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1166,7 +1094,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/kneecap-fenian-album-launch-parties-tour/event/8ph2h",
     "dateUnix": 1776988800000,
-    "scrapedAt": "2026-03-21T03:46:07.307Z",
+    "scrapedAt": "2026-03-22T03:51:16.169Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1175,7 +1103,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/a-m-c-phantom",
     "dateUnix": 1776988800000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1184,7 +1112,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/hekatones-april-2026/",
     "dateUnix": 1776988800000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.092Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -1193,7 +1121,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hidden-herd-presents-white-magic-for-lovers-catrin-vincent-platonica-erotica-charlie-keen/",
     "dateUnix": 1777055400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1202,7 +1130,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/692362",
     "dateUnix": 1777055400000,
-    "scrapedAt": "2026-03-21T03:46:08.095Z",
+    "scrapedAt": "2026-03-22T03:51:17.060Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -1211,7 +1139,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/imagine-lennon",
     "dateUnix": 1777057200000,
-    "scrapedAt": "2026-03-21T03:46:05.964Z",
+    "scrapedAt": "2026-03-22T03:51:15.139Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1220,7 +1148,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/ist-ist",
     "dateUnix": 1777075200000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1229,7 +1157,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/billy-gillies-presents-frqnc",
     "dateUnix": 1777075200000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1238,7 +1166,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/rose-io-ecto-the-bunny-rabbit-lagomorphosis-ep-launch/",
     "dateUnix": 1777075200000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.092Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -1247,7 +1175,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/moon-idle/",
     "dateUnix": 1777143600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1256,7 +1184,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/the-9075",
     "dateUnix": 1777161600000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.207Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1265,7 +1193,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/jesse-sykes-and-the-sweet-hereafter/",
     "dateUnix": 1777226400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1274,7 +1202,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/glyders/",
     "dateUnix": 1777314600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1283,7 +1211,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/just-mustard-uk-and-europe-2026/event/88yan",
     "dateUnix": 1777334400000,
-    "scrapedAt": "2026-03-21T03:46:07.316Z",
+    "scrapedAt": "2026-03-22T03:51:16.169Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1292,7 +1220,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/space-frog-lobotomy-tegula-cat-fat-lloyd/",
     "dateUnix": 1777399200000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1301,7 +1229,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/ricky-warwick",
     "dateUnix": 1777404600000,
-    "scrapedAt": "2026-03-21T03:46:05.964Z",
+    "scrapedAt": "2026-03-22T03:51:15.140Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1310,7 +1238,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/nubiyan-twist-uk-tour-2026/event/88ss2",
     "dateUnix": 1777420800000,
-    "scrapedAt": "2026-03-21T03:46:07.316Z",
+    "scrapedAt": "2026-03-22T03:51:16.170Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1319,7 +1247,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/acid-mothers-temple-cotton-casino-i-am-voyager-1/",
     "dateUnix": 1777487400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1328,7 +1256,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/blackgold-uk-tour-2026/event/882wn",
     "dateUnix": 1777507200000,
-    "scrapedAt": "2026-03-21T03:46:07.316Z",
+    "scrapedAt": "2026-03-22T03:51:16.170Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1337,7 +1265,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/linos-wengara-magaya-mbira-vibes/",
     "dateUnix": 1777507200000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.093Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -1346,7 +1274,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/barrington-levy-only-the-love-of-jah-tour-2026/event/8ph2t",
     "dateUnix": 1777593600000,
-    "scrapedAt": "2026-03-21T03:46:07.316Z",
+    "scrapedAt": "2026-03-22T03:51:16.178Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1355,7 +1283,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/paul-oakenfold-perfecto-trance-classics",
     "dateUnix": 1777593600000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1364,7 +1292,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/chopchop-01-may-2026/",
     "dateUnix": 1777593600000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.093Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -1373,7 +1301,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/fay-hallam/",
     "dateUnix": 1777658400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1382,7 +1310,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/love",
     "dateUnix": 1777662000000,
-    "scrapedAt": "2026-03-21T03:46:05.964Z",
+    "scrapedAt": "2026-03-22T03:51:15.140Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1391,7 +1319,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/african-head-charge-45th-anniversary-tour/event/8pjur",
     "dateUnix": 1777680000000,
-    "scrapedAt": "2026-03-21T03:46:07.316Z",
+    "scrapedAt": "2026-03-22T03:51:16.178Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1400,7 +1328,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/eats-everything",
     "dateUnix": 1777680000000,
-    "scrapedAt": "2026-03-21T03:46:08.465Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1409,7 +1337,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/mehfil-e-rose-hill-club-night-may-2026/",
     "dateUnix": 1777680000000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.093Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -1418,7 +1346,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/house-of-all-2/",
     "dateUnix": 1777746600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1427,7 +1355,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/barrioke",
     "dateUnix": 1777748400000,
-    "scrapedAt": "2026-03-21T03:46:05.964Z",
+    "scrapedAt": "2026-03-22T03:51:15.140Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1436,7 +1364,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/black-octopus-present-carl-craig-octave-one-detroit-special",
     "dateUnix": 1777766400000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1445,7 +1373,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/692565",
     "dateUnix": 1777819500000,
-    "scrapedAt": "2026-03-21T03:46:08.095Z",
+    "scrapedAt": "2026-03-22T03:51:17.060Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -1454,7 +1382,7 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/680844",
     "dateUnix": 1777833000000,
-    "scrapedAt": "2026-03-21T03:46:07.685Z",
+    "scrapedAt": "2026-03-22T03:51:16.341Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -1463,7 +1391,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/lorelle-meets-the-obsolete/",
     "dateUnix": 1778005800000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1472,7 +1400,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/great-lake-swimmers/",
     "dateUnix": 1778094000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1481,7 +1409,7 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/youth-killed-it-are-you-having-a-good-time-tour/event/8p8jb",
     "dateUnix": 1778198400000,
-    "scrapedAt": "2026-03-21T03:46:08.621Z",
+    "scrapedAt": "2026-03-22T03:51:17.123Z",
     "scraper": "PrinceAlbertScraper"
   },
   {
@@ -1490,7 +1418,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/lucy-spraggan",
     "dateUnix": 1778198400000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1499,7 +1427,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/free-the-drums-w-subsonic-primate",
     "dateUnix": 1778198400000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1508,7 +1436,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/interrobang-molly-vulpyne-band/",
     "dateUnix": 1778265000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1517,7 +1445,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/690395",
     "dateUnix": 1778265000000,
-    "scrapedAt": "2026-03-21T03:46:08.095Z",
+    "scrapedAt": "2026-03-22T03:51:17.060Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -1526,7 +1454,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-cuban-brothers",
     "dateUnix": 1778266800000,
-    "scrapedAt": "2026-03-21T03:46:05.965Z",
+    "scrapedAt": "2026-03-22T03:51:15.140Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1535,7 +1463,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/toots-and-the-maytals-feat-leba-hibbert/event/88mo3",
     "dateUnix": 1778284800000,
-    "scrapedAt": "2026-03-21T03:46:07.317Z",
+    "scrapedAt": "2026-03-22T03:51:16.178Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1544,7 +1472,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/kruder-dorfmeister-kicks-30",
     "dateUnix": 1778284800000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1553,7 +1481,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/big-boss-man/",
     "dateUnix": 1778351400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1562,7 +1490,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/kindred-spirits-festival",
     "dateUnix": 1778371200000,
-    "scrapedAt": "2026-03-21T03:46:05.965Z",
+    "scrapedAt": "2026-03-22T03:51:15.140Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1571,7 +1499,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/lucrecia-dalt-a-danger-to-ourselves-2026-ukeu-tour/event/88sw9",
     "dateUnix": 1778371200000,
-    "scrapedAt": "2026-03-21T03:46:07.317Z",
+    "scrapedAt": "2026-03-22T03:51:16.178Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1580,7 +1508,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/submotion-orchestra-passed-me-by-tour/event/8pui6",
     "dateUnix": 1778630400000,
-    "scrapedAt": "2026-03-21T03:46:07.317Z",
+    "scrapedAt": "2026-03-22T03:51:16.178Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1589,7 +1517,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-great-escape-2026-wednesday/",
     "dateUnix": 1778684400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1598,7 +1526,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/the-seasonal-spring-the-vernon-spring-with-dave-okumu-and-rolf-dragstra/",
     "dateUnix": 1778716800000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.093Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -1607,7 +1535,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-great-escape-2026-thursday/",
     "dateUnix": 1778756400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1616,7 +1544,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-great-escape-2026-friday/",
     "dateUnix": 1778842800000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1625,7 +1553,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/uncut-jams-presents-sally-c-b2b-dan-shake",
     "dateUnix": 1778889600000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1634,7 +1562,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-great-escape-2026-saturday/",
     "dateUnix": 1778932800000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1643,7 +1571,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/wimp-had-sandy-clouded-claw-machine/",
     "dateUnix": 1779040800000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1652,7 +1580,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/john-5",
     "dateUnix": 1779046200000,
-    "scrapedAt": "2026-03-21T03:46:05.965Z",
+    "scrapedAt": "2026-03-22T03:51:15.140Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1661,7 +1589,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/ganser/",
     "dateUnix": 1779217200000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1670,7 +1598,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/weatherday/",
     "dateUnix": 1779301800000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1679,7 +1607,7 @@
     "venue": "Prince Albert",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/chris-brain-red-sun-rising-tour/event/88zr3",
     "dateUnix": 1779321600000,
-    "scrapedAt": "2026-03-21T03:46:08.621Z",
+    "scrapedAt": "2026-03-22T03:51:17.124Z",
     "scraper": "PrinceAlbertScraper"
   },
   {
@@ -1688,7 +1616,7 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/chinabot-presents-kasai-hwxxng-oriental-melon-april-2026/",
     "dateUnix": 1779321600000,
-    "scrapedAt": "2026-03-21T03:46:09.647Z",
+    "scrapedAt": "2026-03-22T03:51:18.093Z",
     "scraper": "RoseHillScraper"
   },
   {
@@ -1697,7 +1625,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/quarters-presents-kenny-dope",
     "dateUnix": 1779408000000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1706,7 +1634,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/fliptrix/",
     "dateUnix": 1779472800000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1715,7 +1643,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/a-night-of-jagged-little-pill",
     "dateUnix": 1779476400000,
-    "scrapedAt": "2026-03-21T03:46:05.965Z",
+    "scrapedAt": "2026-03-22T03:51:15.140Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1724,7 +1652,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-specials-ltd-ghost-town-45th-anniversary-tour/event/88swv",
     "dateUnix": 1779494400000,
-    "scrapedAt": "2026-03-21T03:46:07.317Z",
+    "scrapedAt": "2026-03-22T03:51:16.179Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1733,7 +1661,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/dodgy",
     "dateUnix": 1779494400000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1742,7 +1670,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/barbara/",
     "dateUnix": 1779561000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1751,8 +1679,17 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/enzo-siragusa",
     "dateUnix": 1779580800000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "ICHI Matinee Show AND Instrument Making Workshop",
+    "date": "Sun 24th May",
+    "venue": "The Rose Hill",
+    "link": "https://therosehill.co.uk/event/ichi-matinee-show-and-instrument-making-workshop/",
+    "dateUnix": 1779580800000,
+    "scrapedAt": "2026-03-22T03:51:18.093Z",
+    "scraper": "RoseHillScraper"
   },
   {
     "title": "Puma Blue",
@@ -1760,7 +1697,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/puma-blue-croak-dream-tour/event/8854i",
     "dateUnix": 1779753600000,
-    "scrapedAt": "2026-03-21T03:46:07.317Z",
+    "scrapedAt": "2026-03-22T03:51:16.179Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1769,7 +1706,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/bloody-knees/",
     "dateUnix": 1779904800000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1778,7 +1715,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/sir-chloe",
     "dateUnix": 1779910200000,
-    "scrapedAt": "2026-03-21T03:46:05.965Z",
+    "scrapedAt": "2026-03-22T03:51:15.140Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1787,7 +1724,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/quarters-presents-window-kid",
     "dateUnix": 1780012800000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1796,7 +1733,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/currls-masca/",
     "dateUnix": 1780079400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1805,7 +1742,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/696649",
     "dateUnix": 1780079400000,
-    "scrapedAt": "2026-03-21T03:46:08.095Z",
+    "scrapedAt": "2026-03-22T03:51:17.060Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -1814,7 +1751,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/rhythm-of-the-90s",
     "dateUnix": 1780081200000,
-    "scrapedAt": "2026-03-21T03:46:05.965Z",
+    "scrapedAt": "2026-03-22T03:51:15.141Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1823,7 +1760,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/elder-emo-day-party",
     "dateUnix": 1780099200000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1832,7 +1769,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/pleasureinc/",
     "dateUnix": 1780167600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1841,7 +1778,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/biird",
     "dateUnix": 1780255800000,
-    "scrapedAt": "2026-03-21T03:46:05.965Z",
+    "scrapedAt": "2026-03-22T03:51:15.141Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1850,7 +1787,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/valerie-june",
     "dateUnix": 1780342200000,
-    "scrapedAt": "2026-03-21T03:46:05.966Z",
+    "scrapedAt": "2026-03-22T03:51:15.141Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1859,7 +1796,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-bug-club",
     "dateUnix": 1780428600000,
-    "scrapedAt": "2026-03-21T03:46:05.966Z",
+    "scrapedAt": "2026-03-22T03:51:15.141Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1868,7 +1805,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/hang-massive/event/88swx",
     "dateUnix": 1780617600000,
-    "scrapedAt": "2026-03-21T03:46:07.317Z",
+    "scrapedAt": "2026-03-22T03:51:16.179Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1877,7 +1814,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/free-the-rave-benny-l-doktor-roll-dem-out-album-launch",
     "dateUnix": 1780617600000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1886,7 +1823,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/chest/",
     "dateUnix": 1780686000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1895,7 +1832,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/vent-414",
     "dateUnix": 1780686000000,
-    "scrapedAt": "2026-03-21T03:46:05.966Z",
+    "scrapedAt": "2026-03-22T03:51:15.141Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1904,7 +1841,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/sultans-of-ping-30-years-of-casual-sex/event/88s2i",
     "dateUnix": 1780704000000,
-    "scrapedAt": "2026-03-21T03:46:07.318Z",
+    "scrapedAt": "2026-03-22T03:51:16.179Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1913,8 +1850,17 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/nightmares-on-wax",
     "dateUnix": 1780704000000,
-    "scrapedAt": "2026-03-21T03:46:08.466Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Fractured + SyöSeBöys",
+    "date": "2026-06-06T20:00:00+01:00",
+    "venue": "Pipeline",
+    "link": "https://wegottickets.com/event/697455",
+    "dateUnix": 1780772400000,
+    "scrapedAt": "2026-03-22T03:51:17.060Z",
+    "scraper": "PipelineScraper"
   },
   {
     "title": "Tuppenny Bunters",
@@ -1922,7 +1868,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/690396",
     "dateUnix": 1780843500000,
-    "scrapedAt": "2026-03-21T03:46:08.095Z",
+    "scrapedAt": "2026-03-22T03:51:17.060Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -1931,7 +1877,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/dope-purple/",
     "dateUnix": 1781031600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1940,7 +1886,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/lime/",
     "dateUnix": 1781202600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1949,7 +1895,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/onyx/event/88s2u",
     "dateUnix": 1781308800000,
-    "scrapedAt": "2026-03-21T03:46:07.318Z",
+    "scrapedAt": "2026-03-22T03:51:16.179Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1958,7 +1904,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/melrose-avenue-a-taste-of-summer-ukeu-tour/event/8pha9",
     "dateUnix": 1781395200000,
-    "scrapedAt": "2026-03-21T03:46:07.318Z",
+    "scrapedAt": "2026-03-22T03:51:16.179Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1967,7 +1913,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/snot-ukeuro-tour-2026/event/8pha5",
     "dateUnix": 1781481600000,
-    "scrapedAt": "2026-03-21T03:46:07.318Z",
+    "scrapedAt": "2026-03-22T03:51:16.180Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1976,7 +1922,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/ratsalad-chub-wrex-midwich-cuckoos/",
     "dateUnix": 1781548200000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1985,7 +1931,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/la-dispute-no-one-was-driving-the-car/event/8pjwe",
     "dateUnix": 1781568000000,
-    "scrapedAt": "2026-03-21T03:46:07.318Z",
+    "scrapedAt": "2026-03-22T03:51:16.180Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -1994,7 +1940,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/tamikrest/",
     "dateUnix": 1781636400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2003,7 +1949,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/blood-incantation",
     "dateUnix": 1781638200000,
-    "scrapedAt": "2026-03-21T03:46:05.966Z",
+    "scrapedAt": "2026-03-22T03:51:15.141Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2012,7 +1958,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/gimmy/",
     "dateUnix": 1781895600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2021,7 +1967,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/all-them-witches-house-of-mirrors-tour/event/8phaf",
     "dateUnix": 1782000000000,
-    "scrapedAt": "2026-03-21T03:46:07.318Z",
+    "scrapedAt": "2026-03-22T03:51:16.180Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -2030,7 +1976,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hh-presents-vona-vella-joe-little-mookie-tia-ice/",
     "dateUnix": 1782498600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2039,7 +1985,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/695891",
     "dateUnix": 1782498600000,
-    "scrapedAt": "2026-03-21T03:46:08.095Z",
+    "scrapedAt": "2026-03-22T03:51:17.060Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -2048,7 +1994,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/wargasm-summer-26-tour/event/8phas",
     "dateUnix": 1782777600000,
-    "scrapedAt": "2026-03-21T03:46:07.319Z",
+    "scrapedAt": "2026-03-22T03:51:16.180Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -2057,7 +2003,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/free-the-jungle-w-napes",
     "dateUnix": 1783036800000,
-    "scrapedAt": "2026-03-21T03:46:08.467Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -2066,7 +2012,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/stipe-performing-r-e-m",
     "dateUnix": 1783105200000,
-    "scrapedAt": "2026-03-21T03:46:05.966Z",
+    "scrapedAt": "2026-03-22T03:51:15.141Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2075,7 +2021,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/crazy-p-summer-disco",
     "dateUnix": 1783123200000,
-    "scrapedAt": "2026-03-21T03:46:08.467Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -2084,7 +2030,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/kevin-morby-little-wide-open-tour-2026/event/8phaw",
     "dateUnix": 1783641600000,
-    "scrapedAt": "2026-03-21T03:46:07.319Z",
+    "scrapedAt": "2026-03-22T03:51:16.180Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -2093,7 +2039,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/melt-your-brains-fest/",
     "dateUnix": 1783774800000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2102,7 +2048,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/pinkshift-x-heart-attack-man/",
     "dateUnix": 1784053800000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2111,7 +2057,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/bat-sabbath",
     "dateUnix": 1784662200000,
-    "scrapedAt": "2026-03-21T03:46:05.966Z",
+    "scrapedAt": "2026-03-22T03:51:15.141Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2120,7 +2066,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/blue-intimate-tour-2026/event/88s2x",
     "dateUnix": 1784937600000,
-    "scrapedAt": "2026-03-21T03:46:07.319Z",
+    "scrapedAt": "2026-03-22T03:51:16.180Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -2129,7 +2075,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/tragedy-all-metal-tribute-to-the-bee-gees-beyond",
     "dateUnix": 1785542400000,
-    "scrapedAt": "2026-03-21T03:46:08.467Z",
+    "scrapedAt": "2026-03-22T03:51:17.208Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -2138,7 +2084,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/merauder/",
     "dateUnix": 1785866400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2147,7 +2093,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/fleetwood-bac",
     "dateUnix": 1787425200000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.142Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2156,7 +2102,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/a-place-to-bury-strangers",
     "dateUnix": 1787599800000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.142Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2165,7 +2111,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-signatures-northern-soul-brighton-mod-weekender/event/88sak",
     "dateUnix": 1787875200000,
-    "scrapedAt": "2026-03-21T03:46:07.319Z",
+    "scrapedAt": "2026-03-22T03:51:16.181Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -2174,7 +2120,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-jamd",
     "dateUnix": 1787936400000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.142Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2183,7 +2129,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/small-fakers-maximum-who-brighton-bank-holiday-60s-mod-special/event/88sa6",
     "dateUnix": 1787961600000,
-    "scrapedAt": "2026-03-21T03:46:07.319Z",
+    "scrapedAt": "2026-03-22T03:51:16.181Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -2192,7 +2138,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/michael-shannon-and-jason-narducy-uk-tour-2026/event/88sa3",
     "dateUnix": 1788307200000,
-    "scrapedAt": "2026-03-21T03:46:07.319Z",
+    "scrapedAt": "2026-03-22T03:51:16.181Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -2201,7 +2147,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/brighton-psych-fest-2026/",
     "dateUnix": 1788523200000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2210,7 +2156,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/brighton-psych-fest",
     "dateUnix": 1788526800000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.142Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2219,7 +2165,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-molotovs-welcome-to-urbia-tour/event/8p7vz",
     "dateUnix": 1788566400000,
-    "scrapedAt": "2026-03-21T03:46:07.320Z",
+    "scrapedAt": "2026-03-22T03:51:16.181Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -2228,7 +2174,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/indiepalooza-the-indie-tribute-festival/event/88m8h",
     "dateUnix": 1789084800000,
-    "scrapedAt": "2026-03-21T03:46:07.320Z",
+    "scrapedAt": "2026-03-22T03:51:16.181Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -2237,7 +2183,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/china-crisis",
     "dateUnix": 1789155000000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.142Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2246,7 +2192,7 @@
     "venue": "Chalk",
     "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/the-macc-lads/event/8phqn",
     "dateUnix": 1789171200000,
-    "scrapedAt": "2026-03-21T03:46:07.320Z",
+    "scrapedAt": "2026-03-22T03:51:16.181Z",
     "scraper": "ChalkScraper"
   },
   {
@@ -2255,7 +2201,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/spy-dry-socket-more-tba/",
     "dateUnix": 1789236000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2264,7 +2210,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/sofia-ford-daytura/",
     "dateUnix": 1789668000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2273,7 +2219,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/guns-n-roses-experience",
     "dateUnix": 1789758000000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.142Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2282,7 +2228,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/the-antarctic-monkeys",
     "dateUnix": 1789776000000,
-    "scrapedAt": "2026-03-21T03:46:08.467Z",
+    "scrapedAt": "2026-03-22T03:51:17.209Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -2291,8 +2237,17 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/sanctum-sanctorium-the-dark-s",
     "dateUnix": 1789844400000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.142Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Tom Bailey",
+    "date": "20 SEP 2026",
+    "venue": "Chalk",
+    "link": "https://www.gigseekr.com/uk/en/brighton-east-sussex/tom-bailey-greatest-hits-uk-tour/event/88ufn",
+    "dateUnix": 1789862400000,
+    "scrapedAt": "2026-03-22T03:51:16.182Z",
+    "scraper": "ChalkScraper"
   },
   {
     "title": "King King",
@@ -2300,7 +2255,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/king-king",
     "dateUnix": 1790019000000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.142Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2309,7 +2264,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/chinese-american-bear/",
     "dateUnix": 1790188200000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2318,7 +2273,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/just-radiohead",
     "dateUnix": 1790362800000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2327,7 +2282,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-big-indie-fest",
     "dateUnix": 1790445600000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2336,7 +2291,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/feng",
     "dateUnix": 1790537400000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2345,7 +2300,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/its-always-sunny-quiz",
     "dateUnix": 1790706600000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2354,7 +2309,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/man-woman-chainsaw",
     "dateUnix": 1790796600000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2363,7 +2318,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/stereo-mcs",
     "dateUnix": 1790967600000,
-    "scrapedAt": "2026-03-21T03:46:05.967Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2372,7 +2327,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/yonaka",
     "dateUnix": 1791315000000,
-    "scrapedAt": "2026-03-21T03:46:05.968Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2381,7 +2336,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/ulrika-spacek/",
     "dateUnix": 1791486000000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2390,7 +2345,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-wanted-2-0",
     "dateUnix": 1791487800000,
-    "scrapedAt": "2026-03-21T03:46:05.968Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2399,7 +2354,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/letz-zep",
     "dateUnix": 1791572400000,
-    "scrapedAt": "2026-03-21T03:46:05.968Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2408,7 +2363,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/nirvana-uk",
     "dateUnix": 1791658800000,
-    "scrapedAt": "2026-03-21T03:46:05.968Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2417,7 +2372,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/hed-p-e-cold",
     "dateUnix": 1791747000000,
-    "scrapedAt": "2026-03-21T03:46:05.968Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2426,7 +2381,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/toploader",
     "dateUnix": 1792281600000,
-    "scrapedAt": "2026-03-21T03:46:08.467Z",
+    "scrapedAt": "2026-03-22T03:51:17.209Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -2435,7 +2390,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/tom-mcrae/",
     "dateUnix": 1792346400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2444,7 +2399,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/morgan-wallen-tribute-uk",
     "dateUnix": 1792782000000,
-    "scrapedAt": "2026-03-21T03:46:05.968Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2453,7 +2408,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/dirty-dc",
     "dateUnix": 1792868400000,
-    "scrapedAt": "2026-03-21T03:46:05.968Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2462,7 +2417,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-bluetones",
     "dateUnix": 1793561400000,
-    "scrapedAt": "2026-03-21T03:46:05.968Z",
+    "scrapedAt": "2026-03-22T03:51:15.143Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2471,7 +2426,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/dj-yoda",
     "dateUnix": 1793991600000,
-    "scrapedAt": "2026-03-21T03:46:05.968Z",
+    "scrapedAt": "2026-03-22T03:51:15.144Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2480,7 +2435,7 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/695133",
     "dateUnix": 1793995200000,
-    "scrapedAt": "2026-03-21T03:46:08.095Z",
+    "scrapedAt": "2026-03-22T03:51:17.060Z",
     "scraper": "PipelineScraper"
   },
   {
@@ -2489,7 +2444,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/metallica-reloaded",
     "dateUnix": 1794682800000,
-    "scrapedAt": "2026-03-21T03:46:05.968Z",
+    "scrapedAt": "2026-03-22T03:51:15.144Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2498,7 +2453,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-zac-schulze-gang/",
     "dateUnix": 1794684600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2507,7 +2462,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/oh-my-god-its-the-church",
     "dateUnix": 1795030200000,
-    "scrapedAt": "2026-03-21T03:46:05.969Z",
+    "scrapedAt": "2026-03-22T03:51:15.144Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2516,7 +2471,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/uk-foo-fighters",
     "dateUnix": 1795201200000,
-    "scrapedAt": "2026-03-21T03:46:05.969Z",
+    "scrapedAt": "2026-03-22T03:51:15.144Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2525,7 +2480,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/rosalie-cunningham/",
     "dateUnix": 1795289400000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2534,7 +2489,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/young-knives",
     "dateUnix": 1796844600000,
-    "scrapedAt": "2026-03-21T03:46:05.969Z",
+    "scrapedAt": "2026-03-22T03:51:15.144Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2543,7 +2498,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/80s-hifi-christmas-party",
     "dateUnix": 1797620400000,
-    "scrapedAt": "2026-03-21T03:46:05.969Z",
+    "scrapedAt": "2026-03-22T03:51:15.144Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2552,7 +2507,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/absolute-bowie-christmas-special",
     "dateUnix": 1797706800000,
-    "scrapedAt": "2026-03-21T03:46:05.969Z",
+    "scrapedAt": "2026-03-22T03:51:15.144Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2561,7 +2516,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-smyths",
     "dateUnix": 1797795000000,
-    "scrapedAt": "2026-03-21T03:46:05.969Z",
+    "scrapedAt": "2026-03-22T03:51:15.144Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2570,7 +2525,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/from-the-jam",
     "dateUnix": 1798054200000,
-    "scrapedAt": "2026-03-21T03:46:05.969Z",
+    "scrapedAt": "2026-03-22T03:51:15.145Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2579,16 +2534,16 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/keywest-3/",
     "dateUnix": 1801164600000,
-    "scrapedAt": "2026-03-21T03:46:06.942Z",
+    "scrapedAt": "2026-03-22T03:51:15.599Z",
     "scraper": "HopeRuinScraper"
   },
   {
-    "title": "Evadney album launch!",
-    "date": "Fri 20th Mar",
+    "title": "Diz Undone (formerly Dizraeli) solo",
+    "date": "Sun 22nd Mar",
     "venue": "The Rose Hill",
-    "link": "https://therosehill.co.uk/event/evadney-album-launch/",
-    "dateUnix": 1805500800000,
-    "scrapedAt": "2026-03-21T03:46:09.646Z",
+    "link": "https://therosehill.co.uk/event/diz-undone-formerly-dizraeli-solo/",
+    "dateUnix": 1805673600000,
+    "scrapedAt": "2026-03-22T03:51:18.091Z",
     "scraper": "RoseHillScraper"
   }
 ]
