@@ -22,6 +22,15 @@
     </url>
 
     <url>
+        <loc>https://brightongigs.uk/venues/brighton-centre/</loc>
+        <lastmod>2026-04-02T00:00:00.000Z</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+        <xhtml:link rel="alternate" hreflang="en-gb" href="https://brightongigs.uk/venues/brighton-centre/"/>
+    </url>
+
+    <url>
         <loc>https://brightongigs.uk/venues/brighton-dome/</loc>
         <lastmod>2025-11-27T22:12:54.001Z</lastmod>
         <changefreq>daily</changefreq>
