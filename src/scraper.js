@@ -93,25 +93,30 @@ class ConcordeTwoScraper extends BaseScraper {
 
 class ChalkScraper extends BaseScraper {
   constructor() {
-    super('Chalk', 'https://www.gigseekr.com/uk/en/brighton/chalk/venue/8kq');
+    super('Chalk', 'https://chalkvenue.com/live');
   }
 
   async scrape() {
     return globalRateLimiter.execute(async () => {
       const $ = await this.fetchAndParseHTML(this.baseUrl);
-      
-      return $('.event-container .basic-event').map((_, element) => {
-        const day = $(element).find('.date-container .day').text().trim();
-        const month = $(element).find('.date-container .month').text().trim();
-        const year = $(element).find('.date-container .year').text().trim();
-        const title = $(element).find('.details h3 a').text().trim();
-        const date = `${day} ${month} ${year}`;
-        const link = 'https://www.gigseekr.com' + $(element).find('.details h3 a').attr('href');
+
+      const events = [];
+      $('div.bg-chalkBlue').each((_, element) => {
+        const title = $(element).find('h2').text().trim();
+        const link = $(element).find('a[href*="/live/"]').first().attr('href');
+        // First p.text-base contains "10th Apr", second contains time range
+        const dateParts = $(element).find('p.text-base');
+        const dateText = dateParts.first().text().trim();
+        const date = dateText ? `${dateText} ${new Date().getFullYear()}` : '';
         const dateUnix = this.parseEventDate(date, title);
-        
-        return this.createEvent({ title, date, link, dateUnix });
-      }).get();
-    }, { domain: 'gigseekr.com', priority: 1 });
+
+        if (title && link) {
+          events.push(this.createEvent({ title, date, link, dateUnix }));
+        }
+      });
+
+      return events;
+    }, { domain: 'chalkvenue.com', priority: 1 });
   }
 }
 
@@ -319,6 +324,28 @@ class RoseHillScraper extends BaseScraper {
   }
 }
 
+class BrightonCentreScraper extends BaseScraper {
+  constructor() {
+    super('Brighton Centre', 'https://brightoncentre.co.uk/whats-on');
+  }
+
+  async scrape() {
+    return globalRateLimiter.execute(async () => {
+      const $ = await this.fetchAndParseHTML(this.baseUrl);
+
+      return $('.event-item.music').map((_, element) => {
+        const title = $(element).find('.event-name').text().trim();
+        const date = $(element).find('.ei-date').text().trim();
+        const relativeLink = $(element).find('.ei-info-link').attr('href');
+        const link = relativeLink ? `https://brightoncentre.co.uk${relativeLink}` : null;
+        const dateUnix = this.parseEventDate(date, title);
+
+        return this.createEvent({ title, date, link, dateUnix });
+      }).get();
+    }, { domain: 'brightoncentre.co.uk', priority: 1 });
+  }
+}
+
 class BrightonDomeScraper extends BaseScraper {
   constructor() {
     super('Brighton Dome', 'https://brightondome.org/whats-on/#genre=85&calendar=false,false&top_filter=all&page=1&view=list');
@@ -408,6 +435,7 @@ const scrapeSites = async () => {
     new QuartersScraper(),
     new RossiBarScraper(),
     new RoseHillScraper(),
+    new BrightonCentreScraper(),
     new BrightonDomeScraper()
   ];
 
