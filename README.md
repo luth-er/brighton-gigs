@@ -2,15 +2,16 @@
 
 ## Overview
 
-This project is a web scraper and static website generator that aggregates and displays upcoming music events in Brighton, UK. It automatically scrapes event data from various venue websites, compiles the information into a JSON file, and generates a static HTML page to display the events. The project uses GitHub Actions for automated daily updates and GitHub Pages for hosting.
+This project is a web scraper and static website that aggregates and displays upcoming music events in Brighton, UK. It automatically scrapes event data from 12 venue websites, compiles the information into a JSON file, and serves a static frontend to display the events. The project uses GitHub Actions for automated daily updates and GitHub Pages for hosting.
 
-[https://luth-er.github.io/brighton-gigs/](https://luth-er.github.io/brighton-gigs/)
+[https://brightongigs.uk](https://brightongigs.uk)
 
 ## Features
 
-- Scrapes event data from multiple Brighton music venues
+- Scrapes event data from 12 Brighton music venues
 - Aggregates event information into a single JSON file
-- Generates a static HTML page to display events, grouped by venue
+- Individual venue pages with dedicated event listings
+- Filtering by venue, date range, or tonight's shows
 - Automatically updates daily using GitHub Actions
 - Hosted for free using GitHub Pages
 - Advanced date parsing with support for multiple date formats
@@ -21,34 +22,62 @@ This project is a web scraper and static website generator that aggregates and d
 
 - Node.js (ES modules)
 - Axios & Cheerio (for web scraping)
-- date-fns (for date manipulation)
 - GitHub Actions (for automation)
 - GitHub Pages (for hosting)
 - HTML/CSS/JavaScript (for the frontend)
 - ESLint, Stylelint, HTMLHint (for code quality)
 - Husky & lint-staged (for git hooks)
+- Vitest (for testing)
 
 ## Project Structure
 
 ```
 brighton-gigs/
+├── .claude/
+│   └── add-venue.md          # Guide for adding new venues
 ├── .github/
 │   └── workflows/
 │       └── update-events.yml
 ├── config/
 │   └── eslint.config.js
 ├── data/
-│   └── events.json
+│   ├── events.json
+│   ├── scrape-stats.json
+│   ├── scrape-errors.json
+│   └── scrape-warnings.json
 ├── src/
 │   ├── css/
 │   │   └── styles.css
 │   ├── js/
-│   │   └── script.js
+│   │   ├── script.js              # Main homepage JS
+│   │   ├── venue-script.js        # Individual venue page JS
+│   │   ├── seo-dynamic.js         # Dynamic SEO updates
+│   │   └── sitemap-generator.cjs  # Sitemap generator
+│   ├── scrapers/
+│   │   └── BaseScraper.js         # Abstract base scraper class
 │   ├── utils/
-│   │   └── date-parser.js
-│   └── scraper.js
+│   │   ├── date-parser.js
+│   │   ├── data-validator.js
+│   │   ├── debounce.js
+│   │   ├── rate-limiter.js
+│   │   └── sanitizer.js
+│   └── scraper.js                 # Main scraper entry point
+├── venues/
+│   ├── brighton-centre.html
+│   ├── brighton-dome.html
+│   ├── chalk.html
+│   ├── concorde-2.html
+│   ├── folklore-rooms.html
+│   ├── green-door-store.html
+│   ├── hope-and-ruin.html
+│   ├── pipeline.html
+│   ├── prince-albert.html
+│   ├── quarters.html
+│   ├── rossi-bar.html
+│   └── the-rose-hill.html
 ├── index.html
 ├── package.json
+├── sitemap.xml
 └── README.md
 ```
 
@@ -75,11 +104,14 @@ brighton-gigs/
 ## Development Commands
 
 - `npm start` - Run the scraper
+- `npm test` - Run tests (watch mode)
+- `npm run test:run` - Run tests once
 - `npm run lint` - Run all linting checks (JS, CSS, HTML)
 - `npm run lint:js` - Run ESLint on JavaScript files
 - `npm run lint:css` - Run Stylelint on CSS files
 - `npm run lint:html` - Run HTMLHint on HTML files
 - `npm run lint:fix` - Automatically fix linting issues where possible
+- `npm run sitemap` - Regenerate sitemap.xml
 
 ## GitHub Actions Workflow
 
@@ -91,43 +123,36 @@ The project uses a GitHub Actions workflow to automatically run the scraper dail
 - Automatic commit and push of updated data
 - Error handling and success reporting
 
-To set up the GitHub Actions workflow:
-
-1. Ensure your repository is public or you have GitHub Actions minutes available.
-2. The workflow should be automatically picked up by GitHub once you push the `.github/workflows/update-events.yml` file to your repository.
-
 ## Supported Venues
 
-The scraper currently supports the following Brighton venues:
+The scraper currently supports the following 12 Brighton venues:
 
-- **Hope & Ruin** - Events scraped from hope.pub
-- **Green Door Store** - Events scraped from thegreendoorstore.co.uk
-- **Concorde 2** - Events scraped via GigSeekr
-- **Chalk** - Events scraped via GigSeekr
-- **Folklore Rooms** - Events scraped from WeGotTickets
-- **Patterns** - (Currently commented out)
-
-## Date Parser Utility
-
-The project includes a sophisticated date parser (`src/utils/date-parser.js`) that supports various date formats:
-
-- Standard JavaScript date formats
-- Ordinal dates with time (e.g., "31st October 2024 - 7:30 pm")
-- Weekday formats (e.g., "Tue, 5 Nov 2024", "Monday 10 March 2025")
-- Short date formats (e.g., "1/12/24")
-- Relative time (e.g., "2 days ago", "yesterday")
-- Mixed formats from different venue websites
+| Venue | Source |
+|-------|--------|
+| **Brighton Centre** | brightoncentre.co.uk |
+| **Brighton Dome** | brightondome.org |
+| **Chalk** | chalkvenue.com |
+| **Concorde 2** | concorde2.co.uk |
+| **Folklore Rooms** | wegottickets.com |
+| **Green Door Store** | thegreendoorstore.co.uk |
+| **Hope & Ruin** | hope.pub |
+| **Pipeline** | wegottickets.com |
+| **Prince Albert** | gigseekr.com |
+| **Quarters** | quartersbrighton.co.uk |
+| **Rossi Bar** | therossibar.co.uk |
+| **The Rose Hill** | therosehill.co.uk |
 
 ## Adding New Venues
 
-To add a new venue to the scraper:
+See `.claude/add-venue.md` for the full step-by-step guide. In summary:
 
-1. Open `src/scraper.js`.
-2. Create a new function for the venue (e.g., `scrapeNewVenue`).
-3. Add the scraping logic for the new venue's website.
-4. Call the new function in the `scrapeSites` function.
-5. Update the HTML in `index.html` if necessary to accommodate the new venue's data structure.
-6. Test the date parsing with the new venue's date format - add patterns to `src/utils/date-parser.js` if needed.
+1. Create a venue HTML page in `/venues/{slug}.html`
+2. Add a scraper class in `src/scraper.js`
+3. Add the venue slug to the sitemap generator (`src/js/sitemap-generator.cjs`)
+4. Update venue count references in `index.html`
+5. Add the venue to the homepage venue list
+6. Update the navigation on all 12 existing venue pages
+7. Regenerate the sitemap: `npm run sitemap`
 
 ## Contributing
 
@@ -144,7 +169,7 @@ Contributions to improve the project are welcome. Please follow these steps:
 - The project uses ES modules (`"type": "module"` in package.json)
 - Husky git hooks will automatically run linting on staged files
 - All scraped events are sorted by date and stored in `data/events.json`
-- The date parser utility handles various date formats from different venues
+- The venue filter dropdown on the homepage is dynamically populated from events data
 
 ## License
 

@@ -1,4 +1,5 @@
 import fs from 'fs/promises';
+import axios from 'axios';
 import BaseScraper from './scrapers/BaseScraper.js';
 import { validateEvents } from './utils/data-validator.js';
 import { globalRateLimiter } from './utils/rate-limiter.js';
@@ -100,22 +101,23 @@ class ChalkScraper extends BaseScraper {
     return globalRateLimiter.execute(async () => {
       const $ = await this.fetchAndParseHTML(this.baseUrl);
 
-      const events = [];
-      $('div.bg-chalkBlue').each((_, element) => {
-        const title = $(element).find('h2').text().trim();
-        const link = $(element).find('a[href*="/live/"]').first().attr('href');
-        // First p.text-base contains "10th Apr", second contains time range
-        const dateParts = $(element).find('p.text-base');
-        const dateText = dateParts.first().text().trim();
-        const date = dateText ? `${dateText} ${new Date().getFullYear()}` : '';
-        const dateUnix = this.parseEventDate(date, title);
+      // Chalk uses Inertia.js — all page data is embedded in div#app[data-page] as JSON
+      const rawJson = $('#app').attr('data-page');
+      if (!rawJson) return [];
 
-        if (title && link) {
-          events.push(this.createEvent({ title, date, link, dateUnix }));
-        }
-      });
+      const pageData = JSON.parse(rawJson);
+      const searchEvents = pageData?.props?.searchEvents || [];
 
-      return events;
+      // Filter to live music events only (exclude /club/ events)
+      return searchEvents
+        .filter(event => event.url && event.url.includes('/live/'))
+        .map(event => {
+          const title = (event.name || '').trim();
+          const date = event.date || '';
+          const link = event.url || null;
+          const dateUnix = this.parseEventDate(date, title);
+          return this.createEvent({ title, date, link, dateUnix });
+        });
     }, { domain: 'chalkvenue.com', priority: 1 });
   }
 }
@@ -326,22 +328,31 @@ class RoseHillScraper extends BaseScraper {
 
 class BrightonCentreScraper extends BaseScraper {
   constructor() {
-    super('Brighton Centre', 'https://brightoncentre.co.uk/whats-on');
+    super('Brighton Centre', 'https://brightoncentre.co.uk/Umbraco/Api/Events/Find');
   }
 
   async scrape() {
     return globalRateLimiter.execute(async () => {
-      const $ = await this.fetchAndParseHTML(this.baseUrl);
+      const { data } = await axios.post(this.baseUrl, { Category: 'Music' }, {
+        headers: { 'Content-Type': 'application/json' },
+        timeout: this.timeout
+      });
 
-      return $('.event-item.music').map((_, element) => {
-        const title = $(element).find('.event-name').text().trim();
-        const date = $(element).find('.ei-date').text().trim();
-        const relativeLink = $(element).find('.ei-info-link').attr('href');
-        const link = relativeLink ? `https://brightoncentre.co.uk${relativeLink}` : null;
-        const dateUnix = this.parseEventDate(date, title);
+      const events = [];
+      for (const month of data.Data || []) {
+        for (const event of month.Events || []) {
+          const title = (event.EventNameOverride || event.Name || '').trim();
+          const dateStr = event.InstanceDate || '';
+          const link = event.Url ? `https://brightoncentre.co.uk${event.Url}` : null;
+          const dateUnix = this.parseEventDate(dateStr, title);
 
-        return this.createEvent({ title, date, link, dateUnix });
-      }).get();
+          if (title) {
+            events.push(this.createEvent({ title, date: dateStr, link, dateUnix }));
+          }
+        }
+      }
+
+      return events;
     }, { domain: 'brightoncentre.co.uk', priority: 1 });
   }
 }
