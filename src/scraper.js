@@ -464,7 +464,8 @@ class CowleyClubScraper extends BaseScraper {
         const parentText = $(element).closest('article, .event, li, div').text();
         const dateMatch = parentText.match(datePattern);
         const dateText = dateMatch ? dateMatch[1] : '';
-        const dateUnix = dateText ? this.parseEventDate(dateText, title) : null;
+        if (!dateText) return;
+        const dateUnix = this.parseEventDate(dateText, title);
 
         events.push(this.createEvent({ title, date: dateText, link: fullLink, dateUnix }));
       });
@@ -476,26 +477,44 @@ class CowleyClubScraper extends BaseScraper {
 
 class CarolineOfBrunswickScraper extends BaseScraper {
   constructor() {
-    super('Caroline of Brunswick', 'https://carolineofbrunswick.co.uk/wp-json/wp/v2/mec-events/?per_page=50&status=publish&orderby=date&order=asc');
+    super('Caroline of Brunswick', 'https://carolineofbrunswick.co.uk/events/');
   }
 
   async scrape() {
     return globalRateLimiter.execute(async () => {
-      const { data } = await axios.get(this.baseUrl, {
-        timeout: this.timeout,
-        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Brighton-Gigs-Scraper/1.0)' }
-      });
-
+      const $ = await this.fetchAndParseHTML(this.baseUrl);
       const events = [];
-      // MEC (Modern Events Calendar) sets the WordPress post date to the event start date
-      for (const event of (Array.isArray(data) ? data : [])) {
-        const title = (event.title?.rendered || '').replace(/<[^>]+>/g, '').trim();
-        const link = event.link || '';
-        const dateStr = event.date_gmt || event.date || '';
+
+      // MEC renders events in .mec-event-article blocks grouped by month headers
+      // Month headers: .mec-event-list-standard (e.g. "April 2026")
+      // Event date: .mec-event-meta-wrap (e.g. "06 Apr")
+      let currentYear = new Date().getFullYear();
+
+      $('body').find('.mec-event-list-standard, .mec-event-article').each((_, element) => {
+        const el = $(element);
+        if (el.hasClass('mec-event-list-standard')) {
+          // Month header — extract year if present (e.g. "April 2026")
+          const headerText = el.text().trim();
+          const yearMatch = headerText.match(/\b(\d{4})\b/);
+          if (yearMatch) currentYear = parseInt(yearMatch[1], 10);
+          return;
+        }
+
+        // Skip past events
+        if (el.hasClass('mec-past-event')) return;
+
+        const title = el.find('.mec-event-title').text().trim();
+        if (!title) return;
+
+        const link = el.find('a').first().attr('href') || '';
+        // Extract just "DD Mon" from meta-wrap (may also contain time/location text)
+        const metaText = el.find('.mec-event-meta-wrap').text().replace(/\s+/g, ' ');
+        const dateMatch = metaText.match(/(\d{1,2}\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec))/i);
+        const dateStr = dateMatch ? `${dateMatch[1]} ${currentYear}` : '';
         const dateUnix = dateStr ? this.parseEventDate(dateStr, title) : null;
 
-        if (title) events.push(this.createEvent({ title, date: dateStr, link, dateUnix }));
-      }
+        events.push(this.createEvent({ title, date: dateStr, link, dateUnix }));
+      });
 
       return events;
     }, { domain: 'carolineofbrunswick.co.uk', priority: 1 });
@@ -504,39 +523,7 @@ class CarolineOfBrunswickScraper extends BaseScraper {
 
 class DaltonsScraper extends BaseScraper {
   constructor() {
-    super('Daltons', 'https://api.dice.fm/events?venue_id=axod&page[size]=100');
-  }
-
-  async scrape() {
-    return globalRateLimiter.execute(async () => {
-      const { data } = await axios.get(this.baseUrl, {
-        timeout: this.timeout,
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (compatible; Brighton-Gigs-Scraper/1.0)',
-          'Accept': 'application/json'
-        }
-      });
-
-      const events = [];
-      const items = data.data || data.events || (Array.isArray(data) ? data : []);
-
-      for (const event of items) {
-        const title = (event.name || event.title || '').trim();
-        const startDate = event.date || event.start_date || event.starts_at || '';
-        const link = event.url || event.event_url || (event.id ? `https://dice.fm/event/${event.id}` : '');
-        const dateUnix = startDate ? this.parseEventDate(startDate, title) : null;
-
-        if (title) events.push(this.createEvent({ title, date: startDate, link, dateUnix }));
-      }
-
-      return events;
-    }, { domain: 'api.dice.fm', priority: 1 });
-  }
-}
-
-class BrunswickScraper extends BaseScraper {
-  constructor() {
-    super('The Brunswick', 'https://www.skiddle.com/whats-on/Brighton/The-Brunswick/');
+    super('Daltons', 'https://www.eventbrite.co.uk/d/united-kingdom--brighton/daltons-brighton/');
   }
 
   async scrape() {
@@ -547,15 +534,61 @@ class BrunswickScraper extends BaseScraper {
       $('script[type="application/ld+json"]').each((_, element) => {
         try {
           const jsonData = JSON.parse($(element).html());
-          const eventData = Array.isArray(jsonData) ? jsonData : [jsonData];
-          eventData.forEach(data => {
-            if (data['@type'] === 'MusicEvent' || data['@type'] === 'Event') {
-              const title = data.name?.trim() || '';
-              const startDate = data.startDate || '';
-              const link = data.url || '';
-              const dateUnix = this.parseEventDate(startDate, title);
-              if (title) events.push(this.createEvent({ title, date: startDate, link, dateUnix }));
-            }
+          if (!Array.isArray(jsonData?.itemListElement)) return;
+
+          jsonData.itemListElement.forEach(listItem => {
+            const item = listItem.item || listItem;
+            if (item['@type'] !== 'Event' && item['@type'] !== 'MusicEvent') return;
+
+            const venueName = (item.location?.name || '').toLowerCase();
+            if (!venueName.includes('dalton')) return;
+
+            const title = (item.name || '').trim();
+            const startDate = item.startDate || '';
+            const link = item.url || '';
+            const dateUnix = startDate ? this.parseEventDate(startDate, title) : null;
+
+            if (title) events.push(this.createEvent({ title, date: startDate, link, dateUnix }));
+          });
+        } catch (error) {
+          console.warn(`Daltons - Failed to parse JSON-LD: ${error.message}`);
+        }
+      });
+
+      return events;
+    }, { domain: 'eventbrite.co.uk', priority: 1 });
+  }
+}
+
+class BrunswickScraper extends BaseScraper {
+  constructor() {
+    super('The Brunswick', 'https://www.eventbrite.co.uk/d/united-kingdom--brighton/the-brunswick/');
+  }
+
+  async scrape() {
+    return globalRateLimiter.execute(async () => {
+      const $ = await this.fetchAndParseHTML(this.baseUrl);
+      const events = [];
+
+      $('script[type="application/ld+json"]').each((_, element) => {
+        try {
+          const jsonData = JSON.parse($(element).html());
+          if (!Array.isArray(jsonData?.itemListElement)) return;
+
+          jsonData.itemListElement.forEach(listItem => {
+            const item = listItem.item || listItem;
+            if (item['@type'] !== 'Event' && item['@type'] !== 'MusicEvent') return;
+
+            const venueName = (item.location?.name || '').toLowerCase();
+            // Only include events at The Brunswick, not Caroline of Brunswick
+            if (!venueName.includes('brunswick') || venueName.includes('caroline')) return;
+
+            const title = (item.name || '').trim();
+            const startDate = item.startDate || '';
+            const link = item.url || '';
+            const dateUnix = startDate ? this.parseEventDate(startDate, title) : null;
+
+            if (title) events.push(this.createEvent({ title, date: startDate, link, dateUnix }));
           });
         } catch (error) {
           console.warn(`The Brunswick - Failed to parse JSON-LD: ${error.message}`);
@@ -563,7 +596,7 @@ class BrunswickScraper extends BaseScraper {
       });
 
       return events;
-    }, { domain: 'skiddle.com', priority: 1 });
+    }, { domain: 'eventbrite.co.uk', priority: 1 });
   }
 }
 
@@ -579,23 +612,24 @@ class DustScraper extends BaseScraper {
         headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Brighton-Gigs-Scraper/1.0)' }
       });
 
-      return (Array.isArray(data) ? data : [])
-        .filter(event => event.live === true)
+      const items = data.data || (Array.isArray(data) ? data : []);
+      return items
         .map(event => {
           const title = (event.name || '').trim();
-          const dateStr = event.date || '';
-          const relLink = event.link || '';
+          const dateStr = event.date || event.starts_at || '';
+          const relLink = event.link || event.ticket_link || '';
           const link = relLink.startsWith('http') ? relLink : `https://dustvenue.com${relLink}`;
           const dateUnix = dateStr ? this.parseEventDate(dateStr, title) : null;
           return this.createEvent({ title, date: dateStr, link, dateUnix });
-        });
+        })
+        .filter(e => e.title);
     }, { domain: 'gettix.online', priority: 1 });
   }
 }
 
 class VolksScraper extends BaseScraper {
   constructor() {
-    super('Volks', 'https://www.skiddle.com/whats-on/Brighton/Volks/');
+    super('Volks', 'https://www.ticketmaster.co.uk/volks-club-tickets-brighton/venue/410165');
   }
 
   async scrape() {
@@ -606,7 +640,7 @@ class VolksScraper extends BaseScraper {
       $('script[type="application/ld+json"]').each((_, element) => {
         try {
           const jsonData = JSON.parse($(element).html());
-          const eventData = Array.isArray(jsonData) ? jsonData : [jsonData];
+          const eventData = Array.isArray(jsonData) ? jsonData : (jsonData['@graph'] || [jsonData]);
           eventData.forEach(data => {
             if (data['@type'] === 'MusicEvent' || data['@type'] === 'Event') {
               const title = data.name?.trim() || '';
@@ -622,7 +656,7 @@ class VolksScraper extends BaseScraper {
       });
 
       return events;
-    }, { domain: 'skiddle.com', priority: 1 });
+    }, { domain: 'ticketmaster.co.uk', priority: 1 });
   }
 }
 
@@ -691,33 +725,40 @@ class KomediaScraper extends BaseScraper {
 
 class ResidentMusicScraper extends BaseScraper {
   constructor() {
-    super('Resident Music', 'https://api.dice.fm/events?venue_id=xdg3&page[size]=100');
+    super('Resident Music', 'https://www.eventbrite.co.uk/d/united-kingdom--brighton/resident-music/');
   }
 
   async scrape() {
     return globalRateLimiter.execute(async () => {
-      const { data } = await axios.get(this.baseUrl, {
-        timeout: this.timeout,
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (compatible; Brighton-Gigs-Scraper/1.0)',
-          'Accept': 'application/json'
+      const $ = await this.fetchAndParseHTML(this.baseUrl);
+      const events = [];
+
+      $('script[type="application/ld+json"]').each((_, element) => {
+        try {
+          const jsonData = JSON.parse($(element).html());
+          if (!Array.isArray(jsonData?.itemListElement)) return;
+
+          jsonData.itemListElement.forEach(listItem => {
+            const item = listItem.item || listItem;
+            if (item['@type'] !== 'Event' && item['@type'] !== 'MusicEvent') return;
+
+            const venueName = (item.location?.name || '').toLowerCase();
+            if (!venueName.includes('resident')) return;
+
+            const title = (item.name || '').trim();
+            const startDate = item.startDate || '';
+            const link = item.url || '';
+            const dateUnix = startDate ? this.parseEventDate(startDate, title) : null;
+
+            if (title) events.push(this.createEvent({ title, date: startDate, link, dateUnix }));
+          });
+        } catch (error) {
+          console.warn(`Resident Music - Failed to parse JSON-LD: ${error.message}`);
         }
       });
 
-      const events = [];
-      const items = data.data || data.events || (Array.isArray(data) ? data : []);
-
-      for (const event of items) {
-        const title = (event.name || event.title || '').trim();
-        const startDate = event.date || event.start_date || event.starts_at || '';
-        const link = event.url || event.event_url || (event.id ? `https://dice.fm/event/${event.id}` : '');
-        const dateUnix = startDate ? this.parseEventDate(startDate, title) : null;
-
-        if (title) events.push(this.createEvent({ title, date: startDate, link, dateUnix }));
-      }
-
       return events;
-    }, { domain: 'api.dice.fm', priority: 1 });
+    }, { domain: 'eventbrite.co.uk', priority: 1 });
   }
 }
 
@@ -751,15 +792,18 @@ class AlphabetScraper extends BaseScraper {
         headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Brighton-Gigs-Scraper/1.0)' }
       });
 
-      return (data.items || []).map(item => {
+      return (data.items || []).reduce((acc, item) => {
         const rawTitle = (item.title || '').replace(/<[^>]+>/g, '').trim();
         const { eventTitle, dateStr } = this.parseDateFromTitle(rawTitle);
+        if (!dateStr) return acc; // skip items without "MMM DD:" date prefix
+
         const fullUrl = item.fullUrl || '';
         const link = fullUrl.startsWith('http') ? fullUrl : `https://www.alphabetbrighton.com${fullUrl}`;
-        const dateUnix = dateStr ? this.parseEventDate(dateStr, eventTitle) : null;
+        const dateUnix = this.parseEventDate(dateStr, eventTitle);
 
-        return this.createEvent({ title: eventTitle, date: dateStr, link, dateUnix });
-      }).filter(e => e.title);
+        acc.push(this.createEvent({ title: eventTitle, date: dateStr, link, dateUnix }));
+        return acc;
+      }, []);
     }, { domain: 'alphabetbrighton.com', priority: 1 });
   }
 }
@@ -791,60 +835,80 @@ class FortuneOfWarScraper extends BaseScraper {
 
 class PatternsScraper extends BaseScraper {
   constructor() {
-    super('Patterns', 'https://api.dice.fm/events?venue_id=javj&page[size]=100');
+    super('Patterns', 'https://www.eventbrite.co.uk/d/united-kingdom--brighton/patterns-brighton/');
   }
 
   async scrape() {
     return globalRateLimiter.execute(async () => {
-      const { data } = await axios.get(this.baseUrl, {
-        timeout: this.timeout,
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (compatible; Brighton-Gigs-Scraper/1.0)',
-          'Accept': 'application/json'
+      const $ = await this.fetchAndParseHTML(this.baseUrl);
+      const events = [];
+
+      $('script[type="application/ld+json"]').each((_, element) => {
+        try {
+          const jsonData = JSON.parse($(element).html());
+          if (!Array.isArray(jsonData?.itemListElement)) return;
+
+          jsonData.itemListElement.forEach(listItem => {
+            const item = listItem.item || listItem;
+            if (item['@type'] !== 'Event' && item['@type'] !== 'MusicEvent') return;
+
+            const venueName = (item.location?.name || '').toLowerCase();
+            if (!venueName.includes('pattern')) return;
+
+            const title = (item.name || '').trim();
+            const startDate = item.startDate || '';
+            const link = item.url || '';
+            const dateUnix = startDate ? this.parseEventDate(startDate, title) : null;
+
+            if (title) events.push(this.createEvent({ title, date: startDate, link, dateUnix }));
+          });
+        } catch (error) {
+          console.warn(`Patterns - Failed to parse JSON-LD: ${error.message}`);
         }
       });
 
-      const events = [];
-      const items = data.data || data.events || (Array.isArray(data) ? data : []);
-
-      for (const event of items) {
-        const title = (event.name || event.title || '').trim();
-        const startDate = event.date || event.start_date || event.starts_at || '';
-        const link = event.url || event.event_url || (event.id ? `https://dice.fm/event/${event.id}` : '');
-        const dateUnix = startDate ? this.parseEventDate(startDate, title) : null;
-
-        if (title) events.push(this.createEvent({ title, date: startDate, link, dateUnix }));
-      }
-
       return events;
-    }, { domain: 'api.dice.fm', priority: 1 });
+    }, { domain: 'eventbrite.co.uk', priority: 1 });
   }
 }
 
 class WaterbearScraper extends BaseScraper {
   constructor() {
-    super('Waterbear', 'https://waterbearvenue.com/gigs-and-events-brighton?format=json');
+    super('Waterbear', 'https://www.eventbrite.co.uk/d/united-kingdom--brighton/waterbear/');
   }
 
   async scrape() {
     return globalRateLimiter.execute(async () => {
-      const { data } = await axios.get(this.baseUrl, {
-        timeout: this.timeout,
-        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Brighton-Gigs-Scraper/1.0)' }
+      const $ = await this.fetchAndParseHTML(this.baseUrl);
+      const events = [];
+
+      $('script[type="application/ld+json"]').each((_, element) => {
+        try {
+          const jsonData = JSON.parse($(element).html());
+          if (!Array.isArray(jsonData?.itemListElement)) return;
+
+          jsonData.itemListElement.forEach(listItem => {
+            const item = listItem.item || listItem;
+            if (item['@type'] !== 'Event' && item['@type'] !== 'MusicEvent') return;
+
+            const venueName = (item.location?.name || '').toLowerCase();
+            // Only include events at WaterBear venues
+            if (!venueName.includes('waterbear')) return;
+
+            const title = (item.name || '').trim();
+            const startDate = item.startDate || '';
+            const link = item.url || '';
+            const dateUnix = startDate ? this.parseEventDate(startDate, title) : null;
+
+            if (title) events.push(this.createEvent({ title, date: startDate, link, dateUnix }));
+          });
+        } catch (error) {
+          console.warn(`Waterbear - Failed to parse JSON-LD: ${error.message}`);
+        }
       });
 
-      const items = data.upcoming || data.items || [];
-
-      return items.map(item => {
-        const title = (item.title || '').replace(/<[^>]+>/g, '').trim();
-        const startDate = item.startDate;
-        const fullUrl = item.fullUrl || '';
-        const link = fullUrl.startsWith('http') ? fullUrl : `https://waterbearvenue.com${fullUrl}`;
-        const dateUnix = startDate ? this.parseEventDate(startDate, title) : null;
-
-        return this.createEvent({ title, date: new Date(startDate || Date.now()).toISOString(), link, dateUnix });
-      }).filter(e => e.title);
-    }, { domain: 'waterbearvenue.com', priority: 1 });
+      return events;
+    }, { domain: 'eventbrite.co.uk', priority: 1 });
   }
 }
 

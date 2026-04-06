@@ -1,1321 +1,151 @@
 [
   {
-    "index": 0,
-    "event": {
-      "title": "",
-      "date": "",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.ukundefined",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.489Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "missing_title",
-        "message": "Missing or invalid title",
-        "field": "title",
-        "value": "",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "",
-            "date": "",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.ukundefined",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.489Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      },
-      {
-        "type": "missing_date",
-        "message": "Missing or invalid date string",
-        "field": "date",
-        "value": "",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "",
-            "date": "",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.ukundefined",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.489Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      },
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "",
-            "date": "",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.ukundefined",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.489Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "",
-        "date": "",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.ukundefined",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.489Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
     "index": 1,
     "event": {
-      "title": "",
-      "date": "",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.ukundefined",
+      "title": "THE COMEDY EXPERIMENT: MARKUS BIRDMAN (FREE!)",
+      "date": "11 Apr 3:40pm Upper Lounge 2026",
+      "venue": "Caroline of Brunswick",
+      "link": "https://carolineofbrunswick.co.uk/events/the-comedy-experiment-free-320-352-686-258-788-635-718-263/",
       "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.492Z",
-      "scraper": "QuartersScraper"
+      "scrapedAt": "2026-04-06T09:27:15.574Z",
+      "scraper": "CarolineOfBrunswickScraper"
     },
     "errors": [
       {
-        "type": "missing_title",
-        "message": "Missing or invalid title",
-        "field": "title",
-        "value": "",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "",
-            "date": "",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.ukundefined",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.492Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      },
-      {
-        "type": "missing_date",
-        "message": "Missing or invalid date string",
-        "field": "date",
-        "value": "",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "",
-            "date": "",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.ukundefined",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.492Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      },
-      {
         "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"\"",
+        "message": "Date parsing failed for: \"11 Apr 3:40pm Upper Lounge 2026\"",
         "field": "dateUnix",
         "value": null,
-        "originalDate": "",
+        "originalDate": "11 Apr 3:40pm Upper Lounge 2026",
         "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
+          "venue": "Caroline of Brunswick",
+          "scraper": "CarolineOfBrunswickScraper",
+          "timestamp": "2026-04-06T09:27:19.893Z",
           "originalData": {
-            "title": "",
-            "date": "",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.ukundefined",
+            "title": "THE COMEDY EXPERIMENT: MARKUS BIRDMAN (FREE!)",
+            "date": "11 Apr 3:40pm Upper Lounge 2026",
+            "venue": "Caroline of Brunswick",
+            "link": "https://carolineofbrunswick.co.uk/events/the-comedy-experiment-free-320-352-686-258-788-635-718-263/",
             "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.492Z",
-            "scraper": "QuartersScraper"
+            "scrapedAt": "2026-04-06T09:27:15.574Z",
+            "scraper": "CarolineOfBrunswickScraper"
           }
         }
       }
     ],
     "warnings": [],
     "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
+      "venue": "Caroline of Brunswick",
+      "scraper": "CarolineOfBrunswickScraper",
+      "timestamp": "2026-04-06T09:27:19.893Z",
       "originalData": {
-        "title": "",
-        "date": "",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.ukundefined",
+        "title": "THE COMEDY EXPERIMENT: MARKUS BIRDMAN (FREE!)",
+        "date": "11 Apr 3:40pm Upper Lounge 2026",
+        "venue": "Caroline of Brunswick",
+        "link": "https://carolineofbrunswick.co.uk/events/the-comedy-experiment-free-320-352-686-258-788-635-718-263/",
         "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.492Z",
-        "scraper": "QuartersScraper"
+        "scrapedAt": "2026-04-06T09:27:15.574Z",
+        "scraper": "CarolineOfBrunswickScraper"
       }
     }
   },
   {
     "index": 2,
     "event": {
-      "title": "",
-      "date": "",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.ukundefined",
+      "title": "PUNCHING UP YOUR JOKE WRITING",
+      "date": "12 Apr 4:00pm Upper Lounge 2026",
+      "venue": "Caroline of Brunswick",
+      "link": "https://carolineofbrunswick.co.uk/events/previews2022-432-760-523-640-372-390/",
       "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.493Z",
-      "scraper": "QuartersScraper"
+      "scrapedAt": "2026-04-06T09:27:15.575Z",
+      "scraper": "CarolineOfBrunswickScraper"
     },
     "errors": [
       {
-        "type": "missing_title",
-        "message": "Missing or invalid title",
-        "field": "title",
-        "value": "",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "",
-            "date": "",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.ukundefined",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.493Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      },
-      {
-        "type": "missing_date",
-        "message": "Missing or invalid date string",
-        "field": "date",
-        "value": "",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "",
-            "date": "",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.ukundefined",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.493Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      },
-      {
         "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"\"",
+        "message": "Date parsing failed for: \"12 Apr 4:00pm Upper Lounge 2026\"",
         "field": "dateUnix",
         "value": null,
-        "originalDate": "",
+        "originalDate": "12 Apr 4:00pm Upper Lounge 2026",
         "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
+          "venue": "Caroline of Brunswick",
+          "scraper": "CarolineOfBrunswickScraper",
+          "timestamp": "2026-04-06T09:27:19.893Z",
           "originalData": {
-            "title": "",
-            "date": "",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.ukundefined",
+            "title": "PUNCHING UP YOUR JOKE WRITING",
+            "date": "12 Apr 4:00pm Upper Lounge 2026",
+            "venue": "Caroline of Brunswick",
+            "link": "https://carolineofbrunswick.co.uk/events/previews2022-432-760-523-640-372-390/",
             "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.493Z",
-            "scraper": "QuartersScraper"
+            "scrapedAt": "2026-04-06T09:27:15.575Z",
+            "scraper": "CarolineOfBrunswickScraper"
           }
         }
       }
     ],
     "warnings": [],
     "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
+      "venue": "Caroline of Brunswick",
+      "scraper": "CarolineOfBrunswickScraper",
+      "timestamp": "2026-04-06T09:27:19.893Z",
       "originalData": {
-        "title": "",
-        "date": "",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.ukundefined",
+        "title": "PUNCHING UP YOUR JOKE WRITING",
+        "date": "12 Apr 4:00pm Upper Lounge 2026",
+        "venue": "Caroline of Brunswick",
+        "link": "https://carolineofbrunswick.co.uk/events/previews2022-432-760-523-640-372-390/",
         "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.493Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 3,
-    "event": {
-      "title": "The Sherlocks",
-      "date": "The SherlocksNovember 27, 2025The Sherlocks are set to take the stage at Quarters on November 27, marking one of the venue’s first live performances.Event DetailsBuy TicketsLive Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/the-sherlocks",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.497Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"The SherlocksNovember 27, 2025The Sherlocks are set to take the stage at Quarters on November 27, marking one of the venue’s first live performances.Event DetailsBuy TicketsLive Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "The SherlocksNovember 27, 2025The Sherlocks are set to take the stage at Quarters on November 27, marking one of the venue’s first live performances.Event DetailsBuy TicketsLive Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "The Sherlocks",
-            "date": "The SherlocksNovember 27, 2025The Sherlocks are set to take the stage at Quarters on November 27, marking one of the venue’s first live performances.Event DetailsBuy TicketsLive Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/the-sherlocks",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.497Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "The Sherlocks",
-        "date": "The SherlocksNovember 27, 2025The Sherlocks are set to take the stage at Quarters on November 27, marking one of the venue’s first live performances.Event DetailsBuy TicketsLive Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/the-sherlocks",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.497Z",
-        "scraper": "QuartersScraper"
+        "scrapedAt": "2026-04-06T09:27:15.575Z",
+        "scraper": "CarolineOfBrunswickScraper"
       }
     }
   },
   {
     "index": 4,
     "event": {
-      "title": "Emily Makis presents Outsiders",
-      "date": "Emily Makis presents OutsidersNovember 28, 2025+ Pola & Bryson, Harriet Jaxxon, Ama, BLONDETING, Deadline, Duskee, Jay-Mo, MYNXEvent DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/emily-makis-presents-outsiders",
+      "title": "MARK STEEL: WORK IN PROGRESS",
+      "date": "17 Apr 7:30pm Upper Lounge 2026",
+      "venue": "Caroline of Brunswick",
+      "link": "https://carolineofbrunswick.co.uk/events/previews2022-432-760-523-640/",
       "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.498Z",
-      "scraper": "QuartersScraper"
+      "scrapedAt": "2026-04-06T09:27:15.575Z",
+      "scraper": "CarolineOfBrunswickScraper"
     },
     "errors": [
       {
         "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Emily Makis presents OutsidersNovember 28, 2025+ Pola & Bryson, Harriet Jaxxon, Ama, BLONDETING, Deadline, Duskee, Jay-Mo, MYNXEvent DetailsBuy TicketsClub Events\"",
+        "message": "Date parsing failed for: \"17 Apr 7:30pm Upper Lounge 2026\"",
         "field": "dateUnix",
         "value": null,
-        "originalDate": "Emily Makis presents OutsidersNovember 28, 2025+ Pola & Bryson, Harriet Jaxxon, Ama, BLONDETING, Deadline, Duskee, Jay-Mo, MYNXEvent DetailsBuy TicketsClub Events",
+        "originalDate": "17 Apr 7:30pm Upper Lounge 2026",
         "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
+          "venue": "Caroline of Brunswick",
+          "scraper": "CarolineOfBrunswickScraper",
+          "timestamp": "2026-04-06T09:27:19.893Z",
           "originalData": {
-            "title": "Emily Makis presents Outsiders",
-            "date": "Emily Makis presents OutsidersNovember 28, 2025+ Pola & Bryson, Harriet Jaxxon, Ama, BLONDETING, Deadline, Duskee, Jay-Mo, MYNXEvent DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/emily-makis-presents-outsiders",
+            "title": "MARK STEEL: WORK IN PROGRESS",
+            "date": "17 Apr 7:30pm Upper Lounge 2026",
+            "venue": "Caroline of Brunswick",
+            "link": "https://carolineofbrunswick.co.uk/events/previews2022-432-760-523-640/",
             "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.498Z",
-            "scraper": "QuartersScraper"
+            "scrapedAt": "2026-04-06T09:27:15.575Z",
+            "scraper": "CarolineOfBrunswickScraper"
           }
         }
       }
     ],
     "warnings": [],
     "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
+      "venue": "Caroline of Brunswick",
+      "scraper": "CarolineOfBrunswickScraper",
+      "timestamp": "2026-04-06T09:27:19.893Z",
       "originalData": {
-        "title": "Emily Makis presents Outsiders",
-        "date": "Emily Makis presents OutsidersNovember 28, 2025+ Pola & Bryson, Harriet Jaxxon, Ama, BLONDETING, Deadline, Duskee, Jay-Mo, MYNXEvent DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/emily-makis-presents-outsiders",
+        "title": "MARK STEEL: WORK IN PROGRESS",
+        "date": "17 Apr 7:30pm Upper Lounge 2026",
+        "venue": "Caroline of Brunswick",
+        "link": "https://carolineofbrunswick.co.uk/events/previews2022-432-760-523-640/",
         "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.498Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 5,
-    "event": {
-      "title": "Swimming Paul",
-      "date": "Swimming PaulNovember 29, 2025The elusive Swimming Paul lands in Quarters Brighton for an unmissable night.Event DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/swimming-paul",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.498Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Swimming PaulNovember 29, 2025The elusive Swimming Paul lands in Quarters Brighton for an unmissable night.Event DetailsBuy TicketsClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Swimming PaulNovember 29, 2025The elusive Swimming Paul lands in Quarters Brighton for an unmissable night.Event DetailsBuy TicketsClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Swimming Paul",
-            "date": "Swimming PaulNovember 29, 2025The elusive Swimming Paul lands in Quarters Brighton for an unmissable night.Event DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/swimming-paul",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.498Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Swimming Paul",
-        "date": "Swimming PaulNovember 29, 2025The elusive Swimming Paul lands in Quarters Brighton for an unmissable night.Event DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/swimming-paul",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.498Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 6,
-    "event": {
-      "title": "Andy C",
-      "date": "Andy CDecember 5, 2025+ Tonn Piper, James Hiraeth, Ora, GajaEvent DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/andy-c",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.498Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Andy CDecember 5, 2025+ Tonn Piper, James Hiraeth, Ora, GajaEvent DetailsBuy TicketsClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Andy CDecember 5, 2025+ Tonn Piper, James Hiraeth, Ora, GajaEvent DetailsBuy TicketsClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Andy C",
-            "date": "Andy CDecember 5, 2025+ Tonn Piper, James Hiraeth, Ora, GajaEvent DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/andy-c",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.498Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Andy C",
-        "date": "Andy CDecember 5, 2025+ Tonn Piper, James Hiraeth, Ora, GajaEvent DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/andy-c",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.498Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 7,
-    "event": {
-      "title": "The Ghost",
-      "date": "The GhostDecember 6, 2025Revered selectors The Ghost touch down at Quarters this December, bringing their deep record bags with them for a proper journey.Event DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/the-ghost",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.498Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"The GhostDecember 6, 2025Revered selectors The Ghost touch down at Quarters this December, bringing their deep record bags with them for a proper journey.Event DetailsBuy TicketsClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "The GhostDecember 6, 2025Revered selectors The Ghost touch down at Quarters this December, bringing their deep record bags with them for a proper journey.Event DetailsBuy TicketsClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "The Ghost",
-            "date": "The GhostDecember 6, 2025Revered selectors The Ghost touch down at Quarters this December, bringing their deep record bags with them for a proper journey.Event DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/the-ghost",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.498Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "The Ghost",
-        "date": "The GhostDecember 6, 2025Revered selectors The Ghost touch down at Quarters this December, bringing their deep record bags with them for a proper journey.Event DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/the-ghost",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.498Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 8,
-    "event": {
-      "title": "Crazy P",
-      "date": "Sold OutCrazy PDecember 20, 2025+ English Disco Lovers, Mikee HollywoodEvent DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/crazy-p",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.498Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Sold OutCrazy PDecember 20, 2025+ English Disco Lovers, Mikee HollywoodEvent DetailsBuy TicketsClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Sold OutCrazy PDecember 20, 2025+ English Disco Lovers, Mikee HollywoodEvent DetailsBuy TicketsClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Crazy P",
-            "date": "Sold OutCrazy PDecember 20, 2025+ English Disco Lovers, Mikee HollywoodEvent DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/crazy-p",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.498Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Crazy P",
-        "date": "Sold OutCrazy PDecember 20, 2025+ English Disco Lovers, Mikee HollywoodEvent DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/crazy-p",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.498Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 9,
-    "event": {
-      "title": "NYE - Fleur Shore",
-      "date": "NYE - Fleur ShoreDecember 31, 2025Bring in the New Year at Quarters with an extended night. Fleur Shore + MORE TBAEvent DetailsSign UpClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/nye",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.499Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"NYE - Fleur ShoreDecember 31, 2025Bring in the New Year at Quarters with an extended night. Fleur Shore + MORE TBAEvent DetailsSign UpClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "NYE - Fleur ShoreDecember 31, 2025Bring in the New Year at Quarters with an extended night. Fleur Shore + MORE TBAEvent DetailsSign UpClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "NYE - Fleur Shore",
-            "date": "NYE - Fleur ShoreDecember 31, 2025Bring in the New Year at Quarters with an extended night. Fleur Shore + MORE TBAEvent DetailsSign UpClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/nye",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.499Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "NYE - Fleur Shore",
-        "date": "NYE - Fleur ShoreDecember 31, 2025Bring in the New Year at Quarters with an extended night. Fleur Shore + MORE TBAEvent DetailsSign UpClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/nye",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.499Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 10,
-    "event": {
-      "title": "Traumer (All Night Long)",
-      "date": "Traumer (All Night Long)January 31, 2026French selector Traumer, one of the most respected names in minimal and house, lands at Quarters for an extended session.Event DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/traumer-all-night-long",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.499Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Traumer (All Night Long)January 31, 2026French selector Traumer, one of the most respected names in minimal and house, lands at Quarters for an extended session.Event DetailsBuy TicketsClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Traumer (All Night Long)January 31, 2026French selector Traumer, one of the most respected names in minimal and house, lands at Quarters for an extended session.Event DetailsBuy TicketsClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Traumer (All Night Long)",
-            "date": "Traumer (All Night Long)January 31, 2026French selector Traumer, one of the most respected names in minimal and house, lands at Quarters for an extended session.Event DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/traumer-all-night-long",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.499Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Traumer (All Night Long)",
-        "date": "Traumer (All Night Long)January 31, 2026French selector Traumer, one of the most respected names in minimal and house, lands at Quarters for an extended session.Event DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/traumer-all-night-long",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.499Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 11,
-    "event": {
-      "title": "Death of Guitar Pop",
-      "date": "Death of Guitar PopFebruary 5, 2026Death of Guitar Pop bring their blistering ska energy to Quarters on Thursday 5th February 2026.Event DetailsBuy TicketsLive Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/death-of-guitar-pop",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.499Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Death of Guitar PopFebruary 5, 2026Death of Guitar Pop bring their blistering ska energy to Quarters on Thursday 5th February 2026.Event DetailsBuy TicketsLive Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Death of Guitar PopFebruary 5, 2026Death of Guitar Pop bring their blistering ska energy to Quarters on Thursday 5th February 2026.Event DetailsBuy TicketsLive Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Death of Guitar Pop",
-            "date": "Death of Guitar PopFebruary 5, 2026Death of Guitar Pop bring their blistering ska energy to Quarters on Thursday 5th February 2026.Event DetailsBuy TicketsLive Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/death-of-guitar-pop",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.499Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Death of Guitar Pop",
-        "date": "Death of Guitar PopFebruary 5, 2026Death of Guitar Pop bring their blistering ska energy to Quarters on Thursday 5th February 2026.Event DetailsBuy TicketsLive Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/death-of-guitar-pop",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.499Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 12,
-    "event": {
-      "title": "Friction presents Synergy",
-      "date": "Friction presents SynergyFebruary 6, 2026+ Skantia, Anaïs, CK3Event DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/friction",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.499Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Friction presents SynergyFebruary 6, 2026+ Skantia, Anaïs, CK3Event DetailsBuy TicketsClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Friction presents SynergyFebruary 6, 2026+ Skantia, Anaïs, CK3Event DetailsBuy TicketsClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Friction presents Synergy",
-            "date": "Friction presents SynergyFebruary 6, 2026+ Skantia, Anaïs, CK3Event DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/friction",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.499Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Friction presents Synergy",
-        "date": "Friction presents SynergyFebruary 6, 2026+ Skantia, Anaïs, CK3Event DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/friction",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.499Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 13,
-    "event": {
-      "title": "Silva Bumpa",
-      "date": "Silva BumpaFebruary 7, 2026We’re bringing one of the most exciting names in UK garage to Brighton this February: Silva Bumpa.Event DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/silva-bumpa",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.500Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Silva BumpaFebruary 7, 2026We’re bringing one of the most exciting names in UK garage to Brighton this February: Silva Bumpa.Event DetailsBuy TicketsClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Silva BumpaFebruary 7, 2026We’re bringing one of the most exciting names in UK garage to Brighton this February: Silva Bumpa.Event DetailsBuy TicketsClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Silva Bumpa",
-            "date": "Silva BumpaFebruary 7, 2026We’re bringing one of the most exciting names in UK garage to Brighton this February: Silva Bumpa.Event DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/silva-bumpa",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.500Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Silva Bumpa",
-        "date": "Silva BumpaFebruary 7, 2026We’re bringing one of the most exciting names in UK garage to Brighton this February: Silva Bumpa.Event DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/silva-bumpa",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.500Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 14,
-    "event": {
-      "title": "The Callous Daoboys",
-      "date": "The Callous DaoboysFebruary 20, 2026Fearlessly chaotic and genre-defying, Atlanta’s The Callous Daoboys bring their singular blend of metal and rock to Quarters this February. Event DetailsBuy TicketsLive Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/the-callous-daoboys",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.500Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"The Callous DaoboysFebruary 20, 2026Fearlessly chaotic and genre-defying, Atlanta’s The Callous Daoboys bring their singular blend of metal and rock to Quarters this February. Event DetailsBuy TicketsLive Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "The Callous DaoboysFebruary 20, 2026Fearlessly chaotic and genre-defying, Atlanta’s The Callous Daoboys bring their singular blend of metal and rock to Quarters this February. Event DetailsBuy TicketsLive Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "The Callous Daoboys",
-            "date": "The Callous DaoboysFebruary 20, 2026Fearlessly chaotic and genre-defying, Atlanta’s The Callous Daoboys bring their singular blend of metal and rock to Quarters this February. Event DetailsBuy TicketsLive Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/the-callous-daoboys",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.500Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "The Callous Daoboys",
-        "date": "The Callous DaoboysFebruary 20, 2026Fearlessly chaotic and genre-defying, Atlanta’s The Callous Daoboys bring their singular blend of metal and rock to Quarters this February. Event DetailsBuy TicketsLive Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/the-callous-daoboys",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.500Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 15,
-    "event": {
-      "title": "Franky Wah",
-      "date": "Franky WahFebruary 21, 2026Franky Wah brings his expansive, melodic club sound to Quarters for a standout night in the calendar.Event DetailsSign UpClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/franky-wah",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.500Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Franky WahFebruary 21, 2026Franky Wah brings his expansive, melodic club sound to Quarters for a standout night in the calendar.Event DetailsSign UpClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Franky WahFebruary 21, 2026Franky Wah brings his expansive, melodic club sound to Quarters for a standout night in the calendar.Event DetailsSign UpClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Franky Wah",
-            "date": "Franky WahFebruary 21, 2026Franky Wah brings his expansive, melodic club sound to Quarters for a standout night in the calendar.Event DetailsSign UpClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/franky-wah",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.500Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Franky Wah",
-        "date": "Franky WahFebruary 21, 2026Franky Wah brings his expansive, melodic club sound to Quarters for a standout night in the calendar.Event DetailsSign UpClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/franky-wah",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.500Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 16,
-    "event": {
-      "title": "Bakey Curates",
-      "date": "Bakey CuratesFebruary 27, 2026Bakey Curates lands at Quarters with a night built strictly for the heads - a deep dive into UK club music’s bass-heavy backbone.Event DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/bakey-curates",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.501Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Bakey CuratesFebruary 27, 2026Bakey Curates lands at Quarters with a night built strictly for the heads - a deep dive into UK club music’s bass-heavy backbone.Event DetailsBuy TicketsClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Bakey CuratesFebruary 27, 2026Bakey Curates lands at Quarters with a night built strictly for the heads - a deep dive into UK club music’s bass-heavy backbone.Event DetailsBuy TicketsClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Bakey Curates",
-            "date": "Bakey CuratesFebruary 27, 2026Bakey Curates lands at Quarters with a night built strictly for the heads - a deep dive into UK club music’s bass-heavy backbone.Event DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/bakey-curates",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.501Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Bakey Curates",
-        "date": "Bakey CuratesFebruary 27, 2026Bakey Curates lands at Quarters with a night built strictly for the heads - a deep dive into UK club music’s bass-heavy backbone.Event DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/bakey-curates",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.501Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 17,
-    "event": {
-      "title": "SOSA",
-      "date": "SOSAFebruary 28, 2026One of the UK's most in-demand house DJs - SOSA, is bringing his signature minimal grooves, heavy swing and upfront club energy to Quarters.Event DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/sosa",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.501Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"SOSAFebruary 28, 2026One of the UK's most in-demand house DJs - SOSA, is bringing his signature minimal grooves, heavy swing and upfront club energy to Quarters.Event DetailsBuy TicketsClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "SOSAFebruary 28, 2026One of the UK's most in-demand house DJs - SOSA, is bringing his signature minimal grooves, heavy swing and upfront club energy to Quarters.Event DetailsBuy TicketsClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "SOSA",
-            "date": "SOSAFebruary 28, 2026One of the UK's most in-demand house DJs - SOSA, is bringing his signature minimal grooves, heavy swing and upfront club energy to Quarters.Event DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/sosa",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.501Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "SOSA",
-        "date": "SOSAFebruary 28, 2026One of the UK's most in-demand house DJs - SOSA, is bringing his signature minimal grooves, heavy swing and upfront club energy to Quarters.Event DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/sosa",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.501Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 18,
-    "event": {
-      "title": "Mr Scruff",
-      "date": "Mr ScruffMarch 15, 2026Known for blending everything from soul, jazz, reggae, house, broken beat, hip-hop, and beyond, Mr Scruff’s sets are journeys.Event DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/mr-scruff",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.501Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Mr ScruffMarch 15, 2026Known for blending everything from soul, jazz, reggae, house, broken beat, hip-hop, and beyond, Mr Scruff’s sets are journeys.Event DetailsBuy TicketsClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Mr ScruffMarch 15, 2026Known for blending everything from soul, jazz, reggae, house, broken beat, hip-hop, and beyond, Mr Scruff’s sets are journeys.Event DetailsBuy TicketsClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Mr Scruff",
-            "date": "Mr ScruffMarch 15, 2026Known for blending everything from soul, jazz, reggae, house, broken beat, hip-hop, and beyond, Mr Scruff’s sets are journeys.Event DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/mr-scruff",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.501Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Mr Scruff",
-        "date": "Mr ScruffMarch 15, 2026Known for blending everything from soul, jazz, reggae, house, broken beat, hip-hop, and beyond, Mr Scruff’s sets are journeys.Event DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/mr-scruff",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.501Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 19,
-    "event": {
-      "title": "Modeselektor",
-      "date": "Modeselektor March 28, 2026+ Billy Nasty B2B Charles Green, HARLØWEvent DetailsBuy TicketsClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/modeselektor",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.501Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Modeselektor March 28, 2026+ Billy Nasty B2B Charles Green, HARLØWEvent DetailsBuy TicketsClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Modeselektor March 28, 2026+ Billy Nasty B2B Charles Green, HARLØWEvent DetailsBuy TicketsClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Modeselektor",
-            "date": "Modeselektor March 28, 2026+ Billy Nasty B2B Charles Green, HARLØWEvent DetailsBuy TicketsClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/modeselektor",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.501Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Modeselektor",
-        "date": "Modeselektor March 28, 2026+ Billy Nasty B2B Charles Green, HARLØWEvent DetailsBuy TicketsClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/modeselektor",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.501Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 20,
-    "event": {
-      "title": "Nordic Giants",
-      "date": "Nordic GiantsApril 11, 2026Celebrating 15 years of transformative live performances, Nordic Giants will perform a full album in its entirety for the first time.Event DetailsBuy TicketsLive Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/nordic-giants",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.501Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Nordic GiantsApril 11, 2026Celebrating 15 years of transformative live performances, Nordic Giants will perform a full album in its entirety for the first time.Event DetailsBuy TicketsLive Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Nordic GiantsApril 11, 2026Celebrating 15 years of transformative live performances, Nordic Giants will perform a full album in its entirety for the first time.Event DetailsBuy TicketsLive Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Nordic Giants",
-            "date": "Nordic GiantsApril 11, 2026Celebrating 15 years of transformative live performances, Nordic Giants will perform a full album in its entirety for the first time.Event DetailsBuy TicketsLive Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/nordic-giants",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.501Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Nordic Giants",
-        "date": "Nordic GiantsApril 11, 2026Celebrating 15 years of transformative live performances, Nordic Giants will perform a full album in its entirety for the first time.Event DetailsBuy TicketsLive Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/nordic-giants",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.501Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 21,
-    "event": {
-      "title": "IST IST",
-      "date": "IST ISTApril 25, 2026Following the announcement of their keenly anticipated new album ‘DAGGER’, IST IST head to Quarters.Event DetailsBuy TicketsLive Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/ist-ist",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.501Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"IST ISTApril 25, 2026Following the announcement of their keenly anticipated new album ‘DAGGER’, IST IST head to Quarters.Event DetailsBuy TicketsLive Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "IST ISTApril 25, 2026Following the announcement of their keenly anticipated new album ‘DAGGER’, IST IST head to Quarters.Event DetailsBuy TicketsLive Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "IST IST",
-            "date": "IST ISTApril 25, 2026Following the announcement of their keenly anticipated new album ‘DAGGER’, IST IST head to Quarters.Event DetailsBuy TicketsLive Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/ist-ist",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.501Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "IST IST",
-        "date": "IST ISTApril 25, 2026Following the announcement of their keenly anticipated new album ‘DAGGER’, IST IST head to Quarters.Event DetailsBuy TicketsLive Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/ist-ist",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.501Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 22,
-    "event": {
-      "title": "Billy Gillies presents FRQNC",
-      "date": "Billy Gillies presents FRQNCApril 25, 2026A UK tour built around pure, full-throttle trance energy, engineered for the ravers who want emotion, euphoria and intensity.Event DetailsSign UpClub Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/billy-gillies-presents-frqnc",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.503Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"Billy Gillies presents FRQNCApril 25, 2026A UK tour built around pure, full-throttle trance energy, engineered for the ravers who want emotion, euphoria and intensity.Event DetailsSign UpClub Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "Billy Gillies presents FRQNCApril 25, 2026A UK tour built around pure, full-throttle trance energy, engineered for the ravers who want emotion, euphoria and intensity.Event DetailsSign UpClub Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.581Z",
-          "originalData": {
-            "title": "Billy Gillies presents FRQNC",
-            "date": "Billy Gillies presents FRQNCApril 25, 2026A UK tour built around pure, full-throttle trance energy, engineered for the ravers who want emotion, euphoria and intensity.Event DetailsSign UpClub Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/billy-gillies-presents-frqnc",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.503Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.581Z",
-      "originalData": {
-        "title": "Billy Gillies presents FRQNC",
-        "date": "Billy Gillies presents FRQNCApril 25, 2026A UK tour built around pure, full-throttle trance energy, engineered for the ravers who want emotion, euphoria and intensity.Event DetailsSign UpClub Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/billy-gillies-presents-frqnc",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.503Z",
-        "scraper": "QuartersScraper"
-      }
-    }
-  },
-  {
-    "index": 23,
-    "event": {
-      "title": "Dodgy",
-      "date": "DodgyMay 23, 2026Legends of the UK live scene, Dodgy have played almost every major festival and city across the country.Event DetailsLive Events",
-      "venue": "Quarters",
-      "link": "https://quartersbrighton.co.uk/whatson/dodgy",
-      "dateUnix": null,
-      "scrapedAt": "2025-11-27T16:08:14.504Z",
-      "scraper": "QuartersScraper"
-    },
-    "errors": [
-      {
-        "type": "date_parsing_failed",
-        "message": "Date parsing failed for: \"DodgyMay 23, 2026Legends of the UK live scene, Dodgy have played almost every major festival and city across the country.Event DetailsLive Events\"",
-        "field": "dateUnix",
-        "value": null,
-        "originalDate": "DodgyMay 23, 2026Legends of the UK live scene, Dodgy have played almost every major festival and city across the country.Event DetailsLive Events",
-        "context": {
-          "venue": "Quarters",
-          "scraper": "QuartersScraper",
-          "timestamp": "2025-11-27T16:08:18.582Z",
-          "originalData": {
-            "title": "Dodgy",
-            "date": "DodgyMay 23, 2026Legends of the UK live scene, Dodgy have played almost every major festival and city across the country.Event DetailsLive Events",
-            "venue": "Quarters",
-            "link": "https://quartersbrighton.co.uk/whatson/dodgy",
-            "dateUnix": null,
-            "scrapedAt": "2025-11-27T16:08:14.504Z",
-            "scraper": "QuartersScraper"
-          }
-        }
-      }
-    ],
-    "warnings": [],
-    "context": {
-      "venue": "Quarters",
-      "scraper": "QuartersScraper",
-      "timestamp": "2025-11-27T16:08:18.582Z",
-      "originalData": {
-        "title": "Dodgy",
-        "date": "DodgyMay 23, 2026Legends of the UK live scene, Dodgy have played almost every major festival and city across the country.Event DetailsLive Events",
-        "venue": "Quarters",
-        "link": "https://quartersbrighton.co.uk/whatson/dodgy",
-        "dateUnix": null,
-        "scrapedAt": "2025-11-27T16:08:14.504Z",
-        "scraper": "QuartersScraper"
+        "scrapedAt": "2026-04-06T09:27:15.575Z",
+        "scraper": "CarolineOfBrunswickScraper"
       }
     }
   }
