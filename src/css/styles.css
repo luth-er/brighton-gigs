@@ -848,7 +848,7 @@ select {
 	margin-bottom: var(--space-lg);
 }
 
-.about-section a {
+.about-section a { 
 	color: var(--color-text-primary);
 	text-decoration: underline;
 	transition: color var(--transition-fast);

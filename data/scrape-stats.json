@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T20:40:09.789Z",
+  "timestamp": "2026-04-20T20:47:20.304Z",
   "totalEvents": 807,
   "nullDates": 0,
   "totalErrors": 0,
@@ -18,7 +18,7 @@
       "warningTypes": {
         "potential_duplicate": 3
       },
-      "executionTime": 1556,
+      "executionTime": 751,
       "scraper": "HopeRuinScraper"
     },
     "Green Door Store": {
@@ -29,7 +29,7 @@
       "rawEvents": 12,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 3415,
+      "executionTime": 1494,
       "scraper": "GreenDoorScraper"
     },
     "Concorde 2": {
@@ -40,7 +40,7 @@
       "rawEvents": 65,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 838,
+      "executionTime": 805,
       "scraper": "ConcordeTwoScraper"
     },
     "Chalk": {
@@ -51,7 +51,7 @@
       "rawEvents": 67,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 1846,
+      "executionTime": 1565,
       "scraper": "ChalkScraper"
     },
     "Folklore Rooms": {
@@ -62,7 +62,7 @@
       "rawEvents": 1,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 2361,
+      "executionTime": 1449,
       "scraper": "FolkloreRoomsScraper"
     },
     "Prince Albert": {
@@ -73,7 +73,7 @@
       "rawEvents": 5,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 2652,
+      "executionTime": 2113,
       "scraper": "PrinceAlbertScraper"
     },
     "Pipeline": {
@@ -84,7 +84,7 @@
       "rawEvents": 11,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 3089,
+      "executionTime": 2150,
       "scraper": "PipelineScraper"
     },
     "Quarters": {
@@ -95,7 +95,7 @@
       "rawEvents": 29,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 3368,
+      "executionTime": 2189,
       "scraper": "QuartersScraper"
     },
     "Rossi Bar": {
@@ -106,7 +106,7 @@
       "rawEvents": 12,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 5179,
+      "executionTime": 4836,
       "scraper": "RossiBarScraper"
     },
     "The Rose Hill": {
@@ -117,7 +117,7 @@
       "rawEvents": 18,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 4010,
+      "executionTime": 2764,
       "scraper": "RoseHillScraper"
     },
     "Brighton Centre": {
@@ -128,7 +128,7 @@
       "rawEvents": 26,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 4260,
+      "executionTime": 2995,
       "scraper": "BrightonCentreScraper"
     },
     "Brighton Dome": {
@@ -139,7 +139,7 @@
       "rawEvents": 12,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 4751,
+      "executionTime": 3416,
       "scraper": "BrightonDomeScraper"
     },
     "Cowley Club": {
@@ -150,7 +150,7 @@
       "rawEvents": 2,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 5427,
+      "executionTime": 3909,
       "scraper": "CowleyClubScraper"
     },
     "Caroline of Brunswick": {
@@ -161,7 +161,7 @@
       "rawEvents": 7,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 8235,
+      "executionTime": 5339,
       "scraper": "CarolineOfBrunswickScraper"
     },
     "Daltons": {
@@ -172,7 +172,7 @@
       "rawEvents": 4,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 9255,
+      "executionTime": 6723,
       "scraper": "DaltonsScraper"
     },
     "The Brunswick": {
@@ -183,7 +183,7 @@
       "rawEvents": 4,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 9218,
+      "executionTime": 7733,
       "scraper": "BrunswickScraper"
     },
     "Dust": {
@@ -194,7 +194,7 @@
       "rawEvents": 41,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 9784,
+      "executionTime": 6568,
       "scraper": "DustScraper"
     },
     "Volks": {
@@ -205,7 +205,7 @@
       "rawEvents": 1,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 10373,
+      "executionTime": 8129,
       "scraper": "VolksScraper"
     },
     "The Old Market": {
@@ -216,7 +216,7 @@
       "rawEvents": 14,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 9973,
+      "executionTime": 7360,
       "scraper": "TheOldMarketScraper"
     },
     "Komedia": {
@@ -229,13 +229,13 @@
       "warningTypes": {
         "potential_duplicate": 1
       },
-      "executionTime": 12584,
+      "executionTime": 9643,
       "scraper": "KomediaScraper"
     },
     "Resident Music": {
       "status": "no_events",
       "events": 0,
-      "executionTime": 12122,
+      "executionTime": 9807,
       "scraper": "ResidentMusicScraper"
     },
     "Alphabet": {
@@ -246,7 +246,7 @@
       "rawEvents": 22,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 11019,
+      "executionTime": 8741,
       "scraper": "AlphabetScraper"
     },
     "Fortune of War": {
@@ -259,7 +259,7 @@
       "warningTypes": {
         "potential_duplicate": 1
       },
-      "executionTime": 11720,
+      "executionTime": 9367,
       "scraper": "FortuneOfWarScraper"
     },
     "Patterns": {
@@ -270,7 +270,7 @@
       "rawEvents": 1,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 14549,
+      "executionTime": 11733,
       "scraper": "PatternsScraper"
     },
     "Waterbear": {
@@ -281,7 +281,7 @@
       "rawEvents": 4,
       "validationErrors": {},
       "warningTypes": {},
-      "executionTime": 14050,
+      "executionTime": 11635,
       "scraper": "WaterbearScraper"
     }
   },
@@ -289,30 +289,22 @@
     "activeRequests": 0,
     "queueLength": 0,
     "consecutiveErrors": 0,
-    "lastRequestTime": 1776717607554,
+    "lastRequestTime": 1776718038368,
     "domains": {
-      "concorde2.co.uk": {
-        "requests": 1,
-        "successes": 1,
-        "errors": 0,
-        "consecutiveErrors": 0,
-        "lastRequestTime": 1776717595753,
-        "successRate": "100.00%"
-      },
       "hope.pub": {
         "requests": 1,
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717596470,
+        "lastRequestTime": 1776718028959,
         "successRate": "100.00%"
       },
-      "chalkvenue.com": {
+      "concorde2.co.uk": {
         "requests": 1,
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717596762,
+        "lastRequestTime": 1776718029015,
         "successRate": "100.00%"
       },
       "wegottickets.com": {
@@ -320,23 +312,7 @@
         "successes": 2,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717598006,
-        "successRate": "100.00%"
-      },
-      "gigseekr.com": {
-        "requests": 1,
-        "successes": 1,
-        "errors": 0,
-        "consecutiveErrors": 0,
-        "lastRequestTime": 1776717597569,
-        "successRate": "100.00%"
-      },
-      "quartersbrighton.co.uk": {
-        "requests": 1,
-        "successes": 1,
-        "errors": 0,
-        "consecutiveErrors": 0,
-        "lastRequestTime": 1776717598285,
+        "lastRequestTime": 1776718030360,
         "successRate": "100.00%"
       },
       "thegreendoorstore.co.uk": {
@@ -344,7 +320,31 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717598331,
+        "lastRequestTime": 1776718029704,
+        "successRate": "100.00%"
+      },
+      "chalkvenue.com": {
+        "requests": 1,
+        "successes": 1,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1776718029775,
+        "successRate": "100.00%"
+      },
+      "gigseekr.com": {
+        "requests": 1,
+        "successes": 1,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1776718030323,
+        "successRate": "100.00%"
+      },
+      "quartersbrighton.co.uk": {
+        "requests": 1,
+        "successes": 1,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1776718030400,
         "successRate": "100.00%"
       },
       "therosehill.co.uk": {
@@ -352,7 +352,7 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717598928,
+        "lastRequestTime": 1776718030976,
         "successRate": "100.00%"
       },
       "brightoncentre.co.uk": {
@@ -360,7 +360,7 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717599178,
+        "lastRequestTime": 1776718031208,
         "successRate": "100.00%"
       },
       "brightondome.org": {
@@ -368,15 +368,7 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717599669,
-        "successRate": "100.00%"
-      },
-      "therossibar.co.uk": {
-        "requests": 1,
-        "successes": 1,
-        "errors": 0,
-        "consecutiveErrors": 0,
-        "lastRequestTime": 1776717600097,
+        "lastRequestTime": 1776718031629,
         "successRate": "100.00%"
       },
       "cowley.club": {
@@ -384,7 +376,15 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717600345,
+        "lastRequestTime": 1776718032122,
+        "successRate": "100.00%"
+      },
+      "therossibar.co.uk": {
+        "requests": 1,
+        "successes": 1,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1776718033048,
         "successRate": "100.00%"
       },
       "carolineofbrunswick.co.uk": {
@@ -392,15 +392,7 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717603154,
-        "successRate": "100.00%"
-      },
-      "eventbrite.co.uk": {
-        "requests": 5,
-        "successes": 5,
-        "errors": 0,
-        "consecutiveErrors": 0,
-        "lastRequestTime": 1776717609468,
+        "lastRequestTime": 1776718033551,
         "successRate": "100.00%"
       },
       "gettix.online": {
@@ -408,7 +400,15 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717604703,
+        "lastRequestTime": 1776718034781,
+        "successRate": "100.00%"
+      },
+      "eventbrite.co.uk": {
+        "requests": 5,
+        "successes": 5,
+        "errors": 0,
+        "consecutiveErrors": 0,
+        "lastRequestTime": 1776718039946,
         "successRate": "100.00%"
       },
       "theoldmarket.com": {
@@ -416,7 +416,7 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717604892,
+        "lastRequestTime": 1776718035573,
         "successRate": "100.00%"
       },
       "ticketmaster.co.uk": {
@@ -424,7 +424,7 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717605292,
+        "lastRequestTime": 1776718036341,
         "successRate": "100.00%"
       },
       "alphabetbrighton.com": {
@@ -432,7 +432,7 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717605938,
+        "lastRequestTime": 1776718036953,
         "successRate": "100.00%"
       },
       "fortuneofwar.pub": {
@@ -440,7 +440,7 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717606639,
+        "lastRequestTime": 1776718037580,
         "successRate": "100.00%"
       },
       "komedia.co.uk": {
@@ -448,10 +448,10 @@
         "successes": 1,
         "errors": 0,
         "consecutiveErrors": 0,
-        "lastRequestTime": 1776717607503,
+        "lastRequestTime": 1776718037856,
         "successRate": "100.00%"
       }
     }
   },
-  "executionTime": 14872
+  "executionTime": 12094
 }

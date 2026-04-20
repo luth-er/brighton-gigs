@@ -1,5 +1,4 @@
 import fs from 'fs/promises';
-import path from 'path';
 
 const generateTodayPage = async () => {
     // Load events
