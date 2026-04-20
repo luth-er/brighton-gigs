@@ -16,7 +16,8 @@
     "lint:fix": "eslint src/**/*.js --config config/eslint.config.js --fix && stylelint \"src/css/**/*.css\" --fix",
     "sitemap": "node src/js/sitemap-generator.cjs",
     "seo:build": "npm run sitemap",
-    "prepare": "husky"
+    "prepare": "husky",
+    "today": "node src/js/generate-today.js"
   },
   "dependencies": {
     "axios": "^1.7.7",

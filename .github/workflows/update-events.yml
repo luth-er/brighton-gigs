@@ -25,6 +25,9 @@ jobs:
       
       - name: Run scraper
         run: node src/scraper.js
+
+      - name: Generate today's page
+        run: node src/js/generate-today.js
       
       - name: Configure Git
         run: |
@@ -33,7 +36,7 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          git add data/events.json
+          git add data/events.json today.html
           git diff --quiet && git diff --staged --quiet || git commit -m "Update events data - $(date +'%Y-%m-%d')"
           git push
           
