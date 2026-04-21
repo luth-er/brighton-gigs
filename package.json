@@ -10,7 +10,7 @@
     "test:run": "vitest run",
     "test:coverage": "vitest run --coverage",
     "lint": "npm run lint:js && npm run lint:css && npm run lint:html",
-    "lint:js": "eslint src/**/*.js --config config/eslint.cig.js",
+    "lint:js": "eslint src/**/*.js --config config/eslint.config.js",
     "lint:css": "stylelint \"src/css/**/*.css\"",
     "lint:html": "htmlhint *.html",
     "lint:fix": "eslint src/**/*.js --config config/eslint.config.js --fix && stylelint \"src/css/**/*.css\" --fix",
