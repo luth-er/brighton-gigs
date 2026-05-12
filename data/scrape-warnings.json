@@ -1,13 +1,13 @@
 [
   {
-    "index": 19,
+    "index": 2,
     "event": {
       "title": "The Great Escape 2026 &#8211; Thursday",
       "date": "2026-05-14T11:00",
       "venue": "Hope & Ruin",
       "link": "https://www.hope.pub/event/the-great-escape-2026-thursday/",
       "dateUnix": 1778752800000,
-      "scrapedAt": "2026-04-20T20:47:08.959Z",
+      "scrapedAt": "2026-05-12T17:47:48.286Z",
       "scraper": "HopeRuinScraper"
     },
     "warnings": [
@@ -22,14 +22,14 @@
         "context": {
           "venue": "Hope & Ruin",
           "scraper": "HopeRuinScraper",
-          "timestamp": "2026-04-20T20:47:19.965Z",
+          "timestamp": "2026-05-12T17:48:22.046Z",
           "originalData": {
             "title": "The Great Escape 2026 &#8211; Thursday",
             "date": "2026-05-14T11:00",
             "venue": "Hope & Ruin",
             "link": "https://www.hope.pub/event/the-great-escape-2026-thursday/",
             "dateUnix": 1778752800000,
-            "scrapedAt": "2026-04-20T20:47:08.959Z",
+            "scrapedAt": "2026-05-12T17:47:48.286Z",
             "scraper": "HopeRuinScraper"
           }
         }
@@ -38,27 +38,27 @@
     "context": {
       "venue": "Hope & Ruin",
       "scraper": "HopeRuinScraper",
-      "timestamp": "2026-04-20T20:47:19.965Z",
+      "timestamp": "2026-05-12T17:48:22.046Z",
       "originalData": {
         "title": "The Great Escape 2026 &#8211; Thursday",
         "date": "2026-05-14T11:00",
         "venue": "Hope & Ruin",
         "link": "https://www.hope.pub/event/the-great-escape-2026-thursday/",
         "dateUnix": 1778752800000,
-        "scrapedAt": "2026-04-20T20:47:08.959Z",
+        "scrapedAt": "2026-05-12T17:47:48.286Z",
         "scraper": "HopeRuinScraper"
       }
     }
   },
   {
-    "index": 20,
+    "index": 3,
     "event": {
       "title": "The Great Escape 2026 &#8211; Friday",
       "date": "2026-05-15T11:00",
       "venue": "Hope & Ruin",
       "link": "https://www.hope.pub/event/the-great-escape-2026-friday/",
       "dateUnix": 1778839200000,
-      "scrapedAt": "2026-04-20T20:47:08.959Z",
+      "scrapedAt": "2026-05-12T17:47:48.286Z",
       "scraper": "HopeRuinScraper"
     },
     "warnings": [
@@ -74,14 +74,14 @@
         "context": {
           "venue": "Hope & Ruin",
           "scraper": "HopeRuinScraper",
-          "timestamp": "2026-04-20T20:47:19.965Z",
+          "timestamp": "2026-05-12T17:48:22.046Z",
           "originalData": {
             "title": "The Great Escape 2026 &#8211; Friday",
             "date": "2026-05-15T11:00",
             "venue": "Hope & Ruin",
             "link": "https://www.hope.pub/event/the-great-escape-2026-friday/",
             "dateUnix": 1778839200000,
-            "scrapedAt": "2026-04-20T20:47:08.959Z",
+            "scrapedAt": "2026-05-12T17:47:48.286Z",
             "scraper": "HopeRuinScraper"
           }
         }
@@ -90,27 +90,27 @@
     "context": {
       "venue": "Hope & Ruin",
       "scraper": "HopeRuinScraper",
-      "timestamp": "2026-04-20T20:47:19.965Z",
+      "timestamp": "2026-05-12T17:48:22.046Z",
       "originalData": {
         "title": "The Great Escape 2026 &#8211; Friday",
         "date": "2026-05-15T11:00",
         "venue": "Hope & Ruin",
         "link": "https://www.hope.pub/event/the-great-escape-2026-friday/",
         "dateUnix": 1778839200000,
-        "scrapedAt": "2026-04-20T20:47:08.959Z",
+        "scrapedAt": "2026-05-12T17:47:48.286Z",
         "scraper": "HopeRuinScraper"
       }
     }
   },
   {
-    "index": 21,
+    "index": 4,
     "event": {
       "title": "The Great Escape 2026 &#8211; Saturday",
       "date": "2026-05-16T12:00",
       "venue": "Hope & Ruin",
       "link": "https://www.hope.pub/event/the-great-escape-2026-saturday/",
       "dateUnix": 1778929200000,
-      "scrapedAt": "2026-04-20T20:47:08.959Z",
+      "scrapedAt": "2026-05-12T17:47:48.286Z",
       "scraper": "HopeRuinScraper"
     },
     "warnings": [
@@ -127,14 +127,14 @@
         "context": {
           "venue": "Hope & Ruin",
           "scraper": "HopeRuinScraper",
-          "timestamp": "2026-04-20T20:47:19.965Z",
+          "timestamp": "2026-05-12T17:48:22.046Z",
           "originalData": {
             "title": "The Great Escape 2026 &#8211; Saturday",
             "date": "2026-05-16T12:00",
             "venue": "Hope & Ruin",
             "link": "https://www.hope.pub/event/the-great-escape-2026-saturday/",
             "dateUnix": 1778929200000,
-            "scrapedAt": "2026-04-20T20:47:08.959Z",
+            "scrapedAt": "2026-05-12T17:47:48.286Z",
             "scraper": "HopeRuinScraper"
           }
         }
@@ -143,27 +143,277 @@
     "context": {
       "venue": "Hope & Ruin",
       "scraper": "HopeRuinScraper",
-      "timestamp": "2026-04-20T20:47:19.965Z",
+      "timestamp": "2026-05-12T17:48:22.046Z",
       "originalData": {
         "title": "The Great Escape 2026 &#8211; Saturday",
         "date": "2026-05-16T12:00",
         "venue": "Hope & Ruin",
         "link": "https://www.hope.pub/event/the-great-escape-2026-saturday/",
         "dateUnix": 1778929200000,
-        "scrapedAt": "2026-04-20T20:47:08.959Z",
+        "scrapedAt": "2026-05-12T17:47:48.286Z",
         "scraper": "HopeRuinScraper"
       }
     }
   },
   {
-    "index": 259,
+    "index": 16,
+    "event": {
+      "title": "England Vs Ghana Screening",
+      "date": "23/06/26  8:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/england-vs-ghana-screening",
+      "dateUnix": 1782241200000,
+      "scrapedAt": "2026-05-12T17:47:48.239Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "warnings": [
+      {
+        "type": "potential_duplicate",
+        "message": "Event title similar to existing events",
+        "field": "title",
+        "value": "England Vs Ghana Screening",
+        "similarTitles": [
+          "England Vs Croatia Screening"
+        ],
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2026-05-12T17:48:22.070Z",
+          "originalData": {
+            "title": "England Vs Ghana Screening",
+            "date": "23/06/26  8:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/england-vs-ghana-screening",
+            "dateUnix": 1782241200000,
+            "scrapedAt": "2026-05-12T17:47:48.239Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2026-05-12T17:48:22.070Z",
+      "originalData": {
+        "title": "England Vs Ghana Screening",
+        "date": "23/06/26  8:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/england-vs-ghana-screening",
+        "dateUnix": 1782241200000,
+        "scrapedAt": "2026-05-12T17:47:48.239Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 17,
+    "event": {
+      "title": "England Vs Panama Screening",
+      "date": "27/06/26  9:00pm",
+      "venue": "Concorde 2",
+      "link": "https://www.concorde2.co.uk/event/england-vs-panama",
+      "dateUnix": 1782590400000,
+      "scrapedAt": "2026-05-12T17:47:48.239Z",
+      "scraper": "ConcordeTwoScraper"
+    },
+    "warnings": [
+      {
+        "type": "potential_duplicate",
+        "message": "Event title similar to existing events",
+        "field": "title",
+        "value": "England Vs Panama Screening",
+        "similarTitles": [
+          "England Vs Croatia Screening",
+          "England Vs Ghana Screening"
+        ],
+        "context": {
+          "venue": "Concorde 2",
+          "scraper": "ConcordeTwoScraper",
+          "timestamp": "2026-05-12T17:48:22.070Z",
+          "originalData": {
+            "title": "England Vs Panama Screening",
+            "date": "27/06/26  9:00pm",
+            "venue": "Concorde 2",
+            "link": "https://www.concorde2.co.uk/event/england-vs-panama",
+            "dateUnix": 1782590400000,
+            "scrapedAt": "2026-05-12T17:47:48.239Z",
+            "scraper": "ConcordeTwoScraper"
+          }
+        }
+      }
+    ],
+    "context": {
+      "venue": "Concorde 2",
+      "scraper": "ConcordeTwoScraper",
+      "timestamp": "2026-05-12T17:48:22.070Z",
+      "originalData": {
+        "title": "England Vs Panama Screening",
+        "date": "27/06/26  9:00pm",
+        "venue": "Concorde 2",
+        "link": "https://www.concorde2.co.uk/event/england-vs-panama",
+        "dateUnix": 1782590400000,
+        "scrapedAt": "2026-05-12T17:47:48.239Z",
+        "scraper": "ConcordeTwoScraper"
+      }
+    }
+  },
+  {
+    "index": 0,
+    "event": {
+      "title": "<span>Founders Room Exhibition Space</span>",
+      "date": "Sat 2 - Mon 25 May",
+      "venue": "Brighton Dome",
+      "link": "https://brightonfestival.org/whats-on/XoW-founders-room-exhibition-space/",
+      "dateUnix": 1777676400000,
+      "scrapedAt": "2026-05-12T17:47:52.801Z",
+      "scraper": "BrightonDomeScraper"
+    },
+    "warnings": [
+      {
+        "type": "past_event",
+        "message": "Event is 10 days in the past",
+        "field": "dateUnix",
+        "value": 1777676400000,
+        "daysPast": 10,
+        "context": {
+          "venue": "Brighton Dome",
+          "scraper": "BrightonDomeScraper",
+          "timestamp": "2026-05-12T17:48:22.086Z",
+          "originalData": {
+            "title": "<span>Founders Room Exhibition Space</span>",
+            "date": "Sat 2 - Mon 25 May",
+            "venue": "Brighton Dome",
+            "link": "https://brightonfestival.org/whats-on/XoW-founders-room-exhibition-space/",
+            "dateUnix": 1777676400000,
+            "scrapedAt": "2026-05-12T17:47:52.801Z",
+            "scraper": "BrightonDomeScraper"
+          }
+        }
+      }
+    ],
+    "context": {
+      "venue": "Brighton Dome",
+      "scraper": "BrightonDomeScraper",
+      "timestamp": "2026-05-12T17:48:22.086Z",
+      "originalData": {
+        "title": "<span>Founders Room Exhibition Space</span>",
+        "date": "Sat 2 - Mon 25 May",
+        "venue": "Brighton Dome",
+        "link": "https://brightonfestival.org/whats-on/XoW-founders-room-exhibition-space/",
+        "dateUnix": 1777676400000,
+        "scrapedAt": "2026-05-12T17:47:52.801Z",
+        "scraper": "BrightonDomeScraper"
+      }
+    }
+  },
+  {
+    "index": 1,
+    "event": {
+      "title": "<span>KlangHaus: Darkroom</span>",
+      "date": "Sat 2 - Sat 23 May",
+      "venue": "Brighton Dome",
+      "link": "https://brightonfestival.org/whats-on/XdF-klanghaus-darkroom/",
+      "dateUnix": 1777723200000,
+      "scrapedAt": "2026-05-12T17:47:52.802Z",
+      "scraper": "BrightonDomeScraper"
+    },
+    "warnings": [
+      {
+        "type": "past_event",
+        "message": "Event is 10 days in the past",
+        "field": "dateUnix",
+        "value": 1777723200000,
+        "daysPast": 10,
+        "context": {
+          "venue": "Brighton Dome",
+          "scraper": "BrightonDomeScraper",
+          "timestamp": "2026-05-12T17:48:22.086Z",
+          "originalData": {
+            "title": "<span>KlangHaus: Darkroom</span>",
+            "date": "Sat 2 - Sat 23 May",
+            "venue": "Brighton Dome",
+            "link": "https://brightonfestival.org/whats-on/XdF-klanghaus-darkroom/",
+            "dateUnix": 1777723200000,
+            "scrapedAt": "2026-05-12T17:47:52.802Z",
+            "scraper": "BrightonDomeScraper"
+          }
+        }
+      }
+    ],
+    "context": {
+      "venue": "Brighton Dome",
+      "scraper": "BrightonDomeScraper",
+      "timestamp": "2026-05-12T17:48:22.086Z",
+      "originalData": {
+        "title": "<span>KlangHaus: Darkroom</span>",
+        "date": "Sat 2 - Sat 23 May",
+        "venue": "Brighton Dome",
+        "link": "https://brightonfestival.org/whats-on/XdF-klanghaus-darkroom/",
+        "dateUnix": 1777723200000,
+        "scrapedAt": "2026-05-12T17:47:52.802Z",
+        "scraper": "BrightonDomeScraper"
+      }
+    }
+  },
+  {
+    "index": 2,
+    "event": {
+      "title": "<span>KlangHaus: Last Haus on Earth</span>",
+      "date": "Sat 2 - Sat 23 May",
+      "venue": "Brighton Dome",
+      "link": "https://brightonfestival.org/whats-on/Xdf-klanghaus-last-haus-on-earth/",
+      "dateUnix": 1777741200000,
+      "scrapedAt": "2026-05-12T17:47:52.803Z",
+      "scraper": "BrightonDomeScraper"
+    },
+    "warnings": [
+      {
+        "type": "past_event",
+        "message": "Event is 10 days in the past",
+        "field": "dateUnix",
+        "value": 1777741200000,
+        "daysPast": 10,
+        "context": {
+          "venue": "Brighton Dome",
+          "scraper": "BrightonDomeScraper",
+          "timestamp": "2026-05-12T17:48:22.086Z",
+          "originalData": {
+            "title": "<span>KlangHaus: Last Haus on Earth</span>",
+            "date": "Sat 2 - Sat 23 May",
+            "venue": "Brighton Dome",
+            "link": "https://brightonfestival.org/whats-on/Xdf-klanghaus-last-haus-on-earth/",
+            "dateUnix": 1777741200000,
+            "scrapedAt": "2026-05-12T17:47:52.803Z",
+            "scraper": "BrightonDomeScraper"
+          }
+        }
+      }
+    ],
+    "context": {
+      "venue": "Brighton Dome",
+      "scraper": "BrightonDomeScraper",
+      "timestamp": "2026-05-12T17:48:22.086Z",
+      "originalData": {
+        "title": "<span>KlangHaus: Last Haus on Earth</span>",
+        "date": "Sat 2 - Sat 23 May",
+        "venue": "Brighton Dome",
+        "link": "https://brightonfestival.org/whats-on/Xdf-klanghaus-last-haus-on-earth/",
+        "dateUnix": 1777741200000,
+        "scrapedAt": "2026-05-12T17:47:52.803Z",
+        "scraper": "BrightonDomeScraper"
+      }
+    }
+  },
+  {
+    "index": 246,
     "event": {
       "title": "Sergi Polo – LIVE in Brighton (in Spanish)",
       "date": "Sun 1 Nov 2026",
       "venue": "Komedia",
       "link": "https://www.komedia.co.uk/shows/sergi-polo-live-in-brighton-in-spanish/?eid=18807",
       "dateUnix": 1793491200000,
-      "scrapedAt": "2026-04-20T20:47:17.856Z",
+      "scrapedAt": "2026-05-12T17:47:59.914Z",
       "scraper": "KomediaScraper"
     },
     "warnings": [
@@ -178,14 +428,14 @@
         "context": {
           "venue": "Komedia",
           "scraper": "KomediaScraper",
-          "timestamp": "2026-04-20T20:47:20.206Z",
+          "timestamp": "2026-05-12T17:48:22.239Z",
           "originalData": {
             "title": "Sergi Polo – LIVE in Brighton (in Spanish)",
             "date": "Sun 1 Nov 2026",
             "venue": "Komedia",
             "link": "https://www.komedia.co.uk/shows/sergi-polo-live-in-brighton-in-spanish/?eid=18807",
             "dateUnix": 1793491200000,
-            "scrapedAt": "2026-04-20T20:47:17.856Z",
+            "scrapedAt": "2026-05-12T17:47:59.914Z",
             "scraper": "KomediaScraper"
           }
         }
@@ -194,27 +444,27 @@
     "context": {
       "venue": "Komedia",
       "scraper": "KomediaScraper",
-      "timestamp": "2026-04-20T20:47:20.206Z",
+      "timestamp": "2026-05-12T17:48:22.239Z",
       "originalData": {
         "title": "Sergi Polo – LIVE in Brighton (in Spanish)",
         "date": "Sun 1 Nov 2026",
         "venue": "Komedia",
         "link": "https://www.komedia.co.uk/shows/sergi-polo-live-in-brighton-in-spanish/?eid=18807",
         "dateUnix": 1793491200000,
-        "scrapedAt": "2026-04-20T20:47:17.856Z",
+        "scrapedAt": "2026-05-12T17:47:59.914Z",
         "scraper": "KomediaScraper"
       }
     }
   },
   {
-    "index": 58,
+    "index": 47,
     "event": {
       "title": "Maezo (live band) &amp; SelvaSistema DJs",
       "date": "2026-08-07T18:00:00.245Z",
       "venue": "Fortune of War",
       "link": "https://www.fortuneofwar.pub/events-2/2023/4/1/ben-gc-pnse3-3s7ba-9sfpg-j9ax6-tr75p-csgmh-l9hb8-dpdxx-6kt6f-2x44m-wn2cj-7n76a-6smfj-d8hgj-cswpe-aw54c-a9gfp-9mjsr-2lb69-439cz-crjrd-bh2rd-kjpag-4yttc-m32yl",
       "dateUnix": 1786125600245,
-      "scrapedAt": "2026-04-20T20:47:17.580Z",
+      "scrapedAt": "2026-05-12T17:48:00.744Z",
       "scraper": "FortuneOfWarScraper"
     },
     "warnings": [
@@ -229,14 +479,14 @@
         "context": {
           "venue": "Fortune of War",
           "scraper": "FortuneOfWarScraper",
-          "timestamp": "2026-04-20T20:47:20.289Z",
+          "timestamp": "2026-05-12T17:48:22.312Z",
           "originalData": {
             "title": "Maezo (live band) &amp; SelvaSistema DJs",
             "date": "2026-08-07T18:00:00.245Z",
             "venue": "Fortune of War",
             "link": "https://www.fortuneofwar.pub/events-2/2023/4/1/ben-gc-pnse3-3s7ba-9sfpg-j9ax6-tr75p-csgmh-l9hb8-dpdxx-6kt6f-2x44m-wn2cj-7n76a-6smfj-d8hgj-cswpe-aw54c-a9gfp-9mjsr-2lb69-439cz-crjrd-bh2rd-kjpag-4yttc-m32yl",
             "dateUnix": 1786125600245,
-            "scrapedAt": "2026-04-20T20:47:17.580Z",
+            "scrapedAt": "2026-05-12T17:48:00.744Z",
             "scraper": "FortuneOfWarScraper"
           }
         }
@@ -245,14 +495,14 @@
     "context": {
       "venue": "Fortune of War",
       "scraper": "FortuneOfWarScraper",
-      "timestamp": "2026-04-20T20:47:20.289Z",
+      "timestamp": "2026-05-12T17:48:22.312Z",
       "originalData": {
         "title": "Maezo (live band) &amp; SelvaSistema DJs",
         "date": "2026-08-07T18:00:00.245Z",
         "venue": "Fortune of War",
         "link": "https://www.fortuneofwar.pub/events-2/2023/4/1/ben-gc-pnse3-3s7ba-9sfpg-j9ax6-tr75p-csgmh-l9hb8-dpdxx-6kt6f-2x44m-wn2cj-7n76a-6smfj-d8hgj-cswpe-aw54c-a9gfp-9mjsr-2lb69-439cz-crjrd-bh2rd-kjpag-4yttc-m32yl",
         "dateUnix": 1786125600245,
-        "scrapedAt": "2026-04-20T20:47:17.580Z",
+        "scrapedAt": "2026-05-12T17:48:00.744Z",
         "scraper": "FortuneOfWarScraper"
       }
     }
