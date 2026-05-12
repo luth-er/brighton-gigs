@@ -5,7 +5,7 @@
   "main": "src/scraper.js",
   "type": "module",
   "scripts": {
-    "start": "node src/scraper.js",
+    "start": "node src/scraper.js && node src/js/generate-today.js",
     "test": "vitest",
     "test:run": "vitest run",
     "test:coverage": "vitest run --coverage",

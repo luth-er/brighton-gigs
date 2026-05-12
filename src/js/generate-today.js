@@ -25,14 +25,20 @@ const generateTodayPage = async () => {
     if (todayEvents.length === 0) {
         plainText += 'No gigs listed today.\n';
     } else {
-        // Sort by venue name for clean grouping
+        // Sort by venue name for clean grouping, dedupe by venue+title
+        // (some venues list the same gig under multiple ticket links)
         const byVenue = {};
+        const seen = new Set();
         todayEvents.forEach(event => {
+            // Strip any HTML tags from title
+            const cleanTitle = event.title.replace(/<[^>]*>/g, '').trim();
+            const key = `${event.venue}::${cleanTitle}`;
+            if (seen.has(key)) return;
+            seen.add(key);
+
             if (!byVenue[event.venue]) {
                 byVenue[event.venue] = [];
             }
-            // Strip any HTML tags from title
-            const cleanTitle = event.title.replace(/<[^>]*>/g, '').trim();
             byVenue[event.venue].push(cleanTitle);
         });
 

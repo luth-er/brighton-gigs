@@ -105,7 +105,10 @@ export const sanitizeEventTitle = (title) => {
 };
 
 /**
- * Sanitizes venue name - strict sanitization as venue names should be plain text
+ * Sanitizes venue name - strict sanitization as venue names should be plain text.
+ * Returns a plain-text string; callers must render via textContent (auto-escapes)
+ * or pass through escapeHtml when building HTML strings. Do not entity-encode here,
+ * or textContent will display literal "&amp;" etc.
  * @param {string} venue - The venue name to sanitize
  * @returns {string} The sanitized venue name
  */
@@ -113,19 +116,28 @@ export const sanitizeVenueName = (venue) => {
     if (!venue || typeof venue !== 'string') {
         return 'Unknown Venue';
     }
-    
-    // Strip all HTML and escape special characters
+
+    // Strip all HTML tags
     let sanitized = venue.replace(/<[^>]*>/g, '');
-    sanitized = escapeHtml(sanitized);
-    
+
+    // Decode any pre-existing HTML entities so the result is true plain text
+    // (e.g. scraped data with "Hope &amp; Ruin" becomes "Hope & Ruin")
+    sanitized = sanitized
+        .replace(/&amp;/g, '&')
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .replace(/&quot;/g, '"')
+        .replace(/&#x27;/g, "'")
+        .replace(/&#x2F;/g, '/');
+
     // Remove excessive whitespace
     sanitized = sanitized.replace(/\s+/g, ' ');
-    
+
     // Limit length
     if (sanitized.length > 100) {
         sanitized = sanitized.substring(0, 97) + '...';
     }
-    
+
     return sanitized.trim() || 'Unknown Venue';
 };
 
