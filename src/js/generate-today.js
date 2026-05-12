@@ -51,68 +51,68 @@ const generateTodayPage = async () => {
     const html = `<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="robots" content="noindex, nofollow">
-    <title>Brighton Gigs Today</title>
-    <style>
-        body {
-            font-family: monospace;
-            font-size: 16px;
-            line-height: 1.6;
-            max-width: 600px;
-            margin: 40px auto;
-            padding: 0 20px;
-            background: #fff;
-            color: #000;
-        }
-        h1 {
-            font-size: 18px;
-            margin-bottom: 24px;
-        }
-        #copy-btn {
-            display: block;
-            margin-bottom: 32px;
-            padding: 10px 20px;
-            background: #000;
-            color: #fff;
-            border: none;
-            font-family: monospace;
-            font-size: 14px;
-            cursor: pointer;
-        }
-        #copy-btn:hover {
-            background: #333;
-        }
-        #post-text {
-            white-space: pre-wrap;
-            background: #f5f5f5;
-            padding: 20px;
-            border: 1px solid #ddd;
-        }
-        #copy-confirm {
-            display: none;
-            margin-top: 8px;
-            font-size: 14px;
-            color: #666;
-        }
-    </style>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="robots" content="noindex, nofollow">
+	<title>Brighton Gigs Today</title>
+	<style>
+		body {
+			font-family: monospace;
+			font-size: 16px;
+			line-height: 1.6;
+			max-width: 600px;
+			margin: 40px auto;
+			padding: 0 20px;
+			background: #fff;
+			color: #000;
+		}
+		h1 {
+			font-size: 18px;
+			margin-bottom: 24px;
+		}
+		#copy-btn {
+			display: block;
+			margin-bottom: 32px;
+			padding: 10px 20px;
+			background: #000;
+			color: #fff;
+			border: none;
+			font-family: monospace;
+			font-size: 14px;
+			cursor: pointer;
+		}
+		#copy-btn:hover {
+			background: #333;
+		}
+		#post-text {
+			white-space: pre-wrap;
+			background: #f5f5f5;
+			padding: 20px;
+			border: 1px solid #ddd;
+		}
+		#copy-confirm {
+			display: none;
+			margin-top: 8px;
+			font-size: 14px;
+			color: #666;
+		}
+	</style>
 </head>
 <body>
-    <h1>Today's Threads Post</h1>
-    <button id="copy-btn" onclick="copyText()">Copy to clipboard</button>
-    <pre id="post-text">${plainText}</pre>
-    <p id="copy-confirm">✓ Copied to clipboard</p>
-    <script>
-        function copyText() {
-            const text = document.getElementById('post-text').innerText;
-            navigator.clipboard.writeText(text).then(() => {
-                const confirm = document.getElementById('copy-confirm');
-                confirm.style.display = 'block';
-                setTimeout(() => confirm.style.display = 'none', 2000);
-            });
-        }
-    </script>
+	<h1>Today's Threads Post</h1>
+	<button id="copy-btn" onclick="copyText()">Copy to clipboard</button>
+	<pre id="post-text">${plainText}</pre>
+	<p id="copy-confirm">✓ Copied to clipboard</p>
+	<script>
+		function copyText() {
+			const text = document.getElementById('post-text').innerText;
+			navigator.clipboard.writeText(text).then(() => {
+				const confirm = document.getElementById('copy-confirm');
+				confirm.style.display = 'block';
+				setTimeout(() => confirm.style.display = 'none', 2000);
+			});
+		}
+	</script>
 </body>
 </html>`;
 
