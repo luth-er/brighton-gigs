@@ -1,56 +1,11 @@
 [
   {
-    "title": "RISKY QUIZNESS",
-    "date": "23 Nov 2026",
-    "venue": "Caroline of Brunswick",
-    "link": "https://carolineofbrunswick.co.uk/events/get-your-rocks-off-karaoke-free-130-444-597-672-111-222-388-135-781-475-382/",
-    "dateUnix": 1795392000000,
-    "scrapedAt": "2026-11-23T11:53:07.979Z",
-    "scraper": "CarolineOfBrunswickScraper"
-  },
-  {
-    "title": "<span>Hothouse Flowers</span>",
-    "date": "Mon 23 Nov",
-    "venue": "Brighton Dome",
-    "link": "https://brightondome.org/whats-on/L29-hothouse-flowers/",
-    "dateUnix": 1795460400000,
-    "scrapedAt": "2026-11-23T11:53:01.359Z",
-    "scraper": "BrightonDomeScraper"
-  },
-  {
-    "title": "Revolt: Big Fear + Tungz + Sock Drawer + Snowy Mountain",
-    "date": "2026-11-23T19:30",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/revolt-big-fear-tungz-sock-drawer-snowy-mountain/",
-    "dateUnix": 1795462200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
-    "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "The Big Moon",
-    "date": "23/11/26  7:30pm",
-    "venue": "Concorde 2",
-    "link": "https://www.concorde2.co.uk/event/the-big-moon",
-    "dateUnix": 1795462200000,
-    "scrapedAt": "2026-11-23T11:52:55.386Z",
-    "scraper": "ConcordeTwoScraper"
-  },
-  {
-    "title": "<span>Midge Ure: A Man Of Two Worlds</span>",
-    "date": "Mon 23 Nov",
-    "venue": "Brighton Dome",
-    "link": "https://brightondome.org/whats-on/L2h-midge-ure-a-man-of-two-worlds/",
-    "dateUnix": 1795462200000,
-    "scrapedAt": "2026-11-23T11:53:01.359Z",
-    "scraper": "BrightonDomeScraper"
-  },
-  {
     "title": "The Love Buzz",
     "date": "Tue, 24 Nov 2026",
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/the-love-buzz/",
     "dateUnix": 1795478400000,
-    "scrapedAt": "2026-11-23T11:52:57.706Z",
+    "scrapedAt": "2026-11-24T13:19:21.174Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -59,7 +14,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/creeping-embers/",
     "dateUnix": 1795478400000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.826Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -68,17 +23,8 @@
     "venue": "Caroline of Brunswick",
     "link": "https://carolineofbrunswick.co.uk/events/private-hire-353-107-382-244-500-659-194-269-579-609-108-672-356-528-877-551-625-678-867-169-432-110-230-360-194-538-832-509-442-238-447-780-950-845-952-145-445-162-505-106-585-172-717-385-327-655-12/",
     "dateUnix": 1795478400000,
-    "scrapedAt": "2026-11-23T11:53:07.980Z",
+    "scrapedAt": "2026-11-24T13:19:28.251Z",
     "scraper": "CarolineOfBrunswickScraper"
-  },
-  {
-    "title": "BIG TRIO with AnDré Mali",
-    "date": "24 NOV 2026",
-    "venue": "Alphabet",
-    "link": "https://www.alphabetbrighton.com/listings/nov-24-andr-mali-feat-big-trio",
-    "dateUnix": 1795478400000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
-    "scraper": "AlphabetScraper"
   },
   {
     "title": "<span>AI: Hope, Hesitation or Hype?</span>",
@@ -86,7 +32,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/LXH-ai-hope-hesitation-or-hype/",
     "dateUnix": 1795545000000,
-    "scrapedAt": "2026-11-23T11:53:01.359Z",
+    "scrapedAt": "2026-11-24T13:19:25.392Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -95,7 +41,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/demonstrations-of-power-imposter-exit-life-violaine/",
     "dateUnix": 1795546800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -104,7 +50,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/LgP-shed-seven/",
     "dateUnix": 1795546800000,
-    "scrapedAt": "2026-11-23T11:53:01.359Z",
+    "scrapedAt": "2026-11-24T13:19:25.392Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -113,7 +59,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/goo-records-showcase-not-richard-her-majesty-more/",
     "dateUnix": 1795564800000,
-    "scrapedAt": "2026-11-23T11:52:57.706Z",
+    "scrapedAt": "2026-11-24T13:19:21.174Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -122,8 +68,26 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/hans-moretti/",
     "dateUnix": 1795564800000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.826Z",
     "scraper": "RossiBarScraper"
+  },
+  {
+    "title": "Caitlin O’Ryan: At What Point",
+    "date": "Wed 25 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/caitlin-oryan-at-what-point/?eid=20653",
+    "dateUnix": 1795564800000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Ignacio Lopez: Nada",
+    "date": "Wed 25 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/ignacio-lopez-nada/?eid=18215",
+    "dateUnix": 1795564800000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "<span>The Damned: Final Damnation 50</span>",
@@ -131,7 +95,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/LgX-the-damned-final-damnation-50/",
     "dateUnix": 1795633200000,
-    "scrapedAt": "2026-11-23T11:53:01.359Z",
+    "scrapedAt": "2026-11-24T13:19:25.392Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -140,7 +104,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/dakhabrakha",
     "dateUnix": 1795635000000,
-    "scrapedAt": "2026-11-23T11:52:55.387Z",
+    "scrapedAt": "2026-11-24T13:19:18.748Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -149,7 +113,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/Lso-sindhu-vee-swanky/",
     "dateUnix": 1795635000000,
-    "scrapedAt": "2026-11-23T11:53:01.360Z",
+    "scrapedAt": "2026-11-24T13:19:25.392Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -158,7 +122,7 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/turin-brakes-songs-stories",
     "dateUnix": 1795635000076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
   },
   {
@@ -167,7 +131,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-sick-man-of-europe/",
     "dateUnix": 1795636800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -176,7 +140,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/pyncher/",
     "dateUnix": 1795651200000,
-    "scrapedAt": "2026-11-23T11:52:57.706Z",
+    "scrapedAt": "2026-11-24T13:19:21.174Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -185,17 +149,8 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/gumdrop/",
     "dateUnix": 1795651200000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.826Z",
     "scraper": "RossiBarScraper"
-  },
-  {
-    "title": "Bloc Party & Interpol",
-    "date": "2026-11-26T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/bloc-party-interpol/",
-    "dateUnix": 1795651200000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
   },
   {
     "title": "PRIVATE HIRE",
@@ -203,7 +158,7 @@
     "venue": "Caroline of Brunswick",
     "link": "https://carolineofbrunswick.co.uk/events/private-hire-353-107-382-244-500-659-194-269-579-609-108-672-356-528-877-551-625-678-867-169-432-110-230-360-194-538-832-509-442-238-447-780-950-845-952-145-445-162-505-106-585-172-717-385-327-655-13/",
     "dateUnix": 1795651200000,
-    "scrapedAt": "2026-11-23T11:53:07.980Z",
+    "scrapedAt": "2026-11-24T13:19:28.252Z",
     "scraper": "CarolineOfBrunswickScraper"
   },
   {
@@ -212,8 +167,26 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/FukushimaDolphin",
     "dateUnix": 1795651200000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "YOSHIZAWA + THE PETROV BOYS + FELLROOT",
+    "date": "Thu 26 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/yoshizawa-the-petrov-boys-fellroot/?eid=21493",
+    "dateUnix": 1795651200000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Comic Boom Comedy Club",
+    "date": "Thu 26 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/comic-boom/?eid=18638",
+    "dateUnix": 1795651200000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "SOUTHERN NIGHTS SHOWCASE",
@@ -221,7 +194,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/nov-26-southern-nights-showcase",
     "dateUnix": 1795651200000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -230,7 +203,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/graham-coxon",
     "dateUnix": 1795719600000,
-    "scrapedAt": "2026-11-23T11:52:55.387Z",
+    "scrapedAt": "2026-11-24T13:19:18.749Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -239,7 +212,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/keg/",
     "dateUnix": 1795721400000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -248,7 +221,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/Lt1-hollie-mcnish-and-harry-baker/",
     "dateUnix": 1795721400000,
-    "scrapedAt": "2026-11-23T11:53:01.360Z",
+    "scrapedAt": "2026-11-24T13:19:25.392Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -257,7 +230,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/the-gulls/",
     "dateUnix": 1795737600000,
-    "scrapedAt": "2026-11-23T11:52:57.706Z",
+    "scrapedAt": "2026-11-24T13:19:21.174Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -266,7 +239,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/thats-fing-rubbish-2/",
     "dateUnix": 1795737600000,
-    "scrapedAt": "2026-11-23T11:52:57.706Z",
+    "scrapedAt": "2026-11-24T13:19:21.174Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -275,7 +248,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/kings-of-the-rollers",
     "dateUnix": 1795737600000,
-    "scrapedAt": "2026-11-23T11:52:58.287Z",
+    "scrapedAt": "2026-11-24T13:19:21.946Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -284,7 +257,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/carnival-collective",
     "dateUnix": 1795737600000,
-    "scrapedAt": "2026-11-23T11:52:58.287Z",
+    "scrapedAt": "2026-11-24T13:19:21.946Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -293,17 +266,8 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/double-bill-harry-christelis-pillow-joint-uk-album-tour/",
     "dateUnix": 1795737600000,
-    "scrapedAt": "2026-11-23T11:52:59.337Z",
+    "scrapedAt": "2026-11-24T13:19:23.332Z",
     "scraper": "RoseHillScraper"
-  },
-  {
-    "title": "Interpol & Bloc Party",
-    "date": "2026-11-27T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/interpol-bloc-party/",
-    "dateUnix": 1795737600000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
   },
   {
     "title": "Antifascist Nacho Night",
@@ -311,7 +275,7 @@
     "venue": "Cowley Club",
     "link": "https://cowley.club/events/antifascist-nacho-night",
     "dateUnix": 1795737600000,
-    "scrapedAt": "2026-11-23T11:53:01.166Z",
+    "scrapedAt": "2026-11-24T13:19:24.722Z",
     "scraper": "CowleyClubScraper"
   },
   {
@@ -320,7 +284,7 @@
     "venue": "Cowley Club",
     "link": "https://cowley.club/events/antifascist-nacho-night",
     "dateUnix": 1795737600000,
-    "scrapedAt": "2026-11-23T11:53:01.166Z",
+    "scrapedAt": "2026-11-24T13:19:24.723Z",
     "scraper": "CowleyClubScraper"
   },
   {
@@ -329,7 +293,7 @@
     "venue": "Caroline of Brunswick",
     "link": "https://carolineofbrunswick.co.uk/events/tbc-844-841-538-700-183-304-304-520-233-881-102-438-433-206-496-778-685-812-924-979-280/",
     "dateUnix": 1795737600000,
-    "scrapedAt": "2026-11-23T11:53:07.980Z",
+    "scrapedAt": "2026-11-24T13:19:28.252Z",
     "scraper": "CarolineOfBrunswickScraper"
   },
   {
@@ -338,8 +302,53 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/thebetterdead",
     "dateUnix": 1795737600000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Story Magic",
+    "date": "Fri 27 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic/?eid=21579",
+    "dateUnix": 1795737600000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Story Magic",
+    "date": "Fri 27 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic/?eid=21580",
+    "dateUnix": 1795737600000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Story Magic – Baby Sessions",
+    "date": "Fri 27 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic-baby-sessions/?eid=21582",
+    "dateUnix": 1795737600000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Back In Time: A Tribute To The 80’s with Murdoch’s Crazy Eyes",
+    "date": "Fri 27 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/back-in-time-80s-show-with-murdochs-crazy-eyes/?eid=18522",
+    "dateUnix": 1795737600000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 27 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=18938",
+    "dateUnix": 1795737600000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "JETSTREAM PONY",
@@ -347,7 +356,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/nov-27-jetstream-pony",
     "dateUnix": 1795737600000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -356,7 +365,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/L17-brighton-dome-backstage-tours/",
     "dateUnix": 1795777200000,
-    "scrapedAt": "2026-11-23T11:53:01.360Z",
+    "scrapedAt": "2026-11-24T13:19:25.392Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -365,7 +374,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/soot-sprite/",
     "dateUnix": 1795807800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -374,7 +383,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/uncle-acid-and-the-deadbeats",
     "dateUnix": 1795807800000,
-    "scrapedAt": "2026-11-23T11:52:55.387Z",
+    "scrapedAt": "2026-11-24T13:19:18.749Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -383,7 +392,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/Li3-phil-wang-uh-oh/",
     "dateUnix": 1795807800000,
-    "scrapedAt": "2026-11-23T11:53:01.360Z",
+    "scrapedAt": "2026-11-24T13:19:25.393Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -392,7 +401,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/L0B-famehungry/",
     "dateUnix": 1795809600000,
-    "scrapedAt": "2026-11-23T11:53:01.360Z",
+    "scrapedAt": "2026-11-24T13:19:25.393Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -401,7 +410,7 @@
     "venue": "Fortune of War",
     "link": "https://www.fortuneofwar.pub/events-2/2023/3/31/pollito-boogaloo-live-cumbia-band-amp-dj-8l9jc-ye7pd-pean6-tk3tj-8h7tt-zfj7b-p369g-hg3sg-fxp53-6gkk2",
     "dateUnix": 1795809600443,
-    "scrapedAt": "2026-11-23T11:53:14.099Z",
+    "scrapedAt": "2026-11-24T13:19:37.491Z",
     "scraper": "FortuneOfWarScraper"
   },
   {
@@ -410,7 +419,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/winter-assault-2026-hail-spirit-noir-uk-exclusive/",
     "dateUnix": 1795824000000,
-    "scrapedAt": "2026-11-23T11:52:57.707Z",
+    "scrapedAt": "2026-11-24T13:19:21.175Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -419,7 +428,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/it-is-still-1985-9/",
     "dateUnix": 1795824000000,
-    "scrapedAt": "2026-11-23T11:52:57.707Z",
+    "scrapedAt": "2026-11-24T13:19:21.175Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -428,7 +437,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/shanti-celeste-midland",
     "dateUnix": 1795824000000,
-    "scrapedAt": "2026-11-23T11:52:58.287Z",
+    "scrapedAt": "2026-11-24T13:19:21.946Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -437,7 +446,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/ghost-patterns/",
     "dateUnix": 1795824000000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.826Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -446,7 +455,7 @@
     "venue": "Caroline of Brunswick",
     "link": "https://carolineofbrunswick.co.uk/events/tbc-844-841-538-700-183-304-304-520-233-881-102-438-433-206-496-778-685-812-924-560-639-926-667-512-110-420-388-707-340/",
     "dateUnix": 1795824000000,
-    "scrapedAt": "2026-11-23T11:53:07.981Z",
+    "scrapedAt": "2026-11-24T13:19:28.253Z",
     "scraper": "CarolineOfBrunswickScraper"
   },
   {
@@ -455,8 +464,35 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/DisgustingSisters",
     "dateUnix": 1795824000000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 28 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=18939",
+    "dateUnix": 1795824000000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Funny Women Live in Brighton",
+    "date": "Sat 28 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/funny-women-live-in-brighton/?eid=18476",
+    "dateUnix": 1795824000000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "The Brighton Moon-Hop",
+    "date": "Sat 28 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-brighton-moon-hop/?eid=19318",
+    "dateUnix": 1795824000000,
+    "scrapedAt": "2026-11-24T13:19:36.398Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "EXCELLENT BEHAVIOUR WITH DJs  KELVIN ANDREWS & JOEY T",
@@ -464,7 +500,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/nov-28-xlnt-bhvr",
     "dateUnix": 1795824000000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -473,7 +509,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/Ls5-russell-howard-dont-tell-the-algorithm/",
     "dateUnix": 1795836600000,
-    "scrapedAt": "2026-11-23T11:53:01.360Z",
+    "scrapedAt": "2026-11-24T13:19:25.393Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -482,7 +518,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/steve-white-trio/",
     "dateUnix": 1795894200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -491,7 +527,7 @@
     "venue": "Brighton Dome",
     "link": "https://brightondome.org/whats-on/L3a-hejira-celebrating-the-50th-anniversary-of-joni-mitchells-iconic-album/",
     "dateUnix": 1795894200000,
-    "scrapedAt": "2026-11-23T11:53:01.360Z",
+    "scrapedAt": "2026-11-24T13:19:25.393Z",
     "scraper": "BrightonDomeScraper"
   },
   {
@@ -500,7 +536,7 @@
     "venue": "Fortune of War",
     "link": "https://www.fortuneofwar.pub/events-2/2023/4/1/ben-gc-pnse3-3s7ba-9sfpg-j9ax6-tr75p-csgmh-l9hb8-dpdxx-6kt6f-2x44m-wn2cj-8rcab-7r3rx-gbs4y-rmpan-px9tm-5tp4j-pl9y9",
     "dateUnix": 1795896000722,
-    "scrapedAt": "2026-11-23T11:53:14.099Z",
+    "scrapedAt": "2026-11-24T13:19:37.491Z",
     "scraper": "FortuneOfWarScraper"
   },
   {
@@ -509,7 +545,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/spinnaker/",
     "dateUnix": 1795910400000,
-    "scrapedAt": "2026-11-23T11:52:57.707Z",
+    "scrapedAt": "2026-11-24T13:19:21.175Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -518,7 +554,7 @@
     "venue": "Caroline of Brunswick",
     "link": "https://carolineofbrunswick.co.uk/events/tbc-844-841-538-700-183-304-927-129-549-341/",
     "dateUnix": 1795910400000,
-    "scrapedAt": "2026-11-23T11:53:07.981Z",
+    "scrapedAt": "2026-11-24T13:19:28.253Z",
     "scraper": "CarolineOfBrunswickScraper"
   },
   {
@@ -527,8 +563,35 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/felman",
     "dateUnix": 1795910400000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Deviants Market",
+    "date": "Sun 29 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/deviants-market/?eid=18718",
+    "dateUnix": 1795910400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Brighton Soul Club",
+    "date": "Sun 29 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/brighton-soul-club-2/?eid=21023",
+    "dateUnix": 1795910400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Ciao, Italy !  (Stand up in Italian)",
+    "date": "Sun 29 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/ciao-italy-stand-up-in-italian/?eid=21012",
+    "dateUnix": 1795910400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "DYLAN LeBLANC",
@@ -536,7 +599,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/nov-29-dylan-leblanc",
     "dateUnix": 1795910400000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -545,7 +608,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/thimble-horsefair-patrick-circus/",
     "dateUnix": 1795978800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -554,8 +617,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/gotts-street-park",
     "dateUnix": 1795980600000,
-    "scrapedAt": "2026-11-23T11:52:55.388Z",
+    "scrapedAt": "2026-11-24T13:19:18.749Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "<span>The Purcell Singers</span>",
+    "date": "Sun 29 Nov",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/L0f-the-purcell-singers/",
+    "dateUnix": 1795980600000,
+    "scrapedAt": "2026-11-24T13:19:25.393Z",
+    "scraper": "BrightonDomeScraper"
+  },
+  {
+    "title": "Chaps & Straps – Queer Line Dancing",
+    "date": "Mon 30 Nov 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/chaps-straps-queer-line-dancing/?eid=21596",
+    "dateUnix": 1795996800000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Congratulations",
@@ -563,7 +644,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/congratulations-2/",
     "dateUnix": 1796067000000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -572,7 +653,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/mustbejohn/",
     "dateUnix": 1796083200000,
-    "scrapedAt": "2026-11-23T11:52:57.707Z",
+    "scrapedAt": "2026-11-24T13:19:21.175Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -581,7 +662,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/tydl/",
     "dateUnix": 1796083200000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.827Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -590,7 +671,7 @@
     "venue": "Caroline of Brunswick",
     "link": "https://carolineofbrunswick.co.uk/events/private-hire-353-107-382-244-500-659-194-269-579-609-108-672-356-528-877-551-625-678-867-169-432-110-230-360-194-538-832-509-442-238-447-780-950-845-952-145-445-162-505-106-585-172-717-385-327-655-16/",
     "dateUnix": 1796083200000,
-    "scrapedAt": "2026-11-23T11:53:07.982Z",
+    "scrapedAt": "2026-11-24T13:19:28.253Z",
     "scraper": "CarolineOfBrunswickScraper"
   },
   {
@@ -599,7 +680,7 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/thistle",
     "dateUnix": 1796083200000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
   },
   {
@@ -608,8 +689,44 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/club/NotACult0112",
     "dateUnix": 1796083200000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Bring Your Own Baby Comedy Brighton",
+    "date": "Tue 1 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/bring-your-own-baby-comedy-brighton/?eid=17760",
+    "dateUnix": 1796083200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "GRACE BRIDIE Plus Special Guests",
+    "date": "Tue 1 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/grace-bridie-plus-special-guests/?eid=21624",
+    "dateUnix": 1796083200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "New Act Night",
+    "date": "Tue 1 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/new-act-night/?eid=18107",
+    "dateUnix": 1796083200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "<span>One Voice Festival of Singing 2026</span>",
+    "date": "Tue 1 & Wed 2 Dec",
+    "venue": "Brighton Dome",
+    "link": "https://brightondome.org/whats-on/LJG-one-voice-festival-of-singing-2026/",
+    "dateUnix": 1796144400000,
+    "scrapedAt": "2026-11-24T13:19:25.393Z",
+    "scraper": "BrightonDomeScraper"
   },
   {
     "title": "Jarrod Dickenson",
@@ -617,7 +734,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/jarrod-dickenson-2/",
     "dateUnix": 1796153400000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -626,8 +743,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/andrew-cushin",
     "dateUnix": 1796153400000,
-    "scrapedAt": "2026-11-23T11:52:55.388Z",
+    "scrapedAt": "2026-11-24T13:19:18.749Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Boast in Show",
+    "date": "Wed 2 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/boast-in-show/?eid=18695",
+    "dateUnix": 1796169600000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Bogan Bingo",
+    "date": "Wed 2 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/bogan-bingo/?eid=19276",
+    "dateUnix": 1796169600000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "REVOLT Presents: Playing Alice + Psychic &#038; Wellbeing Event + Bella Artois + Pigeon Dog",
@@ -635,7 +770,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/revolt-presents-playing-alice-psychic-wellbeing-event-bella-artois-pigeon-dog/",
     "dateUnix": 1796239800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -644,7 +779,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-ordinary-boys",
     "dateUnix": 1796239800000,
-    "scrapedAt": "2026-11-23T11:52:55.388Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -653,7 +788,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/hollow-ship/",
     "dateUnix": 1796256000000,
-    "scrapedAt": "2026-11-23T11:52:57.707Z",
+    "scrapedAt": "2026-11-24T13:19:21.175Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -662,7 +797,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/spirit-of-gravity/",
     "dateUnix": 1796256000000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.827Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -671,8 +806,17 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/mehfil-e-rose-hill-rising-stars/",
     "dateUnix": 1796256000000,
-    "scrapedAt": "2026-11-23T11:52:59.337Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "PRIVATE HIRE",
+    "date": "03 Dec 2026",
+    "venue": "Caroline of Brunswick",
+    "link": "https://carolineofbrunswick.co.uk/events/private-hire-353-107-382-244-500-659-194-269-579-609-108-672-356-528-877-551-625-678-867-169-432-110-230-360-194-538-832-509-442-238-447-780-950-845-952-145-445-162-505-106-585-172-717-385-327-655-1-4/",
+    "dateUnix": 1796256000000,
+    "scrapedAt": "2026-11-24T13:19:28.253Z",
+    "scraper": "CarolineOfBrunswickScraper"
   },
   {
     "title": "Liam C",
@@ -680,8 +824,26 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/liamc",
     "dateUnix": 1796256000000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Komedia Christmas Party",
+    "date": "Thu 3 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-christmas-party/?eid=20592",
+    "dateUnix": 1796256000000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "STAND UP FOR GAZA",
+    "date": "Thu 3 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/stand-up-for-gaza/?eid=20800",
+    "dateUnix": 1796256000000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "WILLIAM D DRAKE & HIS SO-CALLED FRIENDS",
@@ -689,17 +851,8 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/dec-3-william-d-drake-his-socalled-friends",
     "dateUnix": 1796256000000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
-  },
-  {
-    "title": "MAKTHAVERSKAN",
-    "date": "2026-12-03T19:30",
-    "venue": "Hope & Ruin",
-    "link": "https://www.hope.pub/event/makthaverskan/",
-    "dateUnix": 1796326200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
-    "scraper": "HopeRuinScraper"
   },
   {
     "title": "The House of Love",
@@ -707,8 +860,17 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-house-of-love",
     "dateUnix": 1796326200000,
-    "scrapedAt": "2026-11-23T11:52:55.388Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "MAKTHAVERSKAN",
+    "date": "2026-12-03T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/makthaverskan/",
+    "dateUnix": 1796328000000,
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
+    "scraper": "HopeRuinScraper"
   },
   {
     "title": "Danalogue",
@@ -716,7 +878,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/danalogue/",
     "dateUnix": 1796342400000,
-    "scrapedAt": "2026-11-23T11:52:57.707Z",
+    "scrapedAt": "2026-11-24T13:19:21.175Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -725,7 +887,7 @@
     "venue": "Green Door Store",
     "link": "https://thegreendoorstore.co.uk/events/90s-vs-00s-3/",
     "dateUnix": 1796342400000,
-    "scrapedAt": "2026-11-23T11:52:57.707Z",
+    "scrapedAt": "2026-11-24T13:19:21.175Z",
     "scraper": "GreenDoorScraper"
   },
   {
@@ -734,7 +896,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/quantic-dj-set",
     "dateUnix": 1796342400000,
-    "scrapedAt": "2026-11-23T11:52:58.287Z",
+    "scrapedAt": "2026-11-24T13:19:21.946Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -743,7 +905,16 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/free-the-rave-w-anais",
     "dateUnix": 1796342400000,
-    "scrapedAt": "2026-11-23T11:52:58.287Z",
+    "scrapedAt": "2026-11-24T13:19:21.947Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "B2B The Movement: Christmas Special",
+    "date": "December 4, 2026",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/b2b-the-movement-christmas-special",
+    "dateUnix": 1796342400000,
+    "scrapedAt": "2026-11-24T13:19:21.947Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -752,7 +923,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/just-lust/",
     "dateUnix": 1796342400000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.827Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -761,17 +932,8 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/mike-the-mic-returns/",
     "dateUnix": 1796342400000,
-    "scrapedAt": "2026-11-23T11:52:59.337Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
-  },
-  {
-    "title": "Royal Blood",
-    "date": "2026-12-04T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/royal-blood/",
-    "dateUnix": 1796342400000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
   },
   {
     "title": "Finnian James",
@@ -779,7 +941,7 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/FinnianJames",
     "dateUnix": 1796342400000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
   },
   {
@@ -788,8 +950,62 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/club/foal041226",
     "dateUnix": 1796342400000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Story Magic",
+    "date": "Fri 4 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic/?eid=20766",
+    "dateUnix": 1796342400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Story Magic",
+    "date": "Fri 4 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic/?eid=20767",
+    "dateUnix": 1796342400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Story Magic – Baby Sessions",
+    "date": "Fri 4 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic-baby-sessions/?eid=20812",
+    "dateUnix": 1796342400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Christmas Party",
+    "date": "Fri 4 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-christmas-party/?eid=20593",
+    "dateUnix": 1796342400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "The Maydays: Confessions!",
+    "date": "Fri 4 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-maydays-confessions/?eid=18572",
+    "dateUnix": 1796342400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Heated Rivalry Anniversary Party with Harrison (fundraiser)",
+    "date": "Fri 4 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/heated-rivalry-anniversary-party/?eid=21577",
+    "dateUnix": 1796342400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "RÍOGHNACH CONNOLLY & HONEYFEET",
@@ -797,8 +1013,17 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/dec-4-roghnachconnolly-honeyfeet",
     "dateUnix": 1796342400000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
+  },
+  {
+    "title": "WREXMAS: WREX + Toy Parlour + Claw Machine",
+    "date": "2026-12-04T20:00",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/wrexmas-wrex-toy-parlour-claw-machine/",
+    "dateUnix": 1796414400000,
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
+    "scraper": "HopeRuinScraper"
   },
   {
     "title": "Salsadelic (live band) &amp; SelvaSistema DJs",
@@ -806,7 +1031,7 @@
     "venue": "Fortune of War",
     "link": "https://www.fortuneofwar.pub/events-2/2023/4/1/ben-gc-pnse3-3s7ba-9sfpg-j9ax6-tr75p-csgmh-l9hb8-dpdxx-6kt6f-2x44m-wn2cj-7n76a-6smfj-d8hgj-cswpe-aw54c-a9gfp-9mjsr-2lb69-439cz-crjrd-bh2rd-kjpag-4yttc-4jaah",
     "dateUnix": 1796414400163,
-    "scrapedAt": "2026-11-23T11:53:14.099Z",
+    "scrapedAt": "2026-11-24T13:19:37.491Z",
     "scraper": "FortuneOfWarScraper"
   },
   {
@@ -815,7 +1040,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/mumfest/",
     "dateUnix": 1796428800000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.827Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -824,17 +1049,8 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/church-andrews-aka-kirk-barley-matt-davies/",
     "dateUnix": 1796428800000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
-  },
-  {
-    "title": "Squeeze Plus Very Special Guest Billy Bragg",
-    "date": "2026-12-05T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/squeeze/",
-    "dateUnix": 1796428800000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
   },
   {
     "title": "Age Against The Machine Christmas Special",
@@ -842,7 +1058,7 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/aatmc26",
     "dateUnix": 1796428800000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
   },
   {
@@ -851,8 +1067,26 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/club/irnova",
     "dateUnix": 1796428800000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Komedia Christmas Party",
+    "date": "Sat 5 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-christmas-party/?eid=20594",
+    "dateUnix": 1796428800000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "The Sassy Cabaret Club Presents…A Christmas Cracker!",
+    "date": "Sat 5 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-sassy-cabaret-club-presents-a-christmas-cracker/?eid=20378",
+    "dateUnix": 1796428800000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "FARMA G",
@@ -860,7 +1094,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/dec-5-farma-g",
     "dateUnix": 1796428800000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -869,7 +1103,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/restraining-order/",
     "dateUnix": 1796497200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -878,7 +1112,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/restraining-order-2/",
     "dateUnix": 1796497200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -887,17 +1121,44 @@
     "venue": "Fortune of War",
     "link": "https://www.fortuneofwar.pub/events-2/2023/4/1/ben-gc-pnse3-3s7ba-9sfpg-j9ax6-tr75p-csgmh-l9hb8-dpdxx-6kt6f-2x44m-5s8mn-ad2mg-fewc2-7wxep",
     "dateUnix": 1796500800505,
-    "scrapedAt": "2026-11-23T11:53:14.099Z",
+    "scrapedAt": "2026-11-24T13:19:37.491Z",
     "scraper": "FortuneOfWarScraper"
   },
   {
-    "title": "Morrissey",
-    "date": "2026-12-06T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/morrissey/",
+    "title": "Record Fair",
+    "date": "Sun 6 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/record-fair/?eid=17780",
     "dateUnix": 1796515200000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Britallica (Britney Spears Metal Tribute) + Support",
+    "date": "Sun 6 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/britallica-britney-spears-metal-tribute-support/?eid=20011",
+    "dateUnix": 1796515200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Will Wilde",
+    "date": "Sun 6 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/will-wilde/?eid=19941",
+    "dateUnix": 1796515200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "A Dinner With The Sl*ts",
+    "date": "Sun 6 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/a-dinner-with-the-slts/?eid=20526",
+    "dateUnix": 1796515200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "G.E.T. VOL 2",
@@ -905,7 +1166,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/dec-6-get-vol-2",
     "dateUnix": 1796515200000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -914,7 +1175,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/shallow-honey-2/",
     "dateUnix": 1796581800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -923,8 +1184,17 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/electric-six",
     "dateUnix": 1796585400000,
-    "scrapedAt": "2026-11-23T11:52:55.389Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Solve-Along-A-Murder-She-Wrote",
+    "date": "Mon 7 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/solve-along-a-murder-she-wrote/?eid=19740",
+    "dateUnix": 1796601600000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Max Gomart",
@@ -932,17 +1202,8 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/max-gomart/",
     "dateUnix": 1796688000000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.827Z",
     "scraper": "RossiBarScraper"
-  },
-  {
-    "title": "Ocean Colour Scene",
-    "date": "2026-12-08T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/ocean-colour-scene/",
-    "dateUnix": 1796688000000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
   },
   {
     "title": "Not A Cult",
@@ -950,8 +1211,26 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/club/NotACult0812",
     "dateUnix": 1796688000000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Scummy Mummies – Christmas Show",
+    "date": "Tue 8 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/scummy-mummies-christmas-show/?eid=19436",
+    "dateUnix": 1796688000000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Scummy Mummies – Christmas Show",
+    "date": "Tue 8 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/scummy-mummies-christmas-show/?eid=19437",
+    "dateUnix": 1796688000000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Symptoms of Balf - Dead Girl - Marla",
@@ -959,8 +1238,17 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/724983",
     "dateUnix": 1796758200000,
-    "scrapedAt": "2026-11-23T11:52:58.243Z",
+    "scrapedAt": "2026-11-24T13:19:22.219Z",
     "scraper": "PipelineScraper"
+  },
+  {
+    "title": "Do All The Christmas Things",
+    "date": "Wed 9 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/do-all-the-christmas-things/?eid=20409",
+    "dateUnix": 1796774400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "13 Years of AcidBox",
@@ -968,7 +1256,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/13-years-of-acidbox/",
     "dateUnix": 1796844600000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -977,7 +1265,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/young-knives",
     "dateUnix": 1796844600000,
-    "scrapedAt": "2026-11-23T11:52:55.389Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -986,8 +1274,26 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/tbq",
     "dateUnix": 1796860800000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Komedia Christmas Party",
+    "date": "Thu 10 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-christmas-party/?eid=20595",
+    "dateUnix": 1796860800000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Christian Jegard’s Christmas Bedsit Party",
+    "date": "Thu 10 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/christian-jegards-christmas-bedsit-party/?eid=20788",
+    "dateUnix": 1796860800000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "CQ WRESTLING",
@@ -995,7 +1301,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/dec-10-cq-wrestling",
     "dateUnix": 1796860800000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1004,7 +1310,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/triptych-ix-ceann-capaill-maximilian-sairie/",
     "dateUnix": 1796932800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1013,7 +1319,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/daddy-g-massive-attack",
     "dateUnix": 1796947200000,
-    "scrapedAt": "2026-11-23T11:52:58.287Z",
+    "scrapedAt": "2026-11-24T13:19:21.947Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1022,7 +1328,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/city-wall-x-mark-broom",
     "dateUnix": 1796947200000,
-    "scrapedAt": "2026-11-23T11:52:58.288Z",
+    "scrapedAt": "2026-11-24T13:19:21.947Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1031,17 +1337,8 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/portmeirion-with-special-guest-dj-format-december-2026/",
     "dateUnix": 1796947200000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
-  },
-  {
-    "title": "UB40 ft. Ali Campbell",
-    "date": "2026-12-11T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/ub40-ft-ali-campbell/",
-    "dateUnix": 1796947200000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
   },
   {
     "title": "Goodnight, Texas",
@@ -1049,8 +1346,53 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/goodnighttexas",
     "dateUnix": 1796947200000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Story Magic",
+    "date": "Fri 11 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic/?eid=20768",
+    "dateUnix": 1796947200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Story Magic",
+    "date": "Fri 11 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic/?eid=20769",
+    "dateUnix": 1796947200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Story Magic – Baby Sessions",
+    "date": "Fri 11 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic-baby-sessions/?eid=20813",
+    "dateUnix": 1796947200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Christmas Party",
+    "date": "Fri 11 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-christmas-party/?eid=20596",
+    "dateUnix": 1796947200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Adam Riches IS Sean Bean IN ‘How the Bean Saved Christmas’",
+    "date": "Fri 11 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/adam-riches-is-sean-bean-in-how-the-bean-saved-christmas/?eid=20159",
+    "dateUnix": 1796947200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Elvana",
@@ -1058,7 +1400,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/elvana",
     "dateUnix": 1797013800000,
-    "scrapedAt": "2026-11-23T11:52:55.389Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1067,7 +1409,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/triptych-ix-my-precious-bunny-al-cologne-kitty-fitz/",
     "dateUnix": 1797019200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1076,7 +1418,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/trancecoda-presents-j00f-editions",
     "dateUnix": 1797033600000,
-    "scrapedAt": "2026-11-23T11:52:58.288Z",
+    "scrapedAt": "2026-11-24T13:19:21.947Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -1085,7 +1427,7 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/10-years-of-missing-people/",
     "dateUnix": 1797033600000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.827Z",
     "scraper": "RossiBarScraper"
   },
   {
@@ -1094,17 +1436,8 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/melting-vinyl-presents-departure-lounge-special-guests/",
     "dateUnix": 1797033600000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
-  },
-  {
-    "title": "Jools Holland",
-    "date": "2026-12-12T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/jools-holland/",
-    "dateUnix": 1797033600000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
   },
   {
     "title": "Barbara",
@@ -1112,8 +1445,35 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/Barbara",
     "dateUnix": 1797033600000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Comedy Club 4 Kids",
+    "date": "Sat 12 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/comedy-club-4-kids/?eid=18273",
+    "dateUnix": 1797033600000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Christmas Party",
+    "date": "Sat 12 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-christmas-party/?eid=20597",
+    "dateUnix": 1797033600000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 12 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21558",
+    "dateUnix": 1797033600000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "THE ROEBUCKS",
@@ -1121,7 +1481,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/dec-12-the-roebucks",
     "dateUnix": 1797033600000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1130,7 +1490,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/triptych-ix-magda-divorce-attorney-and-m-woodroe/",
     "dateUnix": 1797105600000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1139,7 +1499,7 @@
     "venue": "Fortune of War",
     "link": "https://www.fortuneofwar.pub/events-2/2023/4/1/ben-gc-pnse3-3s7ba-9sfpg-j9ax6-tr75p-csgmh-l9hb8-dpdxx-6kt6f-2x44m-wn2cj-7n76a-6smfj-9fmcx-ld9y5-ha72n-lbmw7-3h559-kcnxe",
     "dateUnix": 1797105600028,
-    "scrapedAt": "2026-11-23T11:53:14.099Z",
+    "scrapedAt": "2026-11-24T13:19:37.491Z",
     "scraper": "FortuneOfWarScraper"
   },
   {
@@ -1148,8 +1508,17 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/safehouse-matinee-roger-turner-chris-biscoe-n-o-moore-dragonmelt/",
     "dateUnix": 1797120000000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sun 13 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21627",
+    "dateUnix": 1797120000000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Nightmare Before Christmas Screening",
@@ -1157,7 +1526,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/nightmare-before-christmas-screening",
     "dateUnix": 1797188400000,
-    "scrapedAt": "2026-11-23T11:52:55.389Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1166,8 +1535,17 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/softcult",
     "dateUnix": 1797206400000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Comedy at Christmas: The Best Of Edinburgh Fringe",
+    "date": "Mon 14 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/comedy-at-christmas-the-best-of-edinburgh-fringe/?eid=21033",
+    "dateUnix": 1797206400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Haus of velvet christmas party!",
@@ -1175,17 +1553,17 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/haus-of-velvet-christmas-party/",
     "dateUnix": 1797292800000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.827Z",
     "scraper": "RossiBarScraper"
   },
   {
-    "title": "The Darkness",
-    "date": "2026-12-15T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/the-darkness/",
+    "title": "Bogan Bingo",
+    "date": "Tue 15 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/bogan-bingo/?eid=19277",
     "dateUnix": 1797292800000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Aeternum + Frances Murray + Lo-Max + P.W.O.D",
@@ -1193,7 +1571,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/aeternum-frances-murray-lo-max-p-w-o-d/",
     "dateUnix": 1797361200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1202,7 +1580,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-simpsons-ultimate-quiz",
     "dateUnix": 1797361200000,
-    "scrapedAt": "2026-11-23T11:52:55.389Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1211,8 +1589,17 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/notes-december26",
     "dateUnix": 1797363000076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
+  },
+  {
+    "title": "ABBA Re-Bjorn at Christmas",
+    "date": "Wed 16 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/abba-re-bjorn-at-christmas/?eid=20618",
+    "dateUnix": 1797379200000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "QUATERMASS 3",
@@ -1220,7 +1607,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/dec-16-quatermass-3",
     "dateUnix": 1797379200000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1229,7 +1616,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hh-presents-girlband-currls-tall-child-kanukai/",
     "dateUnix": 1797449400000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1238,8 +1625,26 @@
     "venue": "Rossi Bar",
     "link": "https://therossibar.co.uk/events/scared-little-toaster/",
     "dateUnix": 1797465600000,
-    "scrapedAt": "2026-11-23T11:53:00.060Z",
+    "scrapedAt": "2026-11-24T13:19:23.827Z",
     "scraper": "RossiBarScraper"
+  },
+  {
+    "title": "Komedia Christmas Party",
+    "date": "Thu 17 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-christmas-party/?eid=20599",
+    "dateUnix": 1797465600000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "The Witchcraft and Vagrancy Act: A Folk Horror Christmas",
+    "date": "Thu 17 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-witchcraft-and-vagrancy-act-folk-horror-christmas/?eid=20375",
+    "dateUnix": 1797465600000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "1000 RABBITS",
@@ -1247,7 +1652,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/dec-17-1000-rabbits",
     "dateUnix": 1797465600000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1256,7 +1661,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/collect-paul-collect-call-perform-the-songs-of-paul-mccartney/",
     "dateUnix": 1797535800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1265,17 +1670,8 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/treehouse-presents-sailing-moon-fred-hills-quartet/",
     "dateUnix": 1797552000000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
-  },
-  {
-    "title": "Step Into Christmas",
-    "date": "2026-12-18T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/step-into-christmas/",
-    "dateUnix": 1797552000000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
   },
   {
     "title": "No Scrubs Xmas Party",
@@ -1283,8 +1679,62 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/club/NoScrubsXmasParty",
     "dateUnix": 1797552000000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Story Magic",
+    "date": "Fri 18 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic/?eid=20770",
+    "dateUnix": 1797552000000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Story Magic",
+    "date": "Fri 18 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic/?eid=20771",
+    "dateUnix": 1797552000000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Story Magic – Baby Sessions",
+    "date": "Fri 18 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/story-magic-baby-sessions/?eid=20814",
+    "dateUnix": 1797552000000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Joe Black & Friends: A Not Completely Christmas* Kabarett",
+    "date": "Fri 18 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/joe-black-friends-a-not-completely-christmas-kabarett/?eid=21636",
+    "dateUnix": 1797552000000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Christmas Party",
+    "date": "Fri 18 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-christmas-party/?eid=20600",
+    "dateUnix": 1797552000000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Joe Black & Friends: A Not Completely Christmas* Kabarett",
+    "date": "Fri 18 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/joe-black-friends-a-not-completely-christmas-kabarett/?eid=21562",
+    "dateUnix": 1797552000000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "80s HiFi Christmas Party",
@@ -1292,7 +1742,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/80s-hifi-christmas-party",
     "dateUnix": 1797620400000,
-    "scrapedAt": "2026-11-23T11:52:55.389Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1301,7 +1751,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/call-me-franco-album-launch/",
     "dateUnix": 1797622200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1310,17 +1760,44 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/a-seance-for-the-solstice-with-burd-ellen-jodie-lowther-winter-2026/",
     "dateUnix": 1797638400000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
   },
   {
-    "title": "The Bootleg Beatles",
-    "date": "2026-12-19T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/the-bootleg-beatles/",
+    "title": "Longnose Puppets Presents: Penguin",
+    "date": "Sat 19 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/longnose-puppets-presents-penguin/?eid=20426",
     "dateUnix": 1797638400000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Lovers II Friends – 90s/00s Day Party",
+    "date": "Sat 19 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/lovers-ii-friends-90s-00s-day-party/?eid=20257",
+    "dateUnix": 1797638400000,
+    "scrapedAt": "2026-11-24T13:19:36.399Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Christmas Party",
+    "date": "Sat 19 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-christmas-party/?eid=20601",
+    "dateUnix": 1797638400000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Spellbound",
+    "date": "Sat 19 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/spellbound/?eid=19570",
+    "dateUnix": 1797638400000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "NINA WINDER-LIND",
@@ -1328,7 +1805,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/dec-19-nina-winderlind",
     "dateUnix": 1797638400000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1337,7 +1814,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/absolute-bowie-christmas-special",
     "dateUnix": 1797706800000,
-    "scrapedAt": "2026-11-23T11:52:55.389Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1346,17 +1823,44 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/st-ll-big-lemon-bats-feet/",
     "dateUnix": 1797708600000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
-    "title": "Jamie T",
-    "date": "2026-12-20T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2026/jamie-t/",
+    "title": "The Puppet Folk Experience — Christmas Show",
+    "date": "Sun 20 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-puppet-folk-experience-christmas-show/?eid=21505",
     "dateUnix": 1797724800000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Longnose Puppets Presents: Penguin",
+    "date": "Sun 20 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/longnose-puppets-presents-penguin/?eid=20427",
+    "dateUnix": 1797724800000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "The Puppet Folk Experience — Christmas Show",
+    "date": "Sun 20 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-puppet-folk-experience-christmas-show/?eid=21474",
+    "dateUnix": 1797724800000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "UK Queen",
+    "date": "Sun 20 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/uk-queen/?eid=20646",
+    "dateUnix": 1797724800000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "MAX WHITE",
@@ -1364,7 +1868,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/dec-20-max-white",
     "dateUnix": 1797724800000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1373,8 +1877,62 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-smyths",
     "dateUnix": 1797795000000,
-    "scrapedAt": "2026-11-23T11:52:55.389Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Longnose Puppets Presents: Penguin",
+    "date": "Mon 21 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/longnose-puppets-presents-penguin/?eid=20438",
+    "dateUnix": 1797811200000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Longnose Puppets Presents: Penguin",
+    "date": "Mon 21 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/longnose-puppets-presents-penguin/?eid=20439",
+    "dateUnix": 1797811200000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Suspiciously Elvis Christmas Special",
+    "date": "Mon 21 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/suspiciously-elvis-christmas-special/?eid=20615",
+    "dateUnix": 1797811200000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Longnose Puppets Presents: Penguin",
+    "date": "Tue 22 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/longnose-puppets-presents-penguin/?eid=20440",
+    "dateUnix": 1797897600000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Longnose Puppets Presents: Penguin",
+    "date": "Tue 22 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/longnose-puppets-presents-penguin/?eid=20441",
+    "dateUnix": 1797897600000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Do All The Christmas Things",
+    "date": "Tue 22 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/do-all-the-christmas-things/?eid=20410",
+    "dateUnix": 1797897600000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Resident Presents The Script",
@@ -1382,7 +1940,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/resident-presents-the-script",
     "dateUnix": 1797958800000,
-    "scrapedAt": "2026-11-23T11:52:55.390Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1391,8 +1949,71 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-script",
     "dateUnix": 1797969600000,
-    "scrapedAt": "2026-11-23T11:52:55.390Z",
+    "scrapedAt": "2026-11-24T13:19:18.750Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Longnose Puppets Presents: Penguin",
+    "date": "Wed 23 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/longnose-puppets-presents-penguin/?eid=20442",
+    "dateUnix": 1797984000000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Longnose Puppets Presents: Penguin",
+    "date": "Wed 23 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/longnose-puppets-presents-penguin/?eid=20443",
+    "dateUnix": 1797984000000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Do All The Christmas Things",
+    "date": "Wed 23 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/do-all-the-christmas-things/?eid=20411",
+    "dateUnix": 1797984000000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Longnose Puppets Presents: Penguin",
+    "date": "Thu 24 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/longnose-puppets-presents-penguin/?eid=20428",
+    "dateUnix": 1798070400000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Rhiannon – The Fleetwood Mac Show",
+    "date": "Sun 27 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/rhiannon-the-fleetwood-mac-show/?eid=20637",
+    "dateUnix": 1798329600000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "James Lavelle (Unkle / Mo’Wax)",
+    "date": "Tue 29 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/james-lavelle-unkle-mowax/?eid=20889",
+    "dateUnix": 1798502400000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Comic Boom Comedy Club",
+    "date": "Wed 30 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/comic-boom/?eid=18639",
+    "dateUnix": 1798588800000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Quarters NYE: Groove Cartel x B2B x Dot",
@@ -1400,8 +2021,44 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/quarters-nye",
     "dateUnix": 1798675200000,
-    "scrapedAt": "2026-11-23T11:52:58.288Z",
+    "scrapedAt": "2026-11-24T13:19:21.947Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Disco Kidz – New Year’s Eve Special",
+    "date": "Thu 31 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/disco-kidz-new-years-eve-special/?eid=21381",
+    "dateUnix": 1798675200000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Thu 31 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21031",
+    "dateUnix": 1798675200000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Spellbound",
+    "date": "Thu 31 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/spellbound/?eid=20112",
+    "dateUnix": 1798675200000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Boogie Wonderland – 70s Disco NYE party!",
+    "date": "Thu 31 Dec 2026",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/boogie-wonderland-70s-disco-nye-party/?eid=21032",
+    "dateUnix": 1798675200000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "NYE SPECIAL! TAKE OUT THE TRASH",
@@ -1409,7 +2066,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/dec-31-nye-special-take-out-the-trash",
     "dateUnix": 1798675200000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1418,8 +2075,17 @@
     "venue": "Fortune of War",
     "link": "https://www.fortuneofwar.pub/events-2/https/wwweventbritecouk/e/nye-at-the-fortune-of-war-tickets-1972609477047-a6ekp",
     "dateUnix": 1798747200707,
-    "scrapedAt": "2026-11-23T11:53:14.099Z",
+    "scrapedAt": "2026-11-24T13:19:37.491Z",
     "scraper": "FortuneOfWarScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 2 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21107",
+    "dateUnix": 1798848000000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Ben GC",
@@ -1427,8 +2093,71 @@
     "venue": "Fortune of War",
     "link": "https://www.fortuneofwar.pub/events-2/2023/4/1/ben-gc-pnse3-3s7ba-9sfpg-j9ax6-tr75p-csgmh-l9hb8-dpdxx-6kt6f-2x44m-wn2cj-8rcab-7r3rx-gbs4y-bmrb6",
     "dateUnix": 1798923600080,
-    "scrapedAt": "2026-11-23T11:53:14.099Z",
+    "scrapedAt": "2026-11-24T13:19:37.491Z",
     "scraper": "FortuneOfWarScraper"
+  },
+  {
+    "title": "James Phelan: The Man Who Was Magic",
+    "date": "Mon 4 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/james-phelan-the-man-who-was-magic/?eid=20210",
+    "dateUnix": 1799020800000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "James Phelan: The Man Who Was Magic",
+    "date": "Tue 5 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/james-phelan-the-man-who-was-magic/?eid=20211",
+    "dateUnix": 1799107200000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "James Phelan: The Man Who Was Magic",
+    "date": "Wed 6 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/james-phelan-the-man-who-was-magic/?eid=20212",
+    "dateUnix": 1799193600000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Li Jin Hao & Pravanya Pillay WIP",
+    "date": "Thu 7 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/li-jin-hao-pravanya-pillay-wip/?eid=21589",
+    "dateUnix": 1799280000000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "James Phelan: The Man Who Was Magic",
+    "date": "Thu 7 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/james-phelan-the-man-who-was-magic/?eid=20213",
+    "dateUnix": 1799280000000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "HUH?! Milkshake Boy’s Album Launch Party!",
+    "date": "Fri 8 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/huh-milkshake-boys-album-launch-party/?eid=21681",
+    "dateUnix": 1799366400000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 8 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21076",
+    "dateUnix": 1799366400000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "DILATED.INC",
@@ -1436,7 +2165,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/jan-8-dialatedinc",
     "dateUnix": 1799366400000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1445,8 +2174,17 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/pigeon",
     "dateUnix": 1799434800000,
-    "scrapedAt": "2026-11-23T11:52:55.390Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 9 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=20945",
+    "dateUnix": 1799452800000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "JGRREY",
@@ -1454,7 +2192,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/jgrrey/",
     "dateUnix": 1799868600000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1463,7 +2201,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/ovven/",
     "dateUnix": 1799956800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1472,8 +2210,26 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/free-the-jungle-w-benny-page-doktor",
     "dateUnix": 1799971200000,
-    "scrapedAt": "2026-11-23T11:52:58.288Z",
+    "scrapedAt": "2026-11-24T13:19:21.947Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "myndstate: deep breath",
+    "date": "Fri 15 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/myndstate-deep-breath/?eid=20235",
+    "dateUnix": 1799971200000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 15 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=20949",
+    "dateUnix": 1799971200000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "HH: ugly ozo + HIGHDRIVE + Divorce Attorney + SNM",
@@ -1481,8 +2237,26 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hh-ugly-ozo-highdrive-divorce-attorney-snm/",
     "dateUnix": 1800041400000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Lovers II Friends – 90s/00s Day Party",
+    "date": "Sat 16 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/lovers-ii-friends-90s-00s-day-party/?eid=21522",
+    "dateUnix": 1800057600000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 16 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21108",
+    "dateUnix": 1800057600000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Cowboy Hunters",
@@ -1490,8 +2264,26 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/cowboy-hunters/",
     "dateUnix": 1800129600000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Komedia New Comedy Award",
+    "date": "Sun 17 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-new-comedy-award-in-association-with-comic-boom-and-victoria-nangle/?eid=20795",
+    "dateUnix": 1800144000000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia New Comedy Award",
+    "date": "Sun 17 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-new-comedy-award-in-association-with-comic-boom-and-victoria-nangle/?eid=20796",
+    "dateUnix": 1800144000000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "The Dolly Parton and Kenny Rogers Experience",
@@ -1499,8 +2291,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-dolly-parton-and-kenny-rogers-experience-dollys-birthday-celebration",
     "dateUnix": 1800387000000,
-    "scrapedAt": "2026-11-23T11:52:55.390Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Sam Eley is Basil Crumbwick: Soul Sewage",
+    "date": "Thu 21 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/sam-eley-is-basil-crumbwick-soul-sewage/?eid=21067",
+    "dateUnix": 1800489600000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 22 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21078",
+    "dateUnix": 1800576000000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Absuma",
@@ -1508,7 +2318,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/absuma/",
     "dateUnix": 1800646200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1517,8 +2327,17 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/groundwork-004-smokey-bubblin-b",
     "dateUnix": 1800662400000,
-    "scrapedAt": "2026-11-23T11:52:58.288Z",
+    "scrapedAt": "2026-11-24T13:19:21.947Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 23 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21109",
+    "dateUnix": 1800662400000,
+    "scrapedAt": "2026-11-24T13:19:36.400Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "ORAL HABIT",
@@ -1526,7 +2345,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/jan-23-oral-habit",
     "dateUnix": 1800662400000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1535,8 +2354,62 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/sugar-free-birthday-other-half-tummyache-more/",
     "dateUnix": 1800727200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Sundae Club",
+    "date": "Sun 24 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/sundae-club/?eid=20582",
+    "dateUnix": 1800748800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia New Comedy Award",
+    "date": "Sun 24 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-new-comedy-award-in-association-with-comic-boom-and-victoria-nangle/?eid=20797",
+    "dateUnix": 1800748800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Rob Newman: 21st Century Survival Guide",
+    "date": "Sun 24 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/rob-newman-21st-century-survival-guide/?eid=20035",
+    "dateUnix": 1800748800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "James Phelan: The Man Who Was Magic",
+    "date": "Mon 25 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/james-phelan-the-man-who-was-magic/?eid=20214",
+    "dateUnix": 1800835200000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Helen Bauer & Thor Stenhaug WIP",
+    "date": "Tue 26 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/helen-bauer-thor-stenhaug-wip/?eid=21591",
+    "dateUnix": 1800921600000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "James Phelan: The Man Who Was Magic",
+    "date": "Tue 26 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/james-phelan-the-man-who-was-magic/?eid=20215",
+    "dateUnix": 1800921600000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Hanne De Backer’s Gabbro in Gabbro: documentary screening + live performance",
@@ -1544,8 +2417,26 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/hanne-de-backers-gabbro-in-gabbro-documentary-screening-live-performance/",
     "dateUnix": 1801008000000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Sam Nicoresti & Priya Hall WIP",
+    "date": "Wed 27 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/sam-nicoresti-priya-hall-wip/?eid=21609",
+    "dateUnix": 1801008000000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "James Phelan: The Man Who Was Magic",
+    "date": "Wed 27 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/james-phelan-the-man-who-was-magic/?eid=20216",
+    "dateUnix": 1801008000000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "HH: The DSM IV + Not Richard &#038; Her Madjesty + sounds mint + Blitzer",
@@ -1553,7 +2444,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hh-the-dsm-iv-not-richard-her-madjesty-sounds-mint-blitzer/",
     "dateUnix": 1801078200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1562,8 +2453,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/fujiya-miyagi",
     "dateUnix": 1801078200000,
-    "scrapedAt": "2026-11-23T11:52:55.390Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Luke Wright: Yes.",
+    "date": "Thu 28 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/luke-wright-yes/?eid=20918",
+    "dateUnix": 1801094400000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "James Phelan: The Man Who Was Magic",
+    "date": "Thu 28 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/james-phelan-the-man-who-was-magic/?eid=20217",
+    "dateUnix": 1801094400000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Gas Bags Networking",
@@ -1571,7 +2480,7 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/gas-bags-networking",
     "dateUnix": 1801137600076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
   },
   {
@@ -1580,7 +2489,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/keywest-3/",
     "dateUnix": 1801164600000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1589,8 +2498,26 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/the-antarctic-monkeys",
     "dateUnix": 1801180800000,
-    "scrapedAt": "2026-11-23T11:52:58.288Z",
+    "scrapedAt": "2026-11-24T13:19:21.947Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Simula Presents Dance Macabre",
+    "date": "January 29, 2027",
+    "venue": "Quarters",
+    "link": "https://quartersbrighton.co.uk/whatson/simula-presents-dance-macabre",
+    "dateUnix": 1801180800000,
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
+    "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 29 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21079",
+    "dateUnix": 1801180800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "PARADE",
@@ -1598,7 +2525,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/jan-29-parade",
     "dateUnix": 1801180800000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1607,8 +2534,17 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/hutch",
     "dateUnix": 1801267200000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 30 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21110",
+    "dateUnix": 1801267200000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "MEMORIAL",
@@ -1616,8 +2552,17 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/jan-30-memorial",
     "dateUnix": 1801267200000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
+  },
+  {
+    "title": "Mark Simmons & Friends",
+    "date": "Sun 31 Jan 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/mark-simmons-friends/?eid=20519",
+    "dateUnix": 1801353600000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Aerial Salad",
@@ -1625,8 +2570,35 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/AerialSalad",
     "dateUnix": 1801612800000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Joe Black’s Kleines Kabarett",
+    "date": "Wed 3 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/joe-blacks-kleines-kabarett/?eid=21572",
+    "dateUnix": 1801612800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Sasha Nezlobin",
+    "date": "Thu 4 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/sasha-nezlobin/?eid=21690",
+    "dateUnix": 1801699200000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Lost Voice Guy – ‘The Cerebral Palsy Puppet’",
+    "date": "Thu 4 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/lost-voice-guy-the-cerebral-palsy-puppet/?eid=21016",
+    "dateUnix": 1801699200000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "KARATE BOOGALOO",
@@ -1634,8 +2606,17 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/feb-4-karate-boogaloo",
     "dateUnix": 1801699200000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 5 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21080",
+    "dateUnix": 1801785600000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "The Mehfil Space Club Night – Tashkezar and DJ ZiaZub",
@@ -1643,17 +2624,8 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/the-mehfil-space-club-night-tashkezar-and-dj-ziazub/",
     "dateUnix": 1801872000000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
-  },
-  {
-    "title": "Bonobo",
-    "date": "2027-02-06T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/bonobo/",
-    "dateUnix": 1801872000000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
   },
   {
     "title": "Moscow Death Brigade",
@@ -1661,8 +2633,35 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/mdb",
     "dateUnix": 1801872000000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Jill Edwards Comedy Workshops",
+    "date": "Sat 6 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/jill-edwards-comedy-workshops-at-komedia-brighton/?eid=19331",
+    "dateUnix": 1801872000000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Jim Moray Plus Support",
+    "date": "Sat 6 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/jim-moray-plus-support/?eid=19416",
+    "dateUnix": 1801872000000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 6 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21111",
+    "dateUnix": 1801872000000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "PARTY TOGETHER & BE FREE #6",
@@ -1670,7 +2669,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/feb-6-party-together-be-free-6",
     "dateUnix": 1801872000000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1679,8 +2678,35 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/709997",
     "dateUnix": 1801942200000,
-    "scrapedAt": "2026-11-23T11:52:57.444Z",
+    "scrapedAt": "2026-11-24T13:19:21.146Z",
     "scraper": "FolkloreRoomsScraper"
+  },
+  {
+    "title": "Record Fair",
+    "date": "Sun 7 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/record-fair/?eid=21257",
+    "dateUnix": 1801958400000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Tinky Winky: My Story",
+    "date": "Sun 7 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/tinky-winky-my-story/?eid=21397",
+    "dateUnix": 1801958400000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Down the Hatch Comedy Club",
+    "date": "Sun 7 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/down-the-hatch/?eid=21348",
+    "dateUnix": 1801958400000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "CONNOLLY HAYES",
@@ -1688,7 +2714,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/feb-7-connolley-hayes",
     "dateUnix": 1801958400000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1697,7 +2723,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/prince-daddy-the-hyenna-gaffa-tape-sandy-jetski/",
     "dateUnix": 1802026800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1706,7 +2732,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/she-wants-revenge",
     "dateUnix": 1802028600000,
-    "scrapedAt": "2026-11-23T11:52:55.390Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1715,8 +2741,35 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/champion-trees/",
     "dateUnix": 1802113200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "John-Luke Roberts: What I Talk About When I Run About, Talking",
+    "date": "Tue 9 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/john-luke-roberts-what-i-talk-about-when-i-run-about-talking/?eid=21484",
+    "dateUnix": 1802131200000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia New Comedy Award",
+    "date": "Wed 10 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-new-comedy-award-in-association-with-comic-boom-and-victoria-nangle/?eid=20794",
+    "dateUnix": 1802217600000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Joel Paterson",
+    "date": "Thu 11 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/joel-paterson/?eid=21507",
+    "dateUnix": 1802304000000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "The Godfathers",
@@ -1724,8 +2777,17 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-godfathers/",
     "dateUnix": 1802376000000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 12 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21081",
+    "dateUnix": 1802390400000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "DARGZ W/ MC NORY (NYC)",
@@ -1733,7 +2795,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/feb-12-dargz-w-mc-nory-nyc",
     "dateUnix": 1802390400000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1742,7 +2804,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/our-man-in-the-field/",
     "dateUnix": 1802458800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1751,8 +2813,26 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/noah-gundersen",
     "dateUnix": 1802476800000,
-    "scrapedAt": "2026-11-23T11:52:58.288Z",
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Amelia Coburn + Support",
+    "date": "Sat 13 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/amelia-coburn-support/?eid=20110",
+    "dateUnix": 1802476800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 13 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21112",
+    "dateUnix": 1802476800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Jamie Lenman",
@@ -1760,7 +2840,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/jamie-lenman/",
     "dateUnix": 1802547000000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1769,7 +2849,7 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/lost-communications-underwater",
     "dateUnix": 1802547000076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
   },
   {
@@ -1778,8 +2858,17 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/HaydenThorpe",
     "dateUnix": 1802563200000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Deviants Market",
+    "date": "Sun 14 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/deviants-market/?eid=20881",
+    "dateUnix": 1802563200000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Holy Motors",
@@ -1787,7 +2876,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/holy-motors/",
     "dateUnix": 1802806200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1796,8 +2885,17 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/jessica-ackerley-eli-wallace-quartet/",
     "dateUnix": 1802908800000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Red Richardson Premium Economy Tour",
+    "date": "Thu 18 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/red-richardson-premium-economy-tour/?eid=20505",
+    "dateUnix": 1802908800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "DJ Diffrent",
@@ -1805,8 +2903,26 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/dj-diffrent-2027-tour",
     "dateUnix": 1802995200000,
-    "scrapedAt": "2026-11-23T11:52:58.289Z",
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "The Music of Wes Anderson Performed by Wes Banderson",
+    "date": "Fri 19 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/wes-banderson/?eid=20629",
+    "dateUnix": 1802995200000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 19 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21082",
+    "dateUnix": 1802995200000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "EXPLORING BIRDSONG",
@@ -1814,7 +2930,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/feb-19-exploring-birdsong",
     "dateUnix": 1802995200000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1823,7 +2939,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-cureheads",
     "dateUnix": 1803063600000,
-    "scrapedAt": "2026-11-23T11:52:55.390Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1832,8 +2948,26 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-velveteers/",
     "dateUnix": 1803065400000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Iain Lee: Imposter Syndrome",
+    "date": "Sat 20 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/iain-lee-imposter-syndrome/?eid=21346",
+    "dateUnix": 1803081600000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 20 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21113",
+    "dateUnix": 1803081600000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "HH: Youth Sector + Arcadia Residential + Lifeloose + Two Man Lift",
@@ -1841,17 +2975,44 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hh-youth-sector-arcadia-residential-lifeloose-two-man-lift/",
     "dateUnix": 1803151800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
-    "title": "Michael Starring Ben",
-    "date": "2027-02-21T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/michael-starring-ben/",
+    "title": "Sundae Club",
+    "date": "Sun 21 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/sundae-club/?eid=20583",
     "dateUnix": 1803168000000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Joan as Police Woman",
+    "date": "Sun 21 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/joan-as-police-woman/?eid=19682",
+    "dateUnix": 1803168000000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Jill Edwards Comedy Workshops",
+    "date": "Tue 23 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/jill-edwards-comedy-workshops-at-komedia-brighton/?eid=19160",
+    "dateUnix": 1803340800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Eric Rushton",
+    "date": "Tue 23 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/eric-rushton/?eid=21584",
+    "dateUnix": 1803340800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "NOTES: A Wine and Music Pairing Night",
@@ -1859,8 +3020,26 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/notes-february27",
     "dateUnix": 1803411000076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
+  },
+  {
+    "title": "Hudson Freeman + Support",
+    "date": "Wed 24 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/hudson-freeman-support/?eid=21206",
+    "dateUnix": 1803427200000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Dom McGovern: Prize Hog",
+    "date": "Wed 24 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/dom-mcgovern-prize-hog/?eid=21706",
+    "dateUnix": 1803427200000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Melting Vinyl presents: Sekinue & special guests",
@@ -1868,8 +3047,44 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/melting-vinyl-presents-sekinue-special-guests/",
     "dateUnix": 1803513600000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Comic Boom Comedy Club",
+    "date": "Thu 25 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/comic-boom/?eid=21068",
+    "dateUnix": 1803513600000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Patrick Monahan: I’m Not a Terrorist – I’m Freddie Mercury",
+    "date": "Thu 25 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/patrick-monahan-im-not-a-terrorist-im-freddie-mercury-to-you/?eid=20477",
+    "dateUnix": 1803513600000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Sean Collins – Good To Be Here",
+    "date": "Fri 26 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/sean-collins-good-to-be-here/?eid=21075",
+    "dateUnix": 1803600000000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 26 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21083",
+    "dateUnix": 1803600000000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Tramhaus",
@@ -1877,8 +3092,35 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/Tramhaus",
     "dateUnix": 1803686400000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Bogan Bingo Bottomless Brunch",
+    "date": "Sat 27 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/bogan-bingo-bottomless-brunch/?eid=21586",
+    "dateUnix": 1803686400000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 27 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21114",
+    "dateUnix": 1803686400000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Funny Women Live in Brighton",
+    "date": "Sat 27 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/funny-women-live-in-brighton/?eid=21446",
+    "dateUnix": 1803686400000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Bela Fool",
@@ -1886,8 +3128,53 @@
     "venue": "Pipeline",
     "link": "https://wegottickets.com/event/715352",
     "dateUnix": 1803755700000,
-    "scrapedAt": "2026-11-23T11:52:58.243Z",
+    "scrapedAt": "2026-11-24T13:19:22.219Z",
     "scraper": "PipelineScraper"
+  },
+  {
+    "title": "evim (my home)",
+    "date": "Sun 28 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/evim-my-home/?eid=21713",
+    "dateUnix": 1803772800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "evim (my home)",
+    "date": "Sun 28 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/evim-my-home/?eid=21714",
+    "dateUnix": 1803772800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "evim (my home)",
+    "date": "Sun 28 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/evim-my-home/?eid=21715",
+    "dateUnix": 1803772800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Laura Newman: Ark At She",
+    "date": "Sun 28 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/laura-newman-ark-at-she/?eid=20885",
+    "dateUnix": 1803772800000,
+    "scrapedAt": "2026-11-24T13:19:36.401Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Ted Hill: 110% Weird",
+    "date": "Sun 28 Feb 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/ted-hill-110-weird/?eid=20454",
+    "dateUnix": 1803772800000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Brooke Law (with band)",
@@ -1895,7 +3182,7 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/721653",
     "dateUnix": 1803843000000,
-    "scrapedAt": "2026-11-23T11:52:57.444Z",
+    "scrapedAt": "2026-11-24T13:19:21.146Z",
     "scraper": "FolkloreRoomsScraper"
   },
   {
@@ -1904,8 +3191,44 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/daniel-martinez-flamenco-company-al-compas-del-querer-flamenco",
     "dateUnix": 1803843000076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
+  },
+  {
+    "title": "Selina Mosinski: Puss In Boots – A Working Class Fairytale",
+    "date": "Wed 3 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/selina-mosinski-puss-in-boots-a-working-class-fairytale/?eid=21701",
+    "dateUnix": 1804032000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Rochester Knockers",
+    "date": "Wed 3 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/rochester-knockers/?eid=21631",
+    "dateUnix": 1804032000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Coldplace – The World’s Leading Tribute to Coldplay",
+    "date": "Thu 4 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/coldplace-the-worlds-leading-tribute-to-coldplay/?eid=20832",
+    "dateUnix": 1804118400000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Alfie Dundas: First Class Panic",
+    "date": "Thu 4 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/alfie-dundas-first-class-panic/?eid=21675",
+    "dateUnix": 1804118400000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Master Peace",
@@ -1913,17 +3236,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/master-peace",
     "dateUnix": 1804188600000,
-    "scrapedAt": "2026-11-23T11:52:55.390Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
-    "title": "Lighthouse Family",
-    "date": "2027-03-05T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/lighthouse-family/",
+    "title": "Fiona Allen: White Lies",
+    "date": "Fri 5 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/fiona-allen-white-lies/?eid=21469",
     "dateUnix": 1804204800000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 5 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21084",
+    "dateUnix": 1804204800000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "JAM BAXTER",
@@ -1931,17 +3263,26 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/mar-5-jam-baxter",
     "dateUnix": 1804204800000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
-    "title": "Will Young",
-    "date": "2027-03-06T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/will-young/",
+    "title": "Michael Akadiri: Don’t Call Me Uncle!",
+    "date": "Sat 6 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/michael-akadiri-dont-call-me-uncle/?eid=20514",
     "dateUnix": 1804291200000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 6 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21115",
+    "dateUnix": 1804291200000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "BLACK OCTOPUS",
@@ -1949,7 +3290,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/mar-6-black-octopus",
     "dateUnix": 1804291200000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -1958,7 +3299,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/arctic-numpties",
     "dateUnix": 1804359600000,
-    "scrapedAt": "2026-11-23T11:52:55.391Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -1967,7 +3308,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/family-stereo/",
     "dateUnix": 1804361400000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -1976,8 +3317,26 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/Viscera",
     "dateUnix": 1804377600000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Down the Hatch Comedy Club",
+    "date": "Sun 7 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/down-the-hatch/?eid=21349",
+    "dateUnix": 1804377600000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Andrew O’Neill’s History of Punk",
+    "date": "Sun 7 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/andrew-oneills-history-of-punk/?eid=21611",
+    "dateUnix": 1804377600000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "LUNA MARBLE",
@@ -1985,8 +3344,17 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/mar-7-luna-marble",
     "dateUnix": 1804377600000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
+  },
+  {
+    "title": "JIM E. BROWN",
+    "date": "Tue 9 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/jim-e-brown/?eid=21496",
+    "dateUnix": 1804550400000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Melting Vinyl presents: AK Patterson I Have More When I Have Not Tour + special guests",
@@ -1994,8 +3362,17 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/melting-vinyl-presents-ak-patterson-i-have-more-when-i-have-not-tour-special-guests/",
     "dateUnix": 1804636800000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Luke O’Hara: The Cards We Are Dealt",
+    "date": "Wed 10 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/luke-ohara-the-cards-we-are-dealt/?eid=20740",
+    "dateUnix": 1804636800000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Nouvelle Vague - A Date with Depeche Mode Tour",
@@ -2003,7 +3380,7 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/nouvelle-vague",
     "dateUnix": 1804705200076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
   },
   {
@@ -2012,7 +3389,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/lael-neale-special-guests/",
     "dateUnix": 1804708800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2021,8 +3398,26 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/keynotes",
     "dateUnix": 1804723200000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Adam Flood: Life and Death Of The Party",
+    "date": "Thu 11 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/adam-flood-life-and-death-of-the-party/?eid=21514",
+    "dateUnix": 1804723200000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Tape Face: 20",
+    "date": "Thu 11 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/tape-face-20/?eid=20834",
+    "dateUnix": 1804723200000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Frankie Stew & Harvey Gunn",
@@ -2030,17 +3425,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/frankie-stew-harvey-gunn",
     "dateUnix": 1804793400000,
-    "scrapedAt": "2026-11-23T11:52:55.391Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
-    "title": "BJÖRN AGAIN",
-    "date": "2027-03-12T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/bjorn-again/",
+    "title": "Grace Mulvey: Gigantica",
+    "date": "Fri 12 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/grace-mulvey-gigantica/?eid=21638",
     "dateUnix": 1804809600000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 12 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21085",
+    "dateUnix": 1804809600000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Foot Foot",
@@ -2048,7 +3452,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/foot-foot/",
     "dateUnix": 1804881600000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2057,7 +3461,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/saul-williams",
     "dateUnix": 1804896000000,
-    "scrapedAt": "2026-11-23T11:52:58.289Z",
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -2066,8 +3470,53 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/chopchop/",
     "dateUnix": 1804896000000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
+  },
+  {
+    "title": "Luke Kidgell – Live in the UK and Ireland",
+    "date": "Sat 13 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/luke-kidgell-live-in-the-uk-and-ireland/?eid=20924",
+    "dateUnix": 1804896000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Luke Kidgell – Live in the UK and Ireland",
+    "date": "Sat 13 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/luke-kidgell-live-in-the-uk-and-ireland/?eid=20723",
+    "dateUnix": 1804896000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 13 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21116",
+    "dateUnix": 1804896000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Swiftogeddon",
+    "date": "Sat 13 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/swiftogeddon-the-taylor-swift-club-night/?eid=21642",
+    "dateUnix": 1804896000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Shovel Dance Collective Plus Support",
+    "date": "Sun 14 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/shovel-dance-collective-plus-support/?eid=20717",
+    "dateUnix": 1804982400000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Rosalie Cunningham",
@@ -2075,7 +3524,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/rosalie-cunningham/",
     "dateUnix": 1805050800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2084,7 +3533,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-wurzles",
     "dateUnix": 1805050800000,
-    "scrapedAt": "2026-11-23T11:52:55.391Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2093,8 +3542,35 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/chinchilla",
     "dateUnix": 1805225400000,
-    "scrapedAt": "2026-11-23T11:52:55.391Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Dominik Diamond Sings The Video Games",
+    "date": "Wed 17 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/dominik-diamond-sings-the-video-games/?eid=21696",
+    "dateUnix": 1805241600000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "SUTEJ SINGH + SUPPORT",
+    "date": "Thu 18 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/sutej-singh-support/?eid=21634",
+    "dateUnix": 1805328000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Bogan Bingo",
+    "date": "Thu 18 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/bogan-bingo/?eid=21570",
+    "dateUnix": 1805328000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "HH: Bug Teeth + Moon Idle + Jonique + Half Star",
@@ -2102,7 +3578,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/hh-bug-teeth-moon-idle-jonique-half-star/",
     "dateUnix": 1805398200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2111,8 +3587,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-lilacs",
     "dateUnix": 1805414400000,
-    "scrapedAt": "2026-11-23T11:52:55.391Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "John Robertson: Excitable Boy",
+    "date": "Fri 19 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/john-robertson-excitable-boy/?eid=20712",
+    "dateUnix": 1805414400000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 19 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21086",
+    "dateUnix": 1805414400000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Spencer Cullum, Erin Rae &#038; Hollow Hand",
@@ -2120,7 +3614,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/spencer-cullum-erin-rae-hollow-hand/",
     "dateUnix": 1805486400000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2129,8 +3623,26 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/gok-wan",
     "dateUnix": 1805500800000,
-    "scrapedAt": "2026-11-23T11:52:58.289Z",
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Pleasure Incorporated",
+    "date": "Sat 20 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/pleasure-incorporated/?eid=21036",
+    "dateUnix": 1805500800000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 20 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21117",
+    "dateUnix": 1805500800000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Lebanon Hanover",
@@ -2138,7 +3650,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/lebanon-hanover",
     "dateUnix": 1805569200000,
-    "scrapedAt": "2026-11-23T11:52:55.391Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2147,8 +3659,26 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/david-devant-and-his-spirit-wife-would-be-goods/",
     "dateUnix": 1805571000000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Sundae Club",
+    "date": "Sun 21 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/sundae-club/?eid=20584",
+    "dateUnix": 1805587200000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Backstage Comedy Confidential: Industry Q & A with the LCA #2",
+    "date": "Sun 21 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/backstage-comedy-confidential-industry-q-a-with-the-lca/?eid=21601",
+    "dateUnix": 1805587200000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Burglar",
@@ -2156,17 +3686,8 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/burglar-2/",
     "dateUnix": 1805745600000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
-  },
-  {
-    "title": "The Jacksons",
-    "date": "2027-03-24T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/the-jacksons/",
-    "dateUnix": 1805846400000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
   },
   {
     "title": "The Wran",
@@ -2174,8 +3695,17 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/thewran",
     "dateUnix": 1805932800000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Comic Boom Comedy Club",
+    "date": "Thu 25 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/comic-boom/?eid=21069",
+    "dateUnix": 1805932800000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Craven Faults",
@@ -2183,7 +3713,7 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/craven-faults",
     "dateUnix": 1806003000076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
   },
   {
@@ -2192,8 +3722,17 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/otherlives",
     "dateUnix": 1806019200000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 26 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21087",
+    "dateUnix": 1806019200000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Six By Seven",
@@ -2201,8 +3740,26 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/six-by-seven/",
     "dateUnix": 1806091200000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 27 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21118",
+    "dateUnix": 1806105600000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Funny Women Live in Brighton",
+    "date": "Sat 27 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/funny-women-live-in-brighton/?eid=21447",
+    "dateUnix": 1806105600000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Snayx",
@@ -2210,8 +3767,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/snayx",
     "dateUnix": 1806174000000,
-    "scrapedAt": "2026-11-23T11:52:55.391Z",
+    "scrapedAt": "2026-11-24T13:19:18.751Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Erika Ehler & Ozzy Algar WIP",
+    "date": "Sun 28 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/erika-ehler-ozzy-algar-wip/?eid=21594",
+    "dateUnix": 1806192000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Lawrence Chaney – Weight A Minute",
+    "date": "Sun 28 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/lawrence-chaney-weight-a-minute/?eid=20253",
+    "dateUnix": 1806192000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "NOTES: A Wine and Music Pairing Night",
@@ -2219,8 +3794,26 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/notes-march27",
     "dateUnix": 1806431400076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
+  },
+  {
+    "title": "Rosalie Minnitt: Clementine 2",
+    "date": "Wed 31 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/rosalie-minnitt-clementine-2/?eid=21599",
+    "dateUnix": 1806451200000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Freddie Meredith: Need A Light?",
+    "date": "Wed 31 Mar 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/freddie-meredith-need-a-light/?eid=21419",
+    "dateUnix": 1806451200000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Moses Boyd",
@@ -2228,8 +3821,17 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/moses-boyd",
     "dateUnix": 1806521400000,
-    "scrapedAt": "2026-11-23T11:52:55.391Z",
+    "scrapedAt": "2026-11-24T13:19:18.752Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 2 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21088",
+    "dateUnix": 1806624000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "WERKHA",
@@ -2237,7 +3839,7 @@
     "venue": "Alphabet",
     "link": "https://www.alphabetbrighton.com/listings/nov-7-werkha",
     "dateUnix": 1806624000000,
-    "scrapedAt": "2026-11-23T11:53:14.380Z",
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
     "scraper": "AlphabetScraper"
   },
   {
@@ -2246,8 +3848,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/the-big-indie-fest-2",
     "dateUnix": 1806688800000,
-    "scrapedAt": "2026-11-23T11:52:55.391Z",
+    "scrapedAt": "2026-11-24T13:19:18.752Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Kemah Bob: Love Child",
+    "date": "Sat 3 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/kemah-bob-love-child/?eid=20344",
+    "dateUnix": 1806710400000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 3 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21119",
+    "dateUnix": 1806710400000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "ZEKE (US) &#8211; STAY SICK 19th Anniversary Show",
@@ -2255,8 +3875,35 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/zeke-us-stay-sick-19th-anniversary-show/",
     "dateUnix": 1806771600000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Record Fair",
+    "date": "Sun 4 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/record-fair/?eid=21258",
+    "dateUnix": 1806796800000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Down the Hatch Comedy Club",
+    "date": "Sun 4 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/down-the-hatch/?eid=21350",
+    "dateUnix": 1806796800000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Carsie Blanton + Special Guests",
+    "date": "Wed 7 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/carsie-blanton-special-guests/?eid=21489",
+    "dateUnix": 1807056000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Cactus Lee",
@@ -2264,7 +3911,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/cactus-lee/",
     "dateUnix": 1807120800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2273,17 +3920,17 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/primaqueen",
     "dateUnix": 1807138800000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
   },
   {
-    "title": "James Blunt",
-    "date": "2027-04-08T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/james-blunt/",
+    "title": "Gearóid Farrelly: No Pressure",
+    "date": "Thu 8 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/gearoid-farrelly-no-pressure/?eid=21672",
     "dateUnix": 1807142400000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "RIP Magic",
@@ -2291,8 +3938,17 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/ripmagic",
     "dateUnix": 1807225200000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 9 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21089",
+    "dateUnix": 1807228800000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "The Rumpled",
@@ -2300,7 +3956,7 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/the-rumpled",
     "dateUnix": 1807293600076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
   },
   {
@@ -2309,8 +3965,26 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/rock-day-party",
     "dateUnix": 1807315200000,
-    "scrapedAt": "2026-11-23T11:52:58.289Z",
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Christian Dart: GUMSHOE!",
+    "date": "Sat 10 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/christian-dart-gumshoe/?eid=21660",
+    "dateUnix": 1807315200000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 10 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21120",
+    "dateUnix": 1807315200000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Sparks Fan Convention",
@@ -2318,7 +3992,7 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/sparks-fan-convention/",
     "dateUnix": 1807362000000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
@@ -2327,8 +4001,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/kenno-live",
     "dateUnix": 1807380000000,
-    "scrapedAt": "2026-11-23T11:52:55.391Z",
+    "scrapedAt": "2026-11-24T13:19:18.752Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Tom Lawrinson: Speak of the Devil",
+    "date": "Sun 11 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/tom-lawrinson-speak-of-the-devil/?eid=21389",
+    "dateUnix": 1807401600000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Clare Summerskill and The Lesbian GOAT Party",
+    "date": "Sun 11 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/clare-summerskill-and-the-lesbian-goat-party/?eid=21648",
+    "dateUnix": 1807401600000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Michael McGovern",
@@ -2336,8 +4028,17 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/michael-mcgovern-2/",
     "dateUnix": 1807466400000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 16 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21090",
+    "dateUnix": 1807833600000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Halina Rice",
@@ -2345,7 +4046,7 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/halina-rice",
     "dateUnix": 1807898400076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
   },
   {
@@ -2354,7 +4055,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/noasis",
     "dateUnix": 1807902000000,
-    "scrapedAt": "2026-11-23T11:52:55.391Z",
+    "scrapedAt": "2026-11-24T13:19:18.752Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2363,7 +4064,7 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/MartinStephensonTheDaintees",
     "dateUnix": 1807916400000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
   },
   {
@@ -2372,17 +4073,26 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/carl-cox",
     "dateUnix": 1807920000000,
-    "scrapedAt": "2026-11-23T11:52:58.289Z",
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
     "scraper": "QuartersScraper"
   },
   {
-    "title": "Queen of the Night – A Tribute to Whitney Houston",
-    "date": "2027-04-17T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/queen-of-the-night/",
+    "title": "Lovers II Friends – 90s/00s Day Party",
+    "date": "Sat 17 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/lovers-ii-friends-90s-00s-day-party/?eid=21523",
     "dateUnix": 1807920000000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 17 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21121",
+    "dateUnix": 1807920000000,
+    "scrapedAt": "2026-11-24T13:19:36.402Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "NOTES: A Wine and Music Pairing Night",
@@ -2390,8 +4100,35 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/notes-april27",
     "dateUnix": 1808245800076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
+  },
+  {
+    "title": "Monica Hsueh: How To Be A Strong Woman In One Hour",
+    "date": "Thu 22 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/monica-hsueh-how-to-be-a-strong-woman-in-one-hour/?eid=21521",
+    "dateUnix": 1808352000000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 23 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21091",
+    "dateUnix": 1808438400000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "PROJECTOR",
+    "date": "23 APR 2027",
+    "venue": "Alphabet",
+    "link": "https://www.alphabetbrighton.com/listings/apr-23-projector",
+    "dateUnix": 1808438400000,
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
+    "scraper": "AlphabetScraper"
   },
   {
     "title": "Dave Formula & Noko",
@@ -2399,7 +4136,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/dave-formula-noko",
     "dateUnix": 1808524800000,
-    "scrapedAt": "2026-11-23T11:52:58.289Z",
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -2408,17 +4145,53 @@
     "venue": "The Rose Hill",
     "link": "https://therosehill.co.uk/event/eyeless-20-celebration/",
     "dateUnix": 1808524800000,
-    "scrapedAt": "2026-11-23T11:52:59.338Z",
+    "scrapedAt": "2026-11-24T13:19:23.333Z",
     "scraper": "RoseHillScraper"
   },
   {
-    "title": "Popstars The Originals",
-    "date": "2027-04-25T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/popstars-the-originals/",
+    "title": "Bogan Bingo Bottomless Brunch",
+    "date": "Sat 24 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/bogan-bingo-bottomless-brunch/?eid=21571",
+    "dateUnix": 1808524800000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 24 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21122",
+    "dateUnix": 1808524800000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Funny Women Live in Brighton",
+    "date": "Sat 24 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/funny-women-live-in-brighton/?eid=21452",
+    "dateUnix": 1808524800000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Chris Stapleton UK – The Ultimate Tribute Show + Support",
+    "date": "Sun 25 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/chris-stapleton-uk-the-ultimate-tribute-show-support/?eid=21708",
     "dateUnix": 1808611200000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "The Magic Mod",
+    "date": "Sun 25 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-magic-mod/?eid=20735",
+    "dateUnix": 1808611200000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Salvador Sobral",
@@ -2426,8 +4199,17 @@
     "venue": "The Old Market",
     "link": "https://www.theoldmarket.com/shows/salvador-sobral",
     "dateUnix": 1808672400076,
-    "scrapedAt": "2026-11-23T11:53:07.725Z",
+    "scrapedAt": "2026-11-24T13:19:33.104Z",
     "scraper": "TheOldMarketScraper"
+  },
+  {
+    "title": "Comic Boom Comedy Club",
+    "date": "Thu 29 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/comic-boom/?eid=21070",
+    "dateUnix": 1808956800000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Sorrel Nation (with band)",
@@ -2435,8 +4217,26 @@
     "venue": "Folklore Rooms",
     "link": "https://wegottickets.com/event/719889",
     "dateUnix": 1809023400000,
-    "scrapedAt": "2026-11-23T11:52:57.444Z",
+    "scrapedAt": "2026-11-24T13:19:21.146Z",
     "scraper": "FolkloreRoomsScraper"
+  },
+  {
+    "title": "Biscuit of Destiny",
+    "date": "Fri 30 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/biscuit-of-destiny/?eid=21606",
+    "dateUnix": 1809043200000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 30 Apr 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21092",
+    "dateUnix": 1809043200000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "A Tribute To Amy",
@@ -2444,7 +4244,7 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/a-tribute-to-amy",
     "dateUnix": 1809111600000,
-    "scrapedAt": "2026-11-23T11:52:55.392Z",
+    "scrapedAt": "2026-11-24T13:19:18.752Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
@@ -2453,8 +4253,26 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/Foxymop",
     "dateUnix": 1809126000000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 1 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21123",
+    "dateUnix": 1809129600000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "The Brighton Moon-Hop",
+    "date": "Sat 1 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-brighton-moon-hop/?eid=21664",
+    "dateUnix": 1809129600000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Beatles Complete",
@@ -2462,8 +4280,26 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/beatles-complete",
     "dateUnix": 1809198000000,
-    "scrapedAt": "2026-11-23T11:52:55.392Z",
+    "scrapedAt": "2026-11-24T13:19:18.752Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Jill Edwards Comedy Workshops",
+    "date": "Sun 2 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/jill-edwards-comedy-workshops-at-komedia-brighton/?eid=20126",
+    "dateUnix": 1809216000000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Lee Peart: It’s Not You, It’s Lee",
+    "date": "Sun 2 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/lee-peart-its-not-you-its-lee/?eid=21411",
+    "dateUnix": 1809216000000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "The Miki Berenyi Trio",
@@ -2471,8 +4307,17 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/the-miki-berenyi-trio/",
     "dateUnix": 1809280800000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
+  },
+  {
+    "title": "Jim White + Ben De La Cour",
+    "date": "Tue 4 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/jim-white-ben-de-la-cour/?eid=20913",
+    "dateUnix": 1809388800000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Red Snapper",
@@ -2480,8 +4325,26 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/red-snapper",
     "dateUnix": 1809475200000,
-    "scrapedAt": "2026-11-23T11:52:58.289Z",
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Joshua Burnside + Special Guests",
+    "date": "Wed 5 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/joshua-burnside-special-guests/?eid=20900",
+    "dateUnix": 1809475200000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "The Songs Of Nick Drake",
+    "date": "Thu 6 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-songs-of-nick-drake-2/?eid=21657",
+    "dateUnix": 1809561600000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Death Of Guitar Pop",
@@ -2489,7 +4352,7 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/death-of-guitar-pop-uzghy",
     "dateUnix": 1809648000000,
-    "scrapedAt": "2026-11-23T11:52:58.289Z",
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
     "scraper": "QuartersScraper"
   },
   {
@@ -2498,8 +4361,17 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/five-years-of-c-side-w-turno",
     "dateUnix": 1809648000000,
-    "scrapedAt": "2026-11-23T11:52:58.289Z",
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
     "scraper": "QuartersScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 7 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21093",
+    "dateUnix": 1809648000000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Cockney Rejects",
@@ -2507,35 +4379,62 @@
     "venue": "Dust",
     "link": "https://dustvenue.com/live/cockneyrejects",
     "dateUnix": 1809730800000,
-    "scrapedAt": "2026-11-23T11:53:06.362Z",
+    "scrapedAt": "2026-11-24T13:19:30.685Z",
     "scraper": "DustScraper"
   },
   {
-    "title": "Craig David",
-    "date": "2027-05-09T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/craig-david/",
-    "dateUnix": 1809820800000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "title": "Komedia Comedy Club",
+    "date": "Sat 8 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21124",
+    "dateUnix": 1809734400000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
-    "title": "Erasure",
-    "date": "2027-05-11T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/erasure/",
-    "dateUnix": 1809993600000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "title": "Cherryholt",
+    "date": "2027-05-09T18:30",
+    "venue": "Hope & Ruin",
+    "link": "https://www.hope.pub/event/cherryholt/",
+    "dateUnix": 1809887400000,
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
+    "scraper": "HopeRuinScraper"
   },
   {
-    "title": "Roots & Soul",
-    "date": "2027-05-13T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/roots-soul/",
-    "dateUnix": 1810166400000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "title": "Komedia Comedy Club",
+    "date": "Sat 15 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21125",
+    "dateUnix": 1810339200000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Abigail Lappell",
+    "date": "Tue 18 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/abigail-lappell/?eid=21614",
+    "dateUnix": 1810598400000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Shane Daniel Byrne: Baby This Time",
+    "date": "Wed 19 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/shane-daniel-byrne-baby-this-time/?eid=21404",
+    "dateUnix": 1810684800000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Tom Glover: Did you see that reel I sent you?",
+    "date": "Wed 19 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/tom-glover-did-you-see-that-reel-i-sent-you/?eid=21073",
+    "dateUnix": 1810684800000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Buzzcocks",
@@ -2543,8 +4442,62 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/buzzcocks",
     "dateUnix": 1810841400000,
-    "scrapedAt": "2026-11-23T11:52:55.392Z",
+    "scrapedAt": "2026-11-24T13:19:18.752Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 21 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21094",
+    "dateUnix": 1810857600000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 22 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21126",
+    "dateUnix": 1810944000000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Isabelle Glinn On Ice",
+    "date": "Sun 23 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/isabelle-glinn-on-ice/?eid=21699",
+    "dateUnix": 1811030400000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Laugh To The Death – Grand Final",
+    "date": "Sun 23 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/laugh-to-the-death-grand-final/?eid=21710",
+    "dateUnix": 1811030400000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Johnny Hates Jazz",
+    "date": "Wed 26 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/johnny-hates-jazz/?eid=21517",
+    "dateUnix": 1811289600000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 28 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21095",
+    "dateUnix": 1811462400000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Love - Forever Changes 60th Anniversary Tour",
@@ -2552,8 +4505,80 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/love-forever-changes-60th-anniversary-tour",
     "dateUnix": 1811530800000,
-    "scrapedAt": "2026-11-23T11:52:55.392Z",
+    "scrapedAt": "2026-11-24T13:19:18.752Z",
     "scraper": "ConcordeTwoScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 29 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21127",
+    "dateUnix": 1811548800000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Joe Avati – Good Old Days",
+    "date": "Sun 30 May 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/joe-avati-good-old-days/?eid=20081",
+    "dateUnix": 1811635200000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Jill Edwards Comedy Workshops",
+    "date": "Sat 5 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/jill-edwards-comedy-workshops-at-komedia-brighton/?eid=19332",
+    "dateUnix": 1812153600000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 5 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21128",
+    "dateUnix": 1812153600000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Record Fair",
+    "date": "Sun 6 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/record-fair/?eid=21259",
+    "dateUnix": 1812240000000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Down the Hatch Comedy Club",
+    "date": "Sun 6 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/down-the-hatch/?eid=21351",
+    "dateUnix": 1812240000000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Nathan Cassidy: The Unbearable Tragedy of Being Happy",
+    "date": "Sun 6 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/nathan-cassidy-the-unbearable-tragedy-of-being-happy/?eid=21693",
+    "dateUnix": 1812240000000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 11 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21096",
+    "dateUnix": 1812672000000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Feel + support",
@@ -2561,26 +4586,314 @@
     "venue": "Hope & Ruin",
     "link": "https://www.hope.pub/event/feel-support/",
     "dateUnix": 1812738600000,
-    "scrapedAt": "2026-11-23T11:52:56.589Z",
+    "scrapedAt": "2026-11-24T13:19:20.212Z",
     "scraper": "HopeRuinScraper"
   },
   {
-    "title": "Roger Waters Presents Legacy A Pink Floyd Tribute Show Performed by The Harry Waters Band",
-    "date": "2027-06-25T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/roger-waters-presents-legacy/",
-    "dateUnix": 1813881600000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "title": "King Awesome",
+    "date": "Sat 12 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/king-awesome/?eid=20350",
+    "dateUnix": 1812758400000,
+    "scrapedAt": "2026-11-24T13:19:36.403Z",
+    "scraper": "KomediaScraper"
   },
   {
-    "title": "Marti Pellow",
-    "date": "2027-09-16T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/marti-pellow/",
-    "dateUnix": 1821052800000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "title": "Komedia Comedy Club",
+    "date": "Sat 12 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21129",
+    "dateUnix": 1812758400000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 18 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21097",
+    "dateUnix": 1813276800000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 19 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21130",
+    "dateUnix": 1813363200000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Michael Akadiri: Don’t Call Me Uncle!",
+    "date": "Thu 24 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/michael-akadiri-dont-call-me-uncle/?eid=21718",
+    "dateUnix": 1813795200000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 25 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21098",
+    "dateUnix": 1813881600000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 26 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21131",
+    "dateUnix": 1813968000000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Funny Women Live in Brighton",
+    "date": "Sat 26 Jun 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/funny-women-live-in-brighton/?eid=21456",
+    "dateUnix": 1813968000000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 2 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21099",
+    "dateUnix": 1814486400000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 3 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21132",
+    "dateUnix": 1814572800000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "The Brighton Moon-Hop",
+    "date": "Sat 3 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-brighton-moon-hop/?eid=21665",
+    "dateUnix": 1814572800000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Down the Hatch Comedy Club",
+    "date": "Sun 4 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/down-the-hatch/?eid=21352",
+    "dateUnix": 1814659200000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 9 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21100",
+    "dateUnix": 1815091200000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 10 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21133",
+    "dateUnix": 1815177600000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Jill Edwards Comedy Workshops",
+    "date": "Wed 14 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/jill-edwards-comedy-workshops-at-komedia-brighton/?eid=19872",
+    "dateUnix": 1815523200000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 16 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21101",
+    "dateUnix": 1815696000000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 17 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21134",
+    "dateUnix": 1815782400000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Deviants Market",
+    "date": "Sun 18 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/deviants-market/?eid=20882",
+    "dateUnix": 1815868800000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 23 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21102",
+    "dateUnix": 1816300800000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Funny Women Live in Brighton",
+    "date": "Sat 24 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/funny-women-live-in-brighton/?eid=21463",
+    "dateUnix": 1816387200000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 24 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21135",
+    "dateUnix": 1816387200000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Comic Boom Comedy Club",
+    "date": "Thu 29 Jul 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/comic-boom/?eid=21071",
+    "dateUnix": 1816819200000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 6 Aug 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21103",
+    "dateUnix": 1817510400000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 7 Aug 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21136",
+    "dateUnix": 1817596800000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 13 Aug 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21104",
+    "dateUnix": 1818115200000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 14 Aug 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21137",
+    "dateUnix": 1818201600000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Fri 20 Aug 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21105",
+    "dateUnix": 1818720000000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Komedia Comedy Club",
+    "date": "Sat 21 Aug 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/komedia-comedy-club/?eid=21138",
+    "dateUnix": 1818806400000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "The Brighton Moon-Hop",
+    "date": "Sat 4 Sep 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-brighton-moon-hop/?eid=21666",
+    "dateUnix": 1820016000000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Lovers II Friends – 90s/00s Day Party",
+    "date": "Sat 18 Sep 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/lovers-ii-friends-90s-00s-day-party/?eid=21524",
+    "dateUnix": 1821225600000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Jill Edwards Comedy Workshops",
+    "date": "Tue 21 Sep 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/jill-edwards-comedy-workshops-at-komedia-brighton/?eid=20786",
+    "dateUnix": 1821484800000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Sofie Hagen: I Think Some Of This Is My Fault",
+    "date": "Thu 23 Sep 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/sofie-hagen-i-think-some-of-this-is-my-fault/?eid=19782",
+    "dateUnix": 1821657600000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Funny Women Live in Brighton",
+    "date": "Sat 25 Sep 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/funny-women-live-in-brighton/?eid=21458",
+    "dateUnix": 1821830400000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Micky Overman: Don’t Threaten Me With A Good Time",
+    "date": "Wed 29 Sep 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/micky-overman-dont-threaten-me-with-a-good-time/?eid=20926",
+    "dateUnix": 1822176000000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "Robert Artkins Commitments",
@@ -2588,17 +4901,17 @@
     "venue": "Quarters",
     "link": "https://quartersbrighton.co.uk/whatson/robert-artkins-commitments",
     "dateUnix": 1822521600000,
-    "scrapedAt": "2026-11-23T11:52:58.289Z",
+    "scrapedAt": "2026-11-24T13:19:21.948Z",
     "scraper": "QuartersScraper"
   },
   {
-    "title": "Paloma Faith",
-    "date": "2027-10-04T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/paloma-faith/",
-    "dateUnix": 1822608000000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "title": "Record Fair",
+    "date": "Sun 3 Oct 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/record-fair/?eid=21260",
+    "dateUnix": 1822521600000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
   },
   {
     "title": "China Crisis",
@@ -2606,61 +4919,115 @@
     "venue": "Concorde 2",
     "link": "https://www.concorde2.co.uk/event/china-crisis",
     "dateUnix": 1823022000000,
-    "scrapedAt": "2026-11-23T11:52:55.392Z",
+    "scrapedAt": "2026-11-24T13:19:18.752Z",
     "scraper": "ConcordeTwoScraper"
   },
   {
-    "title": "Deacon Blue",
-    "date": "2027-10-17T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/deacon-blue/",
+    "title": "Stephen K Amos: The Missing Lemon Meringue",
+    "date": "Sat 9 Oct 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/stephen-k-amos-the-missing-lemon-meringue/?eid=21344",
+    "dateUnix": 1823040000000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Patrick Spicer: The Big Daddy Spice Tour",
+    "date": "Sun 17 Oct 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/patrick-spicer-the-big-daddy-spice-tour/?eid=20923",
     "dateUnix": 1823731200000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
   },
   {
-    "title": "Billy Ocean",
-    "date": "2027-10-19T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/billy-ocean/",
-    "dateUnix": 1823904000000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "title": "Matt Richardson: Bit Much Mate",
+    "date": "Wed 20 Oct 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/matt-richardson-bit-much-mate/?eid=20851",
+    "dateUnix": 1823990400000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
   },
   {
-    "title": "Texas",
-    "date": "2027-10-26T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/texas/",
-    "dateUnix": 1824508800000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "title": "Funny Women Live in Brighton",
+    "date": "Sat 30 Oct 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/funny-women-live-in-brighton/?eid=21461",
+    "dateUnix": 1824854400000,
+    "scrapedAt": "2026-11-24T13:19:36.404Z",
+    "scraper": "KomediaScraper"
   },
   {
-    "title": "Steve Steinman in Concert - 50 Years of Bat Out of Hell",
-    "date": "2027-11-13T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/bat-out-of-hell/",
+    "title": "Stuart Mitchell: Life Support",
+    "date": "Tue 9 Nov 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/stuart-mitchell-life-support/?eid=21645",
+    "dateUnix": 1825718400000,
+    "scrapedAt": "2026-11-24T13:19:36.405Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "The Brighton Moon-Hop",
+    "date": "Sat 13 Nov 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/the-brighton-moon-hop/?eid=21667",
     "dateUnix": 1826064000000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.405Z",
+    "scraper": "KomediaScraper"
   },
   {
-    "title": "Sophie Ellis Bextor's Christmas Kitchen Disco Tour",
-    "date": "2027-11-26T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/sophie-ellis-bextor/",
+    "title": "Deviants Market",
+    "date": "Sun 14 Nov 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/deviants-market/?eid=20883",
+    "dateUnix": 1826150400000,
+    "scrapedAt": "2026-11-24T13:19:36.405Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "BIG TRIO with AnDré Mali",
+    "date": "24 NOV 2027",
+    "venue": "Alphabet",
+    "link": "https://www.alphabetbrighton.com/listings/nov-24-andr-mali-feat-big-trio",
+    "dateUnix": 1827014400000,
+    "scrapedAt": "2026-11-24T13:19:35.978Z",
+    "scraper": "AlphabetScraper"
+  },
+  {
+    "title": "Robin Morgan: Silly Goose",
+    "date": "Fri 26 Nov 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/robin-morgan-silly-goose/?eid=20868",
     "dateUnix": 1827187200000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "scrapedAt": "2026-11-24T13:19:36.405Z",
+    "scraper": "KomediaScraper"
   },
   {
-    "title": "The Human League",
-    "date": "2027-12-13T00:00:00",
-    "venue": "Brighton Centre",
-    "link": "https://brightoncentre.co.uk/whats-on/2027/the-human-league/",
-    "dateUnix": 1828656000000,
-    "scrapedAt": "2026-11-23T11:53:00.753Z",
-    "scraper": "BrightonCentreScraper"
+    "title": "Funny Women Live in Brighton",
+    "date": "Sat 27 Nov 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/funny-women-live-in-brighton/?eid=21462",
+    "dateUnix": 1827273600000,
+    "scrapedAt": "2026-11-24T13:19:36.405Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Record Fair",
+    "date": "Sun 5 Dec 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/record-fair/?eid=21261",
+    "dateUnix": 1827964800000,
+    "scrapedAt": "2026-11-24T13:19:36.405Z",
+    "scraper": "KomediaScraper"
+  },
+  {
+    "title": "Lovers II Friends – 90s/00s Day Party",
+    "date": "Sat 18 Dec 2027",
+    "venue": "Komedia",
+    "link": "https://www.komedia.co.uk/shows/lovers-ii-friends-90s-00s-day-party/?eid=21525",
+    "dateUnix": 1829088000000,
+    "scrapedAt": "2026-11-24T13:19:36.405Z",
+    "scraper": "KomediaScraper"
   }
 ]
